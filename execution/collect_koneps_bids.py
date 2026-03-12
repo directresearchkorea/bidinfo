@@ -111,7 +111,8 @@ def call_api(params: dict) -> dict | None:
             logger.warning(f"API HTTP 오류: {resp.status_code}")
             return None
     except Exception as e:
-        logger.error(f"API 호출 실패: {e}")
+        import traceback
+        logger.error(f"API 호출 실패: {e}\n{traceback.format_exc()}")
         return None
 
 
