@@ -1,22 +1,22 @@
-// 자동 업데이트 시각: 2026-03-12 19:05:52
+// 자동 업데이트 시각: 2026-03-12 19:09:26
 const bidEvents = [
     {
-        "id": "global-test-1773309952-1",
+        "id": "global-test-1773310166-1",
         "title": "[Mock] Global Fintech Market Entry & Consumer Behavior Study",
         "organization": "Confidential (via Upwork)",
-        "start": "2026-03-13T19:05:52.529907",
-        "deadline": "2026-03-17T19:05:52.529907",
+        "start": "2026-03-13T19:09:26.616762",
+        "deadline": "2026-03-17T19:09:26.616762",
         "category": "market",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/market-research/",
         "description": "We are a European FinTech startup expanding into South Korea. We need a local market research agency to conduct comprehensive consumer behavior analysis and focus group interviews (FGI)."
     },
     {
-        "id": "global-test-1773309952-2",
+        "id": "global-test-1773310166-2",
         "title": "[Mock] E-commerce Platform UX Research and Usability Testing",
         "organization": "Global E-Com Inc.",
-        "start": "2026-03-15T19:05:52.529907",
-        "deadline": "2026-03-22T19:05:52.529907",
+        "start": "2026-03-15T19:09:26.616762",
+        "deadline": "2026-03-22T19:09:26.616762",
         "category": "user",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/user-research/",
