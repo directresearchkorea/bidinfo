@@ -1,252 +1,260 @@
 import os
 import json
 import logging
-import traceback
+import time
+import requests
 from datetime import datetime, timedelta
-from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
+from dotenv import load_dotenv
 
-# Logger setup
+# .env 파일을 스크립트 위치 기준으로 명시적으로 로드 (cwd 무관하게 동작)
+_script_dir = os.path.dirname(os.path.abspath(__file__))
+_project_root = os.path.dirname(_script_dir)
+load_dotenv(os.path.join(_project_root, ".env"))
+
+
+# Logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - KONEPS - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# ─────────────────────────────────────────────
-# G2B 입찰공고 검색에 사용할 키워드 & 카테고리
-# ─────────────────────────────────────────────
-TARGET_KEYWORDS = [
-    {"keyword": "시장조사",   "category": "market"},
-    {"keyword": "소비자조사", "category": "consumer"},
-    {"keyword": "사용자조사", "category": "user"},
-    {"keyword": "UX리서치",   "category": "user"},
-    {"keyword": "만족도조사", "category": "consumer"},
-    {"keyword": "사회조사",   "category": "social"},
-    {"keyword": "패널조사",   "category": "panel"},
-    {"keyword": "리서치",     "category": "research"},
+# ─────────────────────────────────────────────────────────
+# 공공데이터포털 나라장터 공공데이터개방표준서비스 API
+# Data: https://www.data.go.kr/data/15058815/openapi.do
+# ─────────────────────────────────────────────────────────
+API_KEY  = os.getenv("KONEPS_API_KEY", "")
+BASE_URL = "http://apis.data.go.kr/1230000/ao/PubDataOpnStdService"
+OP_BID   = "getDataSetOpnStdBidPblancInfo"    # 입찰공고목록
+
+# 이 API는 키워드 검색을 지원하지 않음 → 날짜 범위 전체 조회 후 클라이언트 필터링
+RESEARCH_KEYWORDS = [
+    "시장조사", "소비자조사", "사용자조사", "UX리서치", "UX연구",
+    "만족도조사", "사회조사", "패널조사", "리서치", "설문조사",
+    "소비자패널", "소비자분석", "사용성평가", "사용자경험",
+    "market research", "consumer research", "user research",
 ]
+
+KEYWORD_CATEGORY_MAP = {
+    "시장조사": "market", "소비자조사": "consumer", "사용자조사": "user",
+    "UX리서치": "user", "UX연구": "user", "만족도조사": "consumer",
+    "사회조사": "social", "패널조사": "panel", "리서치": "research",
+    "설문조사": "consumer", "소비자패널": "panel", "소비자분석": "consumer",
+    "사용성평가": "user", "사용자경험": "user",
+    "market research": "market", "consumer research": "consumer", "user research": "user",
+}
 
 SEJONG_ORGS = [
-    "세종시설관리공단", "세종특별자치시", "세종도시교통공사",
-    "세종문화관광재단", "세종테크노파크", "세종스마트시티",
+    "세종특별자치시", "세종시", "세종도시교통공사", "세종시설관리공단",
+    "세종문화관광재단", "세종테크노파크", "세종스마트시티", "세종",
 ]
 
-# ─────────────────────────────────────────
-# G2B 입찰공고 검색 셀렉터 (2026-03 기준)
-# ─────────────────────────────────────────
-# ── 네비게이션 메뉴 셀렉터 (WebSquare5 프레임워크 기반)
-SEL_MENU_BID        = "#mf_wfm_gnb_wfm_gnbMenu_genDepth1_1_btn_menuLvl1"   # 상단 '입찰' 메뉴
-SEL_MENU_BID_LIST   = "#mf_wfm_gnb_wfm_gnbMenu_genDepth1_1_genDepth2_0_genDepth3_0_btn_menuLvl3"  # '입찰공고목록'
 
-# ── 검색 폼 셀렉터 (입찰공고목록 페이지)
-SEL_BID_ANNOUNCE_INPUT  = "#mf_wfm_container_tacBidPbancLst_contents_tab2_body_bidPbancNm"
-SEL_BID_ANNOUNCE_BTN    = "#mf_wfm_container_tacBidPbancLst_contents_tab2_body_btnS0004"
-SEL_RESULT_TBODY        = "#mf_wfm_container_tacBidPbancLst_contents_tab2_body_gridView1_body_tbody"
-# 열 인덱스: 4=공고명, 6=수요기관, 7=게시일시/마감일 (실제 렌더 기준)
-COL_TITLE    = 4
-COL_ORG      = 6
-COL_DEADLINE = 7
-
-G2B_URL = "https://www.g2b.go.kr/"
-
-
-def convert_bid_date(date_str: str) -> str:
-    """G2B 날짜 문자열을 ISO 포맷으로 변환합니다."""
+def _parse_date(date_str: str) -> str:
+    """API 날짜 문자열 '202603101530' 또는 '20260310' → ISO 형식"""
     if not date_str:
         return (datetime.now() + timedelta(days=30)).isoformat()
+    s = date_str.strip().replace("-", "").replace(" ", "").replace("T", "").replace(":", "")
     try:
-        date_str = date_str.strip().replace("/", "-")
-        if len(date_str) >= 16:
-            return datetime.strptime(date_str[:16], "%Y-%m-%d %H:%M").isoformat()
-        return datetime.strptime(date_str[:10], "%Y-%m-%d").isoformat()
-    except Exception:
-        return (datetime.now() + timedelta(days=30)).isoformat()
-
-
-def dismiss_popups(page):
-    """홈 화면 팝업을 닫습니다."""
-    try:
-        page.wait_for_timeout(2000)
-        # 팝업 닫기: ID 패턴 매칭 (팝업 ID는 세션마다 일련번호가 달라지므로 suffix 매칭)
-        close_btns = page.query_selector_all("[id*='_close'], [id*='btnClose']")
-        for btn in close_btns:
-            try:
-                if btn.is_visible():
-                    btn.click(force=True)
-                    page.wait_for_timeout(400)
-            except Exception:
-                pass
-        # 추가: 본문에 있는 오늘 하루 닫기 버튼
-        page.wait_for_timeout(500)
+        if len(s) >= 12:
+            return datetime.strptime(s[:12], "%Y%m%d%H%M").isoformat()
+        if len(s) >= 8:
+            return datetime.strptime(s[:8], "%Y%m%d").isoformat()
     except Exception:
         pass
+    return (datetime.now() + timedelta(days=30)).isoformat()
 
 
-def navigate_to_bid_list(page):
-    """G2B 메인 → 입찰 → 입찰공고목록으로 이동합니다."""
-    page.goto(G2B_URL, wait_until="domcontentloaded", timeout=30000)
-    page.wait_for_timeout(3000)
-    dismiss_popups(page)
-
-    # 상단 메뉴 "입찰" 클릭 — 안정적인 ID 사용
-    try:
-        page.click(SEL_MENU_BID, force=True, timeout=10000)
-    except Exception:
-        # Fallback: 텍스트 기반 클릭 (정확한 nav 영역 내)
-        page.locator("#mf_wfm_gnb_wfm_gnbMenu span:has-text('입찰')").first.click(force=True)
-    page.wait_for_timeout(1000)
-
-    # 서브메뉴 "입찰공고목록" 클릭
-    try:
-        page.click(SEL_MENU_BID_LIST, force=True, timeout=8000)
-    except Exception:
-        page.locator("#mf_wfm_gnb span:has-text('입찰공고목록')").first.click(force=True)
-    
-    # 검색 입력창이 나타날 때까지 대기
-    page.wait_for_selector(SEL_BID_ANNOUNCE_INPUT, timeout=20000)
-    page.wait_for_timeout(1500)
-    logger.info("입찰공고목록 페이지 진입 성공")
+def _keyword_to_category(title: str) -> str:
+    for kw, cat in KEYWORD_CATEGORY_MAP.items():
+        if kw.lower() in title.lower():
+            return cat
+    return "research"
 
 
-def search_and_collect(page, keyword: str, category: str) -> list:
-    """주어진 키워드로 검색 후 결과 행을 파싱하여 반환합니다."""
-    bids = []
+def _contains_research(item: dict) -> bool:
+    """아이템이 리서치 관련 입찰인지 키워드 체크"""
+    searchable = " ".join([
+        item.get("bidNtceNm", ""),
+        item.get("ntceInsttNm", ""),
+        item.get("dmndInsttNm", ""),
+    ]).lower()
+    return any(kw.lower() in searchable for kw in RESEARCH_KEYWORDS)
+
+
+def call_api(params: dict) -> dict | None:
+    """나라장터 공공데이터개방표준서비스 API 호출"""
+    url = f"{BASE_URL}/{OP_BID}"
+    base_params = {
+        "serviceKey": API_KEY,
+        "type": "json",
+    }
+    base_params.update(params)
 
     try:
-        # 검색창 초기화 (JS로 값 설정 — 한글 IME 문제 우회)
-        page.evaluate(
-            f"document.querySelector('{SEL_BID_ANNOUNCE_INPUT}').value = '{keyword}'"
-        )
-        # WebSquare 입력 이벤트 발생 (프레임워크가 변경을 인식하도록)
-        page.evaluate(
-            f"""
-            var el = document.querySelector('{SEL_BID_ANNOUNCE_INPUT}');
-            if (el) {{
-                el.dispatchEvent(new Event('input', {{bubbles:true}}));
-                el.dispatchEvent(new Event('change', {{bubbles:true}}));
-            }}
-            """
-        )
-        page.wait_for_timeout(500)
-
-        # 검색 버튼 클릭
-        page.click(SEL_BID_ANNOUNCE_BTN, force=True)
-        page.wait_for_timeout(4000)
-
-        # 결과 행 수집
-        try:
-            page.wait_for_selector(f"{SEL_RESULT_TBODY} tr", timeout=7000)
-        except PWTimeoutError:
-            logger.info(f"  '{keyword}' 검색 결과 없거나 로딩 타임아웃")
-            return []
-
-        rows = page.query_selector_all(f"{SEL_RESULT_TBODY} tr")
-        logger.info(f"  '{keyword}' 검색 결과: {len(rows)}행")
-
-        for idx, row in enumerate(rows[:30]):  # 최대 30건
-            try:
-                # 셀을 열 인덱스로 가져오기
-                cells = row.query_selector_all("td")
-                if len(cells) <= COL_DEADLINE:
-                    continue
-
-                title    = cells[COL_TITLE].inner_text().strip()
-                org      = cells[COL_ORG].inner_text().strip()
-                deadline = cells[COL_DEADLINE].inner_text().strip()
-
-                if not title or title in ("", "-"):
-                    continue
-
-                bids.append({
-                    "id":           f"g2b-{abs(hash(title + org))}",
-                    "title":        title,
-                    "organization": org,
-                    "start":        datetime.now().isoformat(),
-                    "deadline":     convert_bid_date(deadline),
-                    "category":     category,
-                    "source":       "gov",
-                    "url":          G2B_URL,
-                    "description":  f"수요기관: {org} | 나라장터 입찰공고목록 '{keyword}' 검색 결과",
-                })
-            except Exception as e:
-                logger.debug(f"  행 파싱 오류 (row {idx}): {e}")
-                continue
-
+        resp = requests.get(url, params=base_params, timeout=20)
+        if resp.status_code == 200:
+            data = resp.json()
+            # 실제 응답 구조: {"response": {"header": {...}, "body": {"items": [...], ...}}}
+            response_root = data.get("response") or data
+            header = response_root.get("header") or {}
+            result_code = str(header.get("resultCode") or "")
+            if result_code not in ("", "00", "0", "000", "200"):
+                logger.warning(f"API 오류 코드 {result_code}: {header.get('resultMsg', '')}")
+                return None
+            body = response_root.get("body") or {}
+            return body
+        else:
+            logger.warning(f"API HTTP 오류: {resp.status_code}")
+            return None
     except Exception as e:
-        logger.error(f"  '{keyword}' 검색 중 오류: {e}")
+        logger.error(f"API 호출 실패: {e}")
+        return None
 
-    return bids
 
-
-def perform_ui_scrape(keywords_list: list, is_sejong: bool = False) -> list:
+def _extract_items(body: dict) -> list:
+    """body에서 item 리스트를 안전하게 추출
+    
+    실제 응답: body.items 가 list 또는 dict(단건)로 옴
     """
-    Playwright로 G2B 입찰공고목록을 검색하여 입찰 데이터를 수집합니다.
-    - is_sejong=True 이면 수요기관명에 세종 관련 기관이 포함된 것만 필터링합니다.
+    items_raw = body.get("items") or []
+    if isinstance(items_raw, list):
+        return items_raw
+    if isinstance(items_raw, dict):
+        # 단건인 경우 {bidNtceNo: ..., bidNtceNm: ...}
+        # 또는 중첩된 경우 {item: [...]}
+        if "item" in items_raw:
+            inner = items_raw["item"]
+            return [inner] if isinstance(inner, dict) else (inner or [])
+        return [items_raw]  # 단건 dict 자체
+    return []
+
+
+def fetch_bids_from_koneps() -> list:
     """
+    나라장터 Open API로 현재 ~ 12주 후 전체 입찰공고를 조회하고,
+    리서치 관련 키워드가 포함된 건만 필터링하여 반환합니다.
+    """
+    logger.info("조달청 나라장터 Open API 입찰공고 수집을 시작합니다.")
+
+    today    = datetime.now()
+    end_date = today + timedelta(weeks=12)
+    date_fmt = "%Y%m%d%H%M"
+
     all_bids = []
+    page = 1
+    num_rows = 100
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            viewport={"width": 1920, "height": 1080},
-            locale="ko-KR",
-            timezone_id="Asia/Seoul",
-        )
-        page = context.new_page()
+    while True:
+        body = call_api({
+            "numOfRows": num_rows,
+            "pageNo": page,
+            "bidNtceBgnDt": today.strftime(date_fmt),
+            "bidNtceEndDt": end_date.strftime(date_fmt),
+        })
 
-        try:
-            navigate_to_bid_list(page)
-        except Exception as e:
-            logger.error(f"입찰공고목록 페이지 이동 실패: {e}\n{traceback.format_exc()}")
-            browser.close()
-            return []
+        if not body:
+            logger.warning("API 응답이 없습니다. 수집을 중단합니다.")
+            break
 
-        for kw_info in keywords_list:
-            keyword  = kw_info["keyword"]
-            category = kw_info["category"]
+        items = _extract_items(body)
+        total = int(body.get("totalCount") or body.get("numOfRows") or 0)
 
-            logger.info(f"UI 스크래핑 검색 중: {keyword}")
-            bids = search_and_collect(page, keyword, category)
+        if not items:
+            logger.info(f"  페이지 {page}: 데이터 없음 (total={total})")
+            break
 
-            # 세종 필터링
-            if is_sejong:
-                bids = [
-                    b for b in bids
-                    if any(org in b.get("organization", "") for org in SEJONG_ORGS)
-                    or "세종" in b.get("organization", "")
-                ]
+        # 리서치 키워드 필터링
+        filtered = [i for i in items if _contains_research(i)]
+        logger.info(f"  페이지 {page}: {len(items)}건 조회 → {len(filtered)}건 리서치 관련 필터링")
 
-            all_bids.extend(bids)
-            page.wait_for_timeout(800)  # 요청 간 인터벌
+        for item in filtered:
+            title    = item.get("bidNtceNm") or ""
+            org      = item.get("dmndInsttNm") or item.get("ntceInsttNm") or ""
+            deadline = item.get("bidClseDt") or item.get("opengDt") or ""
+            bid_no   = item.get("bidNtceNo") or ""
+            url_link = f"https://www.g2b.go.kr/pt/menu/selectSubMenu.do?menuId=PT02010101000"
 
-        browser.close()
+            all_bids.append({
+                "id":           f"g2b-api-{abs(hash(bid_no + title))}",
+                "title":        title,
+                "organization": org,
+                "start":        today.isoformat(),
+                "deadline":     _parse_date(deadline),
+                "category":     _keyword_to_category(title),
+                "source":       "gov",
+                "url":          url_link,
+                "description":  f"수요기관: {org} | 공고번호: {bid_no}",
+            })
 
-    # 중복 제거 (title + org 기준)
+        fetched_so_far = page * num_rows
+        if fetched_so_far >= total or len(items) < num_rows:
+            break
+
+        page += 1
+        time.sleep(0.5)
+
+    # 중복 제거
     seen = {}
     for b in all_bids:
         key = b["title"] + b["organization"]
         if key not in seen:
             seen[key] = b
     unique = list(seen.values())
-    logger.info(f"총 {len(unique)}건의 입찰 정보를 수집했습니다.")
+    logger.info(f"나라장터 API 총 {len(unique)}건 수집 완료 (중복 제거 후)")
     return unique
 
 
-# ──────────────────────────────
-# 공개 함수 (update_calendar_bids.py 에서 import)
-# ──────────────────────────────
-
-def fetch_bids_from_koneps() -> list:
-    logger.info("조달청 나라장터 리서치 입찰 정보 UI 수집을 시작합니다.")
-    return perform_ui_scrape(TARGET_KEYWORDS, is_sejong=False)
-
-
 def fetch_sejong_bids_from_koneps() -> list:
-    logger.info("세종시 산하기관 조달청 입찰 정보 UI 수집을 시작합니다.")
-    sejong_keywords = [{"keyword": "세종", "category": "sejong"}]
-    return perform_ui_scrape(sejong_keywords, is_sejong=True)
+    """
+    나라장터 Open API로 전체 입찰공고를 조회한 후,
+    수요기관명에 '세종' 관련 키워드가 포함된 건 필터링.
+    """
+    logger.info("세종시 산하기관 입찰공고 수집을 시작합니다.")
+
+    today    = datetime.now()
+    end_date = today + timedelta(weeks=12)
+    date_fmt = "%Y%m%d%H%M"
+
+    body = call_api({
+        "numOfRows": 100,
+        "pageNo": 1,
+        "bidNtceBgnDt": today.strftime(date_fmt),
+        "bidNtceEndDt": end_date.strftime(date_fmt),
+    })
+
+    if not body:
+        logger.warning("세종 수집: API 응답 없음")
+        return []
+
+    items = _extract_items(body)
+    sejong_bids = []
+
+    for item in items:
+        org = item.get("dmndInsttNm") or item.get("ntceInsttNm") or ""
+        if not any(s in org for s in SEJONG_ORGS):
+            continue
+
+        title    = item.get("bidNtceNm") or ""
+        deadline = item.get("bidClseDt") or ""
+        bid_no   = item.get("bidNtceNo") or ""
+
+        sejong_bids.append({
+            "id":           f"g2b-sejong-{abs(hash(bid_no + title))}",
+            "title":        title,
+            "organization": org,
+            "start":        today.isoformat(),
+            "deadline":     _parse_date(deadline),
+            "category":     "sejong",
+            "source":       "gov",
+            "url":          "https://www.g2b.go.kr/",
+            "description":  f"세종시 산하기관 입찰 | 수요기관: {org} | 공고번호: {bid_no}",
+        })
+
+    logger.info(f"세종시 산하기관 입찰 {len(sejong_bids)}건 수집 완료")
+    return sejong_bids
 
 
-# ──────────────────────────────
-# 단독 실행 (테스트용)
-# ──────────────────────────────
+# ─────────────────────────────────────────────
+# 단독 실행 (테스트)
+# ─────────────────────────────────────────────
 if __name__ == "__main__":
     result = fetch_bids_from_koneps()
     print(json.dumps(result, ensure_ascii=False, indent=2))
