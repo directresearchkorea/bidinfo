@@ -142,8 +142,8 @@ def fetch_bids_from_koneps() -> list:
     logger.info("조달청 나라장터 Open API 입찰공고 수집을 시작합니다.")
 
     today     = datetime.now()
-    start_date = today - timedelta(days=30)   # 30일 전부터 현재 활성 공고 포함
-    end_date  = today + timedelta(weeks=12)   # 최대 12주 앞까지
+    start_date = today - timedelta(days=1)    # 어제부터 (현재 공고 캡처)
+    end_date  = today + timedelta(days=30)    # API 최대 허용 범위 내 (~30일)
     date_fmt  = "%Y%m%d%H%M"
 
     all_bids = []
