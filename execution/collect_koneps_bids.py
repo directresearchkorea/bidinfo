@@ -27,191 +27,128 @@ TARGET_KEYWORDS = [
     {"keyword": "조사", "category": "research"},
 ]
 
-def fetch_bids_from_koneps():
-    """
-    나라장터 API를 통해 최근 7일 내 공고된 관련 입찰 정보를 가져옵니다.
-    API Key 설정이 필요하므로 현재는 안내 로그를 남기거나 더미 데이터를 반환할 수 있도록 합니다.
-    """
-    logger.info("조달청 나라장터 리서치 입찰 정보 수집을 시작합니다.")
-    
-    if not KONEPS_API_KEY or KONEPS_API_KEY == "your_koneps_api_key_here":
-        logger.warning("KONEPS_API_KEY가 설정되지 않았습니다. API를 이용하시려면 공공데이터포털(data.go.kr)에서 발급받으세요.")
-        logger.warning("테스트용 더미 데이터를 반환합니다.")
-        return mock_koneps_data()
-
-    # Calculate date range: Today to +12 weeks (미리 준비할 수 있도록 마감일 기준 검색)
-    start_date = datetime.now()
-    end_date = start_date + timedelta(weeks=12)
-    
-    inqryBgnDt = start_date.strftime("%Y%m%d%H%M")
-    inqryEndDt = end_date.strftime("%Y%m%d%H%M")
-    
-    bids = []
-    
-    for kw in TARGET_KEYWORDS:
-        keyword = kw['keyword']
-        category = kw['category']
-        
-        # NOTE: 실제로 inqryDiv, inqryBgnDt 파라미터와 함께 bidNm(입찰건명)으로 검색하거나 통으로 가져와 필터링해야할 수도 있습니다.
-        # 공공데이터 API 상세 스펙에 맞게 payload 조정 필요
-        params = {
-            'serviceKey': KONEPS_API_KEY,
-            'numOfRows': '50',
-            'pageNo': '1',
-            'inqryDiv': '2', # 2: 입찰마감일시 검색 (미래의 공고를 찾기 위함)
-            'inqryBgnDt': inqryBgnDt,
-            'inqryEndDt': inqryEndDt,
-            'bidNm': keyword,  # Some APIs support this, otherwise client-side filtering needed
-            'type': 'json'
-        }
-        
-        try:
-            response = requests.get(KONEPS_BASE_URL, params=params, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                items = data.get('response', {}).get('body', {}).get('items', [])
-                
-                # If structure is different, handle it gracefully
-                if isinstance(items, list):
-                    for item in items:
-                        # Map to common schema
-                        bid_no = item.get('bidNtceNo', '')
-                        bid_ord = item.get('bidNtceOrd', '0')
-                        bid_url = f"https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno={bid_no}&bidseq={bid_ord}" if bid_no else "https://www.g2b.go.kr"
-                        
-                        bids.append({
-                            'id': bid_no + '-' + bid_ord,
-                            'title': item.get('bidNtceNm', '제목 없음'),
-                            'organization': item.get('ntceInsttNm', '기관명 없음'),
-                            'deadline': convert_koneps_date(item.get('bidClseDt', '')),
-                            'category': category,
-                            'source': 'gov',
-                            'url': bid_url, # 나라장터 상세 링크 직접 생성
-                            'description': f"공고일자: {item.get('bidNtceDt', '')} / 수요기관: {item.get('dminsttNm', '')} / 기초금액: {item.get('presmptPrce', 0)}원\n\n조달청 나라장터 공고 내용입니다."
-                        })
-            else:
-                logger.error(f"API Error ({response.status_code}) for keyword: {keyword}")
-        except Exception as e:
-            logger.error(f"Failed to fetch data for keyword '{keyword}': {e}")
-            
-    # 중복 ID 제거
-    unique_bids = {b['id']: b for b in bids}.values()
-    return list(unique_bids)
+from playwright.sync_api import sync_playwright
 
 def convert_koneps_date(date_str):
-    """ 'YYYY-MM-DD HH:MM:SS' 혹은 'YYYYMMDDHHMMSS' 기반 변환 """
     if not date_str:
         return datetime.now().isoformat()
-    # Simple format handler logic here
     try:
-        if len(date_str) == 14:
-            d = datetime.strptime(date_str, "%Y%m%d%H%M%S")
+        # Expected format from UI: '2026/03/10' or '2026/03/10 14:00'
+        date_str = date_str.replace('/', '-')
+        if len(date_str) > 10:
+            d = datetime.strptime(date_str[:16], "%Y-%m-%d %H:%M")
         else:
-            d = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+            d = datetime.strptime(date_str[:10], "%Y-%m-%d")
         return d.isoformat()
     except:
         return datetime.now().isoformat()
 
-def mock_koneps_data():
-    now = datetime.now()
-    return [
-        {
-            "id": f"gov-test-{int(now.timestamp())}-1",
-            "title": "[API 테스트] 2026년 공공 모빌리티 서비스(MaaS) 시민 이용 실태조사 및 소비자 인식조사",
-            "organization": "한국교통안전공단",
-            "deadline": (now + timedelta(weeks=10)).isoformat(), # +10 weeks example
-            "category": "consumer",
-            "source": "gov",
-            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240100000&bidseq=00",
-            "description": "다이렉트 리서치 코리아를 위한 테스트 공고문입니다.\n마감일이 +12주 내에 있는 입찰 데이터를 시뮬레이션 합니다 (API 미연동 모의데이터)."
-        }
-    ]
-
-def fetch_sejong_bids_from_koneps():
+def perform_ui_scrape(keywords_list, is_sejong=False):
     """
-    세종시 및 주요 산하기관에서 발주하는 조달청 입찰 공고를 실시간으로 검색합니다.
-    (세종도시교통공사, 세종시문화재단 등)
+    Playwright를 사용하여 "발주" 메뉴의 "발주목록"에서 지정된 키워드/기관으로 검색합니다.
     """
-    logger.info("세종시 산하기관 조달청 입찰 정보 수집을 시작합니다.")
-    
-    if not KONEPS_API_KEY or KONEPS_API_KEY == "your_koneps_api_key_here":
-        return mock_sejong_data()
-
-    start_date = datetime.now()
-    end_date = start_date + timedelta(weeks=12)
-    inqryBgnDt = start_date.strftime("%Y%m%d%H%M")
-    inqryEndDt = end_date.strftime("%Y%m%d%H%M")
-    
     bids = []
     
-    # ntceInsttNm(공고기관명/수요기관명) 검색 파라미터 (세종 키워드 하나로 묶어 검색)
-    params = {
-        'serviceKey': KONEPS_API_KEY,
-        'numOfRows': '50',
-        'pageNo': '1',
-        'inqryDiv': '2',
-        'inqryBgnDt': inqryBgnDt,
-        'inqryEndDt': inqryEndDt,
-        'ntceInsttNm': '세종',  # 세종시, 세종도시교통공사 등 포괄 검색
-        'type': 'json'
-    }
-    
-    try:
-        response = requests.get(KONEPS_BASE_URL, params=params, timeout=10)
-        if response.status_code == 200:
-            data = response.json()
-            items = data.get('response', {}).get('body', {}).get('items', [])
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(viewport={'width': 1920, 'height': 1080})
+        page = context.new_page()
+        
+        try:
+            page.goto('https://www.g2b.go.kr/')
+            page.wait_for_timeout(2000)
             
-            if isinstance(items, list):
-                for item in items:
-                    bid_no = item.get('bidNtceNo', '')
-                    bid_ord = item.get('bidNtceOrd', '0')
-                    bid_url = f"https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno={bid_no}&bidseq={bid_ord}" if bid_no else "https://www.g2b.go.kr"
+            # Dismiss popups
+            try:
+                for el in page.query_selector_all('span:has-text("오늘 하루 이 창을 열지 않음"), button:has-text("닫기"), a:has-text("닫기"), span:has-text("닫기")'):
+                    try: el.click()
+                    except: pass
+            except: pass
+            
+            page.wait_for_timeout(1000)
+            
+            # Click 발주 menu
+            page.click("span:text('발주')")
+            page.wait_for_timeout(1000)
+            page.click("span:text('발주목록')")
+            
+            page.wait_for_selector("#mf_wfm_container_txtBizNm", timeout=15000)
+            
+            for keyword_info in keywords_list:
+                keyword = keyword_info['keyword']
+                category = keyword_info['category']
+                search_term = keyword
+                
+                logger.info(f"UI 스크래핑 검색 중: {search_term}")
+                
+                # Clear and fill the search bar depending on whether we search by business name or org name
+                # As observed, #mf_wfm_container_txtBizNm is for Business Name
+                if is_sejong:
+                    # If sejong, we might type '세종' into the organization input
+                    # For simplicity, if we don't know the exact org input selector, we can search '세종' in business name
+                    # or filter results. But let's just search '세종' in Business Name or assume '세종' is passed.
+                    pass
+                
+                # Use standard '사업명' search
+                page.fill("#mf_wfm_container_txtBizNm", search_term)
+                page.click("#mf_wfm_container_btnS0001") # Search button
+                page.wait_for_timeout(3000)
+                
+                try:
+                    page.wait_for_selector("#mf_wfm_container_gridView1_body_tbody tr", timeout=5000)
+                    rows = page.query_selector_all("#mf_wfm_container_gridView1_body_tbody tr")
+                except:
+                    rows = []
+                    
+                for idx, r in enumerate(rows):
+                    if idx >= 20:
+                        break
+                    title_td = r.query_selector('td[id$="_column25"] a')
+                    if not title_td: continue
+                    title = title_td.inner_text().strip()
+                    
+                    org_td = r.query_selector('td[id$="_column23"]')
+                    org = org_td.inner_text().strip() if org_td else '기관명 없음'
+                    
+                    if is_sejong and '세종' not in org:
+                        continue # Filter by '세종' organization if needed
+                    
+                    date_td = r.query_selector('td[id$="_column17"]')
+                    date_str = date_td.inner_text().strip() if date_td else ''
+                    
+                    deadline_iso = convert_koneps_date(date_str)
                     
                     bids.append({
-                        'id': bid_no + '-' + bid_ord + '-s',
-                        'title': item.get('bidNtceNm', '제목 없음'),
-                        'organization': item.get('ntceInsttNm', '기관명 없음'),
-                        'deadline': convert_koneps_date(item.get('bidClseDt', '')),
-                        'category': 'sejong',
+                        'id': f"g2b-ui-{hash(title+org)}",
+                        'title': title,
+                        'organization': org,
+                        'deadline': deadline_iso,
+                        'category': category,
                         'source': 'gov',
-                        'url': bid_url,
-                        'description': f"공고일자: {item.get('bidNtceDt', '')} / 수요기관: {item.get('dminsttNm', '')}\n\n세종시 공공기관 조달청 입찰 공고 내용입니다."
+                        'url': 'https://www.g2b.go.kr/ (검색 발췌)',
+                        'description': f"수요기관: {org}\n나라장터 발주목록에서 '{search_term}' 검색으로 발취한 내역입니다."
                     })
-        else:
-            logger.error(f"API Error ({response.status_code}) for Sejong institutions")
-    except Exception as e:
-        logger.error(f"Failed to fetch Sejong data: {e}")
+                    
+        except Exception as e:
+            logger.error(f"UI Scraping Failed: {e}")
             
-    # 중복 ID 제거 (같은 공고가 리서치/세종 양쪽에 겹칠경우 여기서 합쳐지는게 아니라 앱단이나 통합 단계에서 처리됨)
-    unique_bids = {b['id']: b for b in bids}.values()
+        browser.close()
+        
+    unique_bids = {b['title'] + b['organization']: b for b in bids}.values()
     return list(unique_bids)
 
-def mock_sejong_data():
-    now = datetime.now()
-    return [
-        {
-            "id": f"gov-test-{int(now.timestamp())}-s1",
-            "title": "[모의] 세종시 시내버스 신규 노선 시민 만족도 리서치",
-            "organization": "세종도시교통공사",
-            "deadline": (now + timedelta(weeks=2)).isoformat(),
-            "category": "sejong",
-            "source": "gov",
-            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240200000&bidseq=00",
-            "description": "최근 개편된 대중교통 노선망에 대한 이용 실태조사 및 만족도 리서치 발주 (API 미연동 모의데이터)"
-        },
-        {
-            "id": f"gov-test-{int(now.timestamp())}-s2",
-            "title": "[모의] 청소년 스마트기기 과의존 예방 교육 효과성 평가지표 개발 연구",
-            "organization": "세종시청소년진흥재단",
-            "deadline": (now + timedelta(weeks=5)).isoformat(),
-            "category": "sejong",
-            "source": "gov",
-            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240300000&bidseq=00",
-            "description": "세종시 내 청소년상담복지센터에서 진행중인 예방 교육에 대한 실효성 및 패널 조사 분석용역. (API 미연동 모의데이터)"
-        }
+def fetch_bids_from_koneps():
+    logger.info("조달청 나라장터 리서치 입찰 정보 UI 수집을 시작합니다.")
+    return perform_ui_scrape(TARGET_KEYWORDS, is_sejong=False)
+
+def fetch_sejong_bids_from_koneps():
+    logger.info("세종시 산하기관 조달청 입찰 정보 UI 수집을 시작합니다.")
+    sejong_keywords = [
+        {"keyword": "세종", "category": "sejong"}
     ]
+    return perform_ui_scrape(sejong_keywords, is_sejong=True)
 
 if __name__ == "__main__":
     result = fetch_bids_from_koneps()
     print(json.dumps(result, ensure_ascii=False, indent=2))
+
