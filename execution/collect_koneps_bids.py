@@ -20,9 +20,10 @@ logger = logging.getLogger(__name__)
 # 공공데이터포털 나라장터 공공데이터개방표준서비스 API
 # Data: https://www.data.go.kr/data/15058815/openapi.do
 # ─────────────────────────────────────────────────────────
-API_KEY  = os.getenv("KONEPS_API_KEY", "")
+# API_KEY는 call_api() 내에서 동적으로 읽음 (모듈 import 시점 문제 방지)
 BASE_URL = "http://apis.data.go.kr/1230000/ao/PubDataOpnStdService"
 OP_BID   = "getDataSetOpnStdBidPblancInfo"    # 입찰공고목록
+
 
 # 이 API는 키워드 검색을 지원하지 않음 → 날짜 범위 전체 조회 후 클라이언트 필터링
 RESEARCH_KEYWORDS = [
@@ -82,10 +83,15 @@ def _contains_research(item: dict) -> bool:
 def call_api(params: dict) -> dict | None:
     """나라장터 공공데이터개방표준서비스 API 호출"""
     url = f"{BASE_URL}/{OP_BID}"
+    api_key = os.getenv("KONEPS_API_KEY", "")  # 매 호출마다 동적으로 읽음
+    if not api_key:
+        logger.warning("KONEPS_API_KEY 환경변수가 설정되지 않았습니다.")
+        return None
     base_params = {
-        "serviceKey": API_KEY,
+        "serviceKey": api_key,
         "type": "json",
     }
+
     base_params.update(params)
 
     try:
