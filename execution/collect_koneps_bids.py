@@ -75,15 +75,19 @@ def fetch_bids_from_koneps():
                 if isinstance(items, list):
                     for item in items:
                         # Map to common schema
+                        bid_no = item.get('bidNtceNo', '')
+                        bid_ord = item.get('bidNtceOrd', '0')
+                        bid_url = f"https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno={bid_no}&bidseq={bid_ord}" if bid_no else "https://www.g2b.go.kr"
+                        
                         bids.append({
-                            'id': item.get('bidNtceNo', '') + '-' + item.get('bidNtceOrd', '0'),
+                            'id': bid_no + '-' + bid_ord,
                             'title': item.get('bidNtceNm', '제목 없음'),
                             'organization': item.get('ntceInsttNm', '기관명 없음'),
                             'deadline': convert_koneps_date(item.get('bidClseDt', '')),
                             'category': category,
                             'source': 'gov',
-                            'url': item.get('ntceUrl', '#'), # 나라장터 상세 링크 
-                            'description': f"공고일자: {item.get('bidNtceDt')} / 수요기관: {item.get('dminsttNm', '')} / 기초금액: {item.get('presmptPrce', 0)}원\n\n조달청 나라장터 공고 내용입니다."
+                            'url': bid_url, # 나라장터 상세 링크 직접 생성
+                            'description': f"공고일자: {item.get('bidNtceDt', '')} / 수요기관: {item.get('dminsttNm', '')} / 기초금액: {item.get('presmptPrce', 0)}원\n\n조달청 나라장터 공고 내용입니다."
                         })
             else:
                 logger.error(f"API Error ({response.status_code}) for keyword: {keyword}")
@@ -118,8 +122,8 @@ def mock_koneps_data():
             "deadline": (now + timedelta(weeks=10)).isoformat(), # +10 weeks example
             "category": "consumer",
             "source": "gov",
-            "url": "https://www.g2b.go.kr",
-            "description": "다이렉트 리서치 코리아를 위한 테스트 공고문입니다.\n마감일이 +12주 내에 있는 입찰 데이터를 시뮬레이션 합니다."
+            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240100000&bidseq=00",
+            "description": "다이렉트 리서치 코리아를 위한 테스트 공고문입니다.\n마감일이 +12주 내에 있는 입찰 데이터를 시뮬레이션 합니다 (API 미연동 모의데이터)."
         }
     ]
 
@@ -160,15 +164,19 @@ def fetch_sejong_bids_from_koneps():
             
             if isinstance(items, list):
                 for item in items:
+                    bid_no = item.get('bidNtceNo', '')
+                    bid_ord = item.get('bidNtceOrd', '0')
+                    bid_url = f"https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno={bid_no}&bidseq={bid_ord}" if bid_no else "https://www.g2b.go.kr"
+                    
                     bids.append({
-                        'id': item.get('bidNtceNo', '') + '-' + item.get('bidNtceOrd', '0') + '-s',
+                        'id': bid_no + '-' + bid_ord + '-s',
                         'title': item.get('bidNtceNm', '제목 없음'),
                         'organization': item.get('ntceInsttNm', '기관명 없음'),
                         'deadline': convert_koneps_date(item.get('bidClseDt', '')),
                         'category': 'sejong',
                         'source': 'gov',
-                        'url': item.get('ntceUrl', 'https://www.g2b.go.kr'),
-                        'description': f"공고일자: {item.get('bidNtceDt')} / 수요기관: {item.get('dminsttNm', '')}\n\n세종시 공공기관 조달청 입찰 공고 내용입니다."
+                        'url': bid_url,
+                        'description': f"공고일자: {item.get('bidNtceDt', '')} / 수요기관: {item.get('dminsttNm', '')}\n\n세종시 공공기관 조달청 입찰 공고 내용입니다."
                     })
         else:
             logger.error(f"API Error ({response.status_code}) for Sejong institutions")
@@ -189,7 +197,7 @@ def mock_sejong_data():
             "deadline": (now + timedelta(weeks=2)).isoformat(),
             "category": "sejong",
             "source": "gov",
-            "url": "https://www.g2b.go.kr",
+            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240200000&bidseq=00",
             "description": "최근 개편된 대중교통 노선망에 대한 이용 실태조사 및 만족도 리서치 발주 (API 미연동 모의데이터)"
         },
         {
@@ -199,7 +207,7 @@ def mock_sejong_data():
             "deadline": (now + timedelta(weeks=5)).isoformat(),
             "category": "sejong",
             "source": "gov",
-            "url": "https://www.g2b.go.kr",
+            "url": "https://www.g2b.go.kr:8101/ep/invitation/publish/bidInfoDtl.do?bidno=20240300000&bidseq=00",
             "description": "세종시 내 청소년상담복지센터에서 진행중인 예방 교육에 대한 실효성 및 패널 조사 분석용역. (API 미연동 모의데이터)"
         }
     ]

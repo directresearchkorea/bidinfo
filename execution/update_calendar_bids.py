@@ -3,6 +3,7 @@ import sys
 import json
 import logging
 import traceback
+import subprocess
 from datetime import datetime
 
 # Add current directory and parent to sys.path to easily import sibling modules
@@ -67,4 +68,27 @@ if __name__ == "__main__":
         
     # 3. 데이터 병합 및 UI 업데이트
     update_event_data_js(all_bids)
+    
+    # 4. 자동 Git 커밋 및 GitHub 배포
+    logger.info("GitHub Pages 자동 배포(Push)를 시작합니다...")
+    try:
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        
+        # Add files
+        subprocess.run(["git", "add", "."], cwd=project_root, check=True, capture_output=True)
+        
+        # Commit changes (if no changes, commit will return non-zero exit code, so we don't strict check it here)
+        commit_msg = f"Auto-deploy update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        subprocess.run(["git", "commit", "-m", commit_msg], cwd=project_root)
+        
+        # Push to remote branch
+        push_res = subprocess.run(["git", "push", "origin", "main"], cwd=project_root, capture_output=True, text=True)
+        if push_res.returncode == 0:
+            logger.info("GitHub 원격 저장소에 성공적으로 푸시(배포) 되었습니다. (약 1분 뒤 웹사이트 적용)")
+        else:
+            logger.warning(f"Git Push 실패 또는 변경사항 없음: {push_res.stderr.strip()}")
+            
+    except Exception as e:
+        logger.error(f"GitHub 배포 작업 중 오류 발생: {e}\n{traceback.format_exc()}")
+        
     logger.info("모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.")

@@ -34,7 +34,7 @@ def mock_global_data():
             "deadline": (now + timedelta(days=5)).isoformat(),
             "category": "market",
             "source": "global",
-            "url": "https://www.upwork.com",
+            "url": "https://www.upwork.com/freelance-jobs/market-research/",
             "description": "We are a European FinTech startup expanding into South Korea. We need a local market research agency to conduct comprehensive consumer behavior analysis and focus group interviews (FGI)."
         },
         {
@@ -45,7 +45,7 @@ def mock_global_data():
             "deadline": (now + timedelta(days=10)).isoformat(),
             "category": "user",
             "source": "global",
-            "url": "https://www.upwork.com",
+            "url": "https://www.upwork.com/freelance-jobs/user-research/",
             "description": "Looking for UX researchers based in Korea to conduct moderated usability testing for our newly localized app. 20 participants required."
         }
     ]
