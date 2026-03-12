@@ -6,9 +6,15 @@ import traceback
 import subprocess
 from datetime import datetime
 
-# Add current directory and parent to sys.path to easily import sibling modules
+# .env 로드 — collect 스크립트 import 전에 미리 환경변수 설정
+from dotenv import load_dotenv
+_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+load_dotenv(os.path.join(_root, ".env"))
+
+# sys.path 설정 — execution 패키지 import 가능하도록
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(_root)
+
 
 from execution.collect_koneps_bids import fetch_bids_from_koneps, fetch_sejong_bids_from_koneps
 from execution.collect_global_rfps import fetch_global_rfps
