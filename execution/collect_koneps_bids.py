@@ -140,9 +140,10 @@ def fetch_bids_from_koneps() -> list:
     """
     logger.info("조달청 나라장터 Open API 입찰공고 수집을 시작합니다.")
 
-    today    = datetime.now()
-    end_date = today + timedelta(weeks=12)
-    date_fmt = "%Y%m%d%H%M"
+    today     = datetime.now()
+    start_date = today - timedelta(days=30)   # 30일 전부터 현재 활성 공고 포함
+    end_date  = today + timedelta(weeks=12)   # 최대 12주 앞까지
+    date_fmt  = "%Y%m%d%H%M"
 
     all_bids = []
     page = 1
@@ -152,7 +153,7 @@ def fetch_bids_from_koneps() -> list:
         body = call_api({
             "numOfRows": num_rows,
             "pageNo": page,
-            "bidNtceBgnDt": today.strftime(date_fmt),
+            "bidNtceBgnDt": start_date.strftime(date_fmt),
             "bidNtceEndDt": end_date.strftime(date_fmt),
         })
 
