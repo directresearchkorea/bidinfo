@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct Research Korea - Bid Intelligence</title>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- FullCalendar CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-container">
+                    <div class="logo-icon"><i class="fa-solid fa-chart-pie"></i></div>
+                    <div class="logo-text">
+                        <h1 style="font-size: 16px;">Direct Research Korea</h1>
+                        <span>Bid Intelligence</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sidebar-content">
+                <div class="filter-section">
+                    <h3>리서치 분류 (Categories)</h3>
+                    <div class="filter-options">
+                        <label class="custom-checkbox category-market">
+                            <input type="checkbox" value="market" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Market Research (시장 조사)</span>
+                        </label>
+                        <label class="custom-checkbox category-consumer">
+                            <input type="checkbox" value="consumer" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Consumer Research (소비자)</span>
+                        </label>
+                        <label class="custom-checkbox category-user">
+                            <input type="checkbox" value="user" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">User / UI·UX Research</span>
+                        </label>
+                        <label class="custom-checkbox category-social">
+                            <input type="checkbox" value="social" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Social Research (사회 조사)</span>
+                        </label>
+                        <label class="custom-checkbox category-panel">
+                            <input type="checkbox" value="panel" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Panel Research (패널 조사)</span>
+                        </label>
+                        <label class="custom-checkbox category-research">
+                            <input type="checkbox" value="research" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Research (조사 전반)</span>
+                        </label>
+                        <label class="custom-checkbox category-sejong">
+                            <input type="checkbox" value="sejong" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">Sejong Inst. (세종시 공공기관)</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="filter-section">
+                    <h3>데이터 출처 (Sources)</h3>
+                    <div class="filter-options">
+                        <label class="custom-checkbox source-gov">
+                            <input type="checkbox" value="gov" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">나라장터/정부/공공기관</span>
+                        </label>
+                        <label class="custom-checkbox source-global">
+                            <input type="checkbox" value="global" checked>
+                            <span class="checkmark"></span>
+                            <span class="label-text">글로벌 프리랜서/RFP</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="stats-section">
+                    <div class="stat-card">
+                        <div class="stat-icon"><i class="fa-solid fa-file-contract"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-value" id="total-bids">0</span>
+                            <span class="stat-label">진행중인 입찰 건</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sidebar-footer">
+                <button class="btn-refresh" id="refresh-btn">
+                    <i class="fa-solid fa-rotate-right"></i> 데이터 최신화
+                </button>
+                <div class="last-update">
+                    업데이트: <span id="update-time">불러오는 중...</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="topbar">
+                <div class="search-bar">
+                    <i class="fa-solid fa-search"></i>
+                    <input type="text" id="search-input" placeholder="키워드, 기관명, 프로젝트 검색...">
+                </div>
+                <div class="weather-widget">
+                    <div class="weather-icon" id="weather-icon">
+                        <i class="fa-solid fa-spinner fa-spin"></i>
+                    </div>
+                    <div class="weather-info">
+                        <span class="weather-location">세종특별자치시</span>
+                        <span class="weather-temp" id="weather-temp">--°C</span>
+                    </div>
+                </div>
+            </header>
+            
+            <div class="calendar-wrapper view-transition">
+                <div id="calendar"></div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for Event Details -->
+    <div id="event-modal" class="modal-overlay hidden">
+        <div class="modal-content glass-effect">
+            <button class="close-btn" id="close-modal"><i class="fa-solid fa-times"></i></button>
+            <div class="modal-header">
+                <span id="modal-category" class="badge">Category</span>
+                <h2 id="modal-title">Project Title</h2>
+            </div>
+            <div class="modal-body">
+                <div class="detail-row">
+                    <div class="detail-icon"><i class="fa-solid fa-building"></i></div>
+                    <div class="detail-content">
+                        <strong>발주 기관/기업</strong>
+                        <p id="modal-org">Organization Name</p>
+                    </div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-icon"><i class="fa-regular fa-calendar-xmark"></i></div>
+                    <div class="detail-content">
+                        <strong>마감 일시</strong>
+                        <p id="modal-deadline">YYYY-MM-DD HH:mm</p>
+                    </div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-icon"><i class="fa-solid fa-align-left"></i></div>
+                    <div class="detail-content">
+                        <strong>요청 내용 / 요약</strong>
+                        <p id="modal-desc" class="desc-text">Description goes here...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a href="#" id="modal-link" target="_blank" class="btn-primary">
+                    <i class="fa-solid fa-arrow-up-right-from-square"></i> 공고 원문 보기
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/locales/ko.js"></script>
+    <script src="event_data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
