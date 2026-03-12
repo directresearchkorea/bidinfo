@@ -61,16 +61,16 @@ def perform_ui_scrape(keywords_list, is_sejong=False):
             # Dismiss popups
             try:
                 for el in page.query_selector_all('span:has-text("오늘 하루 이 창을 열지 않음"), button:has-text("닫기"), a:has-text("닫기"), span:has-text("닫기")'):
-                    try: el.click()
+                    try: el.click(force=True)
                     except: pass
             except: pass
             
             page.wait_for_timeout(1000)
             
             # Click 발주 menu
-            page.click("span:text('발주')")
+            page.locator("span:has-text('발주')").first.click(force=True)
             page.wait_for_timeout(1000)
-            page.click("span:text('발주목록')")
+            page.locator("span:has-text('발주목록')").first.click(force=True)
             
             page.wait_for_selector("#mf_wfm_container_txtBizNm", timeout=15000)
             
@@ -91,7 +91,7 @@ def perform_ui_scrape(keywords_list, is_sejong=False):
                 
                 # Use standard '사업명' search
                 page.fill("#mf_wfm_container_txtBizNm", search_term)
-                page.click("#mf_wfm_container_btnS0001") # Search button
+                page.click("#mf_wfm_container_btnS0001", force=True) # Search button
                 page.wait_for_timeout(3000)
                 
                 try:
