@@ -3,10 +3,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
 
-def send_update_report(content):
+def send_update_report(content, receiver="***REMOVED_EMAIL***"):
     sender_email = "***REMOVED_EMAIL***"
     app_password = "***REMOVED***"
-    receiver_email = "***REMOVED_EMAIL***"
+    receiver_email = receiver
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
