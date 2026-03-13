@@ -18,6 +18,7 @@ sys.path.append(_root)
 
 from execution.collect_koneps_bids import fetch_bids_from_koneps, fetch_sejong_bids_from_koneps
 from execution.collect_global_rfps import fetch_global_rfps
+from execution.send_report import send_update_report
 
 # Logger setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - ORCHESTRATOR - %(levelname)s - %(message)s')
@@ -77,6 +78,7 @@ if __name__ == "__main__":
     
     # 4. 자동 Git 커밋 및 GitHub 배포
     logger.info("GitHub Pages 자동 배포(Push)를 시작합니다...")
+    push_status = "확인되지 않음"
     try:
         project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         
@@ -91,10 +93,32 @@ if __name__ == "__main__":
         push_res = subprocess.run(["git", "push", "origin", "main"], cwd=project_root, capture_output=True, text=True)
         if push_res.returncode == 0:
             logger.info("GitHub 원격 저장소에 성공적으로 푸시(배포) 되었습니다. (약 1분 뒤 웹사이트 적용)")
+            push_status = "성공 (배포 완료)"
         else:
             logger.warning(f"Git Push 실패 또는 변경사항 없음: {push_res.stderr.strip()}")
+            push_status = "변경사항 없음 또는 실패"
             
     except Exception as e:
         logger.error(f"GitHub 배포 작업 중 오류 발생: {e}\n{traceback.format_exc()}")
+        push_status = f"오류 발생: {e}"
         
     logger.info("모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.")
+    
+    # 5. 결과 알림 이메일 전송
+    report_content = f"""[업데이트 결과 요약]
+- 나라장터 (일반): {len(koneps_bids) if 'koneps_bids' in locals() else 0}건
+- 나라장터 (세종시): {len(sejong_bids) if 'sejong_bids' in locals() else 0}건
+- 글로벌 RFP: {len(global_bids) if 'global_bids' in locals() else 0}건
+---------------------------------------------------
+총합계: {len(all_bids)}건 업데이트 됨
+
+[배포 상태]
+{push_status}
+
+업데이트 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+"""
+    try:
+        send_update_report(report_content, receiver="yourfriendjay@gmail.com")
+        logger.info("업데이트 결과 보고 이메일이 전송되었습니다.")
+    except Exception as e:
+        logger.error(f"이메일 전송 실패: {e}")
