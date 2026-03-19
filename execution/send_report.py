@@ -3,9 +3,24 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
 
+# .env 파일에서 GMAIL_USER, GMAIL_APP_PASSWORD 읽어오기
+env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env')
+if os.path.exists(env_path):
+    with open(env_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            if '=' in line and not line.strip().startswith('#'):
+                k, v = line.strip().split('=', 1)
+                os.environ[k.strip()] = v.strip()
+
+GMAIL_USER = os.environ.get('GMAIL_USER', '')
+GMAIL_APP_PASSWORD = os.environ.get('GMAIL_APP_PASSWORD', '')
+
 def send_update_report(content, receiver="[REDACTED_EMAIL]"):
-    sender_email = "[REDACTED_EMAIL]"
-    app_password = "REMOVED_SECRET"
+    if not GMAIL_USER or not GMAIL_APP_PASSWORD:
+        print("이메일 전송 실패: .env 파일에 GMAIL_USER 및 GMAIL_APP_PASSWORD를 설정해주세요.")
+        return
+    sender_email = GMAIL_USER
+    app_password = GMAIL_APP_PASSWORD
     receiver_email = receiver
 
     msg = MIMEMultipart()
