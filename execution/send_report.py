@@ -2,10 +2,15 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
+from dotenv import load_dotenv
 
-def send_update_report(content, receiver="***REMOVED_EMAIL***"):
-    sender_email = "***REMOVED_EMAIL***"
-    app_password = "***REMOVED***"
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env'))
+
+def send_update_report(content, receiver=None):
+    sender_email = os.environ.get("GMAIL_USER")
+    app_password = os.environ.get("GMAIL_APP_PASSWORD")
+    if receiver is None:
+        receiver = sender_email
     receiver_email = receiver
 
     msg = MIMEMultipart()

@@ -118,7 +118,7 @@ if __name__ == "__main__":
 업데이트 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 """
     try:
-        send_update_report(report_content, receiver="***REMOVED_EMAIL***")
+        send_update_report(report_content, receiver=os.environ.get("GMAIL_USER"))
         logger.info("업데이트 결과 보고 이메일이 전송되었습니다.")
     except Exception as e:
         logger.error(f"이메일 전송 실패: {e}")
