@@ -75,3 +75,48 @@ Running Automatic Bid Collection at 2026-03-16 15:00:00.69
 이메일 발송 성공!
 Finished at 2026-03-16 15:00:56.51 
 Running Automatic Bid Collection at 2026-03-20  1:00:01.23 
+2026-03-20 01:00:02,778 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
+2026-03-20 01:00:02,779 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
+2026-03-20 01:00:04,228 - KONEPS - INFO -   '시장조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:06,370 - KONEPS - INFO -   '시장조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:08,286 - KONEPS - INFO -   '소비자조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:09,665 - KONEPS - INFO -   '소비자조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:15,456 - KONEPS - INFO -   '사용자조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:19,872 - KONEPS - INFO -   '사용자조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:22,530 - KONEPS - INFO -   'UX리서치': 100/2795건 (수집 100건)
+2026-03-20 01:00:24,826 - KONEPS - INFO -   'UX리서치': 200/2795건 (수집 200건)
+2026-03-20 01:00:26,842 - KONEPS - INFO -   '만족도조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:29,237 - KONEPS - INFO -   '만족도조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:31,492 - KONEPS - INFO -   '사회조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:34,126 - KONEPS - INFO -   '사회조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:36,268 - KONEPS - INFO -   '패널조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:40,476 - KONEPS - INFO -   '패널조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:43,050 - KONEPS - INFO -   '리서치': 100/2795건 (수집 100건)
+2026-03-20 01:00:45,742 - KONEPS - INFO -   '리서치': 200/2795건 (수집 200건)
+2026-03-20 01:00:49,984 - KONEPS - INFO -   '설문조사': 100/2795건 (수집 100건)
+2026-03-20 01:00:52,526 - KONEPS - INFO -   '설문조사': 200/2795건 (수집 200건)
+2026-03-20 01:00:53,028 - KONEPS - INFO - 나라장터 API 총 188건 수집 완료 (중복 제거 후)
+2026-03-20 01:00:53,028 - KONEPS - INFO - 나라장터 입찰 정보 188건을 수집했습니다.
+2026-03-20 01:00:53,028 - KONEPS - INFO - 세종시 산하기관 입찰공고 수집을 시작합니다.
+2026-03-20 01:00:55,386 - KONEPS - INFO - 세종시 산하기관 입찰 0건 수집 완료
+2026-03-20 01:00:55,386 - KONEPS - INFO - 세종 산하기관 지정 입찰 정보 0건을 수집했습니다.
+2026-03-20 01:00:55,386 - KONEPS - INFO - 글로벌 리서치 RFP 정보 수집을 시작합니다.
+2026-03-20 01:00:55,386 - KONEPS - INFO - 글로벌 입찰/RFP 정보 2건을 수집했습니다.
+2026-03-20 01:00:55,387 - KONEPS - INFO - 성공적으로 190개의 항목을 C:\Users\ggamy\OneDrive\Desktop\aBidInfo\event_data.js 에 저장했습니다.
+2026-03-20 01:00:55,387 - KONEPS - INFO - GitHub Pages 자동 배포(Push)를 시작합니다...
+[main 8de57a5] Auto-deploy update: 2026-03-20 01:00:55
+ 3 files changed, 1370 insertions(+), 1288 deletions(-)
+ create mode 100644 directives/security.md
+2026-03-20 01:00:57,227 - KONEPS - WARNING - Git Push 실패 또는 변경사항 없음: To https://github.com/directresearchkorea/bidinfo.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/directresearchkorea/bidinfo.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2026-03-20 01:00:57,227 - KONEPS - INFO - 모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.
+2026-03-20 01:01:00,366 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
+이메일 발송 성공!
+Finished at 2026-03-20  1:01:00.38 
+Running Automatic Bid Collection at 2026-03-23  1:00:01.62 
