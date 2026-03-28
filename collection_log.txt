@@ -120,3 +120,76 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 이메일 발송 성공!
 Finished at 2026-03-20  1:01:00.38 
 Running Automatic Bid Collection at 2026-03-23  1:00:01.62 
+2026-03-23 01:00:02,751 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
+2026-03-23 01:00:02,751 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
+2026-03-23 01:00:06,739 - KONEPS - INFO -   '시장조사': 92/92건 (수집 92건)
+2026-03-23 01:00:08,817 - KONEPS - INFO -   '소비자조사': 92/92건 (수집 92건)
+2026-03-23 01:00:10,190 - KONEPS - INFO -   '사용자조사': 92/92건 (수집 92건)
+2026-03-23 01:00:11,588 - KONEPS - INFO -   'UX리서치': 92/92건 (수집 92건)
+2026-03-23 01:00:13,129 - KONEPS - INFO -   '만족도조사': 92/92건 (수집 92건)
+2026-03-23 01:00:17,266 - KONEPS - INFO -   '사회조사': 92/92건 (수집 92건)
+2026-03-23 01:00:19,377 - KONEPS - INFO -   '패널조사': 92/92건 (수집 92건)
+2026-03-23 01:00:21,648 - KONEPS - INFO -   '리서치': 92/92건 (수집 92건)
+2026-03-23 01:00:23,294 - KONEPS - INFO -   '설문조사': 92/92건 (수집 92건)
+2026-03-23 01:00:23,796 - KONEPS - INFO - 나라장터 API 총 79건 수집 완료 (중복 제거 후)
+2026-03-23 01:00:23,797 - KONEPS - INFO - 나라장터 입찰 정보 79건을 수집했습니다.
+2026-03-23 01:00:23,797 - KONEPS - INFO - 세종시 산하기관 입찰공고 수집을 시작합니다.
+2026-03-23 01:00:25,018 - KONEPS - INFO - 세종시 산하기관 입찰 0건 수집 완료
+2026-03-23 01:00:25,018 - KONEPS - INFO - 세종 산하기관 지정 입찰 정보 0건을 수집했습니다.
+2026-03-23 01:00:25,018 - KONEPS - INFO - 글로벌 리서치 RFP 정보 수집을 시작합니다.
+2026-03-23 01:00:25,018 - KONEPS - INFO - 글로벌 입찰/RFP 정보 2건을 수집했습니다.
+2026-03-23 01:00:25,019 - KONEPS - INFO - 성공적으로 81개의 항목을 C:\Users\ggamy\OneDrive\Desktop\aBidInfo\event_data.js 에 저장했습니다.
+2026-03-23 01:00:25,019 - KONEPS - INFO - GitHub Pages 자동 배포(Push)를 시작합니다...
+[main 02ebca3] Auto-deploy update: 2026-03-23 01:00:25
+ 2 files changed, 588 insertions(+), 1742 deletions(-)
+2026-03-23 01:00:26,639 - KONEPS - WARNING - Git Push 실패 또는 변경사항 없음: To https://github.com/directresearchkorea/bidinfo.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/directresearchkorea/bidinfo.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2026-03-23 01:00:26,640 - KONEPS - INFO - 모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.
+2026-03-23 01:00:29,775 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
+이메일 발송 성공!
+Finished at 2026-03-23  1:00:29.79 
+Running Automatic Bid Collection at 2026-03-28 19:25:12.87 
+2026-03-28 19:25:16,247 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
+2026-03-28 19:25:16,247 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
+2026-03-28 19:25:17,362 - KONEPS - INFO -   '시장조사': 24/24건 (수집 24건)
+2026-03-28 19:25:18,561 - KONEPS - INFO -   '소비자조사': 24/24건 (수집 24건)
+2026-03-28 19:25:19,734 - KONEPS - INFO -   '사용자조사': 24/24건 (수집 24건)
+2026-03-28 19:25:20,903 - KONEPS - INFO -   'UX리서치': 24/24건 (수집 24건)
+2026-03-28 19:25:22,581 - KONEPS - INFO -   '만족도조사': 24/24건 (수집 24건)
+2026-03-28 19:25:23,726 - KONEPS - INFO -   '사회조사': 24/24건 (수집 24건)
+2026-03-28 19:25:25,046 - KONEPS - INFO -   '패널조사': 24/24건 (수집 24건)
+2026-03-28 19:25:26,569 - KONEPS - INFO -   '리서치': 24/24건 (수집 24건)
+2026-03-28 19:25:28,063 - KONEPS - INFO -   '설문조사': 24/24건 (수집 24건)
+2026-03-28 19:25:28,565 - KONEPS - INFO - 나라장터 API 총 24건 수집 완료 (중복 제거 후)
+2026-03-28 19:25:28,565 - KONEPS - INFO - 나라장터 입찰 정보 24건을 수집했습니다.
+2026-03-28 19:25:28,565 - KONEPS - INFO - 세종시 산하기관 입찰공고 수집을 시작합니다.
+2026-03-28 19:25:30,472 - KONEPS - INFO - 세종시 산하기관 입찰 0건 수집 완료
+2026-03-28 19:25:30,472 - KONEPS - INFO - 세종 산하기관 지정 입찰 정보 0건을 수집했습니다.
+2026-03-28 19:25:30,472 - KONEPS - INFO - 글로벌 리서치 RFP 정보 수집을 시작합니다.
+2026-03-28 19:25:30,472 - KONEPS - INFO - 글로벌 입찰/RFP 정보 2건을 수집했습니다.
+2026-03-28 19:25:30,473 - KONEPS - INFO - 성공적으로 26개의 항목을 C:\Users\ggamy\OneDrive\Desktop\zBidInfo\event_data.js 에 저장했습니다.
+2026-03-28 19:25:30,474 - KONEPS - INFO - GitHub Pages 자동 배포(Push)를 시작합니다...
+2026-03-28 19:25:30,498 - KONEPS - ERROR - GitHub 배포 작업 중 오류 발생: [WinError 2] 지정된 파일을 찾을 수 없습니다
+Traceback (most recent call last):
+  File "C:\Users\ggamy\OneDrive\Desktop\zBidInfo\execution\update_calendar_bids.py", line 86, in <module>
+    subprocess.run(["git", "add", "."], cwd=project_root, check=True, capture_output=True)
+  File "C:\Users\ggamy\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ggamy\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\ggamy\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 지정된 파일을 찾을 수 없습니다
+
+2026-03-28 19:25:30,498 - KONEPS - INFO - 모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.
+2026-03-28 19:25:33,703 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
+이메일 발송 성공!
+Finished at 2026-03-28 19:25:33.74 
