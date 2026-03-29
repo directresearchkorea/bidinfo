@@ -1,21 +1,10 @@
-// 자동 업데이트 시각: 2026-03-29 16:37:17
+// 자동 업데이트 시각: 2026-03-30 07:00:37
 const bidEvents = [
     {
-        "id": "g2b-api-3346213339085784426",
-        "title": "2026년 나무심기사업(기번1)",
-        "organization": "산림청 북부지방산림청 수원국유림관리소",
-        "start": "2026-03-29T16:36:59.921032",
-        "deadline": "2026-04-06T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427663&bidPbancOrd=000",
-        "description": "수요기관: 산림청 북부지방산림청 수원국유림관리소 | 공고번호: R26BK01427663"
-    },
-    {
-        "id": "g2b-api-1645670493978464038",
+        "id": "g2b-api-8319288542522130420",
         "title": "2025 노후 민방위 경보시설 교체사업 관급자재(경보시설)제작 설치",
         "organization": "충청남도 보령시",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.020229",
         "deadline": "2026-04-06T00:00:00",
         "category": "research",
         "source": "gov",
@@ -23,32 +12,98 @@ const bidEvents = [
         "description": "수요기관: 충청남도 보령시 | 공고번호: R26BK01427790"
     },
     {
-        "id": "g2b-api-764537318997990036",
-        "title": "가구특성을 활용한 장래가구추계 시나리오 개발 사업",
-        "organization": "국가데이터처",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-10T00:00:00",
+        "id": "g2b-api-6751597031311463036",
+        "title": "황산 와등1 도로측구 정비공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.022245",
+        "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427653&bidPbancOrd=000",
-        "description": "수요기관: 국가데이터처 | 공고번호: R26BK01427653"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427912&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427912"
     },
     {
-        "id": "g2b-api-7490522657206968344",
-        "title": "한국범죄분류 활용 확산을 위한 적용체계 개선 연구 사업",
-        "organization": "국가데이터처",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-10T00:00:00",
+        "id": "g2b-api-3636256307367033446",
+        "title": "마산 노하 리도 202호선 아스콘 포장공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427657&bidPbancOrd=000",
-        "description": "수요기관: 국가데이터처 | 공고번호: R26BK01427657"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427925&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427925"
     },
     {
-        "id": "g2b-api-5301277354407190842",
+        "id": "g2b-api-7672179144176410895",
+        "title": "마산 노하~산막간 아스콘 포장공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427926&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427926"
+    },
+    {
+        "id": "g2b-api-7993869289090658907",
+        "title": "마산 신당 리도 203호선 아스콘 포장공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427924&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427924"
+    },
+    {
+        "id": "g2b-api-4699452867249516188",
+        "title": "황산 산동 도로측구 정비공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427914&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427914"
+    },
+    {
+        "id": "g2b-api-5555958244526868878",
+        "title": "황산 남리 도로측구 정비공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427916&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427916"
+    },
+    {
+        "id": "g2b-api-3650846247975045731",
+        "title": "현산 초호 보 수문 보수공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427930&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427930"
+    },
+    {
+        "id": "g2b-api-7124718584777790327",
+        "title": "마산 장촌 마을안길 정비공사",
+        "organization": "전라남도 해남군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427927&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 해남군 | 공고번호: R26BK01427927"
+    },
+    {
+        "id": "g2b-api-4607756408783203533",
         "title": "2026년도 지방자치단체 복권기금사업 성과관리 용역",
         "organization": "지방자치단체복권기금협의회",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-17T00:00:00",
         "category": "research",
         "source": "gov",
@@ -56,32 +111,21 @@ const bidEvents = [
         "description": "수요기관: 지방자치단체복권기금협의회 | 공고번호: R26BK01425847"
     },
     {
-        "id": "g2b-api-3866106007290149331",
-        "title": "2026년 비슬산 치유의숲 산림치유 운영사업",
-        "organization": "대구광역시 달성군",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-03-30T00:00:00",
+        "id": "g2b-api-7483176058943172181",
+        "title": "(연구용역)고위험식물병원체 국가대응 플랫폼구축을 위한 연구동 활용전략 및 중장기 연구 로드맵 수립",
+        "organization": "농촌진흥청 국립농업과학원",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-09T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427116&bidPbancOrd=000",
-        "description": "수요기관: 대구광역시 달성군 | 공고번호: R26BK01427116"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427897&bidPbancOrd=000",
+        "description": "수요기관: 농촌진흥청 국립농업과학원 | 공고번호: R26BK01427897"
     },
     {
-        "id": "g2b-api-5359284774608833023",
-        "title": "2026년 유아숲체험원 운영사업",
-        "organization": "대구광역시 달성군",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-03-30T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427134&bidPbancOrd=000",
-        "description": "수요기관: 대구광역시 달성군 | 공고번호: R26BK01427134"
-    },
-    {
-        "id": "g2b-api-2313944456453861700",
+        "id": "g2b-api-3680215127448243459",
         "title": "(소액수의)서특단 523함 및 예비품 일반자재(호스릴 등 3종) 구매",
         "organization": "해양경찰청 해양경찰정비창 해양경찰부산정비창",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -89,10 +133,10 @@ const bidEvents = [
         "description": "수요기관: 해양경찰청 해양경찰정비창 해양경찰부산정비창 | 공고번호: R26BK01426738"
     },
     {
-        "id": "g2b-api-578000178702568928",
+        "id": "g2b-api-5172740365149720718",
         "title": "진도군 군내농공단지 폐수관로 기술진단 용역",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -100,10 +144,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427708"
     },
     {
-        "id": "g2b-api-1940653330215889659",
+        "id": "g2b-api-4545406710746853469",
         "title": "2026년 해양쓰레기 정화사업 2권역(3차) 폐기물처리 용역",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -111,10 +155,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427822"
     },
     {
-        "id": "g2b-api-1194209739300062442",
+        "id": "g2b-api-4958340131752477890",
         "title": "2026년 해양쓰레기 정화사업(폐합성수지) 폐기물처리 용역(2차)",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-06T00:00:00",
         "category": "research",
         "source": "gov",
@@ -122,10 +166,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427840"
     },
     {
-        "id": "g2b-api-6590802966739136161",
+        "id": "g2b-api-4312445947729870450",
         "title": "2026년 해양쓰레기 정화사업 1권역(3차) 폐기물처리 용역",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -133,10 +177,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427818"
     },
     {
-        "id": "g2b-api-3937436012813629215",
+        "id": "g2b-api-693768259677145966",
         "title": "2026년 해양쓰레기 정화사업 3권역(3차) 폐기물처리 용역",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -144,10 +188,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427821"
     },
     {
-        "id": "g2b-api-628467633134196129",
+        "id": "g2b-api-7762595049070916189",
         "title": "2026년 진도 시티투어버스 운행 용역",
         "organization": "전라남도 진도군",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -155,32 +199,10 @@ const bidEvents = [
         "description": "수요기관: 전라남도 진도군 | 공고번호: R26BK01427700"
     },
     {
-        "id": "g2b-api-8680976383734709085",
-        "title": "2026년 직업계고 글로벌 현장학습 위탁 용역",
-        "organization": "대전광역시교육청",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-08T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427662&bidPbancOrd=000",
-        "description": "수요기관: 대전광역시교육청 | 공고번호: R26BK01427662"
-    },
-    {
-        "id": "g2b-api-5130536657874977827",
-        "title": "[실적제한]광주시장애인복지관 인테리어 공사 입찰 수정 공고",
-        "organization": "광주시장애인복지관",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-02T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01412108&bidPbancOrd=002",
-        "description": "수요기관: 광주시장애인복지관 | 공고번호: R26BK01412108"
-    },
-    {
-        "id": "g2b-api-1362420307864532955",
+        "id": "g2b-api-3790863504167879589",
         "title": "상하수도사업소(관리동) 금속지붕재 교체공사",
         "organization": "강원특별자치도 양양군 상하수도사업소",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-06T00:00:00",
         "category": "research",
         "source": "gov",
@@ -188,10 +210,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 양양군 상하수도사업소 | 공고번호: R26BK01426199"
     },
     {
-        "id": "g2b-api-1798906273701795526",
+        "id": "g2b-api-5459848460773813692",
         "title": "2026년 사방댐 및 계류보전사업 시공감리용역(산양리 산1 외1)(수의시담) ",
         "organization": "산림청 동부지방산림청 삼척국유림관리소",
-        "start": "2026-03-29T16:36:59.923032",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-03-30T00:00:00",
         "category": "research",
         "source": "gov",
@@ -199,32 +221,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 동부지방산림청 삼척국유림관리소 | 공고번호: R26BK01427719"
     },
     {
-        "id": "g2b-api-5751568964763613024",
-        "title": "[일반용역](협상공고)줄기세포 기반 유전자치료제 제조기술 분석",
-        "organization": "질병관리청 국립보건연구원",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-08T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427566&bidPbancOrd=000",
-        "description": "수요기관: 질병관리청 국립보건연구원 | 공고번호: R26BK01427566"
-    },
-    {
-        "id": "g2b-api-7159380502604361866",
-        "title": "[일반용역](협상공고)공공백신개발지원센터 동물이용 생물안전 시설 환경관리 용역",
-        "organization": "질병관리청 국립보건연구원",
-        "start": "2026-03-29T16:36:59.923032",
-        "deadline": "2026-04-08T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427649&bidPbancOrd=000",
-        "description": "수요기관: 질병관리청 국립보건연구원 | 공고번호: R26BK01427649"
-    },
-    {
-        "id": "g2b-api-6776793923627684725",
+        "id": "g2b-api-8873111936599724412",
         "title": "고대203호선(용우선) 농어촌도로 확포장공사 기본 및 실시설계용역",
         "organization": "충청남도 당진시",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -232,10 +232,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 당진시 | 공고번호: R26BK01427685"
     },
     {
-        "id": "g2b-api-3109298607262563139",
+        "id": "g2b-api-326774780836630890",
         "title": "당진시 가연성 생활폐기물(임시) 위탁처리 용역",
         "organization": "충청남도 당진시",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -243,10 +243,32 @@ const bidEvents = [
         "description": "수요기관: 충청남도 당진시 | 공고번호: R26BK01427688"
     },
     {
-        "id": "g2b-api-419657604191624850",
+        "id": "g2b-api-3018854215262247935",
+        "title": "회진 덕산 용배수로 설치공사",
+        "organization": "전라남도 장흥군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-03T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427865&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427865"
+    },
+    {
+        "id": "g2b-api-9189057761470775009",
+        "title": "(입찰대행)2024년 어업인 편익시설 조성사업",
+        "organization": "전라남도 장흥군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-03T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427895&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427895"
+    },
+    {
+        "id": "g2b-api-1905206877556076292",
         "title": "회진 군도2호선(회덕중학교 앞) 아스팔트 덧씌우기사업",
         "organization": "전라남도 장흥군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -254,10 +276,21 @@ const bidEvents = [
         "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427791"
     },
     {
-        "id": "g2b-api-3087851557868329879",
+        "id": "g2b-api-3364639025779418472",
+        "title": "사촌지구 연안정비사업",
+        "organization": "전라남도 장흥군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-07T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427888&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427888"
+    },
+    {
+        "id": "g2b-api-13762398015965485",
         "title": "대덕읍 이신 소류지 간이양수시설 공사",
         "organization": "전라남도 장흥군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -265,54 +298,32 @@ const bidEvents = [
         "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427827"
     },
     {
-        "id": "g2b-api-5959050812346099476",
-        "title": "고흥축산농협 태양광 발전설비 구매 및 설치",
-        "organization": "고흥축산업협동조합",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-28T16:36:59.924033",
+        "id": "g2b-api-393972036071077944",
+        "title": "대덕 산정마을 배수로 설치사업",
+        "organization": "전라남도 장흥군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427666&bidPbancOrd=000",
-        "description": "수요기관: 고흥축산업협동조합 | 공고번호: R26BK01427666"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427853&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 장흥군 | 공고번호: R26BK01427853"
     },
     {
-        "id": "g2b-api-9120825260169857410",
-        "title": "제주감귤농협 제9유통센터 2026년 유통시설현대화 지원사업 기계설비 구매설치",
-        "organization": "제주도 제주감귤농업협동조합",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-28T16:36:59.924033",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427668&bidPbancOrd=000",
-        "description": "수요기관: 제주도 제주감귤농업협동조합 | 공고번호: R26BK01427668"
-    },
-    {
-        "id": "g2b-api-1485649609953584556",
-        "title": "제주감귤농협 제1유통센터 2026년 유통시설현대화 지원사업 기계설비 구매설치",
-        "organization": "제주도 제주감귤농업협동조합",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-28T16:36:59.924033",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427667&bidPbancOrd=000",
-        "description": "수요기관: 제주도 제주감귤농업협동조합 | 공고번호: R26BK01427667"
-    },
-    {
-        "id": "g2b-api-188210613177142814",
+        "id": "g2b-api-8589650760514273763",
         "title": "[긴급공고]2025(1차년도) 서천군 해양체험파크 돔스크린 몰입형 콘텐츠 영상제작",
         "organization": "세한대학교 당진산학협력단",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-08T00:00:00",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-09T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427763&bidPbancOrd=000",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427763&bidPbancOrd=001",
         "description": "수요기관: 세한대학교 당진산학협력단 | 공고번호: R26BK01427763"
     },
     {
-        "id": "g2b-api-8560552559668712403",
+        "id": "g2b-api-1689667119776141530",
         "title": "내수풋가실소하천 재해복구사업(1지구)",
         "organization": "경상남도 산청군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-01T00:00:00",
         "category": "research",
         "source": "gov",
@@ -320,10 +331,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 산청군 | 공고번호: R26BK01422419"
     },
     {
-        "id": "g2b-api-7432059046059826345",
+        "id": "g2b-api-4086065940877603092",
         "title": "내리지구 기계화경작로 확포장사업",
         "organization": "경상남도 산청군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -331,10 +342,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 산청군 | 공고번호: R26BK01427731"
     },
     {
-        "id": "g2b-api-8819753717361435160",
+        "id": "g2b-api-6120591723518513358",
         "title": "메기들소하천 정비공사(1지구)",
         "organization": "경상남도 산청군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -342,10 +353,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 산청군 | 공고번호: R26BK01427736"
     },
     {
-        "id": "g2b-api-888447215094125954",
+        "id": "g2b-api-23113719898505993",
         "title": "부산여자대학교 라이프케어계열 설송관 402, 403강의실 리모델링공사",
         "organization": "부산여자대학 산학협력단",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -353,10 +364,10 @@ const bidEvents = [
         "description": "수요기관: 부산여자대학 산학협력단 | 공고번호: R26BK01427489"
     },
     {
-        "id": "g2b-api-5985895486790881056",
+        "id": "g2b-api-6870167679095893485",
         "title": "2026년 제1차 입목처분 위탁조사 용역",
         "organization": "산림청 북부지방산림청 인제국유림관리소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -364,10 +375,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 북부지방산림청 인제국유림관리소 | 공고번호: R26BK01427728"
     },
     {
-        "id": "g2b-api-147830243558676329",
+        "id": "g2b-api-241236922590003913",
         "title": "2026년 제2차 입목처분 위탁조사 용역",
         "organization": "산림청 북부지방산림청 인제국유림관리소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -375,10 +386,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 북부지방산림청 인제국유림관리소 | 공고번호: R26BK01427732"
     },
     {
-        "id": "g2b-api-215444174063612926",
+        "id": "g2b-api-4613453656384282475",
         "title": "위성영상운영 애플리케이션 개발 및 자동화 연계 구성 시험모델 구축",
         "organization": "한국항공우주연구원",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-13T00:00:00",
         "category": "research",
         "source": "gov",
@@ -386,32 +397,21 @@ const bidEvents = [
         "description": "수요기관: 한국항공우주연구원 | 공고번호: R26BK01427740"
     },
     {
-        "id": "g2b-api-5569924626395739651",
-        "title": "할랄식품 수출을 위한 할랄 인증기관 구축 지원",
-        "organization": "한국식품안전관리인증원",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-10T00:00:00",
+        "id": "g2b-api-5576207270143539611",
+        "title": "보성 하수관로 2~4단계 정비사업(1차분) 순환골재 구입",
+        "organization": "전라남도 보성군",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427059&bidPbancOrd=000",
-        "description": "수요기관: 한국식품안전관리인증원 | 공고번호: R26BK01427059"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427867&bidPbancOrd=000",
+        "description": "수요기관: 전라남도 보성군 | 공고번호: R26BK01427867"
     },
     {
-        "id": "g2b-api-8709299276441523473",
-        "title": "2026년 한국식품안전관리인증원 직원 채용대행 위탁용역",
-        "organization": "한국식품안전관리인증원",
-        "start": "2026-03-29T16:36:59.924033",
-        "deadline": "2026-04-10T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427645&bidPbancOrd=000",
-        "description": "수요기관: 한국식품안전관리인증원 | 공고번호: R26BK01427645"
-    },
-    {
-        "id": "g2b-api-2910388828820587981",
+        "id": "g2b-api-7595860786174990095",
         "title": "외국인 농업 근로자 기숙사 건립사업 소방공사",
         "organization": "경상남도 산청군 농업기술센터",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -419,10 +419,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 산청군 농업기술센터 | 공고번호: R26BK01427772"
     },
     {
-        "id": "g2b-api-7116472730165044857",
+        "id": "g2b-api-5199290117598548031",
         "title": "고성읍 하수도 보수공사",
         "organization": "경상남도 고성군 상하수도사업소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -430,10 +430,32 @@ const bidEvents = [
         "description": "수요기관: 경상남도 고성군 상하수도사업소 | 공고번호: R26BK01418405"
     },
     {
-        "id": "g2b-api-1898417401529420672",
+        "id": "g2b-api-4505215121971676890",
+        "title": "상감교~한신더휴 아파트 간 도시계획도로개설 신호등 설치공사-원격접속장치",
+        "organization": "경상남도 밀양시",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-03-31T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427880&bidPbancOrd=001",
+        "description": "수요기관: 경상남도 밀양시 | 공고번호: R26BK01427880"
+    },
+    {
+        "id": "g2b-api-8678602005566344337",
+        "title": "삼랑진초교 뒤편 도시계획도로 가로등 설치공사-원격점검장치",
+        "organization": "경상남도 밀양시",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-03-31T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427891&bidPbancOrd=000",
+        "description": "수요기관: 경상남도 밀양시 | 공고번호: R26BK01427891"
+    },
+    {
+        "id": "g2b-api-7551996745382303570",
         "title": "밀양강 나노교~감천교 보행로 정비공사-콘크리트기초",
         "organization": "경상남도 밀양시",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-03-31T00:00:00",
         "category": "research",
         "source": "gov",
@@ -441,10 +463,32 @@ const bidEvents = [
         "description": "수요기관: 경상남도 밀양시 | 공고번호: R26BK01427787"
     },
     {
-        "id": "g2b-api-4449436342869728658",
+        "id": "g2b-api-2863456731361980180",
+        "title": "상감교~한신더휴 아파트 간 도시계획도로개설 가로등 설치공사-원격접속장치",
+        "organization": "경상남도 밀양시",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-03-31T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427884&bidPbancOrd=001",
+        "description": "수요기관: 경상남도 밀양시 | 공고번호: R26BK01427884"
+    },
+    {
+        "id": "g2b-api-4590269834851592355",
+        "title": "가곡동 용두산공원 도시계획도로 가로등 설치공사-원격점검장치",
+        "organization": "경상남도 밀양시",
+        "start": "2026-03-30T07:00:05.023251",
+        "deadline": "2026-03-31T00:00:00",
+        "category": "research",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01427887&bidPbancOrd=000",
+        "description": "수요기관: 경상남도 밀양시 | 공고번호: R26BK01427887"
+    },
+    {
+        "id": "g2b-api-2865434898794286524",
         "title": "2026 어린이선비축제 프로그램 운영대행",
         "organization": "(재)영주문화관광재단",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -452,10 +496,10 @@ const bidEvents = [
         "description": "수요기관: (재)영주문화관광재단 | 공고번호: R26BK01427711"
     },
     {
-        "id": "g2b-api-4178747657934125059",
+        "id": "g2b-api-5616027091486112849",
         "title": "의창구 사화초교 일원 하수맨홀 추락방지시설 설치공사",
         "organization": "경상남도 창원시 하수도사업소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -463,10 +507,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 창원시 하수도사업소 | 공고번호: R26BK01420699"
     },
     {
-        "id": "g2b-api-1666271259295670786",
+        "id": "g2b-api-5219537939942164337",
         "title": "의창구 명서초교 일원 외 3개소 하수맨홀 추락방지시설 설치공사",
         "organization": "경상남도 창원시 하수도사업소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -474,10 +518,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 창원시 하수도사업소 | 공고번호: R26BK01420678"
     },
     {
-        "id": "g2b-api-892744426202012238",
+        "id": "g2b-api-548659868183733736",
         "title": "의창구 도계초교 일원 외 1개소 하수맨홀 추락방지시설 설치공사",
         "organization": "경상남도 창원시 하수도사업소",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -485,10 +529,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 창원시 하수도사업소 | 공고번호: R26BK01420720"
     },
     {
-        "id": "g2b-api-8473660040220508293",
+        "id": "g2b-api-7763805964252543323",
         "title": "2026년 상반기 배수문 정기안전점검용역 수의(2인 이상) 견적제출 안내공고",
         "organization": "충청남도 예산군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -496,10 +540,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 예산군 | 공고번호: R26BK01427765"
     },
     {
-        "id": "g2b-api-3798211022759129617",
+        "id": "g2b-api-6652823896149558568",
         "title": "2026년 상반기 제방 정기안전점검용역 수의(2인 이상) 견적제출 안내공고",
         "organization": "충청남도 예산군",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-02T00:00:00",
         "category": "research",
         "source": "gov",
@@ -507,10 +551,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 예산군 | 공고번호: R26BK01427769"
     },
     {
-        "id": "g2b-api-4371723744924791222",
+        "id": "g2b-api-628029455052649322",
         "title": "26년 남포친환경영농조합법인 전략작물산업화(들녘) 시설장비 지원사업",
         "organization": "남포친환경영농법인",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-08T00:00:00",
         "category": "research",
         "source": "gov",
@@ -518,10 +562,10 @@ const bidEvents = [
         "description": "수요기관: 남포친환경영농법인 | 공고번호: R26BK01427805"
     },
     {
-        "id": "g2b-api-1836339484654670778",
+        "id": "g2b-api-5733958212270520669",
         "title": "2026년 전략작물산업화(들녘) 시설장비 지원사업",
         "organization": "남포친환경영농법인",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-07T00:00:00",
         "category": "research",
         "source": "gov",
@@ -529,10 +573,10 @@ const bidEvents = [
         "description": "수요기관: 남포친환경영농법인 | 공고번호: R26BK01427796"
     },
     {
-        "id": "g2b-api-2984219655920692009",
+        "id": "g2b-api-2049708037658371472",
         "title": "2026년 무주군 슬레이트 지붕개량 지원사업",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -540,10 +584,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01426583"
     },
     {
-        "id": "g2b-api-2010340572414391853",
+        "id": "g2b-api-1814423908590841420",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (1권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -551,10 +595,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427748"
     },
     {
-        "id": "g2b-api-6507474256863499339",
+        "id": "g2b-api-7827350819675883472",
         "title": "2026년 충주시 슬레이트 지붕개량 지원사업",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -562,10 +606,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427761"
     },
     {
-        "id": "g2b-api-5003017523298282556",
+        "id": "g2b-api-3410060712480618179",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (5권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -573,10 +617,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427757"
     },
     {
-        "id": "g2b-api-5359212048387606883",
+        "id": "g2b-api-6328152528907948070",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (6권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -584,10 +628,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427759"
     },
     {
-        "id": "g2b-api-4201393725523024706",
+        "id": "g2b-api-6141604153812042222",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (3권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -595,10 +639,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427751"
     },
     {
-        "id": "g2b-api-9153137387062105458",
+        "id": "g2b-api-7918538300718746768",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (4권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -606,10 +650,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427754"
     },
     {
-        "id": "g2b-api-2492037461178243695",
+        "id": "g2b-api-8239341962052938199",
         "title": "2026년 충주시 슬레이트 처리 지원사업 (2권역)",
         "organization": "사단법인 한국생활환경석면협회",
-        "start": "2026-03-29T16:36:59.924033",
+        "start": "2026-03-30T07:00:05.023251",
         "deadline": "2026-04-03T00:00:00",
         "category": "research",
         "source": "gov",
@@ -617,22 +661,22 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국생활환경석면협회 | 공고번호: R26BK01427750"
     },
     {
-        "id": "global-test-1774769837-1",
+        "id": "global-test-1774821637-1",
         "title": "[Mock] Global Fintech Market Entry & Consumer Behavior Study",
         "organization": "Confidential (via Upwork)",
-        "start": "2026-03-30T16:37:17.116712",
-        "deadline": "2026-04-03T16:37:17.116712",
+        "start": "2026-03-31T07:00:37.009836",
+        "deadline": "2026-04-04T07:00:37.009836",
         "category": "market",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/market-research/",
         "description": "We are a European FinTech startup expanding into South Korea. We need a local market research agency to conduct comprehensive consumer behavior analysis and focus group interviews (FGI)."
     },
     {
-        "id": "global-test-1774769837-2",
+        "id": "global-test-1774821637-2",
         "title": "[Mock] E-commerce Platform UX Research and Usability Testing",
         "organization": "Global E-Com Inc.",
-        "start": "2026-04-01T16:37:17.116712",
-        "deadline": "2026-04-08T16:37:17.116712",
+        "start": "2026-04-02T07:00:37.009836",
+        "deadline": "2026-04-09T07:00:37.009836",
         "category": "user",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/user-research/",
