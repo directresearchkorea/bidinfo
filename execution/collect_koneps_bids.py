@@ -35,6 +35,8 @@ TARGET_KEYWORDS = [
     {"keyword": "패널조사",   "category": "panel"},
     {"keyword": "리서치",     "category": "research"},
     {"keyword": "설문조사",   "category": "consumer"},
+    {"keyword": "전시회",     "category": "exhibition"},
+    {"keyword": "행사",       "category": "event"},
 ]
 
 SEJONG_ORGS = [
@@ -46,7 +48,7 @@ KEYWORD_CATEGORY_MAP = {
     "시장조사": "market", "소비자조사": "consumer", "사용자조사": "user",
     "UX리서치": "user", "UX연구": "user", "만족도조사": "consumer",
     "사회조사": "social", "패널조사": "panel", "리서치": "research",
-    "설문조사": "consumer",
+    "설문조사": "consumer", "전시회": "exhibition", "행사": "event",
 }
 
 
