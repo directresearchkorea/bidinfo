@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env'))
 
-def send_update_report(content, receiver=None):
+def send_update_report(content, receiver=None, subject="BidInfo 시스템 업데이트 완료 보고 및 결과 요약", body_prefix="BidInfo 입찰/RFP 시스템의 업데이트 및 데이터 수집이 성공적으로 완료되었습니다."):
     sender_email = os.environ.get("GMAIL_USER")
     app_password = os.environ.get("GMAIL_APP_PASSWORD")
     if receiver is None:
@@ -16,11 +16,11 @@ def send_update_report(content, receiver=None):
     msg = MIMEMultipart()
     msg['From'] = sender_email
     msg['To'] = receiver_email
-    msg['Subject'] = "BidInfo 시스템 업데이트 완료 보고 및 결과 요약"
+    msg['Subject'] = subject
 
     body = f"""안녕하세요,
 
-BidInfo 입찰/RFP 시스템의 업데이트 및 데이터 수집이 성공적으로 완료되었습니다.
+{body_prefix}
 
 [요약 내용]
 {content}
