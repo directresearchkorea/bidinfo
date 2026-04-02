@@ -267,3 +267,23 @@ Finished at 2026-03-30  7:00:43.16
 Running Automatic Bid Collection at 2026-04-01  7:00:01.40 
 2026-04-01 07:00:01,726 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
 2026-04-01 07:00:01,726 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
+2026-04-01 07:00:49,376 - KONEPS - INFO - 나라장터 API 총 0건 수집 완료 (중복 제거 후)
+2026-04-01 07:00:49,376 - KONEPS - INFO - 나라장터 입찰 정보 0건을 수집했습니다.
+2026-04-01 07:00:49,376 - KONEPS - INFO - 세종시 산하기관 입찰공고 수집을 시작합니다.
+2026-04-01 07:00:53,961 - KONEPS - INFO - 세종 산하기관 지정 입찰 정보 0건을 수집했습니다.
+2026-04-01 07:00:53,961 - KONEPS - INFO - 글로벌 리서치 RFP 정보 수집을 시작합니다.
+2026-04-01 07:00:53,961 - KONEPS - INFO - 글로벌 입찰/RFP 정보 2건을 수집했습니다.
+2026-04-01 07:00:53,962 - KONEPS - INFO - 성공적으로 2개의 항목을 C:\Users\ggamy\OneDrive\Desktop\zBidInfo\event_data.js 에 저장했습니다.
+2026-04-01 07:00:53,962 - KONEPS - INFO - GitHub Pages 자동 배포(Push)를 시작합니다...
+[main f2f43a2] Auto-deploy update: 2026-04-01 07:00:54
+ 5 files changed, 136 insertions(+), 670 deletions(-)
+ create mode 100644 execution/send_weekly_summary.py
+ create mode 100644 run_weekly_summary.bat
+2026-04-01 07:00:55,854 - KONEPS - INFO - GitHub 원격 저장소에 성공적으로 푸시(배포) 되었습니다. (약 1분 뒤 웹사이트 적용)
+2026-04-01 07:00:55,854 - KONEPS - INFO - 모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.
+2026-04-01 07:00:59,740 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
+이메일 발송 성공!
+Finished at 2026-04-01  7:00:59.77 
+Running Automatic Bid Collection at 2026-04-03  7:00:01.17 
+2026-04-03 07:00:01,525 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
+2026-04-03 07:00:01,525 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
