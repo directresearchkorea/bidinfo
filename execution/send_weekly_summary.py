@@ -81,8 +81,11 @@ if __name__ == "__main__":
     subject = f"[{datetime.now().strftime('%m/%d')} 위클리] 다이렉트리서치 주간 입찰/행사 요약 리포트"
     body_prefix = "다이렉트 리서치 코리아팀을 위한 이번 주 주요 입찰 및 행사 리스트 요약본입니다."
     
-    target_email = "[REDACTED_EMAIL]"
-    
+    target_email = os.environ.get("GMAIL_USER")
+    if not target_email:
+        logger.error("GMAIL_USER 환경변수가 설정되지 않았습니다.")
+        return
+        
     try:
         send_update_report(summary_text, receiver=target_email, subject=subject, body_prefix=body_prefix)
         logger.info(f"{target_email}로 주간 요약 메일 전송 완료!")

@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 **[필수 항목]**
 *   `KONEPS_API_KEY`: 조달청 나라장터 API 키 (이미 있는 경우 그대로 사용 가능)
-*   `GMAIL_USER`: 알림을 보낼 Gmail 주소 (예: `[REDACTED_EMAIL]`)
+*   `GMAIL_USER`: 알림을 보낼 Gmail 주소 (예: `your_id@gmail.com`)
 *   `GMAIL_APP_PASSWORD`: Gmail의 **'앱 비밀번호'** (일반 비밀번호 대신 16자리 보안 코드)
     *   Google 계정 관리 > 보안 > 2단계 인증 > 앱 비밀번호에서 생성 가능합니다.
 
