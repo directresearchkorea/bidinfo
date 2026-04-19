@@ -10,3 +10,10 @@ Running Weekly Summary Email Dispatch at 2026-04-10  9:00:00.59
 2026-04-10 09:00:03,734 - WEEKLY_SUMMARY - INFO - [REDACTED_EMAIL]로 주간 요약 메일 전송 완료!
 이메일 발송 성공!
 Finished at 2026-04-10  9:00:03.76 
+======================================== 
+Running Weekly Summary Email Dispatch at 2026-04-17  9:00:00.91 
+  File "C:\Users\ggamy\OneDrive\Desktop\zBidInfo\execution\send_weekly_summary.py", line 87
+    return
+    ^^^^^^
+SyntaxError: 'return' outside function
+Finished at 2026-04-17  9:00:00.99 
