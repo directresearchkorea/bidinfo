@@ -37,6 +37,8 @@ TARGET_KEYWORDS = [
     {"keyword": "설문조사",   "category": "consumer"},
     {"keyword": "전시회",     "category": "exhibition"},
     {"keyword": "행사",       "category": "event"},
+    {"keyword": "게임",       "category": "game"},
+    {"keyword": "유저",       "category": "user"},
 ]
 
 SEJONG_ORGS = [
@@ -49,6 +51,7 @@ KEYWORD_CATEGORY_MAP = {
     "UX리서치": "user", "UX연구": "user", "만족도조사": "consumer",
     "사회조사": "social", "패널조사": "panel", "리서치": "research",
     "설문조사": "consumer", "전시회": "exhibition", "행사": "event",
+    "게임": "game", "유저": "user",
 }
 
 
@@ -127,17 +130,18 @@ def _extract_items(body: dict) -> list:
     return []
 
 
-def fetch_bids_by_keyword(keyword: str, category: str,
-                          start: datetime, end: datetime,
-                          max_results: int = 200) -> list:
-    """
-    나라장터 API에 bidNtceNm 파라미터로 키워드 검색.
-    max_results: 키워드당 최대 수집 건수 (기본 200건 제한)
-    """
-    bids = []
+def fetch_bids_from_koneps() -> list:
+    """전체 리서치 키워드로 나라장터 API 수집 (Client-side 필터링)"""
+    logger.info("조달청 나라장터 Open API 입찰공고 수집을 시작합니다.")
+    today = datetime.now()
+    start = today - timedelta(days=30)
+    end   = today + timedelta(days=1)
     date_fmt = "%Y%m%d%H%M"
+
+    all_bids = []
+    seen_ids = set()
     page = 1
-    num_rows = 100  # 페이지당 최대
+    num_rows = 999
 
     while True:
         body = call_api({
@@ -145,7 +149,6 @@ def fetch_bids_by_keyword(keyword: str, category: str,
             "pageNo": page,
             "bidNtceBgnDt": start.strftime(date_fmt),
             "bidNtceEndDt": end.strftime(date_fmt),
-            "bidNtceNm": keyword,
         })
 
         if not body:
@@ -168,98 +171,104 @@ def fetch_bids_by_keyword(keyword: str, category: str,
             if not title:
                 continue
 
-            bids.append({
-                "id":           f"g2b-api-{abs(hash(bid_no + title))}",
-                "title":        title,
-                "organization": org or ntce_org,
-                "start":        datetime.now().isoformat(),
-                "deadline":     _parse_date(deadline),
-                "category":     _keyword_to_category(title) or category,
-                "source":       "gov",
-                "url":          bid_url,
-                "description":  f"수요기관: {org} | 공고번호: {bid_no}",
-            })
+            matched_category = None
+            for kw_info in TARGET_KEYWORDS:
+                if kw_info["keyword"].lower() in title.lower():
+                    matched_category = kw_info["category"]
+                    break
+            
+            if matched_category:
+                bid_id = f"g2b-api-{abs(hash(bid_no + title))}"
+                if bid_id not in seen_ids:
+                    seen_ids.add(bid_id)
+                    all_bids.append({
+                        "id":           bid_id,
+                        "title":        title,
+                        "organization": org or ntce_org,
+                        "start":        datetime.now().isoformat(),
+                        "deadline":     _parse_date(deadline),
+                        "category":     matched_category,
+                        "source":       "gov",
+                        "url":          bid_url,
+                        "description":  f"수요기관: {org} | 공고번호: {bid_no}",
+                    })
 
         collected = page * num_rows
-        logger.info(f"  '{keyword}': {min(collected, total)}/{total}건 (수집 {len(bids)}건)")
+        if page % 5 == 0:
+            logger.info(f"  API 진행률: {min(collected, total)}/{total}건 탐색 완료 (현재 매칭: {len(all_bids)}건)")
 
-        # 최대 건수 제한 또는 마지막 페이지
-        if collected >= min(total, max_results) or len(items) < num_rows:
+        if collected >= total or len(items) < num_rows:
             break
         page += 1
         time.sleep(0.3)
 
-    return bids
-
-
-
-def fetch_bids_from_koneps() -> list:
-    """전체 리서치 키워드로 나라장터 API 수집"""
-    logger.info("조달청 나라장터 Open API 입찰공고 수집을 시작합니다.")
-    today = datetime.now()
-    start = today - timedelta(days=1)
-    end   = today + timedelta(days=30)     # API 허용 범위 내
-
-    all_bids = []
-    for kw_info in TARGET_KEYWORDS:
-        kw  = kw_info["keyword"]
-        cat = kw_info["category"]
-        bids = fetch_bids_by_keyword(kw, cat, start, end)
-        all_bids.extend(bids)
-        time.sleep(0.5)
-
-    # 중복 제거 (title+org 기준)
-    seen = {}
-    for b in all_bids:
-        key = b["title"] + b["organization"]
-        if key not in seen:
-            seen[key] = b
-    unique = list(seen.values())
-    logger.info(f"나라장터 API 총 {len(unique)}건 수집 완료 (중복 제거 후)")
-    return unique
+    logger.info(f"나라장터 API 총 {len(all_bids)}건 수집 완료 (필터링 후)")
+    return all_bids
 
 
 def fetch_sejong_bids_from_koneps() -> list:
     """세종시 산하기관 입찰 수집 (dmndInsttNm='세종' 키워드로 필터)"""
     logger.info("세종시 산하기관 입찰공고 수집을 시작합니다.")
     today = datetime.now()
-    start = today - timedelta(days=1)
-    end   = today + timedelta(days=30)
+    start = today - timedelta(days=30)
+    end   = today + timedelta(days=1)
     date_fmt = "%Y%m%d%H%M"
 
-    body = call_api({
-        "numOfRows": 100,
-        "pageNo": 1,
-        "bidNtceBgnDt": start.strftime(date_fmt),
-        "bidNtceEndDt": end.strftime(date_fmt),
-    })
-
-    if not body:
-        return []
-
-    items = _extract_items(body)
     sejong_bids = []
-    for item in items:
-        org = item.get("dmndInsttNm") or item.get("ntceInsttNm") or ""
-        if not any(s in org for s in SEJONG_ORGS):
-            continue
-        title    = item.get("bidNtceNm") or ""
-        deadline = item.get("bidClseDate") or ""
-        bid_no   = item.get("bidNtceNo") or ""
-        bid_url  = item.get("bidNtceUrl") or "https://www.g2b.go.kr/"
-        if not title:
-            continue
-        sejong_bids.append({
-            "id":           f"g2b-sejong-{abs(hash(bid_no + title))}",
-            "title":        title,
-            "organization": org,
-            "start":        datetime.now().isoformat(),
-            "deadline":     _parse_date(deadline),
-            "category":     "sejong",
-            "source":       "gov",
-            "url":          bid_url,
-            "description":  f"세종시 산하기관 입찰 | 수요기관: {org}",
+    seen_ids = set()
+    page = 1
+    num_rows = 999
+
+    while True:
+        body = call_api({
+            "numOfRows": num_rows,
+            "pageNo": page,
+            "bidNtceBgnDt": start.strftime(date_fmt),
+            "bidNtceEndDt": end.strftime(date_fmt),
         })
+
+        if not body:
+            break
+
+        items = _extract_items(body)
+        total = int(body.get("totalCount") or 0)
+
+        if not items:
+            break
+
+        for item in items:
+            org = item.get("dmndInsttNm") or item.get("ntceInsttNm") or ""
+            if not any(s in org for s in SEJONG_ORGS):
+                continue
+                
+            title    = item.get("bidNtceNm") or ""
+            deadline = item.get("bidClseDate") or ""
+            bid_no   = item.get("bidNtceNo") or ""
+            bid_url  = item.get("bidNtceUrl") or "https://www.g2b.go.kr/"
+            
+            if not title:
+                continue
+
+            bid_id = f"g2b-sejong-{abs(hash(bid_no + title))}"
+            if bid_id not in seen_ids:
+                seen_ids.add(bid_id)
+                sejong_bids.append({
+                    "id":           bid_id,
+                    "title":        title,
+                    "organization": org,
+                    "start":        datetime.now().isoformat(),
+                    "deadline":     _parse_date(deadline),
+                    "category":     "sejong",
+                    "source":       "gov",
+                    "url":          bid_url,
+                    "description":  f"세종시 산하기관 입찰 | 수요기관: {org}",
+                })
+
+        collected = page * num_rows
+        if collected >= total or len(items) < num_rows:
+            break
+        page += 1
+        time.sleep(0.3)
 
     logger.info(f"세종시 산하기관 입찰 {len(sejong_bids)}건 수집 완료")
     return sejong_bids

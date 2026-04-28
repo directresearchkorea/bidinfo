@@ -122,3 +122,27 @@ if __name__ == "__main__":
         logger.info("업데이트 결과 보고 이메일이 전송되었습니다.")
     except Exception as e:
         logger.error(f"이메일 전송 실패: {e}")
+
+    # 6. '게임', '유저' 키워드 특별 알림
+    target_keywords = ["게임", "유저"]
+    target_bids = []
+    
+    # koneps_bids에서만 찾기 (나라장터 조달청 정보)
+    if 'koneps_bids' in locals():
+        for bid in koneps_bids:
+            title = bid.get("title", "")
+            if any(k in title for k in target_keywords):
+                target_bids.append(bid)
+                
+    if target_bids:
+        target_bids_content = "\n\n".join([f"- 공고명: {b['title']}\n  수요기관: {b['organization']}\n  마감일: {b['deadline'][:10] if b.get('deadline') else ''}\n  URL: {b['url']}" for b in target_bids])
+        try:
+            send_update_report(
+                content=target_bids_content,
+                receiver="yourfriendjay@gmail.com",
+                subject="[알림] '게임' 또는 '유저' 관련 신규 입찰 공고",
+                body_prefix="조달청(나라장터)에 '게임' 또는 '유저' 키워드가 포함된 신규 입찰 공고가 수집되었습니다."
+            )
+            logger.info("'게임'/'유저' 관련 알림 이메일이 yourfriendjay@gmail.com 으로 전송되었습니다.")
+        except Exception as e:
+            logger.error(f"'게임'/'유저' 관련 알림 이메일 전송 실패: {e}")
