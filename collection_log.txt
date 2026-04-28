@@ -1242,3 +1242,6 @@ Running Automatic Bid Collection at 2026-04-27  7:00:00.99
 2026-04-27 07:00:37,075 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
 이메일 발송 성공!
 Finished at 2026-04-27  7:00:37.10 
+Running Automatic Bid Collection at 2026-04-29  7:00:01.00 
+2026-04-29 07:00:01,279 - KONEPS - INFO - 입찰/RFP 정보 자동 수집 사이클을 시작합니다.
+2026-04-29 07:00:01,279 - KONEPS - INFO - 조달청 나라장터 Open API 입찰공고 수집을 시작합니다.
