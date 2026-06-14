@@ -66,3 +66,10 @@ Running Weekly Summary Email Dispatch at 2026-06-05  9:00:00.71
     ^^^^^^
 SyntaxError: 'return' outside function
 Finished at 2026-06-05  9:00:00.79 
+======================================== 
+Running Weekly Summary Email Dispatch at 2026-06-12  9:00:00.92 
+  File "C:\Users\ggamy\OneDrive\Desktop\zBidInfo\execution\send_weekly_summary.py", line 87
+    return
+    ^^^^^^
+SyntaxError: 'return' outside function
+Finished at 2026-06-12  9:00:00.99 
