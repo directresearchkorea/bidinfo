@@ -76,6 +76,14 @@ if __name__ == "__main__":
     # 3. 데이터 병합 및 UI 업데이트
     update_event_data_js(all_bids)
     
+    # SQLite에 수집된 모든 입찰 저장 (새로운 공고만 기록됨)
+    from execution.db_utils import save_bids_to_db
+    try:
+        new_bids_count = save_bids_to_db(all_bids)
+        logger.info(f"SQLite DB에 {new_bids_count}개의 새로운 입찰 정보가 저장되었습니다.")
+    except Exception as e:
+        logger.error(f"SQLite DB 저장 실패: {e}\n{traceback.format_exc()}")
+    
     # 4. 자동 Git 커밋 및 GitHub 배포
     logger.info("GitHub Pages 자동 배포(Push)를 시작합니다...")
     push_status = "확인되지 않음"
@@ -110,7 +118,7 @@ if __name__ == "__main__":
 - 나라장터 (세종시): {len(sejong_bids) if 'sejong_bids' in locals() else 0}건
 - 글로벌 RFP: {len(global_bids) if 'global_bids' in locals() else 0}건
 ---------------------------------------------------
-총합계: {len(all_bids)}건 업데이트 됨
+총합계: {len(all_bids)}건 업데이트 됨 (DB 신규 저장: {new_bids_count if 'new_bids_count' in locals() else 0}건)
 
 [배포 상태]
 {push_status}
@@ -122,27 +130,3 @@ if __name__ == "__main__":
         logger.info("업데이트 결과 보고 이메일이 전송되었습니다.")
     except Exception as e:
         logger.error(f"이메일 전송 실패: {e}")
-
-    # 6. '게임', '유저' 키워드 특별 알림
-    target_keywords = ["게임", "유저"]
-    target_bids = []
-    
-    # koneps_bids에서만 찾기 (나라장터 조달청 정보)
-    if 'koneps_bids' in locals():
-        for bid in koneps_bids:
-            title = bid.get("title", "")
-            if any(k in title for k in target_keywords):
-                target_bids.append(bid)
-                
-    if target_bids:
-        target_bids_content = "\n\n".join([f"- 공고명: {b['title']}\n  수요기관: {b['organization']}\n  마감일: {b['deadline'][:10] if b.get('deadline') else ''}\n  URL: {b['url']}" for b in target_bids])
-        try:
-            send_update_report(
-                content=target_bids_content,
-                receiver="yourfriendjay@gmail.com",
-                subject="[알림] '게임' 또는 '유저' 관련 신규 입찰 공고",
-                body_prefix="조달청(나라장터)에 '게임' 또는 '유저' 키워드가 포함된 신규 입찰 공고가 수집되었습니다."
-            )
-            logger.info("'게임'/'유저' 관련 알림 이메일이 yourfriendjay@gmail.com 으로 전송되었습니다.")
-        except Exception as e:
-            logger.error(f"'게임'/'유저' 관련 알림 이메일 전송 실패: {e}")

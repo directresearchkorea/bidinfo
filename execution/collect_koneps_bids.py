@@ -39,6 +39,7 @@ TARGET_KEYWORDS = [
     {"keyword": "행사",       "category": "event"},
     {"keyword": "게임",       "category": "game"},
     {"keyword": "유저",       "category": "user"},
+    {"keyword": "ai",         "category": "ai"},
 ]
 
 SEJONG_ORGS = [
@@ -51,7 +52,7 @@ KEYWORD_CATEGORY_MAP = {
     "UX리서치": "user", "UX연구": "user", "만족도조사": "consumer",
     "사회조사": "social", "패널조사": "panel", "리서치": "research",
     "설문조사": "consumer", "전시회": "exhibition", "행사": "event",
-    "게임": "game", "유저": "user",
+    "게임": "game", "유저": "user", "ai": "ai",
 }
 
 
