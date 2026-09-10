@@ -1,10 +1,10 @@
-// 자동 업데이트 시각: 2026-09-09 07:05:47
+// 자동 업데이트 시각: 2026-09-11 07:05:24
 const bidEvents = [
     {
-        "id": "g2b-api-7928309436144789254",
+        "id": "g2b-api-839077723573128911",
         "title": "2026 이천 모두의 일자리박람회 행사 용역",
         "organization": "경기도 이천시",
-        "start": "2026-09-09T07:00:07.394317",
+        "start": "2026-09-11T07:00:06.760198",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -12,10 +12,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 이천시 | 공고번호: R26BK01712267"
     },
     {
-        "id": "g2b-api-6608052602814914116",
+        "id": "g2b-api-4470109572749916032",
         "title": "전남고등학교 AI 융합형 교육실 전기공사 수의계약 안내 공고",
         "organization": "전남광주통합특별시교육청 전남고등학교",
-        "start": "2026-09-09T07:00:07.397317",
+        "start": "2026-09-11T07:00:06.763903",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -23,10 +23,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시교육청 전남고등학교 | 공고번호: R26BK01685140"
     },
     {
-        "id": "g2b-api-8815446594090543076",
+        "id": "g2b-api-7582813017606127406",
         "title": "전남고등학교 AI 융합형 교육실 건축 및 기계설비공사 수의계약 안내 공고",
         "organization": "전남광주통합특별시교육청 전남고등학교",
-        "start": "2026-09-09T07:00:07.397317",
+        "start": "2026-09-11T07:00:06.763903",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -34,10 +34,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시교육청 전남고등학교 | 공고번호: R26BK01684842"
     },
     {
-        "id": "g2b-api-1822547050098522678",
+        "id": "g2b-api-5332321267886598218",
         "title": "DX-SPARK 2040 직무교육(생성형 AI 활용 기획 관리 및 상품화 전략) 운영",
         "organization": "부산과학기술대학교 산학협력단",
-        "start": "2026-09-09T07:00:07.397317",
+        "start": "2026-09-11T07:00:06.763903",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -45,21 +45,21 @@ const bidEvents = [
         "description": "수요기관: 부산과학기술대학교 산학협력단 | 공고번호: R26BK01679018"
     },
     {
-        "id": "g2b-api-3230759493649952442",
+        "id": "g2b-api-5450713611294414063",
         "title": "2026 진주실크박람회 행사 대행 용역",
         "organization": "한국실크연구원",
-        "start": "2026-09-09T07:00:07.397317",
-        "deadline": "2026-10-09T07:00:07.397317",
+        "start": "2026-09-11T07:00:06.763903",
+        "deadline": "2026-10-11T07:00:06.763903",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690064&bidPbancOrd=000",
         "description": "수요기관: 한국실크연구원 | 공고번호: R26BK01690064"
     },
     {
-        "id": "g2b-api-162156349678832545",
+        "id": "g2b-api-59038353753070677",
         "title": "AI 특화 공동훈련센터 휴머노이드 로봇 실습장비 구축",
         "organization": "한국로봇융합연구원",
-        "start": "2026-09-09T07:00:07.397317",
+        "start": "2026-09-11T07:00:06.764901",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -67,32 +67,32 @@ const bidEvents = [
         "description": "수요기관: 한국로봇융합연구원 | 공고번호: R26BK01683311"
     },
     {
-        "id": "g2b-api-583951256852232623",
-        "title": "LED 디스플레이 모듈용 온디바이스 AI 예지보전 하드웨어 보드 세트",
-        "organization": "한국광기술원",
-        "start": "2026-09-09T07:00:07.398317",
-        "deadline": "2026-08-12T00:00:00",
+        "id": "g2b-api-7976923915153738665",
+        "title": "수실류로봇 AI 모델 개발 및 검증을 위한 서버 시스템 구축",
+        "organization": "한국로봇융합연구원",
+        "start": "2026-09-11T07:00:06.764901",
+        "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677907&bidPbancOrd=000",
-        "description": "수요기관: 한국광기술원 | 공고번호: R26BK01677907"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723264&bidPbancOrd=000",
+        "description": "수요기관: 한국로봇융합연구원 | 공고번호: R26BK01723264"
     },
     {
-        "id": "g2b-api-4917500891540763372",
+        "id": "g2b-api-4197685769126298450",
         "title": "사무용품 MRO(Maintenance, Repair and Operation) 구매 단가계약",
         "organization": "인제대학교",
-        "start": "2026-09-09T07:00:07.398317",
-        "deadline": "2026-10-09T07:00:07.398317",
+        "start": "2026-09-11T07:00:06.764901",
+        "deadline": "2026-10-11T07:00:06.764901",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674456&bidPbancOrd=000",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674456&bidPbancOrd=001",
         "description": "수요기관: 인제대학교 | 공고번호: R26BK01674456"
     },
     {
-        "id": "g2b-api-7988966097314120867",
+        "id": "g2b-api-5267796588447018577",
         "title": "동해지방해양경찰청 포항광역VTS 개국식 행사 대행 용역",
         "organization": "해양경찰청 동해지방해양경찰청",
-        "start": "2026-09-09T07:00:07.398317",
+        "start": "2026-09-11T07:00:06.764901",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -100,10 +100,10 @@ const bidEvents = [
         "description": "수요기관: 해양경찰청 동해지방해양경찰청 | 공고번호: R26BK01668313"
     },
     {
-        "id": "g2b-api-8499915587009823058",
+        "id": "g2b-api-6905086219777185748",
         "title": "AI 기반 공항 안내 키오스크 구매설치",
         "organization": "한국공항공사",
-        "start": "2026-09-09T07:00:07.403325",
+        "start": "2026-09-11T07:00:06.766926",
         "deadline": "2026-10-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -111,10 +111,10 @@ const bidEvents = [
         "description": "수요기관: 한국공항공사 | 공고번호: R26BK01692718"
     },
     {
-        "id": "g2b-api-502453862230318541",
+        "id": "g2b-api-3716764693648256365",
         "title": "2026년 제야의 종 타종행사 대행 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:00:07.403325",
+        "start": "2026-09-11T07:00:06.766926",
         "deadline": "2026-09-17T00:00:00",
         "category": "event",
         "source": "gov",
@@ -122,10 +122,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01699651"
     },
     {
-        "id": "g2b-api-3959387098102211599",
+        "id": "g2b-api-8115560866628734054",
         "title": "2026 한이음 드림업 성과공유회 행사 기획 및 운영 용역",
         "organization": "(사)한국정보산업연합회",
-        "start": "2026-09-09T07:00:07.403325",
+        "start": "2026-09-11T07:00:06.766926",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -133,10 +133,10 @@ const bidEvents = [
         "description": "수요기관: (사)한국정보산업연합회 | 공고번호: R26BK01690181"
     },
     {
-        "id": "g2b-api-8162208770574051353",
+        "id": "g2b-api-7796754146387025843",
         "title": "2026학년도 부구중학교 진로탐방 및 AI디지털체험학습 위탁 용역",
         "organization": "경상북도교육청 경상북도울진교육지원청 부구중학교",
-        "start": "2026-09-09T07:00:07.403325",
+        "start": "2026-09-11T07:00:06.767942",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -144,10 +144,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도교육청 경상북도울진교육지원청 부구중학교 | 공고번호: R26BK01705234"
     },
     {
-        "id": "g2b-api-2871481974085826709",
+        "id": "g2b-api-5257817301263888938",
         "title": "2026학년도 양산인공지능고등학교 AI자동제어시스템과 실험실습기자재 구입 ",
         "organization": "경상남도교육청 양산인공지능고등학교",
-        "start": "2026-09-09T07:00:07.403325",
+        "start": "2026-09-11T07:00:06.767942",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -155,21 +155,21 @@ const bidEvents = [
         "description": "수요기관: 경상남도교육청 양산인공지능고등학교 | 공고번호: R26BK01685658"
     },
     {
-        "id": "g2b-api-707982529086329570",
+        "id": "g2b-api-5641503426489805216",
         "title": "2027 삼척해변 카운트다운 행사 대행 용역",
         "organization": "강원특별자치도 삼척시",
-        "start": "2026-09-09T07:00:07.404333",
-        "deadline": "2026-10-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.767942",
+        "deadline": "2026-10-11T07:00:06.767942",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686169&bidPbancOrd=000",
         "description": "수요기관: 강원특별자치도 삼척시 | 공고번호: R26BK01686169"
     },
     {
-        "id": "g2b-api-2166938838128926455",
+        "id": "g2b-api-6874562487495140019",
         "title": "제29회 지역활성화를 위한 찾아가는 「함성」 연계 유리상자와 떠나는 MT(Music Talk) 행사 대행 용역",
         "organization": "강원특별자치도 삼척시",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.767942",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -177,10 +177,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 삼척시 | 공고번호: R26BK01690033"
     },
     {
-        "id": "g2b-api-4634276102470675275",
+        "id": "g2b-api-3589786030510219188",
         "title": "제29회 지역활성화를 위한 찾아가는 「함성」 연계 유리상자와 떠나는 MT(Music Talk) 행사 대행 용역",
         "organization": "강원특별자치도 삼척시",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -188,10 +188,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 삼척시 | 공고번호: R26BK01692385"
     },
     {
-        "id": "g2b-api-1166642780981977115",
+        "id": "g2b-api-7946531872073360462",
         "title": "피지컬AI공장 교육훈련장비(Fermenter) 구매",
         "organization": "한국폴리텍I대학성남캠퍼스",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -199,10 +199,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍I대학성남캠퍼스 | 공고번호: R26BK01689016"
     },
     {
-        "id": "g2b-api-5540193414203101399",
+        "id": "g2b-api-6506989302216284618",
         "title": "피지컬AI공장 교육훈련장비(단백질액체크로마토그래피) 구매",
         "organization": "한국폴리텍I대학성남캠퍼스",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -210,10 +210,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍I대학성남캠퍼스 | 공고번호: R26BK01689568"
     },
     {
-        "id": "g2b-api-4687911404870887959",
+        "id": "g2b-api-6988423568770335335",
         "title": "치안정책연구소 AI기반 보이스피싱 수사지원 시스템 개발 용역 (수의시담)",
         "organization": "경찰청 경찰대학",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -221,21 +221,21 @@ const bidEvents = [
         "description": "수요기관: 경찰청 경찰대학 | 공고번호: R26BK01690016"
     },
     {
-        "id": "g2b-api-8132195139689357377",
+        "id": "g2b-api-7251192035111640944",
         "title": "2026 광주국제미술전람회 아트광주 본행사 운영 대행 용역 제안서 제출 안내 공고(협상)",
         "organization": "재단법인 광주광역시 광주문화재단",
-        "start": "2026-09-09T07:00:07.404333",
-        "deadline": "2026-10-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
+        "deadline": "2026-10-11T07:00:06.768951",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698437&bidPbancOrd=000",
         "description": "수요기관: 재단법인 광주광역시 광주문화재단 | 공고번호: R26BK01698437"
     },
     {
-        "id": "g2b-api-6632526634950878872",
+        "id": "g2b-api-2815343913818792515",
         "title": "AI학습과 추론을 위한 GPU 서버 공고",
         "organization": "아이피지오토모티브코리아 유한회사",
-        "start": "2026-09-09T07:00:07.404333",
+        "start": "2026-09-11T07:00:06.768951",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -243,21 +243,21 @@ const bidEvents = [
         "description": "수요기관: 아이피지오토모티브코리아 유한회사 | 공고번호: R26BK01713479"
     },
     {
-        "id": "g2b-api-8805735555642300801",
+        "id": "g2b-api-3633440534982916077",
         "title": "(긴급) AI 교육 인프라 – 고성능 워크스테이션·교육용 노트북 AI 교육 시스템 환경 구축",
         "organization": "주식회사 마음에이아이",
-        "start": "2026-09-09T07:00:07.406334",
-        "deadline": "2026-10-09T07:00:07.406334",
+        "start": "2026-09-11T07:00:06.768951",
+        "deadline": "2026-10-11T07:00:06.768951",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717118&bidPbancOrd=001",
         "description": "수요기관: 주식회사 마음에이아이 | 공고번호: R26BK01717118"
     },
     {
-        "id": "g2b-api-1938593700280616747",
+        "id": "g2b-api-924640058452932432",
         "title": "한국수중발굴 50주년 기념행사 물품 구매",
         "organization": "국가유산청 국립해양유산연구소",
-        "start": "2026-09-09T07:00:07.406843",
+        "start": "2026-09-11T07:00:06.769950",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -265,10 +265,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 국립해양유산연구소 | 공고번호: R26BK01712617"
     },
     {
-        "id": "g2b-api-7998895354207381693",
+        "id": "g2b-api-4798159060725026532",
         "title": "2026년 부산 가든쇼 행사장 기반 정비 및 조경공사",
         "organization": "부산광역시",
-        "start": "2026-09-09T07:00:07.406843",
+        "start": "2026-09-11T07:00:06.769950",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -276,10 +276,10 @@ const bidEvents = [
         "description": "수요기관: 부산광역시 | 공고번호: R26BK01712495"
     },
     {
-        "id": "g2b-api-7561651854563415093",
+        "id": "g2b-api-7050599839436033933",
         "title": "AI 기반 전공 탐색 및 학업설계 통합 플랫폼(1단계) 구축",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:00:07.406843",
+        "start": "2026-09-11T07:00:06.769950",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -287,10 +287,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01680386"
     },
     {
-        "id": "g2b-api-1481639127013849798",
+        "id": "g2b-api-4552974426828862107",
         "title": "2026년 설악산국립공원사무소 탐방안내소 AI통번역기 구매",
         "organization": "국립공원공단 설악산국립공원사무소",
-        "start": "2026-09-09T07:00:07.406843",
+        "start": "2026-09-11T07:00:06.770950",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -298,10 +298,10 @@ const bidEvents = [
         "description": "수요기관: 국립공원공단 설악산국립공원사무소 | 공고번호: R26BK01715513"
     },
     {
-        "id": "g2b-api-2923123554026725404",
+        "id": "g2b-api-600512692968064256",
         "title": "2026년 제36회 율곡문화제 행사 운영 용역",
         "organization": "재단법인파주문화재단",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -309,32 +309,32 @@ const bidEvents = [
         "description": "수요기관: 재단법인파주문화재단 | 공고번호: R26BK01706005"
     },
     {
-        "id": "g2b-api-5098019016944488598",
+        "id": "g2b-api-7158639453936687048",
         "title": "[재공고]경희사이버대학교 AI 강의 교안 제작 시스템 및 생성형 AI 구축 용역 업체 선정 (제2026-4호)",
         "organization": "경희사이버대학교",
-        "start": "2026-09-09T07:00:07.407850",
-        "deadline": "2026-10-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
+        "deadline": "2026-10-11T07:00:06.770950",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714056&bidPbancOrd=000",
         "description": "수요기관: 경희사이버대학교 | 공고번호: R26BK01714056"
     },
     {
-        "id": "g2b-api-3188305946187153321",
+        "id": "g2b-api-4162177329994582166",
         "title": "경희사이버대학교 AI 강의 교안 제작 시스템 및 생성형 AI 구축 용역 업체 선정 (제2026-4호)",
         "organization": "경희사이버대학교",
-        "start": "2026-09-09T07:00:07.407850",
-        "deadline": "2026-10-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
+        "deadline": "2026-10-11T07:00:06.770950",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689897&bidPbancOrd=000",
         "description": "수요기관: 경희사이버대학교 | 공고번호: R26BK01689897"
     },
     {
-        "id": "g2b-api-3796576401376960710",
+        "id": "g2b-api-8088818698366713833",
         "title": "2026년 제9회 제주광어대축제 행사용역입찰(무대기획,물품)",
         "organization": "제주어류양식수산업협동조합",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -342,10 +342,10 @@ const bidEvents = [
         "description": "수요기관: 제주어류양식수산업협동조합 | 공고번호: R26BK01683962"
     },
     {
-        "id": "g2b-api-8507023948122160555",
+        "id": "g2b-api-11924899217996672",
         "title": "2026년 제9회 제주광어대축제 행사용역입찰",
         "organization": "제주어류양식수산업협동조합",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -353,10 +353,10 @@ const bidEvents = [
         "description": "수요기관: 제주어류양식수산업협동조합 | 공고번호: R26BK01683962"
     },
     {
-        "id": "g2b-api-377533151023638221",
+        "id": "g2b-api-8695142025427934415",
         "title": "2026 홈케어·재활·복지전시회 공동관 조성 및 운영 용역",
         "organization": "재단법인 한국에이아이의료헬스케어연구원",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
         "deadline": "2026-09-18T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -364,21 +364,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 한국에이아이의료헬스케어연구원 | 공고번호: R26BK01717266"
     },
     {
-        "id": "g2b-api-6989292900046911458",
+        "id": "g2b-api-9011551870855377974",
         "title": "식품로봇 연계 AI 레시피 Agent 개발 및 데이터 기반 고도화 플랫폼 구축 용역",
         "organization": "사단법인 경북아이씨티융합산업진흥협회",
-        "start": "2026-09-09T07:00:07.407850",
-        "deadline": "2026-10-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.770950",
+        "deadline": "2026-10-11T07:00:06.770950",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705661&bidPbancOrd=000",
         "description": "수요기관: 사단법인 경북아이씨티융합산업진흥협회 | 공고번호: R26BK01705661"
     },
     {
-        "id": "g2b-api-3011884565603899816",
+        "id": "g2b-api-2894734402674266546",
         "title": "(정정공고)AirBRS 고도화 사업",
         "organization": "인천국제공항공사",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.772131",
         "deadline": "2026-09-30T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -386,10 +386,10 @@ const bidEvents = [
         "description": "수요기관: 인천국제공항공사 | 공고번호: R26BK01681065"
     },
     {
-        "id": "g2b-api-8776888271245648919",
+        "id": "g2b-api-7596094405111507372",
         "title": "AirBRS 고도화 사업",
         "organization": "인천국제공항공사",
-        "start": "2026-09-09T07:00:07.407850",
+        "start": "2026-09-11T07:00:06.772131",
         "deadline": "2026-09-23T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -397,10 +397,10 @@ const bidEvents = [
         "description": "수요기관: 인천국제공항공사 | 공고번호: R26BK01681065"
     },
     {
-        "id": "g2b-api-3879441768481551791",
+        "id": "g2b-api-569513900471350875",
         "title": "Korea Premium Weeks, Sub-week 행사 대행 용역",
         "organization": "(주)한국거래소",
-        "start": "2026-09-09T07:00:14.788071",
+        "start": "2026-09-11T07:00:13.274563",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -408,10 +408,10 @@ const bidEvents = [
         "description": "수요기관: (주)한국거래소 | 공고번호: R26BK01704683"
     },
     {
-        "id": "g2b-api-3584474376028035270",
+        "id": "g2b-api-8976505732463072616",
         "title": "2026 전남대학교 용봉학술제 G-Fair",
         "organization": "전남대학교",
-        "start": "2026-09-09T07:00:14.789106",
+        "start": "2026-09-11T07:00:13.275572",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -419,10 +419,10 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 | 공고번호: R26BK01683056"
     },
     {
-        "id": "g2b-api-7164724566266975002",
+        "id": "g2b-api-1958345731289953054",
         "title": "2026년도 RnD 특화 LLM 성능 개선과 NTIS IRIS AI 서비스 고도화 위탁감리 사업",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:00:14.789106",
+        "start": "2026-09-11T07:00:13.275572",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -430,10 +430,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01690465"
     },
     {
-        "id": "g2b-api-4801931873649892095",
+        "id": "g2b-api-3085417121723533278",
         "title": "AI 설계 에이전트 인터페이스 설계 및 도메인 지식 수집과 정제",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:00:14.789106",
+        "start": "2026-09-11T07:00:13.275572",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -441,10 +441,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01682812"
     },
     {
-        "id": "g2b-api-7296036414649480138",
+        "id": "g2b-api-6475598737467699171",
         "title": "군 장병 맞춤형 AI 교육 서비스 개발",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:00:14.789106",
+        "start": "2026-09-11T07:00:13.275572",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -452,10 +452,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01714799"
     },
     {
-        "id": "g2b-api-3993917883152457302",
+        "id": "g2b-api-2630422765521299075",
         "title": "K-Format Lab 개발 포맷 생성형 AI 기반 트레일러 9편 제작",
         "organization": "주식회사 스페이스래빗",
-        "start": "2026-09-09T07:00:14.789732",
+        "start": "2026-09-11T07:00:13.276573",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -463,10 +463,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 스페이스래빗 | 공고번호: R26BK01719129"
     },
     {
-        "id": "g2b-api-2875721925404751912",
+        "id": "g2b-api-6589063775020956036",
         "title": "K-Format Lab 개발 포맷 생성형 AI 기반 트레일러 9편 제작",
         "organization": "주식회사 스페이스래빗",
-        "start": "2026-09-09T07:00:14.789732",
+        "start": "2026-09-11T07:00:13.276573",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -474,21 +474,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 스페이스래빗 | 공고번호: R26BK01683716"
     },
     {
-        "id": "g2b-api-9149311947268872681",
-        "title": "청년AI창업지원센터 조성 인테리어 디자인 및 실시설계",
-        "organization": "경기도 의정부시",
-        "start": "2026-09-09T07:00:14.790271",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675011&bidPbancOrd=000",
-        "description": "수요기관: 경기도 의정부시 | 공고번호: R26BK01675011"
-    },
-    {
-        "id": "g2b-api-1813942830390613289",
+        "id": "g2b-api-6676407044092994445",
         "title": "제14차 한-메콩 비즈니스 포럼 행사 대행 용역",
         "organization": "외교부",
-        "start": "2026-09-09T07:00:14.790795",
+        "start": "2026-09-11T07:00:13.278081",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -496,10 +485,21 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01680235"
     },
     {
-        "id": "g2b-api-1618012731016341902",
+        "id": "g2b-api-3717249731064207998",
+        "title": "외교행낭 탁송 대행사업(2027년~2028년)",
+        "organization": "외교부",
+        "start": "2026-09-11T07:00:13.278081",
+        "deadline": "2026-10-22T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721178&bidPbancOrd=000",
+        "description": "수요기관: 외교부 | 공고번호: R26BK01721178"
+    },
+    {
+        "id": "g2b-api-1095605620351276688",
         "title": "대내 생성형 AI 서비스 구축 사업 감리 용역",
         "organization": "한국해외인프라도시개발지원공사",
-        "start": "2026-09-09T07:00:14.790795",
+        "start": "2026-09-11T07:00:13.278081",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -507,10 +507,10 @@ const bidEvents = [
         "description": "수요기관: 한국해외인프라도시개발지원공사 | 공고번호: R26BK01688513"
     },
     {
-        "id": "g2b-api-5794662956050799141",
+        "id": "g2b-api-7990701799334992893",
         "title": "「AX활용역량 붐업 교육」 및 「사이버연수원 AI·디지털 분야(e러닝)」 위탁용역",
         "organization": "중소기업은행",
-        "start": "2026-09-09T07:00:14.790795",
+        "start": "2026-09-11T07:00:13.278081",
         "deadline": "2026-09-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -518,10 +518,10 @@ const bidEvents = [
         "description": "수요기관: 중소기업은행 | 공고번호: R26BK01686543"
     },
     {
-        "id": "g2b-api-3710582397643869463",
+        "id": "g2b-api-6394623854119444389",
         "title": "보문관광단지 Night Trail 조성 전기공사",
         "organization": "경상북도문화관광공사",
-        "start": "2026-09-09T07:00:14.791327",
+        "start": "2026-09-11T07:00:13.278081",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -529,10 +529,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도문화관광공사 | 공고번호: R26BK01691298"
     },
     {
-        "id": "g2b-api-9202084724617699751",
+        "id": "g2b-api-8604305421773371514",
         "title": "2026년 SW, AI 학생성장 글로벌 도전 캠프 위탁용역",
         "organization": "전북특별자치도교육청",
-        "start": "2026-09-09T07:00:14.791327",
+        "start": "2026-09-11T07:00:13.279081",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -540,10 +540,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도교육청 | 공고번호: R26BK01706711"
     },
     {
-        "id": "g2b-api-3630132803824108778",
+        "id": "g2b-api-7767584215194200623",
         "title": "해양수산 AI 응용제품 신속 상용화 지원사업 위탁정산",
         "organization": "해양수산과학기술진흥원",
-        "start": "2026-09-09T07:00:14.791327",
+        "start": "2026-09-11T07:00:13.279081",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -551,10 +551,10 @@ const bidEvents = [
         "description": "수요기관: 해양수산과학기술진흥원 | 공고번호: R26BK01706853"
     },
     {
-        "id": "g2b-api-4998388705526635308",
+        "id": "g2b-api-5618587630022508626",
         "title": "「2026 대덕든든 페스티벌」행사장 경비(경호) 및 교통 통제 용역",
         "organization": "대전광역시 대덕구",
-        "start": "2026-09-09T07:00:14.791858",
+        "start": "2026-09-11T07:00:13.279081",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -562,21 +562,10 @@ const bidEvents = [
         "description": "수요기관: 대전광역시 대덕구 | 공고번호: R26BK01689390"
     },
     {
-        "id": "g2b-api-254583001188963720",
-        "title": "2026년 대덕구 지역축제(행사) 다회용기 지원사업",
-        "organization": "대전광역시 대덕구",
-        "start": "2026-09-09T07:00:14.791858",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675067&bidPbancOrd=000",
-        "description": "수요기관: 대전광역시 대덕구 | 공고번호: R26BK01675067"
-    },
-    {
-        "id": "g2b-api-1723332996935470604",
+        "id": "g2b-api-6312968310280885159",
         "title": "「2026년 대덕든든페스티벌」행사장 시설 설치 운영 용역",
         "organization": "대전광역시 대덕구",
-        "start": "2026-09-09T07:00:14.791858",
+        "start": "2026-09-11T07:00:13.279081",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -584,10 +573,10 @@ const bidEvents = [
         "description": "수요기관: 대전광역시 대덕구 | 공고번호: R26BK01679999"
     },
     {
-        "id": "g2b-api-6835463821068886934",
+        "id": "g2b-api-4796590483856291407",
         "title": "2026년도 정보통신공사업 CEO전국대회 행사 용역",
         "organization": "한국정보통신공사협회",
-        "start": "2026-09-09T07:00:14.793894",
+        "start": "2026-09-11T07:00:13.281236",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -595,10 +584,10 @@ const bidEvents = [
         "description": "수요기관: 한국정보통신공사협회 | 공고번호: R26BK01683984"
     },
     {
-        "id": "g2b-api-6280041835601922209",
+        "id": "g2b-api-8550630070737122711",
         "title": "2026년도 정보통신공사업 CEO전국대회 행사 용역",
         "organization": "한국정보통신공사협회",
-        "start": "2026-09-09T07:00:14.794429",
+        "start": "2026-09-11T07:00:13.281236",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -606,21 +595,10 @@ const bidEvents = [
         "description": "수요기관: 한국정보통신공사협회 | 공고번호: R26BK01693170"
     },
     {
-        "id": "g2b-api-8399067516044022622",
-        "title": "2026학년도 온양권곡초등학교 AI중점학교 해커톤 프로그램 위탁용역",
-        "organization": "충청남도아산교육청 온양권곡초등학교",
-        "start": "2026-09-09T07:00:14.794429",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674835&bidPbancOrd=000",
-        "description": "수요기관: 충청남도아산교육청 온양권곡초등학교 | 공고번호: R26BK01674835"
-    },
-    {
-        "id": "g2b-api-7995235199784895251",
+        "id": "g2b-api-2118411487469871480",
         "title": "2026년 시립청소년도서관 「독서·문화 축제」 행사 용역",
         "organization": "강원특별자치도 춘천시 평생교육원",
-        "start": "2026-09-09T07:00:14.794429",
+        "start": "2026-09-11T07:00:13.281236",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -628,54 +606,32 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 춘천시 평생교육원 | 공고번호: R26BK01698531"
     },
     {
-        "id": "g2b-api-7339065518941908917",
+        "id": "g2b-api-2385081237659433097",
         "title": "「2026 국가대표 과학기술 창업사업화 대전」 행사 대행 용역",
         "organization": "재단법인과학기술사업화진흥원",
-        "start": "2026-09-09T07:00:14.794429",
-        "deadline": "2026-10-09T07:00:14.794429",
+        "start": "2026-09-11T07:00:13.281236",
+        "deadline": "2026-10-11T07:00:13.281236",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694170&bidPbancOrd=000",
         "description": "수요기관: 재단법인과학기술사업화진흥원 | 공고번호: R26BK01694170"
     },
     {
-        "id": "g2b-api-8492233719599310200",
+        "id": "g2b-api-5876277339954914482",
         "title": "2026 중국 광저우 국제 반려동물 및 관상어용품전시회 수출컨소시엄 장치입찰공고",
         "organization": "(사)한국펫산업수출협회",
-        "start": "2026-09-09T07:00:14.794962",
-        "deadline": "2026-10-09T07:00:14.794962",
+        "start": "2026-09-11T07:00:13.281236",
+        "deadline": "2026-10-11T07:00:13.281236",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01703635&bidPbancOrd=000",
         "description": "수요기관: (사)한국펫산업수출협회 | 공고번호: R26BK01703635"
     },
     {
-        "id": "g2b-api-5318266106949236445",
-        "title": "전북대학교병원 권역책임 의료기관 AI기반 진료시스템 지원사업(흉부질환 진단보조 소프트웨어)",
-        "organization": "전북대학교병원",
-        "start": "2026-09-09T07:00:14.794962",
-        "deadline": "2026-08-10T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01660773&bidPbancOrd=001",
-        "description": "수요기관: 전북대학교병원 | 공고번호: R26BK01660773"
-    },
-    {
-        "id": "g2b-api-2398671485379291813",
-        "title": "전북대학교병원 권역책임 의료기관 AI기반 진료시스템 지원사업(흉부질환 진단보조 소프트웨어)",
-        "organization": "전북대학교병원",
-        "start": "2026-09-09T07:00:14.794962",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677378&bidPbancOrd=000",
-        "description": "수요기관: 전북대학교병원 | 공고번호: R26BK01677378"
-    },
-    {
-        "id": "g2b-api-9149458302733406518",
+        "id": "g2b-api-8350763342495454452",
         "title": "LG Aimers 9기 클라우드 본선참가자 클라우드GPU제공",
         "organization": "데이콘 주식회사",
-        "start": "2026-09-09T07:00:14.795474",
+        "start": "2026-09-11T07:00:13.282240",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -683,10 +639,10 @@ const bidEvents = [
         "description": "수요기관: 데이콘 주식회사 | 공고번호: R26BK01705531"
     },
     {
-        "id": "g2b-api-415871576689773813",
+        "id": "g2b-api-6221735745681056548",
         "title": "LG Aimers 9기 오프라인 본선 행사용역",
         "organization": "데이콘 주식회사",
-        "start": "2026-09-09T07:00:14.795474",
+        "start": "2026-09-11T07:00:13.282240",
         "deadline": "2026-08-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -694,21 +650,10 @@ const bidEvents = [
         "description": "수요기관: 데이콘 주식회사 | 공고번호: R26BK01685814"
     },
     {
-        "id": "g2b-api-7857783633377336264",
-        "title": "울산과학기술원 AI모델 개발 그래픽카드 구매",
-        "organization": "울산과학기술원",
-        "start": "2026-09-09T07:00:14.796010",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676656&bidPbancOrd=000",
-        "description": "수요기관: 울산과학기술원 | 공고번호: R26BK01676656"
-    },
-    {
-        "id": "g2b-api-152524360168766045",
+        "id": "g2b-api-8347607141555818810",
         "title": "26-N-AI 브리핑 지원체계 구축",
         "organization": "해군군수사령부",
-        "start": "2026-09-09T07:00:14.796010",
+        "start": "2026-09-11T07:00:13.282240",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -716,32 +661,10 @@ const bidEvents = [
         "description": "수요기관: 해군군수사령부 | 공고번호: R26BK01680498"
     },
     {
-        "id": "g2b-api-2978349651918232751",
-        "title": "2026 AI 미래 꿈마당 위탁 용역",
-        "organization": "충청남도교육청 충청남도교육청교육과정평가정보원",
-        "start": "2026-09-09T07:00:22.141750",
-        "deadline": "2026-08-31T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674512&bidPbancOrd=000",
-        "description": "수요기관: 충청남도교육청 충청남도교육청교육과정평가정보원 | 공고번호: R26BK01674512"
-    },
-    {
-        "id": "g2b-api-3544528547409834158",
-        "title": "2026년 달성군 영유아 대축제 행사 용역",
-        "organization": "대구광역시 달성군",
-        "start": "2026-09-09T07:00:22.141750",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674546&bidPbancOrd=000",
-        "description": "수요기관: 대구광역시 달성군 | 공고번호: R26BK01674546"
-    },
-    {
-        "id": "g2b-api-8919601816728077718",
+        "id": "g2b-api-6720561942710741967",
         "title": "(재공고)2026년 달성군 영유아 대축제 행사 용역",
         "organization": "대구광역시 달성군",
-        "start": "2026-09-09T07:00:22.141750",
+        "start": "2026-09-11T07:00:19.004079",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -749,32 +672,21 @@ const bidEvents = [
         "description": "수요기관: 대구광역시 달성군 | 공고번호: R26BK01693731"
     },
     {
-        "id": "g2b-api-3613668105089429062",
-        "title": "2026년 논산시 저연차 공직자 적극행정 워크숍 행사 용역",
-        "organization": "충청남도 논산시",
-        "start": "2026-09-09T07:00:22.142938",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675205&bidPbancOrd=000",
-        "description": "수요기관: 충청남도 논산시 | 공고번호: R26BK01675205"
-    },
-    {
-        "id": "g2b-api-8393604128638155552",
+        "id": "g2b-api-1492478787215638403",
         "title": "미래 모빌리티 AI 훈련 로드맵 구축 용역",
         "organization": "한국지능형교통체계협회",
-        "start": "2026-09-09T07:00:22.143936",
-        "deadline": "2026-10-09T07:00:22.143936",
+        "start": "2026-09-11T07:00:19.006074",
+        "deadline": "2026-10-11T07:00:19.006074",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679974&bidPbancOrd=000",
         "description": "수요기관: 한국지능형교통체계협회 | 공고번호: R26BK01679974"
     },
     {
-        "id": "g2b-api-7223251479709630769",
+        "id": "g2b-api-7033213256941171850",
         "title": "2026년도 용산구립청파노인복지관 용산구 어르신여가문화행사 교육열차 용역",
         "organization": "청파노인복지관",
-        "start": "2026-09-09T07:00:22.143936",
+        "start": "2026-09-11T07:00:19.006074",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -782,10 +694,10 @@ const bidEvents = [
         "description": "수요기관: 청파노인복지관 | 공고번호: R26BK01693485"
     },
     {
-        "id": "g2b-api-5434506940363450310",
+        "id": "g2b-api-8754037279145422545",
         "title": "지역AI신뢰성 허브조성 및 확산 생태계 전략수립 용역",
         "organization": "재단법인 전주정보문화산업진흥원",
-        "start": "2026-09-09T07:00:22.143936",
+        "start": "2026-09-11T07:00:19.006074",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -793,21 +705,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 전주정보문화산업진흥원 | 공고번호: R26BK01682510"
     },
     {
-        "id": "g2b-api-5001953415960937493",
+        "id": "g2b-api-4259620353712436201",
         "title": "안서 유니브시티 AI 미디어 창업 스튜디오 비품 구입",
         "organization": "백석문화대학교 산학협력단",
-        "start": "2026-09-09T07:00:22.144936",
-        "deadline": "2026-10-09T07:00:22.144936",
+        "start": "2026-09-11T07:00:19.007075",
+        "deadline": "2026-10-11T07:00:19.007075",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692306&bidPbancOrd=000",
         "description": "수요기관: 백석문화대학교 산학협력단 | 공고번호: R26BK01692306"
     },
     {
-        "id": "g2b-api-2677553547163024936",
+        "id": "g2b-api-8738806483407855382",
         "title": "한국소비자원 2026년 소비자 설문조사(수의시담)",
         "organization": "한국소비자원",
-        "start": "2026-09-09T07:00:22.144936",
+        "start": "2026-09-11T07:00:19.007075",
         "deadline": "2026-08-24T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -815,10 +727,10 @@ const bidEvents = [
         "description": "수요기관: 한국소비자원 | 공고번호: R26BK01693306"
     },
     {
-        "id": "g2b-api-2392525592182700596",
+        "id": "g2b-api-1090830256722992830",
         "title": "2026년 제12회 군포독서대전 행사 대행 용역",
         "organization": "경기도 군포시",
-        "start": "2026-09-09T07:00:22.144936",
+        "start": "2026-09-11T07:00:19.007075",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -826,10 +738,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 군포시 | 공고번호: R26BK01709460"
     },
     {
-        "id": "g2b-api-8768074401331065807",
+        "id": "g2b-api-725661578953536208",
         "title": "차세대반도체 혁신융합대학 2026 CO-SHOW 행사 기획·설치·운영 용역_PA202601858",
         "organization": "서울대학교산학협력단",
-        "start": "2026-09-09T07:00:22.144936",
+        "start": "2026-09-11T07:00:19.008074",
         "deadline": "2026-10-12T00:00:00",
         "category": "event",
         "source": "gov",
@@ -837,10 +749,10 @@ const bidEvents = [
         "description": "수요기관: 서울대학교산학협력단 | 공고번호: R26BK01708609"
     },
     {
-        "id": "g2b-api-9000077025458627913",
+        "id": "g2b-api-2780229185212754437",
         "title": "서울대학교 2026년도 경영전문대학원 20주년 기념행사 대행 용역_PA202601570",
         "organization": "서울대학교산학협력단",
-        "start": "2026-09-09T07:00:22.145936",
+        "start": "2026-09-11T07:00:19.008074",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -848,10 +760,10 @@ const bidEvents = [
         "description": "수요기관: 서울대학교산학협력단 | 공고번호: R26BK01695381"
     },
     {
-        "id": "g2b-api-9014173654015635258",
+        "id": "g2b-api-4004471104892980511",
         "title": "AI 기반 원격 구조 모니터링 시스템(S/W) 고도화 및 모바일 UI/UX 구현_PA202601639",
         "organization": "서울대학교산학협력단",
-        "start": "2026-09-09T07:00:22.145936",
+        "start": "2026-09-11T07:00:19.008074",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -859,10 +771,10 @@ const bidEvents = [
         "description": "수요기관: 서울대학교산학협력단 | 공고번호: R26BK01681142"
     },
     {
-        "id": "g2b-api-3173909895744434891",
+        "id": "g2b-api-4224456780114158704",
         "title": "양팔 협동로봇 활용 실로봇 AI 데이터 수집_PA202601475",
         "organization": "서울대학교산학협력단",
-        "start": "2026-09-09T07:00:22.145936",
+        "start": "2026-09-11T07:00:19.008074",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -870,10 +782,10 @@ const bidEvents = [
         "description": "수요기관: 서울대학교산학협력단 | 공고번호: R26BK01690951"
     },
     {
-        "id": "g2b-api-2225225428199899049",
+        "id": "g2b-api-3051058332698543094",
         "title": "[재공고]「모두의 햇빛 플랫폼」 (AI기반 참여형 운영 플랫폼) 구축 용역",
         "organization": "사단법인 커뮤니티와경제",
-        "start": "2026-09-09T07:00:22.145936",
+        "start": "2026-09-11T07:00:19.008074",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -881,21 +793,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 커뮤니티와경제 | 공고번호: R26BK01688651"
     },
     {
-        "id": "g2b-api-913294844789176078",
-        "title": "On Device AI 드론의 배터리 팩 및 충전 시스템 제작 납품",
-        "organization": "주식회사 베이리스",
-        "start": "2026-09-09T07:00:22.146936",
-        "deadline": "2026-08-10T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673112&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 베이리스 | 공고번호: R26BK01673112"
-    },
-    {
-        "id": "g2b-api-3829551003160671649",
+        "id": "g2b-api-730936239862785432",
         "title": "2026년 AI 기반 인파 분석 플랫폼 유지보수 [기술지원협약]",
         "organization": "경상북도 포항시",
-        "start": "2026-09-09T07:00:22.146936",
+        "start": "2026-09-11T07:00:19.009074",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -903,10 +804,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도 포항시 | 공고번호: R26BK01678034"
     },
     {
-        "id": "g2b-api-9085676258020652773",
+        "id": "g2b-api-4948865326616508103",
         "title": "영농형 태양광 보급목표 수립을 위한 설문조사 용역",
         "organization": "한국농어촌공사",
-        "start": "2026-09-09T07:00:22.146936",
+        "start": "2026-09-11T07:00:19.009074",
         "deadline": "2026-08-26T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -914,21 +815,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 | 공고번호: R26BK01697282"
     },
     {
-        "id": "g2b-api-5578405672450940979",
-        "title": "2026년 대한체육회 국제포럼 행사 운영대행",
-        "organization": "대한체육회",
-        "start": "2026-09-09T07:00:22.147936",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677770&bidPbancOrd=000",
-        "description": "수요기관: 대한체육회 | 공고번호: R26BK01677770"
-    },
-    {
-        "id": "g2b-api-6482982554396619291",
+        "id": "g2b-api-1262033613605949101",
         "title": "2026 한-아세안 보건복지 컨퍼런스 행사 대행 용역 ",
         "organization": "보건복지부",
-        "start": "2026-09-09T07:00:22.147936",
+        "start": "2026-09-11T07:00:19.010078",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -936,21 +826,21 @@ const bidEvents = [
         "description": "수요기관: 보건복지부 | 공고번호: R26BK01686017"
     },
     {
-        "id": "g2b-api-5638156431636721121",
+        "id": "g2b-api-8219928083350179618",
         "title": "2027 UAE 두바이 의료기기전시회 한국관 전시디자인설치공사 입찰",
         "organization": "한국의료기기협동조합",
-        "start": "2026-09-09T07:00:22.147936",
-        "deadline": "2026-10-09T07:00:22.147936",
+        "start": "2026-09-11T07:00:19.010078",
+        "deadline": "2026-10-11T07:00:19.010078",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717819&bidPbancOrd=000",
         "description": "수요기관: 한국의료기기협동조합 | 공고번호: R26BK01717819"
     },
     {
-        "id": "g2b-api-143329839165862388",
+        "id": "g2b-api-778972676608904611",
         "title": "Ai-Edutech 융합교육센터 신축 통신설비공사",
         "organization": "한국교원대학교",
-        "start": "2026-09-09T07:00:22.148936",
+        "start": "2026-09-11T07:00:19.011306",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -958,10 +848,10 @@ const bidEvents = [
         "description": "수요기관: 한국교원대학교 | 공고번호: R26BK01712408"
     },
     {
-        "id": "g2b-api-5961022703003476218",
+        "id": "g2b-api-767191871323154013",
         "title": "DX·AI 전환 정보화전략계획(ISP) 수립 사업",
         "organization": "북한이탈주민지원재단",
-        "start": "2026-09-09T07:00:22.148936",
+        "start": "2026-09-11T07:00:19.011306",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -969,10 +859,10 @@ const bidEvents = [
         "description": "수요기관: 북한이탈주민지원재단 | 공고번호: R26BK01714772"
     },
     {
-        "id": "g2b-api-3073512294749872101",
+        "id": "g2b-api-3793172199740767467",
         "title": "2027 AI ICT 산업전망 컨퍼런스 운영대행 용역",
         "organization": "한국연구재단 정보통신기획평가원",
-        "start": "2026-09-09T07:00:22.148936",
+        "start": "2026-09-11T07:00:19.011306",
         "deadline": "2026-09-23T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -980,10 +870,10 @@ const bidEvents = [
         "description": "수요기관: 한국연구재단 정보통신기획평가원 | 공고번호: R26BK01709093"
     },
     {
-        "id": "g2b-api-3890861726061171671",
+        "id": "g2b-api-7477049124644534696",
         "title": "제72회 백제문화제 행사장 전기공사",
         "organization": "재단법인 백제문화재단",
-        "start": "2026-09-09T07:00:29.070300",
+        "start": "2026-09-11T07:00:19.011306",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -991,21 +881,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 백제문화재단 | 공고번호: R26BK01684736"
     },
     {
-        "id": "g2b-api-3801596823872736870",
-        "title": "[제2026-국제산학17(재)호] 2026년 경희대학교 실감미디어혁신융합대학사업단 도쿄게임쇼 전시 운영 용역 업체 선정",
-        "organization": "경희대학교산학협력단",
-        "start": "2026-09-09T07:00:29.070300",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "game",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673196&bidPbancOrd=000",
-        "description": "수요기관: 경희대학교산학협력단 | 공고번호: R26BK01673196"
-    },
-    {
-        "id": "g2b-api-1483621497270127284",
+        "id": "g2b-api-5631350250454421393",
         "title": "[제2026-국제산학21호] 2026년 SW중심대학 연합 AI·SW 페스티벌 행사대행 용역",
         "organization": "경희대학교산학협력단",
-        "start": "2026-09-09T07:00:29.070300",
+        "start": "2026-09-11T07:00:24.602895",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1013,10 +892,10 @@ const bidEvents = [
         "description": "수요기관: 경희대학교산학협력단 | 공고번호: R26BK01715418"
     },
     {
-        "id": "g2b-api-2682773074415111913",
+        "id": "g2b-api-8555334217397377726",
         "title": "2026 광주 수학과학축제 행사 대행 용역",
         "organization": "전남광주통합특별시교육청 전남광주통합특별시교육청광주창의융합교육원",
-        "start": "2026-09-09T07:00:29.071299",
+        "start": "2026-09-11T07:00:24.603892",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1024,10 +903,21 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시교육청 전남광주통합특별시교육청광주창의융합교육원 | 공고번호: R26BK01679213"
     },
     {
-        "id": "g2b-api-7015962860060633676",
+        "id": "g2b-api-668260370435820276",
+        "title": "제19회 충청남도 의용소방대 소방기술경연대회 행사 용역 공고(입찰대행)",
+        "organization": "충청남도 천안서북소방서",
+        "start": "2026-09-11T07:00:24.603892",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720043&bidPbancOrd=000",
+        "description": "수요기관: 충청남도 천안서북소방서 | 공고번호: R26BK01720043"
+    },
+    {
+        "id": "g2b-api-4530677369887594387",
         "title": "배터리 전극소재 품질예측 및 생산성 향상을 위한 AI 자율제조 시스템 개발-이차전지 자율제조 유량 센서 및 유량 제어 설비 구매",
         "organization": "주식회사 에코프로비엠",
-        "start": "2026-09-09T07:00:29.071299",
+        "start": "2026-09-11T07:00:24.603892",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1035,10 +925,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 에코프로비엠 | 공고번호: R26BK01711952"
     },
     {
-        "id": "g2b-api-3367426188284406590",
+        "id": "g2b-api-4660899682431122156",
         "title": "희망2027나눔캠페인 행사 운영",
         "organization": "사회복지법인 사회복지공동모금회",
-        "start": "2026-09-09T07:00:29.071299",
+        "start": "2026-09-11T07:00:24.603892",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1046,10 +936,10 @@ const bidEvents = [
         "description": "수요기관: 사회복지법인 사회복지공동모금회 | 공고번호: R26BK01714421"
     },
     {
-        "id": "g2b-api-6453358467353215954",
+        "id": "g2b-api-996072069905489221",
         "title": "희망2027나눔캠페인 행사 운영",
         "organization": "사회복지법인 사회복지공동모금회",
-        "start": "2026-09-09T07:00:29.071299",
+        "start": "2026-09-11T07:00:24.603892",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1057,10 +947,21 @@ const bidEvents = [
         "description": "수요기관: 사회복지법인 사회복지공동모금회 | 공고번호: R26BK01686733"
     },
     {
-        "id": "g2b-api-256779475280738525",
+        "id": "g2b-api-6075910186914654240",
+        "title": "AX-sprint AI-로드세이버 로보틱스 라바콘 제작 및 시스템 통합 용역",
+        "organization": "주식회사 바이다",
+        "start": "2026-09-11T07:00:24.604891",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710615&bidPbancOrd=001",
+        "description": "수요기관: 주식회사 바이다 | 공고번호: R26BK01710615"
+    },
+    {
+        "id": "g2b-api-7500285648971496466",
         "title": "AX-sprint AI-로드세이버 로보틱스 라바콘 개발 및 스마트 웨어러블 개발 용역",
         "organization": "주식회사 바이다",
-        "start": "2026-09-09T07:00:29.071299",
+        "start": "2026-09-11T07:00:24.604891",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1068,10 +969,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 바이다 | 공고번호: R26BK01710615"
     },
     {
-        "id": "g2b-api-3241579106037299532",
+        "id": "g2b-api-6929568297392021047",
         "title": "AX-sprint AI-로드세이버 도로안전지킴이 로봇 플랫폼 제작 및 연계 용역",
         "organization": "주식회사 바이다",
-        "start": "2026-09-09T07:00:29.072300",
+        "start": "2026-09-11T07:00:24.604891",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1079,10 +980,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 바이다 | 공고번호: R26BK01710606"
     },
     {
-        "id": "g2b-api-3844311575235120505",
+        "id": "g2b-api-596280377769683079",
         "title": "2026년 온디바이스 AI서비스 실증·확산 사업 마스터플랜 수립 용역",
         "organization": "충남테크노파크",
-        "start": "2026-09-09T07:00:29.072300",
+        "start": "2026-09-11T07:00:24.604891",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1090,21 +991,10 @@ const bidEvents = [
         "description": "수요기관: 충남테크노파크 | 공고번호: R26BK01695082"
     },
     {
-        "id": "g2b-api-9219631266282844194",
-        "title": "온디바이스AI 서비스 실증·확산 마스터플랜 수립 용역",
-        "organization": "충남테크노파크",
-        "start": "2026-09-09T07:00:29.072300",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674930&bidPbancOrd=000",
-        "description": "수요기관: 충남테크노파크 | 공고번호: R26BK01674930"
-    },
-    {
-        "id": "g2b-api-2017456445855479806",
+        "id": "g2b-api-1268495863728747251",
         "title": "Multi-Domain 시뮬레이션 소프트웨어 대여",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:00:29.073520",
+        "start": "2026-09-11T07:00:24.605891",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1112,10 +1002,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01713985"
     },
     {
-        "id": "g2b-api-4311347492952510096",
+        "id": "g2b-api-8804435415389816552",
         "title": "대구 의료 AI 생태계 조성을 위한  맞춤형 데이터셋 수집 용역",
         "organization": "한국산업기술시험원",
-        "start": "2026-09-09T07:00:29.074520",
+        "start": "2026-09-11T07:00:24.605891",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1123,10 +1013,10 @@ const bidEvents = [
         "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01706717"
     },
     {
-        "id": "g2b-api-2325567399938634737",
+        "id": "g2b-api-2155411448722654884",
         "title": "생성형 AI 법령검색 구축 감리용역",
         "organization": "법제처",
-        "start": "2026-09-09T07:00:29.075521",
+        "start": "2026-09-11T07:00:24.606891",
         "deadline": "2026-09-29T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1134,10 +1024,10 @@ const bidEvents = [
         "description": "수요기관: 법제처 | 공고번호: R26BK01684748"
     },
     {
-        "id": "g2b-api-4273061547215659419",
+        "id": "g2b-api-1140851140117942568",
         "title": "해양 AI 모델 운용 및 대용량 데이터 분석 기반 서버 인프라 구축",
         "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
-        "start": "2026-09-09T07:00:29.075521",
+        "start": "2026-09-11T07:00:24.606891",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1145,21 +1035,10 @@ const bidEvents = [
         "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01701714"
     },
     {
-        "id": "g2b-api-8720748355608718197",
-        "title": "K-BDS 바이오데이터 정합성 검증을 위한 AI 모델 개발 및 적용",
-        "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:00:29.075521",
-        "deadline": "2026-09-08T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01661488&bidPbancOrd=000",
-        "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01661488"
-    },
-    {
-        "id": "g2b-api-600342467602442143",
+        "id": "g2b-api-216434976301749403",
         "title": "AI 기반 터널화재 선제대응 시스템 물품구매(설치포함)",
         "organization": "주식회사 오스코",
-        "start": "2026-09-09T07:00:29.076519",
+        "start": "2026-09-11T07:00:24.608891",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1167,10 +1046,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 오스코 | 공고번호: R26BK01714609"
     },
     {
-        "id": "g2b-api-6332579922290983352",
+        "id": "g2b-api-3988616288187444401",
         "title": "Agentic AI 교육 프로그램 기획 및 운영 지원 용역",
         "organization": "서울특별시 서울시립대학교 산학협력단",
-        "start": "2026-09-09T07:00:29.077519",
+        "start": "2026-09-11T07:00:24.608891",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1178,21 +1057,21 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 산학협력단 | 공고번호: R26BK01704406"
     },
     {
-        "id": "g2b-api-1149907322141620688",
+        "id": "g2b-api-8780904584702215653",
         "title": "[입찰대행]2026 죽변항 수산물축제 행사대행 용역",
         "organization": "경상북도 울진군",
-        "start": "2026-09-09T07:00:29.077519",
-        "deadline": "2026-10-09T07:00:29.077519",
+        "start": "2026-09-11T07:00:24.609891",
+        "deadline": "2026-10-11T07:00:24.609891",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705549&bidPbancOrd=001",
         "description": "수요기관: 경상북도 울진군 | 공고번호: R26BK01705549"
     },
     {
-        "id": "g2b-api-8538221114436380574",
+        "id": "g2b-api-2894149815390453013",
         "title": "AI시티 스킬링 교육 과정 운영",
         "organization": "재단법인 부산정보산업진흥원",
-        "start": "2026-09-09T07:00:29.077519",
+        "start": "2026-09-11T07:00:24.609891",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1200,10 +1079,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 부산정보산업진흥원 | 공고번호: R26BK01703951"
     },
     {
-        "id": "g2b-api-4193828598515654846",
+        "id": "g2b-api-6677202790718149230",
         "title": "연암공과대학교 2027학년도 수시1차 면접 축제 행사 용역",
         "organization": "연암공과대학교",
-        "start": "2026-09-09T07:00:29.077519",
+        "start": "2026-09-11T07:00:24.609891",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1211,10 +1090,32 @@ const bidEvents = [
         "description": "수요기관: 연암공과대학교 | 공고번호: R26BK01711459"
     },
     {
-        "id": "g2b-api-7922636355689534622",
+        "id": "g2b-api-2042733219769224630",
+        "title": "연암공과대학교 AI Agent 성과관리 및 회계/구매 시스템 구축",
+        "organization": "연암공과대학교산학협력단",
+        "start": "2026-09-11T07:00:24.609891",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722030&bidPbancOrd=000",
+        "description": "수요기관: 연암공과대학교산학협력단 | 공고번호: R26BK01722030"
+    },
+    {
+        "id": "g2b-api-5128230005599711952",
+        "title": "연암공과대학교 AI Agent 성과관리 및 회계/구매 시스템 구축 (재공고)",
+        "organization": "연암공과대학교산학협력단",
+        "start": "2026-09-11T07:00:24.609891",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722626&bidPbancOrd=000",
+        "description": "수요기관: 연암공과대학교산학협력단 | 공고번호: R26BK01722626"
+    },
+    {
+        "id": "g2b-api-5039331741732872795",
         "title": "연암공과대학교 전주기 학생 케어링 AI Counselor 시스템 개발 용역 ",
         "organization": "연암공과대학교산학협력단",
-        "start": "2026-09-09T07:00:29.077519",
+        "start": "2026-09-11T07:00:24.609891",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1222,10 +1123,10 @@ const bidEvents = [
         "description": "수요기관: 연암공과대학교산학협력단 | 공고번호: R26BK01679276"
     },
     {
-        "id": "g2b-api-5896560112623876168",
+        "id": "g2b-api-8138358638545370782",
         "title": "「연암공과대학교 앵커 사업의 산업체 니즈 기반 AI 활용 역량 체계화 연구」용역",
         "organization": "연암공과대학교산학협력단",
-        "start": "2026-09-09T07:00:29.078519",
+        "start": "2026-09-11T07:00:24.609891",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1233,10 +1134,21 @@ const bidEvents = [
         "description": "수요기관: 연암공과대학교산학협력단 | 공고번호: R26BK01701131"
     },
     {
-        "id": "g2b-api-7123982085135651408",
+        "id": "g2b-api-5115739959605066310",
+        "title": "협업지능 피지컬AI SW 표준화 및 모듈형 SDF-OCS 설계·구축 과제 연구장비 구매",
+        "organization": "한국정보통신기술협회",
+        "start": "2026-09-11T07:00:24.609891",
+        "deadline": "2026-09-28T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721039&bidPbancOrd=000",
+        "description": "수요기관: 한국정보통신기술협회 | 공고번호: R26BK01721039"
+    },
+    {
+        "id": "g2b-api-898082711230955724",
         "title": "AI 오류찾기 챌린지 시즌2 모바일 상품권 구매",
         "organization": "한국정보통신기술협회",
-        "start": "2026-09-09T07:00:29.078519",
+        "start": "2026-09-11T07:00:24.609891",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1244,21 +1156,21 @@ const bidEvents = [
         "description": "수요기관: 한국정보통신기술협회 | 공고번호: R26BK01716192"
     },
     {
-        "id": "g2b-api-6179817390067184667",
+        "id": "g2b-api-2341902256692365945",
         "title": "2026 고려대학교 세종캠퍼스 대학원 연구페스타 행사 운영 위탁용역 수행업체 선정 공고",
         "organization": "고려대학교 세종캠퍼스",
-        "start": "2026-09-09T07:00:29.078519",
-        "deadline": "2026-10-09T07:00:29.078519",
+        "start": "2026-09-11T07:00:24.609891",
+        "deadline": "2026-10-11T07:00:24.609891",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709764&bidPbancOrd=000",
         "description": "수요기관: 고려대학교 세종캠퍼스 | 공고번호: R26BK01709764"
     },
     {
-        "id": "g2b-api-5195514706052390278",
+        "id": "g2b-api-5068336139199636027",
         "title": "경상북도교육청 인공지능교육관 개관식 행사 용역 입찰 공고(2단계 규격가격동시)",
         "organization": "경상북도교육청 경상북도교육청발명인공지능교육원",
-        "start": "2026-09-09T07:00:37.242647",
+        "start": "2026-09-11T07:00:31.019073",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1266,21 +1178,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도교육청 경상북도교육청발명인공지능교육원 | 공고번호: R26BK01715792"
     },
     {
-        "id": "g2b-api-5992424956939998850",
-        "title": "AI 비전 기반 품질평가 자동화 솔루션 5종 구축 ",
-        "organization": "재단법인 포항소재산업진흥원",
-        "start": "2026-09-09T07:00:37.242647",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670865&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 포항소재산업진흥원 | 공고번호: R26BK01670865"
-    },
-    {
-        "id": "g2b-api-29418483180575938",
+        "id": "g2b-api-2786954927432975863",
         "title": "2026 문화공간 어디쉐어 하숙동1번지(가을편) 행사 운영",
         "organization": "재단법인 공주문화관광재단",
-        "start": "2026-09-09T07:00:37.242647",
+        "start": "2026-09-11T07:00:31.020072",
         "deadline": "2026-09-29T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1288,21 +1189,32 @@ const bidEvents = [
         "description": "수요기관: 재단법인 공주문화관광재단 | 공고번호: R26BK01719300"
     },
     {
-        "id": "g2b-api-3500000077718117581",
+        "id": "g2b-api-4516707762552374115",
+        "title": "[취소공고]2026 문화공간 어디쉐어 하숙동1번지(가을편) 행사 운영",
+        "organization": "재단법인 공주문화관광재단",
+        "start": "2026-09-11T07:00:31.020072",
+        "deadline": "2026-09-29T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719300&bidPbancOrd=001",
+        "description": "수요기관: 재단법인 공주문화관광재단 | 공고번호: R26BK01719300"
+    },
+    {
+        "id": "g2b-api-3765418222733768369",
         "title": "HOP(HIRA, Open AI Hub, Private) Biohealth AI Challenge",
         "organization": "대전대학교산학협력단",
-        "start": "2026-09-09T07:00:37.244152",
-        "deadline": "2026-10-09T07:00:37.244152",
+        "start": "2026-09-11T07:00:31.020072",
+        "deadline": "2026-10-11T07:00:31.020072",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704031&bidPbancOrd=000",
         "description": "수요기관: 대전대학교산학협력단 | 공고번호: R26BK01704031"
     },
     {
-        "id": "g2b-api-1926816708052142797",
+        "id": "g2b-api-1893765031473882504",
         "title": "자동차 배출가스 종합전산시스템 AI+OCR 기능 구축",
         "organization": "한국환경공단",
-        "start": "2026-09-09T07:00:37.246157",
+        "start": "2026-09-11T07:00:31.023768",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1310,21 +1222,10 @@ const bidEvents = [
         "description": "수요기관: 한국환경공단 | 공고번호: R26BK01697082"
     },
     {
-        "id": "g2b-api-5825686455148579206",
-        "title": "인공지능 맞춤형 교수학습 플랫폼(AIEP) 연계 통합 포털 임차 및 계정 관리 용역 사업",
-        "organization": "인천광역시교육청 인천광역시교육청AI융합교육원",
-        "start": "2026-09-09T07:00:37.246157",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675207&bidPbancOrd=000",
-        "description": "수요기관: 인천광역시교육청 인천광역시교육청AI융합교육원 | 공고번호: R26BK01675207"
-    },
-    {
-        "id": "g2b-api-5287388793188927942",
+        "id": "g2b-api-8076487253938372581",
         "title": "피지컬AI 산업육성 지역 현안진단 및 추진전략 도출 기획연구",
         "organization": "재단법인 울산정보산업진흥원",
-        "start": "2026-09-09T07:00:37.247660",
+        "start": "2026-09-11T07:00:31.023768",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1332,10 +1233,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 울산정보산업진흥원 | 공고번호: R26BK01690743"
     },
     {
-        "id": "g2b-api-1401144382765238138",
+        "id": "g2b-api-9186477805413001164",
         "title": "2026년 제조업 AI융합 기반조성사업 성과홍보 용역",
         "organization": "재단법인 울산정보산업진흥원",
-        "start": "2026-09-09T07:00:37.247660",
+        "start": "2026-09-11T07:00:31.023768",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1343,10 +1244,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 울산정보산업진흥원 | 공고번호: R26BK01703648"
     },
     {
-        "id": "g2b-api-1235936216236662330",
+        "id": "g2b-api-2796038863345959114",
         "title": "피지컬AI 산업육성 지역 현안진단 및 추진전략 도출 기획연구",
         "organization": "재단법인 울산정보산업진흥원",
-        "start": "2026-09-09T07:00:37.247660",
+        "start": "2026-09-11T07:00:31.023768",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1354,10 +1255,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 울산정보산업진흥원 | 공고번호: R26BK01708719"
     },
     {
-        "id": "g2b-api-6114881384933100603",
+        "id": "g2b-api-8251456579821874299",
         "title": "피지컬 AI교육강의실 구축을 위한 교육용로봇(로봇암 시스템) 구매",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육원",
-        "start": "2026-09-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1365,10 +1266,10 @@ const bidEvents = [
         "description": "수요기관: 세종특별자치시교육청 세종특별자치시교육청교육원 | 공고번호: R26BK01700048"
     },
     {
-        "id": "g2b-api-8097824037230852164",
+        "id": "g2b-api-2683636098645284962",
         "title": "피지컬 AI교육강의실 구축을 위한 교육용로봇(자율주행 모빌리티) 구매",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육원",
-        "start": "2026-09-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1376,32 +1277,21 @@ const bidEvents = [
         "description": "수요기관: 세종특별자치시교육청 세종특별자치시교육청교육원 | 공고번호: R26BK01700161"
     },
     {
-        "id": "g2b-api-1306835235486358775",
-        "title": "[앵커]ExpUp스테이션 AI 교육용 기자재 시뮬레이션 시스템 구입 및 설치",
+        "id": "g2b-api-3732657883163304926",
+        "title": "대경대학교 부트캠프사업 교육용 기자재(펫 웨어러블 스마트 디바이스, 반려동물 AI 보행분석 장비) 구매 및 설치",
         "organization": "대경대학산학협력단",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-08-18T00:00:00",
+        "start": "2026-09-11T07:00:31.025777",
+        "deadline": "2026-10-11T07:00:31.025777",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674955&bidPbancOrd=000",
-        "description": "수요기관: 대경대학산학협력단 | 공고번호: R26BK01674955"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721487&bidPbancOrd=000",
+        "description": "수요기관: 대경대학산학협력단 | 공고번호: R26BK01721487"
     },
     {
-        "id": "g2b-api-6574191139878702517",
-        "title": "[앵커]2026학년도 AI-DX기반 인프라구축 및 R&D 수행을 위한 교육용 기자재 구입",
-        "organization": "대경대학산학협력단",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675086&bidPbancOrd=000",
-        "description": "수요기관: 대경대학산학협력단 | 공고번호: R26BK01675086"
-    },
-    {
-        "id": "g2b-api-1959740546980999557",
+        "id": "g2b-api-6135311778400238820",
         "title": "초거대 제조AI 서비스 개발·실증사업 무선통신망 보안 시스템 설치 공사",
         "organization": "주식회사 라임씨에스아이",
-        "start": "2026-09-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1409,10 +1299,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 라임씨에스아이 | 공고번호: R26BK01701215"
     },
     {
-        "id": "g2b-api-5041614977787713705",
+        "id": "g2b-api-3870153712272073725",
         "title": "제조산업 특화 초거대 제조AI 서비스 개발 및 실증을 위한 5G 특화망 구축공사",
         "organization": "주식회사 라임씨에스아이",
-        "start": "2026-09-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1420,21 +1310,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 라임씨에스아이 | 공고번호: R26BK01675471"
     },
     {
-        "id": "g2b-api-6370266135600968933",
-        "title": "초거대 제조AI 서비스 개발·실증사업 무선통신망 보안 시스템 설치 공사",
-        "organization": "주식회사 라임씨에스아이",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675469&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 라임씨에스아이 | 공고번호: R26BK01675469"
-    },
-    {
-        "id": "g2b-api-132966123524076197",
+        "id": "g2b-api-1057353314969793606",
         "title": "제조산업 특화 초거대 제조AI 서비스 개발 및 실증을 위한 5G 특화망 구축공사",
         "organization": "주식회사 라임씨에스아이",
-        "start": "2026-09-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1442,76 +1321,65 @@ const bidEvents = [
         "description": "수요기관: 주식회사 라임씨에스아이 | 공고번호: R26BK01708141"
     },
     {
-        "id": "g2b-api-7731904028993388553",
+        "id": "g2b-api-1402906922721722909",
         "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 LLM 개발서버 업그레이드",
         "organization": "(주)아이씨엔아이티",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-10-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.025777",
+        "deadline": "2026-10-11T07:00:31.025777",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681730&bidPbancOrd=000",
         "description": "수요기관: (주)아이씨엔아이티 | 공고번호: R26BK01681730"
     },
     {
-        "id": "g2b-api-3959185026419148678",
+        "id": "g2b-api-649795517305946969",
         "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 LLM 개발서버 업그레이드",
         "organization": "(주)아이씨엔아이티",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-10-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.026777",
+        "deadline": "2026-10-11T07:00:31.026777",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691031&bidPbancOrd=000",
         "description": "수요기관: (주)아이씨엔아이티 | 공고번호: R26BK01691031"
     },
     {
-        "id": "g2b-api-901039877631166177",
+        "id": "g2b-api-5829341268953541318",
         "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 개발서버 GPU 업그레이드",
         "organization": "(주)아이씨엔아이티",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-10-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.026777",
+        "deadline": "2026-10-11T07:00:31.026777",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681685&bidPbancOrd=000",
         "description": "수요기관: (주)아이씨엔아이티 | 공고번호: R26BK01681685"
     },
     {
-        "id": "g2b-api-2768544012807847800",
+        "id": "g2b-api-5195713216569137049",
         "title": "섬유 전문지식 생성형 AI 구축 및 활용을 위한 개발서버 GPU 업그레이드",
         "organization": "(주)아이씨엔아이티",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-10-09T07:00:37.250171",
+        "start": "2026-09-11T07:00:31.026777",
+        "deadline": "2026-10-11T07:00:31.026777",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691008&bidPbancOrd=001",
         "description": "수요기관: (주)아이씨엔아이티 | 공고번호: R26BK01691008"
     },
     {
-        "id": "g2b-api-3936914590853971018",
-        "title": "AI 뉴스룸 연계 준비를 위한 신문제작시스템 고도화",
-        "organization": "주식회사 충북일보",
-        "start": "2026-09-09T07:00:37.250171",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676741&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 충북일보 | 공고번호: R26BK01676741"
-    },
-    {
-        "id": "g2b-api-3071157622940121553",
+        "id": "g2b-api-1993668834430017670",
         "title": "「미래역량강화 지원사업」 성과공유 행사 대행 용역업체 선정 공고",
         "organization": "사회복지법인 세이브더칠드런코리아",
-        "start": "2026-09-09T07:00:43.467262",
-        "deadline": "2026-10-09T07:00:43.467262",
+        "start": "2026-09-11T07:00:31.026777",
+        "deadline": "2026-10-11T07:00:31.026777",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714220&bidPbancOrd=000",
         "description": "수요기관: 사회복지법인 세이브더칠드런코리아 | 공고번호: R26BK01714220"
     },
     {
-        "id": "g2b-api-4432936754697781053",
+        "id": "g2b-api-3339399429296008694",
         "title": "국립한국해양대학교 2026학년도 지역사회와 함께하는 아치 海스티벌 행사 용역",
         "organization": "한국해양대학교",
-        "start": "2026-09-09T07:00:43.468291",
+        "start": "2026-09-11T07:00:36.581562",
         "deadline": "2026-09-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1519,43 +1387,43 @@ const bidEvents = [
         "description": "수요기관: 한국해양대학교 | 공고번호: R26BK01719458"
     },
     {
-        "id": "g2b-api-2164193131147855622",
+        "id": "g2b-api-129307315326468060",
         "title": "2026 플레이엑스포(PlayX4) 후속지원행사(경기게임커넥트) 운영",
         "organization": "(재)경기콘텐츠진흥원",
-        "start": "2026-09-09T07:00:43.469291",
-        "deadline": "2026-10-09T07:00:43.469291",
+        "start": "2026-09-11T07:00:36.581562",
+        "deadline": "2026-10-11T07:00:36.581562",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713736&bidPbancOrd=000",
         "description": "수요기관: (재)경기콘텐츠진흥원 | 공고번호: R26BK01713736"
     },
     {
-        "id": "g2b-api-3811387375448104640",
+        "id": "g2b-api-6225761025683090834",
         "title": "2026년 경기 게임 민관학 협력 FGT 지원",
         "organization": "(재)경기콘텐츠진흥원",
-        "start": "2026-09-09T07:00:43.469291",
-        "deadline": "2026-10-09T07:00:43.469291",
+        "start": "2026-09-11T07:00:36.581562",
+        "deadline": "2026-10-11T07:00:36.581562",
         "category": "game",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685098&bidPbancOrd=000",
         "description": "수요기관: (재)경기콘텐츠진흥원 | 공고번호: R26BK01685098"
     },
     {
-        "id": "g2b-api-2009956153146901133",
+        "id": "g2b-api-2132012907097860177",
         "title": "2026 플레이엑스포(PlayX4) 후속지원행사(경기게임커넥트) 운영",
         "organization": "(재)경기콘텐츠진흥원",
-        "start": "2026-09-09T07:00:43.469291",
-        "deadline": "2026-10-09T07:00:43.469291",
+        "start": "2026-09-11T07:00:36.581562",
+        "deadline": "2026-10-11T07:00:36.581562",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692369&bidPbancOrd=000",
         "description": "수요기관: (재)경기콘텐츠진흥원 | 공고번호: R26BK01692369"
     },
     {
-        "id": "g2b-api-1754303917071817501",
+        "id": "g2b-api-1941852655614258832",
         "title": "[입찰재공고] (긴급)제17회 제주국제청소년포럼 행사 대행 용역[협상에의한계약]",
         "organization": "제주특별자치도교육청",
-        "start": "2026-09-09T07:00:43.469291",
+        "start": "2026-09-11T07:00:36.581562",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1563,21 +1431,21 @@ const bidEvents = [
         "description": "수요기관: 제주특별자치도교육청 | 공고번호: R26BK01679447"
     },
     {
-        "id": "g2b-api-6058216700118470033",
+        "id": "g2b-api-170187440173435033",
         "title": "2026 UAE 두바이 아랍랩 실험장비 전시회 한국관 전시디자인설치공사",
         "organization": "한국과학기기공업협동조합",
-        "start": "2026-09-09T07:00:43.469291",
-        "deadline": "2026-10-09T07:00:43.469291",
+        "start": "2026-09-11T07:00:36.582568",
+        "deadline": "2026-10-11T07:00:36.582568",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687017&bidPbancOrd=000",
         "description": "수요기관: 한국과학기기공업협동조합 | 공고번호: R26BK01687017"
     },
     {
-        "id": "g2b-api-4918471299983587714",
+        "id": "g2b-api-9102117844547246460",
         "title": "AI 기반 업무 혁신 플랫폼 구축 사업 감리 및 개인정보영향평가 용역",
         "organization": "주택도시보증공사",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.583567",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1585,10 +1453,10 @@ const bidEvents = [
         "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01678828"
     },
     {
-        "id": "g2b-api-5718912480361388290",
+        "id": "g2b-api-7794029932799281836",
         "title": "AI 감사혁신 플랫폼 구축 용역",
         "organization": "주택도시보증공사",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1596,10 +1464,10 @@ const bidEvents = [
         "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01694730"
     },
     {
-        "id": "g2b-api-73232710079307667",
+        "id": "g2b-api-5470391487365133295",
         "title": "AI 활용 빌라시세 자동추정모델 개발 사업",
         "organization": "주택도시보증공사",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1607,10 +1475,10 @@ const bidEvents = [
         "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01692780"
     },
     {
-        "id": "g2b-api-779742116217708054",
+        "id": "g2b-api-5722820631697891310",
         "title": "AI 서비스 기반 통신 인프라 고도화",
         "organization": "주택도시보증공사",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1618,21 +1486,21 @@ const bidEvents = [
         "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01683392"
     },
     {
-        "id": "g2b-api-6140737857063825564",
+        "id": "g2b-api-4175512764598532181",
         "title": "새해 준비상점 N.27 행사 공간 기획 및 연출 대행",
         "organization": "주식회사킨텍스",
-        "start": "2026-09-09T07:00:43.471794",
-        "deadline": "2026-10-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
+        "deadline": "2026-10-11T07:00:36.584567",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707441&bidPbancOrd=000",
         "description": "수요기관: 주식회사킨텍스 | 공고번호: R26BK01707441"
     },
     {
-        "id": "g2b-api-8869917423044281735",
+        "id": "g2b-api-8515989224539854953",
         "title": "AI타워ㆍ지하주차장 착공 후 지하안전조사 용역",
         "organization": "가천대학교",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1640,10 +1508,10 @@ const bidEvents = [
         "description": "수요기관: 가천대학교 | 공고번호: R26BK01713761"
     },
     {
-        "id": "g2b-api-7054822608204275233",
+        "id": "g2b-api-7252831672723187914",
         "title": "AI타워ㆍ지하주차장 신축공사 폐기물처리용역",
         "organization": "가천대학교",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1651,10 +1519,10 @@ const bidEvents = [
         "description": "수요기관: 가천대학교 | 공고번호: R26BK01667732"
     },
     {
-        "id": "g2b-api-6388729700513138056",
+        "id": "g2b-api-1140498175781680811",
         "title": "[긴급] 2026학년도 경상국립대학교 개척대동제 행사용역",
         "organization": "경상국립대학교",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1662,21 +1530,21 @@ const bidEvents = [
         "description": "수요기관: 경상국립대학교 | 공고번호: R26BK01678827"
     },
     {
-        "id": "g2b-api-7445809556345042591",
+        "id": "g2b-api-6666787252266530468",
         "title": "제32회 충청남도장애인체육대회 경기 AI중계 용역 입찰 공고(협상에 의한 계약)",
         "organization": "천안시장애인체육회",
-        "start": "2026-09-09T07:00:43.471794",
-        "deadline": "2026-10-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
+        "deadline": "2026-10-11T07:00:36.584567",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718092&bidPbancOrd=000",
         "description": "수요기관: 천안시장애인체육회 | 공고번호: R26BK01718092"
     },
     {
-        "id": "g2b-api-2389035199067376096",
+        "id": "g2b-api-30431607723549081",
         "title": "2026년도 분당구 지역체육행사 물품 지원",
         "organization": "한국지역난방공사 분당사업소",
-        "start": "2026-09-09T07:00:43.471794",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1684,10 +1552,10 @@ const bidEvents = [
         "description": "수요기관: 한국지역난방공사 분당사업소 | 공고번호: R26BK01704993"
     },
     {
-        "id": "g2b-api-4330058255768465678",
+        "id": "g2b-api-7060903899756855117",
         "title": "우리아이 교수학습 플랫폼 생성형 인공지능(AI) 웍스AI 라이선스 구입",
         "organization": "울산광역시교육청",
-        "start": "2026-09-09T07:00:43.473021",
+        "start": "2026-09-11T07:00:36.584567",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1695,10 +1563,10 @@ const bidEvents = [
         "description": "수요기관: 울산광역시교육청 | 공고번호: R26BK01708034"
     },
     {
-        "id": "g2b-api-6213694723799126088",
+        "id": "g2b-api-6917328690370716676",
         "title": "[한국폴리텍대학 광명] 학과개편(AI융합시스템과) AI GPU LLM 클라우드 서버 구매",
         "organization": "한국폴리텍대학 광명융합기술교육원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.586071",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1706,10 +1574,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍대학 광명융합기술교육원 | 공고번호: R26BK01707933"
     },
     {
-        "id": "g2b-api-5583230907616396772",
+        "id": "g2b-api-5496189667059500307",
         "title": "인천 AI 서.논술형 평가지원시스템 구축 사업",
         "organization": "인천광역시교육청 인천광역시교육청AI융합교육원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.586071",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1717,10 +1585,10 @@ const bidEvents = [
         "description": "수요기관: 인천광역시교육청 인천광역시교육청AI융합교육원 | 공고번호: R26BK01702723"
     },
     {
-        "id": "g2b-api-3281573143147466298",
+        "id": "g2b-api-2451417570701296416",
         "title": "AI 트레이닝 서버 구매",
         "organization": "한국화학연구원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1728,10 +1596,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01716122"
     },
     {
-        "id": "g2b-api-1392728308515395769",
+        "id": "g2b-api-4925474165109010461",
         "title": "AI 트레이닝 서버 구매",
         "organization": "한국화학연구원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1739,10 +1607,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01700051"
     },
     {
-        "id": "g2b-api-5313518348799459821",
+        "id": "g2b-api-2010858354818962032",
         "title": "AI 모델 서비스용 워크스테이션 구매",
         "organization": "한국화학연구원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1750,10 +1618,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01701238"
     },
     {
-        "id": "g2b-api-3254214561236708683",
+        "id": "g2b-api-2034837294989992919",
         "title": "AI 트레이닝 서버 구매",
         "organization": "한국화학연구원",
-        "start": "2026-09-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1761,21 +1629,21 @@ const bidEvents = [
         "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01684577"
     },
     {
-        "id": "g2b-api-5457649289294871917",
+        "id": "g2b-api-6744321895112630336",
         "title": "2026 성남아트테크 페스티벌 브랜딩‧홍보 및 행사기획‧운영 용역",
         "organization": "재단법인 성남문화재단",
-        "start": "2026-09-09T07:00:43.474021",
-        "deadline": "2026-10-09T07:00:43.474021",
+        "start": "2026-09-11T07:00:36.587076",
+        "deadline": "2026-10-11T07:00:36.587076",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706258&bidPbancOrd=000",
         "description": "수요기관: 재단법인 성남문화재단 | 공고번호: R26BK01706258"
     },
     {
-        "id": "g2b-api-6851511158822276713",
+        "id": "g2b-api-2167123063524423116",
         "title": "SW 3자단가(AI CoolFilter v1.0 (주)센티널테크놀로지)",
         "organization": "각 수요기관",
-        "start": "2026-09-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1783,10 +1651,10 @@ const bidEvents = [
         "description": "수요기관: 각 수요기관 | 공고번호: R26BK01696309"
     },
     {
-        "id": "g2b-api-3314632509039296753",
+        "id": "g2b-api-5686374881402649163",
         "title": "SW 3자단가(생성형 AI+KMS 챗봇 애니톡 2.0 (주)새움소프트)",
         "organization": "각 수요기관",
-        "start": "2026-09-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1794,21 +1662,10 @@ const bidEvents = [
         "description": "수요기관: 각 수요기관 | 공고번호: R26BK01692354"
     },
     {
-        "id": "g2b-api-2487884739444037963",
-        "title": "인공지능(AI)소프트웨어외 2종",
-        "organization": "각 수요기관",
-        "start": "2026-09-09T07:00:43.475020",
-        "deadline": "2029-10-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01450117&bidPbancOrd=001",
-        "description": "수요기관: 각 수요기관 | 공고번호: R26BK01450117"
-    },
-    {
-        "id": "g2b-api-8824511556442954487",
+        "id": "g2b-api-73181273895144807",
         "title": "상용SW 제3자단가(GAIA v1.0_그노티)",
         "organization": "각 수요기관",
-        "start": "2026-09-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-08-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1816,10 +1673,10 @@ const bidEvents = [
         "description": "수요기관: 각 수요기관 | 공고번호: R26BK01680254"
     },
     {
-        "id": "g2b-api-4524864261460380085",
+        "id": "g2b-api-7508781266514145494",
         "title": "SW 3자단가(Fire Brain v1.0 (주)에코브레인)",
         "organization": "각 수요기관",
-        "start": "2026-09-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.587076",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1827,10 +1684,21 @@ const bidEvents = [
         "description": "수요기관: 각 수요기관 | 공고번호: R26BK01699987"
     },
     {
-        "id": "g2b-api-239897072768549757",
+        "id": "g2b-api-7945917982943137535",
+        "title": "「고세장비 나노구조 기판 대량제조용AI 기반 MACE 자동화 장비」 기술사업화 추진 전문 컨설팅 용역(재공고)[수의]",
+        "organization": "한국기계연구원",
+        "start": "2026-09-11T07:00:36.588076",
+        "deadline": "2026-09-09T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720401&bidPbancOrd=000",
+        "description": "수요기관: 한국기계연구원 | 공고번호: R26BK01720401"
+    },
+    {
+        "id": "g2b-api-7325357522166258327",
         "title": "「고세장비 나노구조 기판 대량제조용AI 기반 MACE 자동화 장비」 기술사업화 추진 전문 컨설팅 용역(재공고)",
         "organization": "한국기계연구원",
-        "start": "2026-09-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.588076",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1838,54 +1706,54 @@ const bidEvents = [
         "description": "수요기관: 한국기계연구원 | 공고번호: R26BK01682258"
     },
     {
-        "id": "g2b-api-8150388222446089718",
+        "id": "g2b-api-2542649802221208412",
         "title": "INH-AI개발 및 Brit.G시스템 고도화 구축",
         "organization": "인하대학교",
-        "start": "2026-09-09T07:00:43.475020",
-        "deadline": "2026-10-09T07:00:43.475020",
+        "start": "2026-09-11T07:00:36.588076",
+        "deadline": "2026-10-11T07:00:36.588076",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695122&bidPbancOrd=000",
         "description": "수요기관: 인하대학교 | 공고번호: R26BK01695122"
     },
     {
-        "id": "g2b-api-1411612876385592493",
-        "title": "INH-AI개발 및 Brit.G시스템 고도화 구축",
-        "organization": "인하대학교",
-        "start": "2026-09-09T07:00:43.475020",
-        "deadline": "2026-10-09T07:00:43.475020",
+        "id": "g2b-api-6224639335560959370",
+        "title": "오산대학교 AI반도체계열 실험실습기자재(광학방출분광계) 구매",
+        "organization": "오산대학산학협력단",
+        "start": "2026-09-11T07:00:36.588076",
+        "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673371&bidPbancOrd=000",
-        "description": "수요기관: 인하대학교 | 공고번호: R26BK01673371"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722230&bidPbancOrd=000",
+        "description": "수요기관: 오산대학산학협력단 | 공고번호: R26BK01722230"
     },
     {
-        "id": "g2b-api-9064952963024688700",
+        "id": "g2b-api-3371295788279871037",
+        "title": "오산대학교 AI반도체계열  반도체공정 시뮬레이션 소프트웨어 영구 라이선스 구매",
+        "organization": "오산대학산학협력단",
+        "start": "2026-09-11T07:00:36.588076",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722266&bidPbancOrd=000",
+        "description": "수요기관: 오산대학산학협력단 | 공고번호: R26BK01722266"
+    },
+    {
+        "id": "g2b-api-4692008203341062676",
         "title": "(재공고) 2026년 CO-SHOW 차세대통신 컨소시엄 행사 운영 용역",
         "organization": "국민대학교 산학협력단",
-        "start": "2026-09-09T07:00:43.476020",
-        "deadline": "2026-10-09T07:00:43.476020",
+        "start": "2026-09-11T07:00:36.588076",
+        "deadline": "2026-10-11T07:00:36.588076",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01702476&bidPbancOrd=000",
         "description": "수요기관: 국민대학교 산학협력단 | 공고번호: R26BK01702476"
     },
     {
-        "id": "g2b-api-2268384230911122658",
-        "title": "2026년 CO-SHOW 차세대통신 컨소시엄 행사 운영 용역",
-        "organization": "국민대학교 산학협력단",
-        "start": "2026-09-09T07:00:43.476020",
-        "deadline": "2026-10-09T07:00:43.476020",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677537&bidPbancOrd=000",
-        "description": "수요기관: 국민대학교 산학협력단 | 공고번호: R26BK01677537"
-    },
-    {
-        "id": "g2b-api-7388278503866390659",
+        "id": "g2b-api-4326645301393859701",
         "title": "제59회 가평군민의 날 기념식 행사대행용역",
         "organization": "경기도 가평군",
-        "start": "2026-09-09T07:00:49.824807",
+        "start": "2026-09-11T07:00:36.589076",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1893,10 +1761,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 가평군 | 공고번호: R26BK01683521"
     },
     {
-        "id": "g2b-api-4451780560774549295",
+        "id": "g2b-api-3261505462640688767",
         "title": "2026년 민관협력지역상생협약사업 AI로봇 AMR 자동화시설 구축",
         "organization": "전남광주통합특별시 진도군",
-        "start": "2026-09-09T07:00:49.824807",
+        "start": "2026-09-11T07:00:36.589076",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1904,10 +1772,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 진도군 | 공고번호: R26BK01696712"
     },
     {
-        "id": "g2b-api-5794878781655359073",
+        "id": "g2b-api-5098459785077000243",
         "title": "2026년 민관협력지역상생협약사업 AI로봇 AMR 자동화시설 구축",
         "organization": "전남광주통합특별시 진도군",
-        "start": "2026-09-09T07:00:49.824807",
+        "start": "2026-09-11T07:00:36.589076",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1915,10 +1783,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 진도군 | 공고번호: R26BK01699940"
     },
     {
-        "id": "g2b-api-7082716649542161084",
+        "id": "g2b-api-3942072686855919075",
         "title": "AI 활용 국가자격시험 문제 출제 시스템 구축 용역",
         "organization": "한국교통안전공단",
-        "start": "2026-09-09T07:00:49.826808",
+        "start": "2026-09-11T07:00:41.692763",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1926,21 +1794,21 @@ const bidEvents = [
         "description": "수요기관: 한국교통안전공단 | 공고번호: R26BK01716629"
     },
     {
-        "id": "g2b-api-4247182533969294964",
+        "id": "g2b-api-2191150464292437401",
         "title": "천안시 거점형 스마트도시 조성사업 AI기반 대민서비스 로봇 도입 구축",
         "organization": "코나아이(주)",
-        "start": "2026-09-09T07:00:49.827813",
-        "deadline": "2026-10-09T07:00:49.827813",
+        "start": "2026-09-11T07:00:41.692763",
+        "deadline": "2026-10-11T07:00:41.692763",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716640&bidPbancOrd=000",
         "description": "수요기관: 코나아이(주) | 공고번호: R26BK01716640"
     },
     {
-        "id": "g2b-api-893363317243123024",
+        "id": "g2b-api-2902193991572466117",
         "title": "세네갈 AI 전환 센터 구축을 통한 디지털 역량 강화 사업 PMC 용역",
         "organization": "한국국제협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-10-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -1948,32 +1816,32 @@ const bidEvents = [
         "description": "수요기관: 한국국제협력단 | 공고번호: R26BK01705373"
     },
     {
-        "id": "g2b-api-5776834699299248106",
+        "id": "g2b-api-8173859483053198630",
         "title": "2026 중국 심천 하이테크 전시회 공동관 운영대행 용역",
         "organization": "재단법인 시흥산업진흥원",
-        "start": "2026-09-09T07:00:49.828320",
-        "deadline": "2026-10-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
+        "deadline": "2026-10-11T07:00:41.693771",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669275&bidPbancOrd=001",
         "description": "수요기관: 재단법인 시흥산업진흥원 | 공고번호: R26BK01669275"
     },
     {
-        "id": "g2b-api-2346462089406226751",
+        "id": "g2b-api-4278887703855843170",
         "title": "2026 중국 심천 하이테크 전시회 공동관 운영대행 용역(재공고)",
         "organization": "재단법인 시흥산업진흥원",
-        "start": "2026-09-09T07:00:49.828320",
-        "deadline": "2026-10-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
+        "deadline": "2026-10-11T07:00:41.693771",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691209&bidPbancOrd=000",
         "description": "수요기관: 재단법인 시흥산업진흥원 | 공고번호: R26BK01691209"
     },
     {
-        "id": "g2b-api-8555653084427157758",
+        "id": "g2b-api-8464493558155960393",
         "title": "[혁신] 2026 KBU Career Festival 행사 위탁 용역",
         "organization": "경복대학산학협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1981,10 +1849,10 @@ const bidEvents = [
         "description": "수요기관: 경복대학산학협력단 | 공고번호: R26BK01692763"
     },
     {
-        "id": "g2b-api-3781079221037285563",
+        "id": "g2b-api-215757129885288585",
         "title": "[혁신] 2026년 경복대학교 지산관학 성과포럼 행사 위탁 운영 용역",
         "organization": "경복대학산학협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -1992,10 +1860,10 @@ const bidEvents = [
         "description": "수요기관: 경복대학산학협력단 | 공고번호: R26BK01713572"
     },
     {
-        "id": "g2b-api-5415001358235335419",
+        "id": "g2b-api-4414400241521604447",
         "title": "[혁신] 2026년 경복대학교 지산관학 성과포럼 행사 위탁 운영 용역",
         "organization": "경복대학산학협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2003,10 +1871,10 @@ const bidEvents = [
         "description": "수요기관: 경복대학산학협력단 | 공고번호: R26BK01693950"
     },
     {
-        "id": "g2b-api-1850607530058492742",
+        "id": "g2b-api-384765812323561263",
         "title": "[혁신] 2026 KBU Career Festival 행사 위탁 용역",
         "organization": "경복대학산학협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2014,10 +1882,10 @@ const bidEvents = [
         "description": "수요기관: 경복대학산학협력단 | 공고번호: R26BK01707243"
     },
     {
-        "id": "g2b-api-4630713237677527268",
+        "id": "g2b-api-538089522838681142",
         "title": "[앵커]「2026 지역기업 AI·DX 혁신컨퍼런스(Innovation Summit)」행사 위탁",
         "organization": "경복대학산학협력단",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2025,10 +1893,10 @@ const bidEvents = [
         "description": "수요기관: 경복대학산학협력단 | 공고번호: R26BK01715616"
     },
     {
-        "id": "g2b-api-1443845819670243790",
+        "id": "g2b-api-4997112214335994054",
         "title": "광주 AI의료 상용화지원센터 통신 공사",
         "organization": "(재)광주테크노파크",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2036,10 +1904,10 @@ const bidEvents = [
         "description": "수요기관: (재)광주테크노파크 | 공고번호: R26BK01685538"
     },
     {
-        "id": "g2b-api-6851407434596034225",
+        "id": "g2b-api-569049856471457399",
         "title": "광주 AI의료 상용화지원센터 전기공사",
         "organization": "(재)광주테크노파크",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2047,10 +1915,10 @@ const bidEvents = [
         "description": "수요기관: (재)광주테크노파크 | 공고번호: R26BK01685246"
     },
     {
-        "id": "g2b-api-1117692669721442565",
+        "id": "g2b-api-122011604959365808",
         "title": "광주 AI의료 상용화지원센터 인테리어·건축공사",
         "organization": "(재)광주테크노파크",
-        "start": "2026-09-09T07:00:49.828320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2058,10 +1926,10 @@ const bidEvents = [
         "description": "수요기관: (재)광주테크노파크 | 공고번호: R26BK01685080"
     },
     {
-        "id": "g2b-api-8812622661479635184",
+        "id": "g2b-api-936085728470528506",
         "title": "국립중앙과학관 ‘전통과학기술 인재 등용문’ 행사 대행 용역",
         "organization": "과학기술정보통신부 국립중앙과학관",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.693771",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2069,10 +1937,10 @@ const bidEvents = [
         "description": "수요기관: 과학기술정보통신부 국립중앙과학관 | 공고번호: R26BK01713230"
     },
     {
-        "id": "g2b-api-4390579669897109637",
+        "id": "g2b-api-2151505391704595034",
         "title": "대일본 포도 수출(글로리스타) 시장조사 연구",
         "organization": "농업회사법인 한국포도수출연합 주식회사",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-08-27T00:00:00",
         "category": "market",
         "source": "gov",
@@ -2080,10 +1948,10 @@ const bidEvents = [
         "description": "수요기관: 농업회사법인 한국포도수출연합 주식회사 | 공고번호: R26BK01686026"
     },
     {
-        "id": "g2b-api-3482761785712513520",
+        "id": "g2b-api-5094521650514347820",
         "title": "가상화 툴을 활용한 AI 로봇 모델링 및 시뮬레이션 용역",
         "organization": "한국로봇산업진흥원",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2091,10 +1959,10 @@ const bidEvents = [
         "description": "수요기관: 한국로봇산업진흥원 | 공고번호: R26BK01681084"
     },
     {
-        "id": "g2b-api-7515005546815852760",
+        "id": "g2b-api-6536082002157509807",
         "title": "가상화 툴을 활용한 AI 로봇 모델링 및 시뮬레이션 용역",
         "organization": "한국로봇산업진흥원",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2102,10 +1970,10 @@ const bidEvents = [
         "description": "수요기관: 한국로봇산업진흥원 | 공고번호: R26BK01698757"
     },
     {
-        "id": "g2b-api-8474359625953244877",
+        "id": "g2b-api-8357499634814045876",
         "title": "북서울꿈의숲 가을 음악회 행사 용역",
         "organization": "서울특별시 북부공원여가센터",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2113,10 +1981,21 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 북부공원여가센터 | 공고번호: R26BK01702928"
     },
     {
-        "id": "g2b-api-3147424078298870845",
+        "id": "g2b-api-8349828354860160386",
+        "title": "2026 홍콩 코스모프로프 뷰티 전시회 단체관 전시디자인 및 설치용역(재공고)",
+        "organization": "(재)경기도경제과학진흥원",
+        "start": "2026-09-11T07:00:41.694772",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "exhibition",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721186&bidPbancOrd=000",
+        "description": "수요기관: (재)경기도경제과학진흥원 | 공고번호: R26BK01721186"
+    },
+    {
+        "id": "g2b-api-5773701262462975126",
         "title": "2026 홍콩 코스모프로프 뷰티 전시회 단체관 전시디자인 및 설치용역",
         "organization": "(재)경기도경제과학진흥원",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-09-07T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -2124,10 +2003,10 @@ const bidEvents = [
         "description": "수요기관: (재)경기도경제과학진흥원 | 공고번호: R26BK01694569"
     },
     {
-        "id": "g2b-api-1365509007792694836",
+        "id": "g2b-api-6447524370538243217",
         "title": "G-FAIR KOREA 구매 및 수출상담 시스템 구축 용역",
         "organization": "(재)경기도경제과학진흥원",
-        "start": "2026-09-09T07:00:49.829320",
+        "start": "2026-09-11T07:00:41.694772",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2135,10 +2014,10 @@ const bidEvents = [
         "description": "수요기관: (재)경기도경제과학진흥원 | 공고번호: R26BK01680317"
     },
     {
-        "id": "g2b-api-7106445288390892624",
+        "id": "g2b-api-5567159132140817706",
         "title": "2026년 한국공학대학교 Anchor-제조AX 특화대학 선포식 행사 운영 용역",
         "organization": "한국공학대학교 산학협력단",
-        "start": "2026-09-09T07:00:49.830321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2146,10 +2025,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 산학협력단 | 공고번호: R26BK01689786"
     },
     {
-        "id": "g2b-api-1614195178221048254",
+        "id": "g2b-api-5267632204826786840",
         "title": "네이버클라우드 아카데미 교육과정 운영 용역(소버린 AI Literacy)",
         "organization": "한국공학대학교 산학협력단",
-        "start": "2026-09-09T07:00:49.830321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2157,10 +2036,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 산학협력단 | 공고번호: R26BK01697240"
     },
     {
-        "id": "g2b-api-7507746748033420511",
+        "id": "g2b-api-5393917095860111703",
         "title": "2026년 한국공학대학교 Anchor-제조AX 특화대학 선포식 행사 운영 용역",
         "organization": "한국공학대학교 산학협력단",
-        "start": "2026-09-09T07:00:49.830321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2168,10 +2047,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 산학협력단 | 공고번호: R26BK01683587"
     },
     {
-        "id": "g2b-api-5613187960373692512",
+        "id": "g2b-api-4433609519349549428",
         "title": "산업현장 여성공학인을 위한 AI기반 PBL 직무교육 모델 및 교수학습 체계 개발 연구용역",
         "organization": "한국공학대학교 산학협력단",
-        "start": "2026-09-09T07:00:49.830321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2179,10 +2058,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 산학협력단 | 공고번호: R26BK01710924"
     },
     {
-        "id": "g2b-api-1566082080254506883",
+        "id": "g2b-api-9141757210189904871",
         "title": "AI/자율주행 시뮬레이션용 워크스테이션",
         "organization": "한국공학대학교 산학협력단",
-        "start": "2026-09-09T07:00:49.830321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2190,10 +2069,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 산학협력단 | 공고번호: R26BK01698889"
     },
     {
-        "id": "g2b-api-4542542810100638677",
+        "id": "g2b-api-6425960596766626103",
         "title": "안동국제탈춤페스티벌 2026 하드웨어 등 행사장 용역 입찰공고",
         "organization": "(재)한국정신문화재단",
-        "start": "2026-09-09T07:00:49.831321",
+        "start": "2026-09-11T07:00:41.696282",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2201,10 +2080,10 @@ const bidEvents = [
         "description": "수요기관: (재)한국정신문화재단 | 공고번호: R26BK01693657"
     },
     {
-        "id": "g2b-api-6474846567887535483",
+        "id": "g2b-api-2851227848487142157",
         "title": "강원대학교 LMS연동 표절 및 생성형AI 검사 서비스(CK브릿지) 연간 라이선스 구매",
         "organization": "강원대학교",
-        "start": "2026-09-09T07:00:49.831321",
+        "start": "2026-09-11T07:00:41.697293",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2212,10 +2091,10 @@ const bidEvents = [
         "description": "수요기관: 강원대학교 | 공고번호: R26BK01676518"
     },
     {
-        "id": "g2b-api-8460024420023866077",
+        "id": "g2b-api-5876598624839116395",
         "title": "가천대학교 AI타워 및 신규주차장 신축공사 안전점검 수행기관 지정 공고",
         "organization": "경기도 성남시",
-        "start": "2026-09-09T07:00:49.831321",
+        "start": "2026-09-11T07:00:41.697293",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2223,10 +2102,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 성남시 | 공고번호: R26BK01683457"
     },
     {
-        "id": "g2b-api-4218328554167192355",
+        "id": "g2b-api-5464324720141759490",
         "title": "서울바이오허브 2026년 서울 바이오·의료 오픈 콜라보 행사 운영 용역",
         "organization": "한국과학기술연구원",
-        "start": "2026-09-09T07:00:49.831321",
+        "start": "2026-09-11T07:00:41.697293",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2234,10 +2113,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술연구원 | 공고번호: R26BK01681449"
     },
     {
-        "id": "g2b-api-408864970495708746",
+        "id": "g2b-api-581129345502444662",
         "title": "NPU 지원 AI 가속기 Box",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.832504",
+        "start": "2026-09-11T07:00:41.698290",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2245,10 +2124,10 @@ const bidEvents = [
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01695421"
     },
     {
-        "id": "g2b-api-533724698103677879",
+        "id": "g2b-api-7056254398227360208",
         "title": "AI 연산용 NPU 가속기 카드",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.832504",
+        "start": "2026-09-11T07:00:41.698290",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2256,32 +2135,21 @@ const bidEvents = [
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01703726"
     },
     {
-        "id": "g2b-api-7639764377478035849",
+        "id": "g2b-api-7400752183288752107",
         "title": "GIST AI반도체연구원 설립 기획보고서 작성",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.832504",
-        "deadline": "2026-10-09T07:00:49.832504",
+        "start": "2026-09-11T07:00:41.698290",
+        "deadline": "2026-10-11T07:00:41.698290",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695167&bidPbancOrd=000",
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01695167"
     },
     {
-        "id": "g2b-api-8041757731765387000",
-        "title": "GIST AI반도체연구원 설립 기획보고서 작성",
-        "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.833504",
-        "deadline": "2026-10-09T07:00:49.833504",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676692&bidPbancOrd=000",
-        "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01676692"
-    },
-    {
-        "id": "g2b-api-3740677881676625532",
+        "id": "g2b-api-8605908500905742384",
         "title": "고용량 AI 인프라 구축을 위한 고밀도 컴퓨팅 서버 실장 모듈",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.833504",
+        "start": "2026-09-11T07:00:41.698290",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2289,10 +2157,10 @@ const bidEvents = [
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01685445"
     },
     {
-        "id": "g2b-api-4111737535806947367",
+        "id": "g2b-api-1346629414127542738",
         "title": "AI 연산 노드 및 모니터링 시스템 구축 ",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.833504",
+        "start": "2026-09-11T07:00:41.698290",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2300,10 +2168,10 @@ const bidEvents = [
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01705257"
     },
     {
-        "id": "g2b-api-8297095299271480946",
+        "id": "g2b-api-8599170713419373333",
         "title": "AI기반 기후모델 개발을 위한 서버용 GPU카드",
         "organization": "광주과학기술원",
-        "start": "2026-09-09T07:00:49.833504",
+        "start": "2026-09-11T07:00:41.698290",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2311,32 +2179,21 @@ const bidEvents = [
         "description": "수요기관: 광주과학기술원 | 공고번호: R26BK01706421"
     },
     {
-        "id": "g2b-api-3989058894639194350",
+        "id": "g2b-api-5700699143279430667",
         "title": "태평양 도서국 대상 AI 활용 해양수산 ODA 사업 타당성 조사",
         "organization": "한국해양수산개발원",
-        "start": "2026-09-09T07:00:49.833504",
-        "deadline": "2026-10-09T07:00:49.833504",
+        "start": "2026-09-11T07:00:41.698290",
+        "deadline": "2026-10-11T07:00:41.698290",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706797&bidPbancOrd=000",
         "description": "수요기관: 한국해양수산개발원 | 공고번호: R26BK01706797"
     },
     {
-        "id": "g2b-api-1037871528521470203",
-        "title": "「2026년 해양수산 국제협력 콘퍼런스 및 BADA」 행사 운영 용역",
-        "organization": "한국해양수산개발원",
-        "start": "2026-09-09T07:00:49.833504",
-        "deadline": "2026-10-09T07:00:49.833504",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675473&bidPbancOrd=000",
-        "description": "수요기관: 한국해양수산개발원 | 공고번호: R26BK01675473"
-    },
-    {
-        "id": "g2b-api-9127175979553030583",
+        "id": "g2b-api-3972112962038721822",
         "title": "동서트레일 성공 개통을 위한 운영협력 워크숍 대행행사",
         "organization": "산림청",
-        "start": "2026-09-09T07:00:56.074499",
+        "start": "2026-09-11T07:00:47.383745",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2344,10 +2201,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 | 공고번호: R26BK01697494"
     },
     {
-        "id": "g2b-api-437664951851142029",
+        "id": "g2b-api-2185119941093417677",
         "title": "임도 정책 국민 인식 설문조사 용역",
         "organization": "산림청",
-        "start": "2026-09-09T07:00:56.074499",
+        "start": "2026-09-11T07:00:47.383745",
         "deadline": "2026-08-27T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -2355,10 +2212,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 | 공고번호: R26BK01700796"
     },
     {
-        "id": "g2b-api-7087807763005548490",
+        "id": "g2b-api-1802813146596013270",
         "title": "제7회 임업인의 날 행사대행",
         "organization": "산림청",
-        "start": "2026-09-09T07:00:56.074499",
+        "start": "2026-09-11T07:00:47.383745",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2366,10 +2223,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 | 공고번호: R26BK01711319"
     },
     {
-        "id": "g2b-api-7614813484335501631",
+        "id": "g2b-api-2286446935956772595",
         "title": "남한강 도보순례 행사 용역",
         "organization": "국립공원공단 태백산국립공원사무소",
-        "start": "2026-09-09T07:00:56.074499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2377,10 +2234,10 @@ const bidEvents = [
         "description": "수요기관: 국립공원공단 태백산국립공원사무소 | 공고번호: R26BK01690012"
     },
     {
-        "id": "g2b-api-4194158260824593878",
+        "id": "g2b-api-1405100155803170730",
         "title": "남한강 도보순례 행사 용역",
         "organization": "국립공원공단 태백산국립공원사무소",
-        "start": "2026-09-09T07:00:56.074499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2388,10 +2245,10 @@ const bidEvents = [
         "description": "수요기관: 국립공원공단 태백산국립공원사무소 | 공고번호: R26BK01688873"
     },
     {
-        "id": "g2b-api-2517497709637731240",
+        "id": "g2b-api-7089499548787777911",
         "title": "2026년 AI융합경진대회사업 바이브코딩 앱 제작 교육 및 챌린지 용역",
         "organization": "재단법인강원정보문화산업진흥원",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2399,10 +2256,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인강원정보문화산업진흥원 | 공고번호: R26BK01678508"
     },
     {
-        "id": "g2b-api-7354586948019857643",
+        "id": "g2b-api-2072849762628234649",
         "title": "AI 슬로우스타터 진단 및 교육 프로그램 개발 용역",
         "organization": "성균관대학교 (인)산학협력단",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2410,10 +2267,10 @@ const bidEvents = [
         "description": "수요기관: 성균관대학교 (인)산학협력단 | 공고번호: R26BK01716467"
     },
     {
-        "id": "g2b-api-7652314474071046234",
+        "id": "g2b-api-5501078306939088314",
         "title": "울산과학대학교 2026학년도 무룡축제, 체전 무대설치 및 공연 행사 진행 용역",
         "organization": "울산과학대학",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2421,10 +2278,10 @@ const bidEvents = [
         "description": "수요기관: 울산과학대학 | 공고번호: R26BK01685786"
     },
     {
-        "id": "g2b-api-759195332184459434",
+        "id": "g2b-api-2763486647884677176",
         "title": "AI 기술 적용 지하시설물 성과심사 자동화",
         "organization": "(재)공간정보품질관리원",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2432,10 +2289,10 @@ const bidEvents = [
         "description": "수요기관: (재)공간정보품질관리원 | 공고번호: R26BK01688887"
     },
     {
-        "id": "g2b-api-8926629551650172246",
+        "id": "g2b-api-7890981509075568495",
         "title": "AI 기술 적용 지하시설물 성과심사 자동화",
         "organization": "(재)공간정보품질관리원",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.384745",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2443,10 +2300,10 @@ const bidEvents = [
         "description": "수요기관: (재)공간정보품질관리원 | 공고번호: R26BK01714361"
     },
     {
-        "id": "g2b-api-6320727046138680522",
+        "id": "g2b-api-7591601832411877654",
         "title": "2026 주민자치 한마당 행사대행 용역",
         "organization": "인천광역시 남동구",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.385745",
         "deadline": "2026-08-28T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2454,32 +2311,21 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 남동구 | 공고번호: R26BK01693963"
     },
     {
-        "id": "g2b-api-2622419297007917873",
+        "id": "g2b-api-7355108091776895703",
         "title": "다중 LLM 지원 생성형 AI플랫폼 도입 업체 선정",
         "organization": "인하대학교 산학협력단",
-        "start": "2026-09-09T07:00:56.075499",
-        "deadline": "2026-10-09T07:00:56.075499",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676191&bidPbancOrd=000",
-        "description": "수요기관: 인하대학교 산학협력단 | 공고번호: R26BK01676191"
-    },
-    {
-        "id": "g2b-api-6605915421597610878",
-        "title": "다중 LLM 지원 생성형 AI플랫폼 도입 업체 선정",
-        "organization": "인하대학교 산학협력단",
-        "start": "2026-09-09T07:00:56.075499",
-        "deadline": "2026-10-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.385745",
+        "deadline": "2026-10-11T07:00:47.385745",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697360&bidPbancOrd=000",
         "description": "수요기관: 인하대학교 산학협력단 | 공고번호: R26BK01697360"
     },
     {
-        "id": "g2b-api-2805545269170852080",
+        "id": "g2b-api-4007282925976099313",
         "title": "「2026 율현공원 가을축제」행사대행 용역",
         "organization": "서울특별시 동부공원여가센터",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.385745",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2487,10 +2333,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 동부공원여가센터 | 공고번호: R26BK01682501"
     },
     {
-        "id": "g2b-api-3188423640672200499",
+        "id": "g2b-api-4828967585489084045",
         "title": "소상공인 상세페이지 제작 지원을 위한 생성형 AI 활용지원 서비스 운영 용역",
         "organization": "주식회사 포레스트그룹코리아",
-        "start": "2026-09-09T07:00:56.075499",
+        "start": "2026-09-11T07:00:47.385745",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2498,21 +2344,21 @@ const bidEvents = [
         "description": "수요기관: 주식회사 포레스트그룹코리아 | 공고번호: R26BK01689169"
     },
     {
-        "id": "g2b-api-7617706070919741619",
+        "id": "g2b-api-6587003473673345538",
         "title": "2026학년도 AI기반 MJU 취업·창업·진학박람회 용역",
         "organization": "명지대학교",
-        "start": "2026-09-09T07:00:56.076499",
-        "deadline": "2026-10-09T07:00:56.076499",
+        "start": "2026-09-11T07:00:47.385745",
+        "deadline": "2026-10-11T07:00:47.385745",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01702847&bidPbancOrd=000",
         "description": "수요기관: 명지대학교 | 공고번호: R26BK01702847"
     },
     {
-        "id": "g2b-api-6408235845181280976",
+        "id": "g2b-api-7316005790342955719",
         "title": "AI 에이전트 데이터수집 시스템 제작",
         "organization": "한국에너지기술연구원",
-        "start": "2026-09-09T07:00:56.076499",
+        "start": "2026-09-11T07:00:47.385745",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2520,10 +2366,21 @@ const bidEvents = [
         "description": "수요기관: 한국에너지기술연구원 | 공고번호: R26BK01710032"
     },
     {
-        "id": "g2b-api-2972847608817069944",
+        "id": "g2b-api-5401831775819167332",
+        "title": "디지털서비스_교문사_교문사 AIDT 교육자료 for 엘리스그룹",
+        "organization": "각 수요기관",
+        "start": "2026-09-11T07:00:47.386744",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719323&bidPbancOrd=000",
+        "description": "수요기관: 각 수요기관 | 공고번호: R26BK01719323"
+    },
+    {
+        "id": "g2b-api-6350220163308760330",
         "title": "[육성사업] 2026학년도 국립목포해양대학교 해성대동제(축제) 행사 용역(긴급)",
         "organization": "국립목포해양대학교",
-        "start": "2026-09-09T07:00:56.077499",
+        "start": "2026-09-11T07:00:47.386744",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2531,10 +2388,10 @@ const bidEvents = [
         "description": "수요기관: 국립목포해양대학교 | 공고번호: R26BK01711473"
     },
     {
-        "id": "g2b-api-6451339527872216797",
+        "id": "g2b-api-490085487798702741",
         "title": "교사용 AI 활용 교육 가이드 개발 연구",
         "organization": "한국교육학술정보원",
-        "start": "2026-09-09T07:00:56.077499",
+        "start": "2026-09-11T07:00:47.386744",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2542,10 +2399,10 @@ const bidEvents = [
         "description": "수요기관: 한국교육학술정보원 | 공고번호: R26BK01701447"
     },
     {
-        "id": "g2b-api-8355099070562579487",
+        "id": "g2b-api-7442798110651293027",
         "title": "2026년 ASEAN+3 HRD 포럼 행사용역",
         "organization": "한국산업인력공단 글로벌숙련기술진흥원",
-        "start": "2026-09-09T07:00:56.077499",
+        "start": "2026-09-11T07:00:47.386744",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2553,10 +2410,10 @@ const bidEvents = [
         "description": "수요기관: 한국산업인력공단 글로벌숙련기술진흥원 | 공고번호: R26BK01716579"
     },
     {
-        "id": "g2b-api-3404538040402249640",
+        "id": "g2b-api-7944831425233799535",
         "title": "한국폴리텍대학 신기술교육원 피지컬AI리빙센터 구축 공사(건축)",
         "organization": "학교법인한국폴리텍 한국폴리텍대학신기술교육원",
-        "start": "2026-09-09T07:00:56.078499",
+        "start": "2026-09-11T07:00:47.387744",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2564,10 +2421,10 @@ const bidEvents = [
         "description": "수요기관: 학교법인한국폴리텍 한국폴리텍대학신기술교육원 | 공고번호: R26BK01674648"
     },
     {
-        "id": "g2b-api-384228277310681053",
+        "id": "g2b-api-8000279460323831770",
         "title": "한국폴리텍대학 신기술교육원 피지컬AI리빙센터 구축 공사(전기)",
         "organization": "학교법인한국폴리텍 한국폴리텍대학신기술교육원",
-        "start": "2026-09-09T07:00:56.078499",
+        "start": "2026-09-11T07:00:47.387744",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2575,10 +2432,21 @@ const bidEvents = [
         "description": "수요기관: 학교법인한국폴리텍 한국폴리텍대학신기술교육원 | 공고번호: R26BK01674924"
     },
     {
-        "id": "g2b-api-982034245108255864",
+        "id": "g2b-api-3604792466633254475",
+        "title": "[입찰참가자격확대]2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 4기 연수시설 임차 용역",
+        "organization": "경기도교육청 경기도교육청남부연수원",
+        "start": "2026-09-11T07:00:47.387744",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718984&bidPbancOrd=000",
+        "description": "수요기관: 경기도교육청 경기도교육청남부연수원 | 공고번호: R26BK01718984"
+    },
+    {
+        "id": "g2b-api-732259425467854392",
         "title": "2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 3기 시설 임차용역",
         "organization": "경기도교육청 경기도교육청남부연수원",
-        "start": "2026-09-09T07:00:56.078499",
+        "start": "2026-09-11T07:00:47.387744",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2586,10 +2454,10 @@ const bidEvents = [
         "description": "수요기관: 경기도교육청 경기도교육청남부연수원 | 공고번호: R26BK01701700"
     },
     {
-        "id": "g2b-api-4920338191023871153",
+        "id": "g2b-api-5266021680625489022",
         "title": "2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 4기 시설 임차용역",
         "organization": "경기도교육청 경기도교육청남부연수원",
-        "start": "2026-09-09T07:00:56.078499",
+        "start": "2026-09-11T07:00:47.388744",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2597,10 +2465,21 @@ const bidEvents = [
         "description": "수요기관: 경기도교육청 경기도교육청남부연수원 | 공고번호: R26BK01701851"
     },
     {
-        "id": "g2b-api-8860318580679586854",
+        "id": "g2b-api-7323910159746110194",
+        "title": "[입찰참가자격확대]2026 AI·빅데이터 기반 학교 리더십 전략과정 직무연수 3기 연수시설 임차 용역",
+        "organization": "경기도교육청 경기도교육청남부연수원",
+        "start": "2026-09-11T07:00:47.388744",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718581&bidPbancOrd=000",
+        "description": "수요기관: 경기도교육청 경기도교육청남부연수원 | 공고번호: R26BK01718581"
+    },
+    {
+        "id": "g2b-api-1530648107781772496",
         "title": "2026년 제19회 평생학습발표회 행사 대행 용역",
         "organization": "충청남도 서산시",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2608,21 +2487,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 서산시 | 공고번호: R26BK01687137"
     },
     {
-        "id": "g2b-api-2799608418365282078",
-        "title": "2026년 제19회 평생학습발표회 행사 대행 용역",
-        "organization": "충청남도 서산시",
-        "start": "2026-09-09T07:00:56.081005",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676677&bidPbancOrd=000",
-        "description": "수요기관: 충청남도 서산시 | 공고번호: R26BK01676677"
-    },
-    {
-        "id": "g2b-api-1102534952905734303",
+        "id": "g2b-api-4837015677733219417",
         "title": "AI 대전환 사업 - 품질관리 시스템 서버 구매 (긴급)",
         "organization": "주식회사 루타스",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2630,10 +2498,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 루타스 | 공고번호: R26BK01698479"
     },
     {
-        "id": "g2b-api-7697829539469562984",
+        "id": "g2b-api-3665585189796009463",
         "title": "AI 비전 검사 시스템 2차 제작(재공고)",
         "organization": "주식회사 루타스",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2641,10 +2509,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 루타스 | 공고번호: R26BK01713995"
     },
     {
-        "id": "g2b-api-7342427826861504338",
+        "id": "g2b-api-7236618546944177797",
         "title": "AI 비전 검사 시스템 2차 제작",
         "organization": "주식회사 루타스",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2652,10 +2520,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 루타스 | 공고번호: R26BK01678308"
     },
     {
-        "id": "g2b-api-3398217383914724875",
+        "id": "g2b-api-3355362264591828816",
         "title": "AI 비전 검사 시스템 2차 제작",
         "organization": "주식회사 루타스",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2663,10 +2531,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 루타스 | 공고번호: R26BK01695253"
     },
     {
-        "id": "g2b-api-2939251266830108872",
+        "id": "g2b-api-7834263287317051746",
         "title": "AI 비전 검사 시스템 2차 제작",
         "organization": "주식회사 루타스",
-        "start": "2026-09-09T07:00:56.081005",
+        "start": "2026-09-11T07:00:47.389968",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2674,10 +2542,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 루타스 | 공고번호: R26BK01656551"
     },
     {
-        "id": "g2b-api-8203216092727747362",
+        "id": "g2b-api-6777948002620667673",
         "title": "(26G158-I)2026년국제안보학술회의행사용역",
         "organization": "국방부 국군재정관리단",
-        "start": "2026-09-09T07:01:02.413733",
+        "start": "2026-09-11T07:00:47.390968",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2685,10 +2553,43 @@ const bidEvents = [
         "description": "수요기관: 국방부 국군재정관리단 | 공고번호: R26BK01707499"
     },
     {
-        "id": "g2b-api-4939535459539405408",
+        "id": "g2b-api-909707478006991519",
+        "title": "13.8kV급 AI 데이터센터용 반도체 변압기 시스템 3D 설계 및 하드웨어 제작",
+        "organization": "한국전기연구원",
+        "start": "2026-09-11T07:00:53.101498",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689422&bidPbancOrd=000",
+        "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01689422"
+    },
+    {
+        "id": "g2b-api-3935531113260073463",
+        "title": "산업용 모터의 다중물리 해석을 위한 소프트웨어 (Altair)구독",
+        "organization": "한국전기연구원",
+        "start": "2026-09-11T07:00:53.102504",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689461&bidPbancOrd=000",
+        "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01689461"
+    },
+    {
+        "id": "g2b-api-5677943832097456035",
+        "title": "13.8kV급 AI 데이터센터용 반도체 변압기 시스템 3D 설계 및 하드웨어 제작",
+        "organization": "한국전기연구원",
+        "start": "2026-09-11T07:00:53.102504",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723811&bidPbancOrd=000",
+        "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01723811"
+    },
+    {
+        "id": "g2b-api-4963684045804158269",
         "title": "2026년 초기창업패키지(딥테크 특화형) ABR(AI·Bigdata·Robotics) 글로벌 스케일업 브릿지 위탁운영",
         "organization": "재단법인 대전창조경제혁신센터",
-        "start": "2026-09-09T07:01:02.414733",
+        "start": "2026-09-11T07:00:53.102504",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2696,87 +2597,65 @@ const bidEvents = [
         "description": "수요기관: 재단법인 대전창조경제혁신센터 | 공고번호: R26BK01687189"
     },
     {
-        "id": "g2b-api-5257596138506806873",
+        "id": "g2b-api-2268624150127438589",
         "title": "[52074]AI 캠퍼스 통신 인프라(P5G) 무선망 최적화·성능검증 및 주파수 확보 용역",
         "organization": "포항공과대학교 산학협력단",
-        "start": "2026-09-09T07:01:02.414733",
-        "deadline": "2026-10-09T07:01:02.414733",
+        "start": "2026-09-11T07:00:53.102504",
+        "deadline": "2026-10-11T07:00:53.102504",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680804&bidPbancOrd=000",
         "description": "수요기관: 포항공과대학교 산학협력단 | 공고번호: R26BK01680804"
     },
     {
-        "id": "g2b-api-3006519623968885644",
+        "id": "g2b-api-2877014290794264450",
         "title": "[52279]가속기 기반 신약개발 국제심포지엄 행사기획 용역사 선정 및 실행",
         "organization": "포항공과대학교 산학협력단",
-        "start": "2026-09-09T07:01:02.414733",
-        "deadline": "2026-10-09T07:01:02.414733",
+        "start": "2026-09-11T07:00:53.102504",
+        "deadline": "2026-10-11T07:00:53.102504",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684654&bidPbancOrd=000",
         "description": "수요기관: 포항공과대학교 산학협력단 | 공고번호: R26BK01684654"
     },
     {
-        "id": "g2b-api-8623588108496304258",
-        "title": "2026년 조류인플루엔자(AI) 검진사업용 진단키트 등 구입(2차)",
-        "organization": "충청북도",
-        "start": "2026-09-09T07:01:02.415733",
-        "deadline": "2026-09-11T00:00:00",
+        "id": "g2b-api-6072840974681472609",
+        "title": "2026년 전남광주통합특별시교육청 AI광주미래교육박람회 대행용역 제한경쟁 입찰공고(협상에 의한 계약)",
+        "organization": "전남광주통합특별시교육청 광주청사",
+        "start": "2026-09-11T07:00:53.102504",
+        "deadline": "2026-09-28T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712671&bidPbancOrd=000",
-        "description": "수요기관: 충청북도 | 공고번호: R26BK01712671"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712423&bidPbancOrd=000",
+        "description": "수요기관: 전남광주통합특별시교육청 광주청사 | 공고번호: R26BK01712423"
     },
     {
-        "id": "g2b-api-4754034376039957356",
-        "title": "AI 콘텐츠 연구용 NAS 스토리지 구매",
-        "organization": "중앙대학교 산학협력단",
-        "start": "2026-09-09T07:01:02.415733",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677984&bidPbancOrd=000",
-        "description": "수요기관: 중앙대학교 산학협력단 | 공고번호: R26BK01677984"
-    },
-    {
-        "id": "g2b-api-3548115281790686495",
+        "id": "g2b-api-6046675527285480739",
         "title": "응급실 특화 AI 기반 CDM 데이터셋 구축 컨설팅 및 FHIR 연동 컨설팅",
         "organization": "중앙대학교 산학협력단",
-        "start": "2026-09-09T07:01:02.415733",
-        "deadline": "2026-10-09T07:01:02.415733",
+        "start": "2026-09-11T07:00:53.103504",
+        "deadline": "2026-10-11T07:00:53.103504",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711772&bidPbancOrd=000",
         "description": "수요기관: 중앙대학교 산학협력단 | 공고번호: R26BK01711772"
     },
     {
-        "id": "g2b-api-5078533738519280659",
-        "title": " 2026학년도 혁신지원사업 교육만족도조사 및 성과관리 위탁용역",
-        "organization": "충북보건과학대학교 산학협력단",
-        "start": "2026-09-09T07:01:02.415733",
-        "deadline": "2026-09-08T00:00:00",
-        "category": "consumer",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701464&bidPbancOrd=000",
-        "description": "수요기관: 충북보건과학대학교 산학협력단 | 공고번호: R26BK01701464"
-    },
-    {
-        "id": "g2b-api-4363821547335980175",
-        "title": "생성형 AI 플랫폼 구축 및 AX 개발 사업",
-        "organization": "한국석유공사",
-        "start": "2026-09-09T07:01:02.415733",
-        "deadline": "2026-10-13T00:00:00",
+        "id": "g2b-api-7171993085233401383",
+        "title": "AI기반 자율형 정보보호체계 수립 컨설팅 사업",
+        "organization": "한국은행",
+        "start": "2026-09-11T07:00:53.103504",
+        "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705928&bidPbancOrd=000",
-        "description": "수요기관: 한국석유공사 | 공고번호: R26BK01705928"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714333&bidPbancOrd=000",
+        "description": "수요기관: 한국은행 | 공고번호: R26BK01714333"
     },
     {
-        "id": "g2b-api-8210493145504200466",
+        "id": "g2b-api-4877643820506417102",
         "title": "『고위험 밀폐공간 재난예방형 맨홀 무인조사 시스템 사업화』중 AI 활용 맨홀 결함탐지 시스템 구축",
         "organization": "(주)한국지중정보",
-        "start": "2026-09-09T07:01:02.417236",
+        "start": "2026-09-11T07:00:53.104504",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2784,10 +2663,10 @@ const bidEvents = [
         "description": "수요기관: (주)한국지중정보 | 공고번호: R26BK01692943"
     },
     {
-        "id": "g2b-api-6126805772584704340",
+        "id": "g2b-api-939530540998125081",
         "title": "『고위험 밀폐공간 재난예방형 맨홀 무인조사 시스템 사업화』 중 AI활용 맨홀 결함탐지 시스템 구축",
         "organization": "(주)한국지중정보",
-        "start": "2026-09-09T07:01:02.417236",
+        "start": "2026-09-11T07:00:53.104504",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2795,10 +2674,10 @@ const bidEvents = [
         "description": "수요기관: (주)한국지중정보 | 공고번호: R26BK01717757"
     },
     {
-        "id": "g2b-api-6852560060017004208",
+        "id": "g2b-api-8995372725012892260",
         "title": "『고위험 밀폐공간 재난예방형 맨홀 무인조사 시스템 사업화』 중 AI활용 맨홀 결함탐지 시스템 구축",
         "organization": "(주)한국지중정보",
-        "start": "2026-09-09T07:01:02.417236",
+        "start": "2026-09-11T07:00:53.104504",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2806,43 +2685,32 @@ const bidEvents = [
         "description": "수요기관: (주)한국지중정보 | 공고번호: R26BK01706982"
     },
     {
-        "id": "g2b-api-1720680353079781755",
-        "title": "AI-OCR을 활용한 차량번호 검증시스템 구축 사업",
-        "organization": "사단법인 보험개발원",
-        "start": "2026-09-09T07:01:02.418241",
-        "deadline": "2026-10-09T07:01:02.418241",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709945&bidPbancOrd=001",
-        "description": "수요기관: 사단법인 보험개발원 | 공고번호: R26BK01709945"
-    },
-    {
-        "id": "g2b-api-1513364941878214194",
-        "title": "AI기반 취약점 점검 소프트웨어 도입 사업",
-        "organization": "사단법인 보험개발원",
-        "start": "2026-09-09T07:01:02.418241",
-        "deadline": "2026-10-09T07:01:02.418241",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692822&bidPbancOrd=000",
-        "description": "수요기관: 사단법인 보험개발원 | 공고번호: R26BK01692822"
-    },
-    {
-        "id": "g2b-api-6036190044283365368",
-        "title": "(신규)한국 OECD 가입 30주년 기념 세미나 행사 대행 용역",
-        "organization": "외교부",
-        "start": "2026-09-09T07:01:02.418241",
-        "deadline": "2026-08-26T00:00:00",
+        "id": "g2b-api-6590895148494684801",
+        "title": "[긴급]2026/2027 남자 아이스하키 아시아 챔피언십 운영 대행사 용역 ",
+        "organization": "사단법인 대한아이스하키협회",
+        "start": "2026-09-11T07:00:53.105504",
+        "deadline": "2026-10-11T07:00:53.105504",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675467&bidPbancOrd=000",
-        "description": "수요기관: 외교부 | 공고번호: R26BK01675467"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719706&bidPbancOrd=002",
+        "description": "수요기관: 사단법인 대한아이스하키협회 | 공고번호: R26BK01719706"
     },
     {
-        "id": "g2b-api-2420294970868501616",
+        "id": "g2b-api-2368172379206010998",
+        "title": "통합제공체계 데이터 피지컬 AI 업무 수행을 위한 장비 구매",
+        "organization": "한국정보통신기술협회",
+        "start": "2026-09-11T07:00:53.105504",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714070&bidPbancOrd=000",
+        "description": "수요기관: 한국정보통신기술협회 | 공고번호: R26BK01714070"
+    },
+    {
+        "id": "g2b-api-2502469741657693245",
         "title": "2026년 분쟁조정 담당자 역량강화 연수(제2,3차) 행사 대행 용역",
         "organization": "한국교육개발원",
-        "start": "2026-09-09T07:01:02.418241",
+        "start": "2026-09-11T07:00:53.106504",
         "deadline": "2026-09-16T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2850,10 +2718,10 @@ const bidEvents = [
         "description": "수요기관: 한국교육개발원 | 공고번호: R26BK01699056"
     },
     {
-        "id": "g2b-api-62979847006233776",
+        "id": "g2b-api-5513834255271350214",
         "title": "중앙경찰학교 제320기 졸업식 행사지원업체 선정 입찰",
         "organization": "경찰청 중앙경찰학교",
-        "start": "2026-09-09T07:01:02.418241",
+        "start": "2026-09-11T07:00:53.106504",
         "deadline": "2026-10-06T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2861,10 +2729,10 @@ const bidEvents = [
         "description": "수요기관: 경찰청 중앙경찰학교 | 공고번호: R26BK01694217"
     },
     {
-        "id": "g2b-api-8184455524872005327",
+        "id": "g2b-api-7441766726981941107",
         "title": "2026년 지역 AX 사업 통합 성과보고회 및 워크숍 행사 운영",
         "organization": "정보통신산업진흥원",
-        "start": "2026-09-09T07:01:02.418241",
+        "start": "2026-09-11T07:00:53.107504",
         "deadline": "2026-10-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -2872,10 +2740,10 @@ const bidEvents = [
         "description": "수요기관: 정보통신산업진흥원 | 공고번호: R26BK01718503"
     },
     {
-        "id": "g2b-api-1349360100377674637",
+        "id": "g2b-api-1876339266926177814",
         "title": "[연구,173] 감염병 인체위험도 평가를 위한 AI 분석 플랫폼 설계 기본계획 연구",
         "organization": "질병관리청",
-        "start": "2026-09-09T07:01:02.419241",
+        "start": "2026-09-11T07:00:53.107504",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2883,10 +2751,10 @@ const bidEvents = [
         "description": "수요기관: 질병관리청 | 공고번호: R26BK01688235"
     },
     {
-        "id": "g2b-api-8591510894220703014",
+        "id": "g2b-api-2369892461514462965",
         "title": "2026년 제4차 정보화사업(AX 기반 국민체감 AI 고용서비스 구축 사업) 감리 용역",
         "organization": "한국고용정보원",
-        "start": "2026-09-09T07:01:02.419241",
+        "start": "2026-09-11T07:00:53.107504",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2894,10 +2762,10 @@ const bidEvents = [
         "description": "수요기관: 한국고용정보원 | 공고번호: R26BK01707779"
     },
     {
-        "id": "g2b-api-6629794816242145082",
+        "id": "g2b-api-1624642119271532802",
         "title": "연구행정 효율화를 위한 AI 기반 서비스 구축 사업 감리 및 개인정보 영향평가",
         "organization": "한국과학기술기획평가원",
-        "start": "2026-09-09T07:01:02.419241",
+        "start": "2026-09-11T07:00:53.107504",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2905,65 +2773,54 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술기획평가원 | 공고번호: R26BK01707291"
     },
     {
-        "id": "g2b-api-1909773421588701118",
-        "title": "AI 지능형 병원정보시스템(AI Native HIS) 기획",
-        "organization": "한국보건산업진흥원",
-        "start": "2026-09-09T07:01:02.419241",
-        "deadline": "2026-09-03T00:00:00",
-        "category": "ai",
+        "id": "g2b-api-5817188018364973977",
+        "title": "2026년 글로벌 소재·부품·장비 테크페어 행사 기획 및 운영 대행",
+        "organization": "한국산업기술기획평가원",
+        "start": "2026-09-11T07:00:53.108008",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692995&bidPbancOrd=000",
-        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01692995"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706538&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술기획평가원 | 공고번호: R26BK01706538"
     },
     {
-        "id": "g2b-api-3771037493593905058",
-        "title": "생성형 AI 기반 한국의료 글로벌 홍보 진단 및 전략 수립 컨설팅",
-        "organization": "한국보건산업진흥원",
-        "start": "2026-09-09T07:01:02.419241",
-        "deadline": "2026-09-15T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712731&bidPbancOrd=000",
-        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01712731"
-    },
-    {
-        "id": "g2b-api-4582407971309077916",
-        "title": "AI 지능형 병원정보시스템(AI Native HIS) 기획",
-        "organization": "한국보건산업진흥원",
-        "start": "2026-09-09T07:01:02.419241",
+        "id": "g2b-api-4677708824882941353",
+        "title": "AI 자율제조 조선소 기술개발 및 실증 사업 기획 연구",
+        "organization": "한국산업기술기획평가원",
+        "start": "2026-09-11T07:00:53.108008",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715921&bidPbancOrd=000",
-        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01715921"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715651&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술기획평가원 | 공고번호: R26BK01715651"
     },
     {
-        "id": "g2b-api-1074551070550674281",
-        "title": "BIO Europe 2026 한국관 및 네트워킹 행사 위탁 운영",
-        "organization": "한국보건산업진흥원",
-        "start": "2026-09-09T07:01:02.419241",
-        "deadline": "2026-08-21T00:00:00",
+        "id": "g2b-api-5612309018299215158",
+        "title": "2026년 균형성장사업 우수사례 시상식 및 성과 전시회 기획․운영 ",
+        "organization": "한국산업기술기획평가원",
+        "start": "2026-09-11T07:00:53.108008",
+        "deadline": "2026-08-31T00:00:00",
+        "category": "exhibition",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688656&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술기획평가원 | 공고번호: R26BK01688656"
+    },
+    {
+        "id": "g2b-api-559899465599018725",
+        "title": "제9회 동오마을축제 행사 운영 용역",
+        "organization": "의정부도시공사",
+        "start": "2026-09-11T07:00:53.109584",
+        "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672372&bidPbancOrd=000",
-        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01672372"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722852&bidPbancOrd=000",
+        "description": "수요기관: 의정부도시공사 | 공고번호: R26BK01722852"
     },
     {
-        "id": "g2b-api-8549292158999761567",
-        "title": "2026년 나주시 반려동물 축제 행사 대행 용역",
-        "organization": "전남광주통합특별시 나주시",
-        "start": "2026-09-09T07:01:02.420241",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686494&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 나주시 | 공고번호: R26BK01686494"
-    },
-    {
-        "id": "g2b-api-1310859887517247040",
+        "id": "g2b-api-5775354392202363620",
         "title": "AI 연구개발용 고성능 GPU 서버 및 서버랙 구매",
         "organization": "르몽 주식회사",
-        "start": "2026-09-09T07:01:02.420241",
+        "start": "2026-09-11T07:00:53.109584",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2971,21 +2828,10 @@ const bidEvents = [
         "description": "수요기관: 르몽 주식회사 | 공고번호: R26BK01706491"
     },
     {
-        "id": "g2b-api-8651513132128336410",
-        "title": "제52회 국가품질경영대회 행사 용역",
-        "organization": "한국표준협회",
-        "start": "2026-09-09T07:01:02.421745",
-        "deadline": "2026-10-09T07:01:02.421745",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708693&bidPbancOrd=000",
-        "description": "수요기관: 한국표준협회 | 공고번호: R26BK01708693"
-    },
-    {
-        "id": "g2b-api-527782182496883591",
+        "id": "g2b-api-5871142747118576648",
         "title": "AI 기반 OCT 영상분석 디지털의료기기 확증임상시험 운영 용역",
         "organization": "주식회사 레이와트",
-        "start": "2026-09-09T07:01:07.613180",
+        "start": "2026-09-11T07:00:53.109584",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -2993,10 +2839,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 레이와트 | 공고번호: R26BK01678544"
     },
     {
-        "id": "g2b-api-3360159235845320531",
+        "id": "g2b-api-2204677267598720170",
         "title": "생성형 AI 실감콘텐츠 전시 공간 조성 용역",
         "organization": "주식회사 레벨나인",
-        "start": "2026-09-09T07:01:07.614182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3004,10 +2850,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 레벨나인 | 공고번호: R26BK01711048"
     },
     {
-        "id": "g2b-api-4274519008003094715",
+        "id": "g2b-api-8995896979603436289",
         "title": "생성형 AI 실감콘텐츠 전시용  LED 디스플레이 임차 용역",
         "organization": "주식회사 레벨나인",
-        "start": "2026-09-09T07:01:07.614182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3015,10 +2861,21 @@ const bidEvents = [
         "description": "수요기관: 주식회사 레벨나인 | 공고번호: R26BK01710950"
     },
     {
-        "id": "g2b-api-4221850121027736012",
+        "id": "g2b-api-3687635318375741794",
+        "title": "제52회 국가품질경영대회 행사 용역",
+        "organization": "한국표준협회",
+        "start": "2026-09-11T07:00:58.209533",
+        "deadline": "2026-10-11T07:00:58.209533",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708693&bidPbancOrd=000",
+        "description": "수요기관: 한국표준협회 | 공고번호: R26BK01708693"
+    },
+    {
+        "id": "g2b-api-546968830438553649",
         "title": "2026 진주 K-기업가정신 국제포럼 행사 대행 용역 (재공고)",
         "organization": "재단법인 진주 K-기업가정신재단",
-        "start": "2026-09-09T07:01:07.614182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3026,21 +2883,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 진주 K-기업가정신재단 | 공고번호: R26BK01694383"
     },
     {
-        "id": "g2b-api-4725597764943206837",
-        "title": "2026 진주 K-기업가정신 국제포럼 행사 대행 용역 (긴급)",
-        "organization": "재단법인 진주 K-기업가정신재단",
-        "start": "2026-09-09T07:01:07.614182",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674287&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 진주 K-기업가정신재단 | 공고번호: R26BK01674287"
-    },
-    {
-        "id": "g2b-api-129378340578343992",
+        "id": "g2b-api-6089172484844529044",
         "title": "2026년 재도전응원본부 실패콘서트 행사 운영 용역",
         "organization": "재단법인 한국청년기업가정신재단",
-        "start": "2026-09-09T07:01:07.614182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3048,10 +2894,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 한국청년기업가정신재단 | 공고번호: R26BK01678003"
     },
     {
-        "id": "g2b-api-2742098486507631044",
+        "id": "g2b-api-1604302970012615952",
         "title": "제2회 글로벌 뉴스페이스 포럼 행사",
         "organization": "외교부",
-        "start": "2026-09-09T07:01:07.614182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3059,10 +2905,10 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01698642"
     },
     {
-        "id": "g2b-api-6262269293163237613",
+        "id": "g2b-api-6384983147318884263",
         "title": "2026년 재도전응원본부 실패콘서트 행사 운영 용역",
         "organization": "재단법인 한국청년기업가정신재단",
-        "start": "2026-09-09T07:01:07.615182",
+        "start": "2026-09-11T07:00:58.209533",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3070,10 +2916,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 한국청년기업가정신재단 | 공고번호: R26BK01697210"
     },
     {
-        "id": "g2b-api-8559667146924751580",
+        "id": "g2b-api-8655749796386682185",
         "title": "2026년 한-베 이용상 한국정착 800주년 기념 글로벌 교류행사 대행 용역(협상,긴급)",
         "organization": "경상북도 봉화군",
-        "start": "2026-09-09T07:01:07.615182",
+        "start": "2026-09-11T07:00:58.210539",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3081,10 +2927,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도 봉화군 | 공고번호: R26BK01684568"
     },
     {
-        "id": "g2b-api-4978964996237460433",
+        "id": "g2b-api-4356556836606277088",
         "title": "2026년 스마트빌리지 페스타 행사 용역",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:07.615182",
+        "start": "2026-09-11T07:00:58.210539",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3092,10 +2938,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01679846"
     },
     {
-        "id": "g2b-api-1594242162448842696",
+        "id": "g2b-api-8331085592596468944",
         "title": "AI서비스와 공공서비스 연계 기반 구축 개인정보 영향평가",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:07.615182",
+        "start": "2026-09-11T07:00:58.211540",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3103,10 +2949,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01710072"
     },
     {
-        "id": "g2b-api-8316646000287397618",
+        "id": "g2b-api-1928395909533577202",
         "title": "2026학년도 2학기 의료·클라우드 AI 부트캠프 교육 콘텐츠 제작 및 운영 용역",
         "organization": "강원대학교 산학협력단",
-        "start": "2026-09-09T07:01:07.616182",
+        "start": "2026-09-11T07:00:58.211540",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3114,10 +2960,21 @@ const bidEvents = [
         "description": "수요기관: 강원대학교 산학협력단 | 공고번호: R26BK01688072"
     },
     {
-        "id": "g2b-api-2624623616368574120",
+        "id": "g2b-api-7498569240495987220",
+        "title": " AI 투명성 책임성 확보를 위한 한국형 감독체계 및 시민참여 모델 설계 연구 용역",
+        "organization": "국가인공지능전략위원회",
+        "start": "2026-09-11T07:00:58.211540",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720370&bidPbancOrd=000",
+        "description": "수요기관: 국가인공지능전략위원회 | 공고번호: R26BK01720370"
+    },
+    {
+        "id": "g2b-api-8187135744029434492",
         "title": "제11회 월드이스포츠서밋 행사운영 용역",
         "organization": "사단법인 국제이스포츠연맹",
-        "start": "2026-09-09T07:01:07.617182",
+        "start": "2026-09-11T07:00:58.212540",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3125,10 +2982,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 국제이스포츠연맹 | 공고번호: R26BK01714600"
     },
     {
-        "id": "g2b-api-1295111014661149060",
+        "id": "g2b-api-1018070210284943032",
         "title": "제11회 월드이스포츠서밋 행사운영 용역",
         "organization": "사단법인 국제이스포츠연맹",
-        "start": "2026-09-09T07:01:07.617182",
+        "start": "2026-09-11T07:00:58.212540",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3136,10 +2993,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 국제이스포츠연맹 | 공고번호: R26BK01694755"
     },
     {
-        "id": "g2b-api-728861097031343175",
+        "id": "g2b-api-6157002615232874251",
         "title": "2026년 재난응급의료 종합훈련대회 행사 대행 용역",
         "organization": "국립중앙의료원",
-        "start": "2026-09-09T07:01:07.617182",
+        "start": "2026-09-11T07:00:58.212540",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3147,10 +3004,10 @@ const bidEvents = [
         "description": "수요기관: 국립중앙의료원 | 공고번호: R26BK01693605"
     },
     {
-        "id": "g2b-api-7462612292830632883",
+        "id": "g2b-api-5110852648422140595",
         "title": "2026년 재난응급의료 종합훈련대회 행사 대행 용역(재공고)",
         "organization": "국립중앙의료원",
-        "start": "2026-09-09T07:01:07.617182",
+        "start": "2026-09-11T07:00:58.212540",
         "deadline": "2026-09-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3158,32 +3015,10 @@ const bidEvents = [
         "description": "수요기관: 국립중앙의료원 | 공고번호: R26BK01718373"
     },
     {
-        "id": "g2b-api-7652247000441120651",
-        "title": "전북대학교 AI JOB@JBNU 시스템 기능 추가 및 유지보수 용역",
-        "organization": "전북대학교",
-        "start": "2026-09-09T07:01:07.617182",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673697&bidPbancOrd=000",
-        "description": "수요기관: 전북대학교 | 공고번호: R26BK01673697"
-    },
-    {
-        "id": "g2b-api-3234317308356724591",
-        "title": "(비정형 물류·협동 로봇) AX 디바이스용 AI 모델 최적화 및 NPU 적용 기술지원 용역",
-        "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
-        "deadline": "2026-09-07T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692663&bidPbancOrd=000",
-        "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01692663"
-    },
-    {
-        "id": "g2b-api-325584757225510069",
+        "id": "g2b-api-1216568159801871246",
         "title": "(비정형 물류·협동 로봇) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3191,10 +3026,21 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01707751"
     },
     {
-        "id": "g2b-api-8351682238289195573",
+        "id": "g2b-api-8499487567060845899",
         "title": "(비정형 물류·협동 로봇) AX 디바이스용 AI 모델 최적화 및 NPU 적용 기술지원 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
+        "deadline": "2026-09-07T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692663&bidPbancOrd=000",
+        "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01692663"
+    },
+    {
+        "id": "g2b-api-9046361737854957669",
+        "title": "(비정형 물류·협동 로봇) AX 디바이스용 AI 모델 최적화 및 NPU 적용 기술지원 용역",
+        "organization": "특수법인 한국전파진흥협회",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3202,10 +3048,10 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01715908"
     },
     {
-        "id": "g2b-api-3599929948607288185",
+        "id": "g2b-api-7028430989669721686",
         "title": "(비정형 물류·협동 로봇) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3213,10 +3059,10 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01683019"
     },
     {
-        "id": "g2b-api-3368236808424156098",
+        "id": "g2b-api-7025172625543118025",
         "title": "(비침습 혈당측정기) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3224,10 +3070,10 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01709839"
     },
     {
-        "id": "g2b-api-3143272207122370478",
+        "id": "g2b-api-8033332255940993586",
         "title": "(비침습 혈당측정기) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3235,10 +3081,10 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01683269"
     },
     {
-        "id": "g2b-api-4153488377369170717",
+        "id": "g2b-api-3416251411195032210",
         "title": "(물류 휴머노이드 로봇) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
         "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3246,43 +3092,21 @@ const bidEvents = [
         "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01692535"
     },
     {
-        "id": "g2b-api-3037396036973321888",
-        "title": "(물류 휴머노이드 로봇) AX 디바이스용 AI 반도체 적용 기술지원 및 최적화 용역",
-        "organization": "특수법인 한국전파진흥협회",
-        "start": "2026-09-09T07:01:07.618182",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01668137&bidPbancOrd=000",
-        "description": "수요기관: 특수법인 한국전파진흥협회 | 공고번호: R26BK01668137"
-    },
-    {
-        "id": "g2b-api-4611789976919033858",
+        "id": "g2b-api-8342836628089097007",
         "title": " AI 모델 개발 및 검증용 연산 시스템",
         "organization": "주식회사 포인랩",
-        "start": "2026-09-09T07:01:07.618182",
-        "deadline": "2026-10-09T07:01:07.618182",
+        "start": "2026-09-11T07:00:58.213540",
+        "deadline": "2026-10-11T07:00:58.213540",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713859&bidPbancOrd=000",
         "description": "수요기관: 주식회사 포인랩 | 공고번호: R26BK01713859"
     },
     {
-        "id": "g2b-api-6308657472516179831",
-        "title": "2026-2학기 전공탐색 주간(전공 박람회) 행사 용역",
-        "organization": "부경대학교",
-        "start": "2026-09-09T07:01:07.619182",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673206&bidPbancOrd=000",
-        "description": "수요기관: 부경대학교 | 공고번호: R26BK01673206"
-    },
-    {
-        "id": "g2b-api-3673443946634034825",
+        "id": "g2b-api-3446692265128592300",
         "title": "고성능 AI장비 구매",
         "organization": "한국재정정보원",
-        "start": "2026-09-09T07:01:07.619182",
+        "start": "2026-09-11T07:00:58.214539",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3290,10 +3114,10 @@ const bidEvents = [
         "description": "수요기관: 한국재정정보원 | 공고번호: R26BK01717048"
     },
     {
-        "id": "g2b-api-4341561885805838114",
+        "id": "g2b-api-8394854755694828510",
         "title": "고성능 AI장비 구매",
         "organization": "한국재정정보원",
-        "start": "2026-09-09T07:01:07.620183",
+        "start": "2026-09-11T07:00:58.214539",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3301,21 +3125,10 @@ const bidEvents = [
         "description": "수요기관: 한국재정정보원 | 공고번호: R26BK01691084"
     },
     {
-        "id": "g2b-api-798341215495773268",
-        "title": "행정용 AI 서비스 운영을 위한 자체 GPU 기반 인프라 구축",
-        "organization": "서울대학교 정보화본부",
-        "start": "2026-09-09T07:01:07.620593",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677453&bidPbancOrd=000",
-        "description": "수요기관: 서울대학교 정보화본부 | 공고번호: R26BK01677453"
-    },
-    {
-        "id": "g2b-api-6359807243650451211",
+        "id": "g2b-api-95797343681753207",
         "title": "PLECS RT Box 2 기반 실시간 시뮬레이션 및 AI 연계 데이터 분석 시스템 구축",
         "organization": "국립금오공과대학교산학협력단",
-        "start": "2026-09-09T07:01:07.620593",
+        "start": "2026-09-11T07:00:58.215539",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3323,10 +3136,21 @@ const bidEvents = [
         "description": "수요기관: 국립금오공과대학교산학협력단 | 공고번호: R26BK01706511"
     },
     {
-        "id": "g2b-api-2936359722100240945",
+        "id": "g2b-api-176059707274965054",
+        "title": "Physical AI양팔 로봇 기반 모방학습 실습 시스템 ",
+        "organization": "국립금오공과대학교산학협력단",
+        "start": "2026-09-11T07:00:58.215539",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716846&bidPbancOrd=000",
+        "description": "수요기관: 국립금오공과대학교산학협력단 | 공고번호: R26BK01716846"
+    },
+    {
+        "id": "g2b-api-6252472303164706122",
         "title": "PLECS RT Box 2 기반 실시간 시뮬레이션 및 AI 연계 데이터 분석 시스템 구축",
         "organization": "국립금오공과대학교산학협력단",
-        "start": "2026-09-09T07:01:07.620593",
+        "start": "2026-09-11T07:00:58.215539",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3334,43 +3158,32 @@ const bidEvents = [
         "description": "수요기관: 국립금오공과대학교산학협력단 | 공고번호: R26BK01689253"
     },
     {
-        "id": "g2b-api-4815918148402384699",
+        "id": "g2b-api-9156932413255133817",
         "title": "2026 광명시 프로탁구리그 운영대행사 모집",
         "organization": "광명시체육회",
-        "start": "2026-09-09T07:01:07.620593",
-        "deadline": "2026-10-09T07:01:07.620593",
+        "start": "2026-09-11T07:00:58.215539",
+        "deadline": "2026-10-11T07:00:58.215539",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694405&bidPbancOrd=000",
         "description": "수요기관: 광명시체육회 | 공고번호: R26BK01694405"
     },
     {
-        "id": "g2b-api-7834922226110845619",
+        "id": "g2b-api-8469424503165901703",
         "title": "기초과학연구원 본원, KAIST 캠퍼스, POSTECH 캠퍼스 시설물관리 용역",
         "organization": "기초과학연구원",
-        "start": "2026-09-09T07:01:07.620593",
+        "start": "2026-09-11T07:00:58.215539",
         "deadline": "2026-10-14T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707746&bidPbancOrd=000",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707746&bidPbancOrd=001",
         "description": "수요기관: 기초과학연구원 | 공고번호: R26BK01707746"
     },
     {
-        "id": "g2b-api-1162941310928924466",
-        "title": "2026 미국 올랜도 해양레저·라이프스타일 SURF EXPO 전시회 수출컨소시엄사업 공동관 전시디자인 설치공사",
-        "organization": "(사)미주한인상공회의소총연합회 한국지회",
-        "start": "2026-09-09T07:01:07.620593",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "exhibition",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676782&bidPbancOrd=000",
-        "description": "수요기관: (사)미주한인상공회의소총연합회 한국지회 | 공고번호: R26BK01676782"
-    },
-    {
-        "id": "g2b-api-6044472578760911889",
+        "id": "g2b-api-9129416877756528549",
         "title": "AI기반 도금액 개발 시스템",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:07.621899",
+        "start": "2026-09-11T07:00:58.215539",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3378,10 +3191,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01710698"
     },
     {
-        "id": "g2b-api-6489876453445114702",
+        "id": "g2b-api-7280773043414004542",
         "title": "(3차공고)로컬 LLM 구동용 AI 컴퓨팅 워크스테이션",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:07.621899",
+        "start": "2026-09-11T07:00:58.215539",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3389,10 +3202,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01699387"
     },
     {
-        "id": "g2b-api-3853499725676682414",
+        "id": "g2b-api-2264904016950836324",
         "title": "(재공고)로컬 LLM 구동용 AI 컴퓨팅 워크스테이션",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:07.621899",
+        "start": "2026-09-11T07:00:58.216539",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3400,21 +3213,21 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01685267"
     },
     {
-        "id": "g2b-api-1034242552116762506",
+        "id": "g2b-api-3130484468984075361",
         "title": "제6회 무안YD페스티벌 행사대행 용역",
         "organization": "전남광주통합특별시 무안군",
-        "start": "2026-09-09T07:01:07.621899",
-        "deadline": "2026-10-09T07:01:07.621899",
+        "start": "2026-09-11T07:00:58.216539",
+        "deadline": "2026-10-11T07:00:58.216539",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719862&bidPbancOrd=000",
         "description": "수요기관: 전남광주통합특별시 무안군 | 공고번호: R26BK01719862"
     },
     {
-        "id": "g2b-api-7709773086449701863",
+        "id": "g2b-api-1541929439471947087",
         "title": "2026년도 서울시립대학교 총장배 - 2nd K-PILATES CONTEST 행사 운영 용역_스포츠건강진흥원",
         "organization": "서울특별시 서울시립대학교",
-        "start": "2026-09-09T07:01:12.345030",
+        "start": "2026-09-11T07:00:58.216539",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3422,10 +3235,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 | 공고번호: R26BK01693268"
     },
     {
-        "id": "g2b-api-6465401702307501932",
+        "id": "g2b-api-7645948873128114244",
         "title": "학술연구용 첨단장비「AI서버(FPGA가속기형)」구매_전자전기컴퓨터공학부",
         "organization": "서울특별시 서울시립대학교",
-        "start": "2026-09-09T07:01:12.345030",
+        "start": "2026-09-11T07:00:58.216539",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3433,10 +3246,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 | 공고번호: R26BK01712291"
     },
     {
-        "id": "g2b-api-2702696545149406670",
+        "id": "g2b-api-1959731994369935304",
         "title": "실험실습기자재 「AI연산용카드」구매_전자전기컴퓨터공학부",
         "organization": "서울특별시 서울시립대학교",
-        "start": "2026-09-09T07:01:12.345030",
+        "start": "2026-09-11T07:00:58.217539",
         "deadline": "2026-08-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3444,10 +3257,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 | 공고번호: R26BK01684824"
     },
     {
-        "id": "g2b-api-7327394654448978717",
+        "id": "g2b-api-3344469141105706631",
         "title": "2026학년도 학교생활기록부 공동관리위원회 제4차 정책협의회 행사 위탁 용역",
         "organization": "대전광역시교육청",
-        "start": "2026-09-09T07:01:12.346033",
+        "start": "2026-09-11T07:00:58.217539",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3455,10 +3268,10 @@ const bidEvents = [
         "description": "수요기관: 대전광역시교육청 | 공고번호: R26BK01679904"
     },
     {
-        "id": "g2b-api-4265701940031510873",
+        "id": "g2b-api-7432149135386447767",
         "title": "AI 기반 과학기술산업화 분석모델 개발 및 플랫폼 구축 업무 수행을 위한 모니터 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:01:12.346033",
+        "start": "2026-09-11T07:00:58.217539",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3466,21 +3279,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01717660"
     },
     {
-        "id": "g2b-api-8978849915243047108",
-        "title": "AI 델파이 전문가 학습용 대규모 데이터 처리를 위한 SSD 구매",
-        "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:01:12.346033",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672284&bidPbancOrd=000",
-        "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01672284"
-    },
-    {
-        "id": "g2b-api-2535415850524292398",
+        "id": "g2b-api-9104311524182600620",
         "title": "AI서비스전략팀 연구 개발 및 과제 수행을 위한 복합기 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:01:12.346033",
+        "start": "2026-09-11T07:00:58.217539",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3488,10 +3290,21 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01704556"
     },
     {
-        "id": "g2b-api-7191824861216583702",
+        "id": "g2b-api-3368612215524560717",
+        "title": "모빌리티 부품 제조AI 확산센터 기본 및 실시설계 용역 (가격입찰 후 P.Q)",
+        "organization": "(재)지능형자동차부품진흥원",
+        "start": "2026-09-11T07:01:03.712119",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720762&bidPbancOrd=000",
+        "description": "수요기관: (재)지능형자동차부품진흥원 | 공고번호: R26BK01720762"
+    },
+    {
+        "id": "g2b-api-4717434612660942128",
         "title": "고성능 HPC 클러스터 AI 계산 시스템 구매(재공고)",
         "organization": "대구경북과학기술원",
-        "start": "2026-09-09T07:01:12.346033",
+        "start": "2026-09-11T07:01:03.712119",
         "deadline": "2026-08-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3499,10 +3312,10 @@ const bidEvents = [
         "description": "수요기관: 대구경북과학기술원 | 공고번호: R26BK01680184"
     },
     {
-        "id": "g2b-api-3440164154159149758",
+        "id": "g2b-api-8847765366111978094",
         "title": "고성능 HPC 클러스터 AI 계산 시스템 구매",
         "organization": "대구경북과학기술원",
-        "start": "2026-09-09T07:01:12.346033",
+        "start": "2026-09-11T07:01:03.712119",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3510,10 +3323,10 @@ const bidEvents = [
         "description": "수요기관: 대구경북과학기술원 | 공고번호: R26BK01704746"
     },
     {
-        "id": "g2b-api-2740092095697397968",
+        "id": "g2b-api-6570993847051403252",
         "title": "첨단 AI 기반 디지털의료기기 신속제품화 지원사업(AX-Sprint 300) - ArslonHeart-eFFR 확증 임상시험 CRO",
         "organization": "주식회사 아슬론",
-        "start": "2026-09-09T07:01:12.347030",
+        "start": "2026-09-11T07:01:03.712119",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3521,10 +3334,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 아슬론 | 공고번호: R26BK01677027"
     },
     {
-        "id": "g2b-api-800633295329193410",
+        "id": "g2b-api-7628185287756624049",
         "title": "첨단 AI 기반 디지털의료기기 신속제품화 지원사업(AX-Sprint 300) - ArslonHeart-stenosis 확증 임상시험 CRO",
         "organization": "주식회사 아슬론",
-        "start": "2026-09-09T07:01:12.347030",
+        "start": "2026-09-11T07:01:03.712119",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3532,10 +3345,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 아슬론 | 공고번호: R26BK01676996"
     },
     {
-        "id": "g2b-api-3163486202616436492",
+        "id": "g2b-api-9134204736452050743",
         "title": "AI 기반 상수도 음청식 누수탐사 현장 실증 및 활용 방안 용역",
         "organization": "서울특별시 서울아리수본부",
-        "start": "2026-09-09T07:01:12.347030",
+        "start": "2026-09-11T07:01:03.713128",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3543,21 +3356,21 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울아리수본부 | 공고번호: R26BK01700921"
     },
     {
-        "id": "g2b-api-9201462319506765282",
+        "id": "g2b-api-6583813321827849199",
         "title": "2026 경희대학교 국제캠퍼스 가을 대동제 행사대행 용역업체 선정",
         "organization": "경희대학교 국제캠퍼스",
-        "start": "2026-09-09T07:01:12.347030",
-        "deadline": "2026-10-09T07:01:12.347030",
+        "start": "2026-09-11T07:01:03.713128",
+        "deadline": "2026-10-11T07:01:03.713128",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690253&bidPbancOrd=000",
         "description": "수요기관: 경희대학교 국제캠퍼스 | 공고번호: R26BK01690253"
     },
     {
-        "id": "g2b-api-6718842729680871439",
+        "id": "g2b-api-2149279158162429028",
         "title": "제6회 디지털 대전환 메가트렌드 컨퍼런스 행사 대행",
         "organization": "정보통신정책연구원",
-        "start": "2026-09-09T07:01:12.348029",
+        "start": "2026-09-11T07:01:03.713128",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3565,10 +3378,10 @@ const bidEvents = [
         "description": "수요기관: 정보통신정책연구원 | 공고번호: R26BK01696616"
     },
     {
-        "id": "g2b-api-816605472414671137",
+        "id": "g2b-api-5128205504707512923",
         "title": "AI로 설계하는 내일 미래 인재 진로 토크 콘서트 및 AI 교육설명회 행사 대행 용역 수의계약 안내공고",
         "organization": "전남광주통합특별시교육청 동일미래과학고등학교",
-        "start": "2026-09-09T07:01:12.348029",
+        "start": "2026-09-11T07:01:03.713128",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3576,10 +3389,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시교육청 동일미래과학고등학교 | 공고번호: R26BK01683111"
     },
     {
-        "id": "g2b-api-6117292782225668978",
+        "id": "g2b-api-5559817918734660357",
         "title": "2026년 가평군 대규모 일자리박람회 행사대행 용역",
         "organization": "경기도 가평군",
-        "start": "2026-09-09T07:01:12.349029",
+        "start": "2026-09-11T07:01:03.714128",
         "deadline": "2026-09-09T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3587,10 +3400,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 가평군 | 공고번호: R26BK01713048"
     },
     {
-        "id": "g2b-api-2024507210691483006",
+        "id": "g2b-api-5282748098755836409",
         "title": "2026년 가평군 대규모 일자리박람회 행사대행 용역",
         "organization": "경기도 가평군",
-        "start": "2026-09-09T07:01:12.349029",
+        "start": "2026-09-11T07:01:03.714128",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3598,10 +3411,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 가평군 | 공고번호: R26BK01703715"
     },
     {
-        "id": "g2b-api-4833487001248203687",
+        "id": "g2b-api-2280507851472497324",
         "title": "2026년 제13회 양천 북페스티벌 행사 운영대행 용역",
         "organization": "재단법인양천문화재단",
-        "start": "2026-09-09T07:01:12.349535",
+        "start": "2026-09-11T07:01:03.715128",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3609,10 +3422,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인양천문화재단 | 공고번호: R26BK01697843"
     },
     {
-        "id": "g2b-api-8489654114819210971",
+        "id": "g2b-api-4500514092547116121",
         "title": "군집위성을 위한 온보드AI 컴퓨터 개발",
         "organization": "충남대학교 산학협력단",
-        "start": "2026-09-09T07:01:12.349535",
+        "start": "2026-09-11T07:01:03.715128",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3620,10 +3433,21 @@ const bidEvents = [
         "description": "수요기관: 충남대학교 산학협력단 | 공고번호: R26BK01697604"
     },
     {
-        "id": "g2b-api-6086321264707721893",
+        "id": "g2b-api-8204134118014622824",
+        "title": "군집위성을 위한 온보드AI 컴퓨터 개발",
+        "organization": "충남대학교 산학협력단",
+        "start": "2026-09-11T07:01:03.715128",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719935&bidPbancOrd=000",
+        "description": "수요기관: 충남대학교 산학협력단 | 공고번호: R26BK01719935"
+    },
+    {
+        "id": "g2b-api-2282417445578129851",
         "title": "AI기반 자재·자산 이미지 인식·손상 추론 및 가치 산정 웹 프로그램 연동 플랫폼 개발",
         "organization": "한국건설기술연구원",
-        "start": "2026-09-09T07:01:12.349535",
+        "start": "2026-09-11T07:01:03.716128",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3631,10 +3455,10 @@ const bidEvents = [
         "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01718615"
     },
     {
-        "id": "g2b-api-136031570527222003",
+        "id": "g2b-api-2201356709661555336",
         "title": "AI기반 자재·자산 이미지 인식·손상 추론 및 가치 산정 웹 프로그램 연동 플랫폼 개발",
         "organization": "한국건설기술연구원",
-        "start": "2026-09-09T07:01:12.349535",
+        "start": "2026-09-11T07:01:03.716128",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3642,43 +3466,76 @@ const bidEvents = [
         "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01697401"
     },
     {
-        "id": "g2b-api-7931087233318575778",
+        "id": "g2b-api-2235702505891853074",
+        "title": "건설 데이터 개인정보·고유정보 비식별화 처리 기준 및 현장 적용형 AI 학습·소형화 요구사항 설계",
+        "organization": "한국건설기술연구원",
+        "start": "2026-09-11T07:01:03.716128",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720335&bidPbancOrd=000",
+        "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01720335"
+    },
+    {
+        "id": "g2b-api-3509051066536537851",
         "title": "[한국국제터미널(주)] RTGC AI 카메라 설치/납품계약 ",
         "organization": "한국국제터미널주식회사",
-        "start": "2026-09-09T07:01:12.349535",
-        "deadline": "2026-10-09T07:01:12.349535",
+        "start": "2026-09-11T07:01:03.717128",
+        "deadline": "2026-10-11T07:01:03.717128",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708205&bidPbancOrd=000",
         "description": "수요기관: 한국국제터미널주식회사 | 공고번호: R26BK01708205"
     },
     {
-        "id": "g2b-api-110880315085422969",
+        "id": "g2b-api-5816427691530488115",
         "title": "「2027 구미시 새희망 카운트다운 행사」드론라이트쇼 및 행사대행 용역",
         "organization": "경상북도 구미시",
-        "start": "2026-09-09T07:01:12.351269",
-        "deadline": "2026-10-09T07:01:12.351269",
+        "start": "2026-09-11T07:01:03.717128",
+        "deadline": "2026-10-11T07:01:03.717128",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695110&bidPbancOrd=001",
         "description": "수요기관: 경상북도 구미시 | 공고번호: R26BK01695110"
     },
     {
-        "id": "g2b-api-4576693676009827762",
+        "id": "g2b-api-8529663498820532433",
         "title": "「2027 구미시 새희망 카운트다운 행사」드론라이트쇼 및 행사대행 용역",
         "organization": "경상북도 구미시",
-        "start": "2026-09-09T07:01:12.351269",
-        "deadline": "2026-10-09T07:01:12.351269",
+        "start": "2026-09-11T07:01:03.717128",
+        "deadline": "2026-10-11T07:01:03.717128",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700197&bidPbancOrd=000",
         "description": "수요기관: 경상북도 구미시 | 공고번호: R26BK01700197"
     },
     {
-        "id": "g2b-api-8875264869719059097",
+        "id": "g2b-api-7079558894959744697",
+        "title": "2026년 조류인플루엔자(AI) 검진사업용 진단키트 등 구입(2차)",
+        "organization": "충청북도",
+        "start": "2026-09-11T07:01:03.718133",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712671&bidPbancOrd=000",
+        "description": "수요기관: 충청북도 | 공고번호: R26BK01712671"
+    },
+    {
+        "id": "g2b-api-4778065945648654132",
+        "title": " 2026학년도 혁신지원사업 교육만족도조사 및 성과관리 위탁용역",
+        "organization": "충북보건과학대학교 산학협력단",
+        "start": "2026-09-11T07:01:03.718133",
+        "deadline": "2026-09-08T00:00:00",
+        "category": "consumer",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701464&bidPbancOrd=000",
+        "description": "수요기관: 충북보건과학대학교 산학협력단 | 공고번호: R26BK01701464"
+    },
+    {
+        "id": "g2b-api-8717566422943084333",
         "title": "강원 AI 소상공인 안심경영 지원 서비스 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3686,10 +3543,21 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01683549"
     },
     {
-        "id": "g2b-api-1206143928448492803",
+        "id": "g2b-api-3265246611532596508",
+        "title": "콜롬비아 AI 기반 디지털정부 인프라‧서비스 및 거버넌스 개선 전략 수립",
+        "organization": "한국지능정보사회진흥원",
+        "start": "2026-09-11T07:01:03.719128",
+        "deadline": "2026-10-07T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718476&bidPbancOrd=000",
+        "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01718476"
+    },
+    {
+        "id": "g2b-api-3958975806794811225",
         "title": "120달구벌콜센터 AI상담시스템 3단계 구축사업 개발용역",
         "organization": "대구광역시",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3697,10 +3565,10 @@ const bidEvents = [
         "description": "수요기관: 대구광역시 | 공고번호: R26BK01692996"
     },
     {
-        "id": "g2b-api-5093427156260318809",
+        "id": "g2b-api-9036615955281246737",
         "title": "제주 ‘AI Connect’ 행정·서비스 표준 플랫폼 구축 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3708,21 +3576,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01694211"
     },
     {
-        "id": "g2b-api-2155491638857383471",
-        "title": "통합 RCMS AI 공통 인프라 기반 GPU 서버 구매",
-        "organization": "한국산업기술기획평가원",
-        "start": "2026-09-09T07:01:12.352275",
-        "deadline": "2026-09-02T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673925&bidPbancOrd=000",
-        "description": "수요기관: 한국산업기술기획평가원 | 공고번호: R26BK01673925"
-    },
-    {
-        "id": "g2b-api-117498380685317180",
+        "id": "g2b-api-2105947712796276010",
         "title": "지능형 AI 규제정보 분석 시스템 구축 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3730,10 +3587,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01717896"
     },
     {
-        "id": "g2b-api-6113217707953298390",
+        "id": "g2b-api-3608695234332100470",
         "title": "AI 교통정보 분석용 LiDAR·엣지 GPU 장비 구매",
         "organization": "경북대학교 첨단정보통신융합산업기술원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3741,10 +3598,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 첨단정보통신융합산업기술원 | 공고번호: R26BK01704332"
     },
     {
-        "id": "g2b-api-373857068576862848",
+        "id": "g2b-api-699760638443384190",
         "title": "디지털배움터 플랫폼 AI 실습 기능 개발 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3752,10 +3609,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01692596"
     },
     {
-        "id": "g2b-api-4559615313534791509",
+        "id": "g2b-api-1179439670746592139",
         "title": "AI 컴퓨팅 자원 구매",
         "organization": "경북대학교 첨단정보통신융합산업기술원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-30T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3763,10 +3620,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 첨단정보통신융합산업기술원 | 공고번호: R26BK01712736"
     },
     {
-        "id": "g2b-api-2549080468758416908",
+        "id": "g2b-api-1305743849342362614",
         "title": "공공 AI CCTV 전환(경상남도) 사업 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3774,10 +3631,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01685170"
     },
     {
-        "id": "g2b-api-778212360029705438",
+        "id": "g2b-api-8311129728493305533",
         "title": "2026년 AI 사이버공격 대응 플랫폼 구축(2단계)",
         "organization": "한국교육학술정보원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3785,10 +3642,10 @@ const bidEvents = [
         "description": "수요기관: 한국교육학술정보원 | 공고번호: R26BK01693614"
     },
     {
-        "id": "g2b-api-5789607311498063018",
+        "id": "g2b-api-6087404298219500636",
         "title": "AI기반 실종자 예측 시스템 구축 위탁 감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-29T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3796,10 +3653,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01715589"
     },
     {
-        "id": "g2b-api-7982709539508952194",
+        "id": "g2b-api-6070168864707171333",
         "title": "공공SW AI 책임형 발주관리 플랫폼 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3807,10 +3664,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01684947"
     },
     {
-        "id": "g2b-api-4441133735881283873",
+        "id": "g2b-api-243148648455200284",
         "title": "AI·빅데이터 분석 기반 보훈심사 지원 시스템 구축 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3818,10 +3675,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01688179"
     },
     {
-        "id": "g2b-api-2869495146213271859",
+        "id": "g2b-api-3542853182452667911",
         "title": "NPU 기반 범정부 AI 서비스 구현 ",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.352275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-29T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3829,10 +3686,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01710472"
     },
     {
-        "id": "g2b-api-3790567023961380119",
+        "id": "g2b-api-5736283136498523312",
         "title": "RAG 기반 치안 현장 AI 어시스턴트 시스템 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3840,10 +3697,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01708069"
     },
     {
-        "id": "g2b-api-3965091810388551678",
+        "id": "g2b-api-5894056937473170167",
         "title": "온두라스 AI 기반 개인 맞춤형 복지 안내 및 상담서비스 PoC 구현 및 확산전략 수립",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3851,10 +3708,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01707012"
     },
     {
-        "id": "g2b-api-6432798442143492967",
+        "id": "g2b-api-6133812189545612699",
         "title": "경상북도 지방소멸 위기 극복을 위한 주민케어 AI 서비스 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3862,10 +3719,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01683742"
     },
     {
-        "id": "g2b-api-171734593880652010",
+        "id": "g2b-api-1398257735804762804",
         "title": "농작물병해충·AI 국악·신재생에너지 데이터  통합 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-30T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3873,10 +3730,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01714271"
     },
     {
-        "id": "g2b-api-3310223544214997009",
+        "id": "g2b-api-3801904691773561193",
         "title": "지방세 AI 상담 서비스 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3884,10 +3741,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01701565"
     },
     {
-        "id": "g2b-api-1060603050500433138",
+        "id": "g2b-api-5748989716147972707",
         "title": "재생에너지 기술잠재량·성평등가족청소년 AI벤치마크셋 위탁감리 ",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3895,10 +3752,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01709341"
     },
     {
-        "id": "g2b-api-9206746672382422706",
+        "id": "g2b-api-4644488670826674547",
         "title": "통합 RCMS AI 공통 인프라 기반 GPU 서버 구매",
         "organization": "한국산업기술기획평가원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3906,10 +3763,10 @@ const bidEvents = [
         "description": "수요기관: 한국산업기술기획평가원 | 공고번호: R26BK01709632"
     },
     {
-        "id": "g2b-api-2232844091569960702",
+        "id": "g2b-api-1018811285224531965",
         "title": "우즈베키스탄 디지털 취약계층을 고려한 AI 기반 디지털정부 포털 고도화 전략 수립",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.719128",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3917,10 +3774,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01714012"
     },
     {
-        "id": "g2b-api-352232918477891427",
+        "id": "g2b-api-1325324643101062730",
         "title": "특수교육 AI·디지털 교육자료 콘텐츠 개발 용역",
         "organization": "대구광역시교육청",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.720325",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3928,10 +3785,10 @@ const bidEvents = [
         "description": "수요기관: 대구광역시교육청 | 공고번호: R26BK01706020"
     },
     {
-        "id": "g2b-api-7250644067499160886",
+        "id": "g2b-api-1457874328782574468",
         "title": "STEP 통합학습창 AI Agent 시스템 구축",
         "organization": "한국기술교육대학교",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.720325",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3939,10 +3796,21 @@ const bidEvents = [
         "description": "수요기관: 한국기술교육대학교 | 공고번호: R26BK01680717"
     },
     {
-        "id": "g2b-api-4611718110892774072",
+        "id": "g2b-api-8646653036783694551",
+        "title": "생성형 AI 플랫폼 구축 및 AX 개발 사업",
+        "organization": "한국석유공사",
+        "start": "2026-09-11T07:01:03.720325",
+        "deadline": "2026-10-13T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705928&bidPbancOrd=000",
+        "description": "수요기관: 한국석유공사 | 공고번호: R26BK01705928"
+    },
+    {
+        "id": "g2b-api-3727613455822324213",
         "title": "2026년 학동탐방안내소 AI다국어 번역기 구매·설치",
         "organization": "국립공원공단 한려해상국립공원동부사무소",
-        "start": "2026-09-09T07:01:12.353275",
+        "start": "2026-09-11T07:01:03.720325",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -3950,21 +3818,32 @@ const bidEvents = [
         "description": "수요기관: 국립공원공단 한려해상국립공원동부사무소 | 공고번호: R26BK01685498"
     },
     {
-        "id": "g2b-api-2873276060395364995",
-        "title": "NCS기반 실습기자재(AI비전 로봇실습장비) 구매",
-        "organization": "경상북도교육청 포항제철공업고등학교",
-        "start": "2026-09-09T07:01:17.959626",
-        "deadline": "2026-08-24T00:00:00",
+        "id": "g2b-api-3698896528186534687",
+        "title": "AI-OCR을 활용한 차량번호 검증시스템 구축 사업",
+        "organization": "사단법인 보험개발원",
+        "start": "2026-09-11T07:01:03.721325",
+        "deadline": "2026-10-11T07:01:03.721325",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675691&bidPbancOrd=000",
-        "description": "수요기관: 경상북도교육청 포항제철공업고등학교 | 공고번호: R26BK01675691"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709945&bidPbancOrd=001",
+        "description": "수요기관: 사단법인 보험개발원 | 공고번호: R26BK01709945"
     },
     {
-        "id": "g2b-api-8398782489862475724",
+        "id": "g2b-api-3579254619261237733",
+        "title": "AI기반 취약점 점검 소프트웨어 도입 사업",
+        "organization": "사단법인 보험개발원",
+        "start": "2026-09-11T07:01:03.721325",
+        "deadline": "2026-10-11T07:01:03.721325",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692822&bidPbancOrd=000",
+        "description": "수요기관: 사단법인 보험개발원 | 공고번호: R26BK01692822"
+    },
+    {
+        "id": "g2b-api-9009078881164868357",
         "title": "제19회 어촌마을 전진대회 행사대행 용역",
         "organization": "한국어촌어항공단",
-        "start": "2026-09-09T07:01:17.960625",
+        "start": "2026-09-11T07:01:09.317517",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -3972,43 +3851,87 @@ const bidEvents = [
         "description": "수요기관: 한국어촌어항공단 | 공고번호: R26BK01695580"
     },
     {
-        "id": "g2b-api-6939748047500495143",
+        "id": "g2b-api-6795266911379481187",
+        "title": "(신규)한국 OECD 가입 30주년 기념 세미나 행사 대행 용역",
+        "organization": "외교부",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-08-28T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675467&bidPbancOrd=001",
+        "description": "수요기관: 외교부 | 공고번호: R26BK01675467"
+    },
+    {
+        "id": "g2b-api-611590663549453110",
         "title": "[산단] 2026년 AI 캡스톤디자인 경진대회 용역 재공고",
         "organization": "영남대학교 산학협력단",
-        "start": "2026-09-09T07:01:17.960625",
-        "deadline": "2026-10-09T07:01:17.960625",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-10-11T07:01:09.318516",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715683&bidPbancOrd=000",
         "description": "수요기관: 영남대학교 산학협력단 | 공고번호: R26BK01715683"
     },
     {
-        "id": "g2b-api-90596512035980410",
+        "id": "g2b-api-5960226922957394429",
         "title": "[산단] 2026년 AI 캡스톤디자인 경진대회 용역 ",
         "organization": "영남대학교 산학협력단",
-        "start": "2026-09-09T07:01:17.960625",
-        "deadline": "2026-10-09T07:01:17.960625",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-10-11T07:01:09.318516",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691053&bidPbancOrd=000",
         "description": "수요기관: 영남대학교 산학협력단 | 공고번호: R26BK01691053"
     },
     {
-        "id": "g2b-api-7110596731487037758",
+        "id": "g2b-api-1863400807103078155",
         "title": "2026 제8회 국회자살예방대상 시상식 행사 대행 용역",
         "organization": "(사)안전생활실천시민연합",
-        "start": "2026-09-09T07:01:17.960625",
-        "deadline": "2026-10-09T07:01:17.960625",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-10-11T07:01:09.318516",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711437&bidPbancOrd=000",
         "description": "수요기관: (사)안전생활실천시민연합 | 공고번호: R26BK01711437"
     },
     {
-        "id": "g2b-api-4939585757970730205",
+        "id": "g2b-api-1558515224090407571",
+        "title": "AI 지능형 병원정보시스템(AI Native HIS) 기획",
+        "organization": "한국보건산업진흥원",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-09-03T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692995&bidPbancOrd=000",
+        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01692995"
+    },
+    {
+        "id": "g2b-api-2978248346970231798",
+        "title": "생성형 AI 기반 한국의료 글로벌 홍보 진단 및 전략 수립 컨설팅",
+        "organization": "한국보건산업진흥원",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712731&bidPbancOrd=000",
+        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01712731"
+    },
+    {
+        "id": "g2b-api-1362304388011052058",
+        "title": "AI 지능형 병원정보시스템(AI Native HIS) 기획",
+        "organization": "한국보건산업진흥원",
+        "start": "2026-09-11T07:01:09.318516",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715921&bidPbancOrd=000",
+        "description": "수요기관: 한국보건산업진흥원 | 공고번호: R26BK01715921"
+    },
+    {
+        "id": "g2b-api-5698846116549760354",
         "title": "우즈베키스탄 교육·실습용 기자재(AI비전로봇실습장비 등 3종) 현지 납품(설치)",
         "organization": "계명문화대학 산학협력단",
-        "start": "2026-09-09T07:01:17.962301",
+        "start": "2026-09-11T07:01:09.319516",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4016,10 +3939,10 @@ const bidEvents = [
         "description": "수요기관: 계명문화대학 산학협력단 | 공고번호: R26BK01704893"
     },
     {
-        "id": "g2b-api-5384349860582308140",
+        "id": "g2b-api-8995472769133468706",
         "title": "우즈베키스탄 교육·실습용 기자재(AI비전로봇실습장비 등 3종) 현지 납품(설치)",
         "organization": "계명문화대학 산학협력단",
-        "start": "2026-09-09T07:01:17.962301",
+        "start": "2026-09-11T07:01:09.319516",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4027,10 +3950,21 @@ const bidEvents = [
         "description": "수요기관: 계명문화대학 산학협력단 | 공고번호: R26BK01691972"
     },
     {
-        "id": "g2b-api-6282889457046038733",
+        "id": "g2b-api-8485201957965896283",
+        "title": "2026년 나주시 반려동물 축제 행사 대행 용역",
+        "organization": "전남광주통합특별시 나주시",
+        "start": "2026-09-11T07:01:09.319516",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686494&bidPbancOrd=000",
+        "description": "수요기관: 전남광주통합특별시 나주시 | 공고번호: R26BK01686494"
+    },
+    {
+        "id": "g2b-api-5106634564700609015",
         "title": "2026년도 판교지사 가스터빈 Air Intake Pre-Filter 구매",
         "organization": "한국지역난방공사 판교지사",
-        "start": "2026-09-09T07:01:17.963306",
+        "start": "2026-09-11T07:01:09.319516",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4038,10 +3972,10 @@ const bidEvents = [
         "description": "수요기관: 한국지역난방공사 판교지사 | 공고번호: R26BK01718888"
     },
     {
-        "id": "g2b-api-4353336833312777236",
+        "id": "g2b-api-3506845103861213997",
         "title": "친환경차 검증 시험동 준공식 행사",
         "organization": "한국에너지공단",
-        "start": "2026-09-09T07:01:17.963306",
+        "start": "2026-09-11T07:01:09.320516",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4049,43 +3983,10 @@ const bidEvents = [
         "description": "수요기관: 한국에너지공단 | 공고번호: R26BK01694801"
     },
     {
-        "id": "g2b-api-6106396776638039002",
-        "title": "2026년 제31회 부산국제영화제 행사장 운영 물품 임차 및 설치 업체 모집 공고",
-        "organization": "(사)부산국제영화제",
-        "start": "2026-09-09T07:01:17.965306",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676303&bidPbancOrd=001",
-        "description": "수요기관: (사)부산국제영화제 | 공고번호: R26BK01676303"
-    },
-    {
-        "id": "g2b-api-2515530176240926966",
-        "title": "2026년 제31회 부산국제영화제 행사장 운영 물품 임차 및 설치 업체 모집 공고",
-        "organization": "(사)부산국제영화제",
-        "start": "2026-09-09T07:01:17.965306",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676708&bidPbancOrd=000",
-        "description": "수요기관: (사)부산국제영화제 | 공고번호: R26BK01676708"
-    },
-    {
-        "id": "g2b-api-1444927939614274924",
-        "title": "[마포농수산물시장문화관광형시장육성사업] 축제특화사업(야시장행사)용역",
-        "organization": "마포농수산물시장문화관광형시장육성사업단",
-        "start": "2026-09-09T07:01:17.965306",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675018&bidPbancOrd=000",
-        "description": "수요기관: 마포농수산물시장문화관광형시장육성사업단 | 공고번호: R26BK01675018"
-    },
-    {
-        "id": "g2b-api-6414844067642329692",
+        "id": "g2b-api-4853623741091146016",
         "title": "조선소 사고위험 탐지·예측용 AI 추론 가속장치",
         "organization": "한국광기술원",
-        "start": "2026-09-09T07:01:17.965306",
+        "start": "2026-09-11T07:01:09.322023",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4093,10 +3994,10 @@ const bidEvents = [
         "description": "수요기관: 한국광기술원 | 공고번호: R26BK01701562"
     },
     {
-        "id": "g2b-api-6110496382245063288",
+        "id": "g2b-api-1103716605840954765",
         "title": "전국 청년농업인 활동행사 홍보 용역",
         "organization": "농촌진흥청",
-        "start": "2026-09-09T07:01:17.965306",
+        "start": "2026-09-11T07:01:09.322023",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4104,10 +4005,10 @@ const bidEvents = [
         "description": "수요기관: 농촌진흥청 | 공고번호: R26BK01689371"
     },
     {
-        "id": "g2b-api-5065128863325089172",
+        "id": "g2b-api-1927242056869407892",
         "title": "2026  어촌전통문화계승사업(풍어제) 및 제1회 경주 바다 맛 축제 행사 대행 용역(긴급)",
         "organization": "경주시 수산업협동조합",
-        "start": "2026-09-09T07:01:17.965306",
+        "start": "2026-09-11T07:01:09.323025",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4115,10 +4016,10 @@ const bidEvents = [
         "description": "수요기관: 경주시 수산업협동조합 | 공고번호: R26BK01718813"
     },
     {
-        "id": "g2b-api-4967433535460186769",
+        "id": "g2b-api-229778406307975589",
         "title": "2026 어촌전통문화계승사업(풍어제) 및 제1회 경주 바다 맛 축제 행사 대행 용역(긴급)",
         "organization": "경주시 수산업협동조합",
-        "start": "2026-09-09T07:01:17.965306",
+        "start": "2026-09-11T07:01:09.323025",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4126,10 +4027,21 @@ const bidEvents = [
         "description": "수요기관: 경주시 수산업협동조합 | 공고번호: R26BK01714045"
     },
     {
-        "id": "g2b-api-7864251894558027069",
+        "id": "g2b-api-1818665728648075478",
+        "title": "(26F044-G)AI 학습데이터 품질평가 검증보강 기술실증",
+        "organization": "국방부 국군재정관리단",
+        "start": "2026-09-11T07:01:09.324025",
+        "deadline": "2026-09-30T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721618&bidPbancOrd=000",
+        "description": "수요기관: 국방부 국군재정관리단 | 공고번호: R26BK01721618"
+    },
+    {
+        "id": "g2b-api-8838922384509990855",
         "title": "글로벌 게임 IP 메달세트 외주가공 계약",
         "organization": "한국조폐공사",
-        "start": "2026-09-09T07:01:17.966306",
+        "start": "2026-09-11T07:01:09.324025",
         "deadline": "2026-08-21T00:00:00",
         "category": "game",
         "source": "gov",
@@ -4137,10 +4049,10 @@ const bidEvents = [
         "description": "수요기관: 한국조폐공사 | 공고번호: R26BK01679858"
     },
     {
-        "id": "g2b-api-6583919772164289610",
+        "id": "g2b-api-6921557929723678171",
         "title": "글로벌 게임 IP 메달세트 외주가공 계약",
         "organization": "한국조폐공사",
-        "start": "2026-09-09T07:01:17.966306",
+        "start": "2026-09-11T07:01:09.324025",
         "deadline": "2026-09-07T00:00:00",
         "category": "game",
         "source": "gov",
@@ -4148,21 +4060,10 @@ const bidEvents = [
         "description": "수요기관: 한국조폐공사 | 공고번호: R26BK01705125"
     },
     {
-        "id": "g2b-api-4375455112001347874",
-        "title": "글로벌 게임 IP 메달세트 구매요청",
-        "organization": "한국조폐공사",
-        "start": "2026-09-09T07:01:17.966306",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "game",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674497&bidPbancOrd=000",
-        "description": "수요기관: 한국조폐공사 | 공고번호: R26BK01674497"
-    },
-    {
-        "id": "g2b-api-244083927637901511",
+        "id": "g2b-api-2402568407728494766",
         "title": "한양대학교 산학협력단 2026년 글로벌 AI 인재양성 해외협력 프로그램 총괄 운영지원 용역",
         "organization": "한양대학교 산학협력단",
-        "start": "2026-09-09T07:01:17.966306",
+        "start": "2026-09-11T07:01:09.324025",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4170,10 +4071,21 @@ const bidEvents = [
         "description": "수요기관: 한양대학교 산학협력단 | 공고번호: R26BK01707910"
     },
     {
-        "id": "g2b-api-631609372218362592",
+        "id": "g2b-api-345171163636851450",
+        "title": "한양대학교 산학협력단 2026년 글로벌 AI 인재양성 해외협력 프로그램 총괄 운영지원 용역",
+        "organization": "한양대학교 산학협력단",
+        "start": "2026-09-11T07:01:09.324025",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723226&bidPbancOrd=000",
+        "description": "수요기관: 한양대학교 산학협력단 | 공고번호: R26BK01723226"
+    },
+    {
+        "id": "g2b-api-4275347191584392799",
         "title": "스마트빌리지 보급 및 확산사업 관급자재(AI바둑로봇) 구입",
         "organization": "전남광주통합특별시 함평군",
-        "start": "2026-09-09T07:01:17.967810",
+        "start": "2026-09-11T07:01:09.324025",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4181,10 +4093,43 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 함평군 | 공고번호: R26BK01704557"
     },
     {
-        "id": "g2b-api-9094924027881616717",
+        "id": "g2b-api-642415455916918790",
+        "title": "[앵커1-1] AI거점센터(K-MIND Y-SPACE) 구축 전기공사",
+        "organization": "계명대학교 산학협력단",
+        "start": "2026-09-11T07:01:09.325528",
+        "deadline": "2026-10-11T07:01:09.325528",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722649&bidPbancOrd=000",
+        "description": "수요기관: 계명대학교 산학협력단 | 공고번호: R26BK01722649"
+    },
+    {
+        "id": "g2b-api-7706999429409219169",
+        "title": "[앵커1-1] AI거점센터(K-MIND Y-SPACE) 구축 건축공사(기계설비 포함)",
+        "organization": "계명대학교 산학협력단",
+        "start": "2026-09-11T07:01:09.325528",
+        "deadline": "2026-10-11T07:01:09.325528",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723055&bidPbancOrd=000",
+        "description": "수요기관: 계명대학교 산학협력단 | 공고번호: R26BK01723055"
+    },
+    {
+        "id": "g2b-api-7994554684298056903",
+        "title": "2026 한양대학교 ANCHOR 사업 글로벌 산학협력 선도 글로벌 AI 인재양성 해외 연수 프로그램 (싱가포르)",
+        "organization": "한양대학교 산학협력단",
+        "start": "2026-09-11T07:01:09.325528",
+        "deadline": "2026-09-14T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716896&bidPbancOrd=000",
+        "description": "수요기관: 한양대학교 산학협력단 | 공고번호: R26BK01716896"
+    },
+    {
+        "id": "g2b-api-396589850211382664",
         "title": "[대림대학교] 2026년 전문대학 혁신지원사업 3주기 2차 년도 AI DX 기반 에듀테크 교육환경 개선 3차 기계기구 구입_휴머노이드",
         "organization": "대림대학교 산학협력단",
-        "start": "2026-09-09T07:01:22.562674",
+        "start": "2026-09-11T07:01:09.325528",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4192,21 +4137,10 @@ const bidEvents = [
         "description": "수요기관: 대림대학교 산학협력단 | 공고번호: R26BK01685983"
     },
     {
-        "id": "g2b-api-3781985710161004131",
-        "title": "[대림대학교] 2026년 전문대학 혁신지원사업 3주기 2차 년도 AI DX 기반 에듀테크 교육환경 개선 3차 기계기구 구입_데크오븐",
-        "organization": "대림대학교 산학협력단",
-        "start": "2026-09-09T07:01:22.562674",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674335&bidPbancOrd=000",
-        "description": "수요기관: 대림대학교 산학협력단 | 공고번호: R26BK01674335"
-    },
-    {
-        "id": "g2b-api-8099794026895013813",
+        "id": "g2b-api-7111178595512248110",
         "title": "[대림대학교] 2026년 전문대학 혁신지원사업 3주기 2차 년도 AI DX 기반 에듀테크 교육환경 개선 2차 기계기구 구입_응급구조학과 기자재",
         "organization": "대림대학교 산학협력단",
-        "start": "2026-09-09T07:01:22.562674",
+        "start": "2026-09-11T07:01:09.325528",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4214,10 +4148,10 @@ const bidEvents = [
         "description": "수요기관: 대림대학교 산학협력단 | 공고번호: R26BK01698462"
     },
     {
-        "id": "g2b-api-2015137312102033982",
+        "id": "g2b-api-6171776997700058596",
         "title": "2026 수학 융합 축제 수크램블 행사부스 설치 및 임차 용역",
         "organization": "경상북도교육청 경상북도경산교육지원청 경상북도교육청경산수학체험센터",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:09.326537",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4225,10 +4159,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도교육청 경상북도경산교육지원청 경상북도교육청경산수학체험센터 | 공고번호: R26BK01685327"
     },
     {
-        "id": "g2b-api-7334928319404996611",
+        "id": "g2b-api-2448199696500142031",
         "title": "2026 강경상업고등학교 AI비지니스과 전공 실무 교재[2종] 위탁 개발용역 2단계 입찰(규격.가격동시) 재공고",
         "organization": "충청남도교육청 강경상업고등학교",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4236,10 +4170,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도교육청 강경상업고등학교 | 공고번호: R26BK01693948"
     },
     {
-        "id": "g2b-api-8564142405680121316",
+        "id": "g2b-api-8565133562938427280",
         "title": "숭의여자대학교 Alan Agentic AI 서비스라이선스 구매(재공고)",
         "organization": "숭의여자대학 산학협력단",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4247,21 +4181,10 @@ const bidEvents = [
         "description": "수요기관: 숭의여자대학 산학협력단 | 공고번호: R26BK01702418"
     },
     {
-        "id": "g2b-api-4498202248884887316",
-        "title": "숭의여자대학교 Alan Agentic AI 서비스라이선스 구매",
-        "organization": "숭의여자대학 산학협력단",
-        "start": "2026-09-09T07:01:22.563674",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669501&bidPbancOrd=000",
-        "description": "수요기관: 숭의여자대학 산학협력단 | 공고번호: R26BK01669501"
-    },
-    {
-        "id": "g2b-api-5854201923949159187",
+        "id": "g2b-api-5288202258388338270",
         "title": "숭의여자대학교 Alan Agentic AI 서비스라이선스 구매(재공고)",
         "organization": "숭의여자대학 산학협력단",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4269,10 +4192,10 @@ const bidEvents = [
         "description": "수요기관: 숭의여자대학 산학협력단 | 공고번호: R26BK01687935"
     },
     {
-        "id": "g2b-api-6000878460008055967",
+        "id": "g2b-api-4607946124366514105",
         "title": "숭의여자대학교 Alan Agentic AI 서비스라이선스 구매(재공고)",
         "organization": "숭의여자대학 산학협력단",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4280,10 +4203,10 @@ const bidEvents = [
         "description": "수요기관: 숭의여자대학 산학협력단 | 공고번호: R26BK01698081"
     },
     {
-        "id": "g2b-api-112124339845134989",
+        "id": "g2b-api-1057547830226424115",
         "title": "2026년 지방규제합리화 우수사례 경진대회 행사운영 대행 용역",
         "organization": "행정안전부",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4291,10 +4214,10 @@ const bidEvents = [
         "description": "수요기관: 행정안전부 | 공고번호: R26BK01717342"
     },
     {
-        "id": "g2b-api-655357871657373435",
+        "id": "g2b-api-2439933992011808850",
         "title": "2026 주한 외교사절 대상 행정안전부 정책설명회 행사대행 용역",
         "organization": "행정안전부",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4302,10 +4225,10 @@ const bidEvents = [
         "description": "수요기관: 행정안전부 | 공고번호: R26BK01716972"
     },
     {
-        "id": "g2b-api-8286025422454575532",
+        "id": "g2b-api-3237065285681737523",
         "title": "[임차] 교구(Mechdog, AI Hand) 및 전시용 로봇 시스템",
         "organization": "사단법인 한국피지컬에이아이협회",
-        "start": "2026-09-09T07:01:22.563674",
+        "start": "2026-09-11T07:01:14.712496",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4313,10 +4236,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국피지컬에이아이협회 | 공고번호: R26BK01684494"
     },
     {
-        "id": "g2b-api-8228858311983435194",
+        "id": "g2b-api-3564531374772794615",
         "title": "2026. AIㆍ디지털 기반 교육혁신 수업 박람회 운영 위탁 용역",
         "organization": "충청북도교육청",
-        "start": "2026-09-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.713495",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4324,10 +4247,10 @@ const bidEvents = [
         "description": "수요기관: 충청북도교육청 | 공고번호: R26BK01713267"
     },
     {
-        "id": "g2b-api-1381875970361239998",
+        "id": "g2b-api-2320027753034624559",
         "title": "중소기업 혁신주간 기술혁신기획본부 부대 행사 운영",
         "organization": "중소기업기술정보진흥원",
-        "start": "2026-09-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.713495",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4335,10 +4258,10 @@ const bidEvents = [
         "description": "수요기관: 중소기업기술정보진흥원 | 공고번호: R26BK01684926"
     },
     {
-        "id": "g2b-api-4777866080909212173",
+        "id": "g2b-api-8961882059240658481",
         "title": "2026 중소기업 혁신 주간 스마트제조혁신 행사 대행 용역",
         "organization": "중소기업기술정보진흥원",
-        "start": "2026-09-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.713495",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4346,21 +4269,21 @@ const bidEvents = [
         "description": "수요기관: 중소기업기술정보진흥원 | 공고번호: R26BK01680549"
     },
     {
-        "id": "g2b-api-6054667747494768660",
+        "id": "g2b-api-8847850021697702450",
         "title": "제22회 광양전통숯불구이 축제 행사 대행 용역(협상에 의한 계약, 입찰대행)",
         "organization": "전남광주통합특별시 광양시",
-        "start": "2026-09-09T07:01:22.564673",
-        "deadline": "2026-10-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.714496",
+        "deadline": "2026-10-11T07:01:14.714496",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680009&bidPbancOrd=000",
         "description": "수요기관: 전남광주통합특별시 광양시 | 공고번호: R26BK01680009"
     },
     {
-        "id": "g2b-api-3411290261156897306",
+        "id": "g2b-api-1314912423216212641",
         "title": "(정책연구) IP 서비스 산업 실태조사 및 AI 기반 IP 전문인력 양성 연구",
         "organization": "지식재산처",
-        "start": "2026-09-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.714496",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4368,10 +4291,10 @@ const bidEvents = [
         "description": "수요기관: 지식재산처 | 공고번호: R26BK01687405"
     },
     {
-        "id": "g2b-api-6514208005859404257",
+        "id": "g2b-api-2781009092568448066",
         "title": "GH AI (GPU)서버 구매",
         "organization": "경기주택도시공사",
-        "start": "2026-09-09T07:01:22.564673",
+        "start": "2026-09-11T07:01:14.714496",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4379,10 +4302,10 @@ const bidEvents = [
         "description": "수요기관: 경기주택도시공사 | 공고번호: R26BK01703815"
     },
     {
-        "id": "g2b-api-3050939511963215370",
+        "id": "g2b-api-1638388123853343380",
         "title": "서울시 청춘남녀 만남 행사 ‘서울팅’ 운영 용역 (협상에 의한 계약) ",
         "organization": "서울특별시 여성가족재단",
-        "start": "2026-09-09T07:01:22.565673",
+        "start": "2026-09-11T07:01:14.714496",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4390,32 +4313,32 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 여성가족재단 | 공고번호: R26BK01713505"
     },
     {
-        "id": "g2b-api-4992535433902572921",
+        "id": "g2b-api-4005233863415843578",
         "title": "2026년 희망성남 한마음 체육·문화 대축제- 행사 운영 및 연출 대행 용역",
         "organization": "성남시체육회",
-        "start": "2026-09-09T07:01:22.565673",
-        "deadline": "2026-10-09T07:01:22.565673",
+        "start": "2026-09-11T07:01:14.715500",
+        "deadline": "2026-10-11T07:01:14.715500",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706964&bidPbancOrd=000",
         "description": "수요기관: 성남시체육회 | 공고번호: R26BK01706964"
     },
     {
-        "id": "g2b-api-7614180361986628376",
-        "title": "AI 기반 스마트 TDL 네트워크 실험환경 구축",
-        "organization": "국방과학연구소",
-        "start": "2026-09-09T07:01:22.565673",
-        "deadline": "2026-09-23T00:00:00",
+        "id": "g2b-api-8219705199891866859",
+        "title": "[RISE:AI관련학과] AI 전용 실습실 교육 기자재 구매",
+        "organization": "서울여자대학교",
+        "start": "2026-09-11T07:01:14.715500",
+        "deadline": "2026-09-17T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673933&bidPbancOrd=000",
-        "description": "수요기관: 국방과학연구소 | 공고번호: R26BK01673933"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721422&bidPbancOrd=000",
+        "description": "수요기관: 서울여자대학교 | 공고번호: R26BK01721422"
     },
     {
-        "id": "g2b-api-3317329409703651848",
+        "id": "g2b-api-7928923243804847169",
         "title": "제27회 전국 119소방동요 경연대회 행사 용역(수의시담)",
         "organization": "소방청",
-        "start": "2026-09-09T07:01:22.566673",
+        "start": "2026-09-11T07:01:14.716510",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4423,21 +4346,43 @@ const bidEvents = [
         "description": "수요기관: 소방청 | 공고번호: R26BK01713130"
     },
     {
-        "id": "g2b-api-8810682850129671557",
-        "title": "제3회 119메모리얼데이 추모문화제 행사 운영 용역(수의시담)",
-        "organization": "소방청",
-        "start": "2026-09-09T07:01:22.566673",
-        "deadline": "2026-08-10T00:00:00",
-        "category": "event",
+        "id": "g2b-api-2010080862303004671",
+        "title": "[한남대학교 산학협력단]2026-13호 철도 도메인 특화 RAG 기반 AI 실시간 안전교관 시스템 구축 및 연동 용역",
+        "organization": "한남대학교 산학협력단",
+        "start": "2026-09-11T07:01:14.716510",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672295&bidPbancOrd=000",
-        "description": "수요기관: 소방청 | 공고번호: R26BK01672295"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722475&bidPbancOrd=000",
+        "description": "수요기관: 한남대학교 산학협력단 | 공고번호: R26BK01722475"
     },
     {
-        "id": "g2b-api-5731944796980964859",
+        "id": "g2b-api-7617205938137193720",
+        "title": "[한남대학교 산학협력단]2026-14호 「AX 기반 철도 선로 안전 초실감형 교육 시뮬레이터 상용화」 과제용 AI 모델 학습·튜닝 및 실증을 위한 고성능 GPU 워크스테이션 및 노트북 구매",
+        "organization": "한남대학교 산학협력단",
+        "start": "2026-09-11T07:01:14.716510",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722504&bidPbancOrd=000",
+        "description": "수요기관: 한남대학교 산학협력단 | 공고번호: R26BK01722504"
+    },
+    {
+        "id": "g2b-api-6440239361607556260",
+        "title": "[한남대학교 산학협력단]2026-12호 철도 안전훈련 실수패턴 분석 AI 적용환경 구축 및 시스템 연동 용역",
+        "organization": "한남대학교 산학협력단",
+        "start": "2026-09-11T07:01:14.716510",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722288&bidPbancOrd=000",
+        "description": "수요기관: 한남대학교 산학협력단 | 공고번호: R26BK01722288"
+    },
+    {
+        "id": "g2b-api-8356475660969588994",
         "title": "대산광역방제지원센터 방제자재(오일펜스, 회수유저장용기) 구매 ",
         "organization": "해양경찰청 중부지방해양경찰청",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-01T00:00:00",
         "category": "user",
         "source": "gov",
@@ -4445,10 +4390,10 @@ const bidEvents = [
         "description": "수요기관: 해양경찰청 중부지방해양경찰청 | 공고번호: R26BK01698673"
     },
     {
-        "id": "g2b-api-6651414546180544009",
+        "id": "g2b-api-4310073868121952667",
         "title": "2025년 고품질쌀유통활성화사업 가공시설 현대화 기계설비공사 (AI미곡종합품질관리기 물품구매 및 납품)",
         "organization": "영암군농협쌀조합공동사업법인",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4456,10 +4401,10 @@ const bidEvents = [
         "description": "수요기관: 영암군농협쌀조합공동사업법인 | 공고번호: R26BK01686077"
     },
     {
-        "id": "g2b-api-1170786083092691915",
+        "id": "g2b-api-5077132406017741478",
         "title": "2026년 공공기관 대행사업 황산지구 간이양수장 설치공사 전기공사",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4467,10 +4412,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01696624"
     },
     {
-        "id": "g2b-api-5326432000751552070",
+        "id": "g2b-api-2073042907169039405",
         "title": "2026년 공공기관 대행사업 송정지구 용수로 정비사업 토목공사",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4478,10 +4423,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01710408"
     },
     {
-        "id": "g2b-api-8341942196289353181",
+        "id": "g2b-api-7329053524693776849",
         "title": "2026년 공공기관 대행사업 황산지구 간이양수장 설치공사 토목공사",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4489,10 +4434,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01696583"
     },
     {
-        "id": "g2b-api-2313588584010932231",
+        "id": "g2b-api-6193784554880200194",
         "title": "2026년 공공기관 대행사업 화산지구 신평 배수지거 정비사업",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4500,10 +4445,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01716124"
     },
     {
-        "id": "g2b-api-8723327383992709153",
+        "id": "g2b-api-5286161823710599485",
         "title": "2026년 공공기관 대행사업 황산지구 간이양수장 설치공사 기계공사",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4511,10 +4456,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01697676"
     },
     {
-        "id": "g2b-api-5021433684442551879",
+        "id": "g2b-api-922064328844112573",
         "title": "2026년 공공기관 대행사업 화산지구 가좌제 배수간선 정비사업",
         "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4522,10 +4467,21 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01709331"
     },
     {
-        "id": "g2b-api-6533307939562293147",
+        "id": "g2b-api-5537602678092610561",
+        "title": "2026년 공공기관 대행사업 송정지구 용수로 정비사업 건설폐기물처리 용역",
+        "organization": "한국농어촌공사 전남지역본부 해남.완도지사",
+        "start": "2026-09-11T07:01:14.717516",
+        "deadline": "2026-09-09T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720309&bidPbancOrd=000",
+        "description": "수요기관: 한국농어촌공사 전남지역본부 해남.완도지사 | 공고번호: R26BK01720309"
+    },
+    {
+        "id": "g2b-api-899191839809258231",
         "title": "2026년도 IMO 스마트 통합 국제승선실습 프로그램 행사용역(긴급)",
         "organization": "한국해양수산연수원",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4533,10 +4489,10 @@ const bidEvents = [
         "description": "수요기관: 한국해양수산연수원 | 공고번호: R26BK01689723"
     },
     {
-        "id": "g2b-api-1335876565130875771",
+        "id": "g2b-api-4010577788594898620",
         "title": "2026 세계국가유산산업전 행사장 조성 용역(긴급)",
         "organization": "(재)경주화백컨벤션뷰로",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4544,10 +4500,10 @@ const bidEvents = [
         "description": "수요기관: (재)경주화백컨벤션뷰로 | 공고번호: R26BK01685942"
     },
     {
-        "id": "g2b-api-5835958162276266729",
+        "id": "g2b-api-1481385024273537362",
         "title": "2026 세계국가유산산업전 행사장 조성 용역 소액수의 견적제출 공고 안내(긴급)",
         "organization": "(재)경주화백컨벤션뷰로",
-        "start": "2026-09-09T07:01:22.567673",
+        "start": "2026-09-11T07:01:14.717516",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4555,10 +4511,10 @@ const bidEvents = [
         "description": "수요기관: (재)경주화백컨벤션뷰로 | 공고번호: R26BK01693573"
     },
     {
-        "id": "g2b-api-7184660443270553775",
+        "id": "g2b-api-6570829141789103986",
         "title": "대화형 AI 챗봇 솔루션 임차",
         "organization": "국립군산대학교",
-        "start": "2026-09-09T07:01:22.568673",
+        "start": "2026-09-11T07:01:14.718686",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4566,54 +4522,54 @@ const bidEvents = [
         "description": "수요기관: 국립군산대학교 | 공고번호: R26BK01690558"
     },
     {
-        "id": "g2b-api-4749023565060624540",
-        "title": "출판유통통합전산망 AI 서비스 개발 및 PoC 용역",
-        "organization": "한국출판문화산업진흥원",
-        "start": "2026-09-09T07:01:22.569673",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672378&bidPbancOrd=000",
-        "description": "수요기관: 한국출판문화산업진흥원 | 공고번호: R26BK01672378"
-    },
-    {
-        "id": "g2b-api-2470431447161951078",
+        "id": "g2b-api-4354940127907700171",
         "title": "KAIT MRL 승강기 2대 철거 및 제작 설치공사",
         "organization": "사단법인 한국정보통신진흥협회",
-        "start": "2026-09-09T07:01:22.569673",
-        "deadline": "2026-10-09T07:01:22.569673",
+        "start": "2026-09-11T07:01:14.719686",
+        "deadline": "2026-10-11T07:01:14.719686",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710966&bidPbancOrd=000",
         "description": "수요기관: 사단법인 한국정보통신진흥협회 | 공고번호: R26BK01710966"
     },
     {
-        "id": "g2b-api-5294086611044464518",
+        "id": "g2b-api-1241700467611620515",
         "title": "[의료용가스] AIR ZERO(혼합가스) 외 20건",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:01:22.570140",
-        "deadline": "2026-10-09T07:01:22.570140",
+        "start": "2026-09-11T07:01:14.719686",
+        "deadline": "2026-10-11T07:01:14.719686",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694396&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01694396"
     },
     {
-        "id": "g2b-api-4590141432495006543",
+        "id": "g2b-api-8091471865954867194",
         "title": "[의료용가스] AIR ZERO(혼합가스) 외 20건",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:01:22.570140",
-        "deadline": "2026-10-09T07:01:22.570140",
+        "start": "2026-09-11T07:01:14.719686",
+        "deadline": "2026-10-11T07:01:14.719686",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721259&bidPbancOrd=000",
+        "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01721259"
+    },
+    {
+        "id": "g2b-api-2964042044951704410",
+        "title": "[의료용가스] AIR ZERO(혼합가스) 외 20건",
+        "organization": "분당서울대학교병원",
+        "start": "2026-09-11T07:01:14.719686",
+        "deadline": "2026-10-11T07:01:14.719686",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708061&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01708061"
     },
     {
-        "id": "g2b-api-7845805260235928515",
+        "id": "g2b-api-1424275182692557848",
         "title": "2026년 소상공인 생성형 AI 서비스 공급 용역",
         "organization": "모트",
-        "start": "2026-09-09T07:01:28.079182",
+        "start": "2026-09-11T07:01:20.036489",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4621,10 +4577,10 @@ const bidEvents = [
         "description": "수요기관: 모트 | 공고번호: R26BK01688530"
     },
     {
-        "id": "g2b-api-2765692498028134999",
+        "id": "g2b-api-7086651025557335894",
         "title": "2026년도 장애인 고용컨설팅·직무개발 성과공유대회 행사대행 용역",
         "organization": "한국장애인고용공단",
-        "start": "2026-09-09T07:01:28.079182",
+        "start": "2026-09-11T07:01:20.037493",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4632,10 +4588,10 @@ const bidEvents = [
         "description": "수요기관: 한국장애인고용공단 | 공고번호: R26BK01702613"
     },
     {
-        "id": "g2b-api-3171785458983969358",
+        "id": "g2b-api-5438470769515583191",
         "title": "2026학년도 국립공주대학교 천안캠퍼스 대동제 행사 용역",
         "organization": "공주대학교 천안공과대학",
-        "start": "2026-09-09T07:01:28.080913",
+        "start": "2026-09-11T07:01:20.038489",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4643,10 +4599,21 @@ const bidEvents = [
         "description": "수요기관: 공주대학교 천안공과대학 | 공고번호: R26BK01683789"
     },
     {
-        "id": "g2b-api-4246271680986011933",
+        "id": "g2b-api-707352755900587106",
+        "title": "AI 서버시스템 구매",
+        "organization": "한국항공대학교",
+        "start": "2026-09-11T07:01:20.038489",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723385&bidPbancOrd=000",
+        "description": "수요기관: 한국항공대학교 | 공고번호: R26BK01723385"
+    },
+    {
+        "id": "g2b-api-7918322478218384752",
         "title": "「2026년 탄소중립 설비투자 프로젝트 경매사업_AI 제어 기반 고효율 펄퍼",
         "organization": "신대양제지(주)",
-        "start": "2026-09-09T07:01:28.080913",
+        "start": "2026-09-11T07:01:20.038489",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4654,10 +4621,10 @@ const bidEvents = [
         "description": "수요기관: 신대양제지(주) | 공고번호: R26BK01707055"
     },
     {
-        "id": "g2b-api-2157064281564562588",
+        "id": "g2b-api-2997664599449434326",
         "title": "2026 양산삽량문화축전 행사장 전기 임시가설 공사(긴급)",
         "organization": "재단법인 양산문화재단",
-        "start": "2026-09-09T07:01:28.080913",
+        "start": "2026-09-11T07:01:20.038489",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4665,10 +4632,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 양산문화재단 | 공고번호: R26BK01714939"
     },
     {
-        "id": "g2b-api-6622250066637028849",
+        "id": "g2b-api-3393382767768279881",
         "title": "2026 양산삽량문화축전 행사장 경비・경호 용역(긴급) 수의 견적제출 공고",
         "organization": "재단법인 양산문화재단",
-        "start": "2026-09-09T07:01:28.080913",
+        "start": "2026-09-11T07:01:20.038489",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4676,10 +4643,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 양산문화재단 | 공고번호: R26BK01680068"
     },
     {
-        "id": "g2b-api-7051453978529249724",
+        "id": "g2b-api-6273467572028666212",
         "title": "2026 양산삽량문화축전 행사장 경비・경호 용역(긴급) 수의 견적제출 공고",
         "organization": "재단법인 양산문화재단",
-        "start": "2026-09-09T07:01:28.080913",
+        "start": "2026-09-11T07:01:20.038489",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4687,10 +4654,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 양산문화재단 | 공고번호: R26BK01690781"
     },
     {
-        "id": "g2b-api-3235720823640286753",
+        "id": "g2b-api-1964384345566584361",
         "title": "선거연수원 개원 30주년 기념행사 용역",
         "organization": "중앙선거관리위원회 사무처 선거연수원",
-        "start": "2026-09-09T07:01:28.082143",
+        "start": "2026-09-11T07:01:20.039658",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4698,10 +4665,10 @@ const bidEvents = [
         "description": "수요기관: 중앙선거관리위원회 사무처 선거연수원 | 공고번호: R26BK01705460"
     },
     {
-        "id": "g2b-api-6483111249589345400",
+        "id": "g2b-api-3328915989405270624",
         "title": "한동대학교 AI혁신센터 AI가속기 구매",
         "organization": "한동대학교",
-        "start": "2026-09-09T07:01:28.082143",
+        "start": "2026-09-11T07:01:20.039658",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4709,21 +4676,21 @@ const bidEvents = [
         "description": "수요기관: 한동대학교 | 공고번호: R26BK01716112"
     },
     {
-        "id": "g2b-api-9220274270449427856",
+        "id": "g2b-api-1653514218633148250",
         "title": "한동대학교 AI기반 학생지원 통합시스템 구축 개발 용역",
         "organization": "한동대학교",
-        "start": "2026-09-09T07:01:28.082143",
-        "deadline": "2026-10-09T07:01:28.082143",
+        "start": "2026-09-11T07:01:20.039658",
+        "deadline": "2026-10-11T07:01:20.039658",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704565&bidPbancOrd=000",
         "description": "수요기관: 한동대학교 | 공고번호: R26BK01704565"
     },
     {
-        "id": "g2b-api-7871756452478802080",
+        "id": "g2b-api-328690660008749832",
         "title": "「서천읍성」 사적 지정 기념행사 개최 용역",
         "organization": "국가유산청",
-        "start": "2026-09-09T07:01:28.083142",
+        "start": "2026-09-11T07:01:20.040658",
         "deadline": "2026-08-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4731,65 +4698,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 | 공고번호: R26BK01682219"
     },
     {
-        "id": "g2b-api-1512507277252680205",
-        "title": "2026 문화의 달 행사(해양거리예술제 및 생활문화한마당) 운영 대행 용역(협상에 의한 계약)",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:28.083142",
-        "deadline": "2026-10-09T07:01:28.083142",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674722&bidPbancOrd=001",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01674722"
-    },
-    {
-        "id": "g2b-api-2462283158804394824",
-        "title": "2026 문화의 달 행사(해양거리예술제 및 생활문화한마당) 운영 대행 용역(협상에 의한 계약)",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:28.083142",
-        "deadline": "2026-10-09T07:01:28.083142",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673880&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01673880"
-    },
-    {
-        "id": "g2b-api-2381079639650810765",
-        "title": "2026 문화의 달 행사(홍보 및 광고) 대행 용역(협상에 의한 계약)",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:28.083142",
-        "deadline": "2026-10-09T07:01:28.083142",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673942&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01673942"
-    },
-    {
-        "id": "g2b-api-3543177631005096636",
-        "title": "2026 문화의 달 행사(해양거리예술제 및 생활문화한마당) 운영 대행 용역(협상에 의한 계약)",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:28.084149",
-        "deadline": "2026-10-09T07:01:28.084149",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675339&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01675339"
-    },
-    {
-        "id": "g2b-api-7438244199352410806",
-        "title": "2026 문화의 달 행사 개폐막식 운영 대행 용역(협상에 의한 계약)",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:28.084149",
-        "deadline": "2026-10-09T07:01:28.084149",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673930&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01673930"
-    },
-    {
-        "id": "g2b-api-4549677435284068579",
+        "id": "g2b-api-7457367994708042818",
         "title": "생성형 AI 기반 통합 시민서비스 구축",
         "organization": "서울물재생시설공단",
-        "start": "2026-09-09T07:01:28.084149",
+        "start": "2026-09-11T07:01:20.041658",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4797,10 +4709,10 @@ const bidEvents = [
         "description": "수요기관: 서울물재생시설공단 | 공고번호: R26BK01710823"
     },
     {
-        "id": "g2b-api-3277770739423180749",
+        "id": "g2b-api-733805371701236417",
         "title": "2026 순천만국가정원 추석 연휴 문화행사 운영 용역",
         "organization": "전남광주통합특별시 순천시",
-        "start": "2026-09-09T07:01:28.084149",
+        "start": "2026-09-11T07:01:20.041658",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4808,10 +4720,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 순천시 | 공고번호: R26BK01710691"
     },
     {
-        "id": "g2b-api-5703751126185351124",
+        "id": "g2b-api-6433885583235062539",
         "title": "2024년 강소형 스마트도시 조성사업 홍보 및 행사 대행 용역",
         "organization": "주식회사 센코",
-        "start": "2026-09-09T07:01:28.085149",
+        "start": "2026-09-11T07:01:20.042658",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4819,10 +4731,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 센코 | 공고번호: R26BK01683866"
     },
     {
-        "id": "g2b-api-1564839295415869470",
+        "id": "g2b-api-4670396993655584603",
         "title": "ACT통합 AI-WMS 및 CSV 문서관리체계 구축 용역 ",
         "organization": "(주)에이씨티",
-        "start": "2026-09-09T07:01:28.085149",
+        "start": "2026-09-11T07:01:20.042658",
         "deadline": "2026-10-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4830,10 +4742,10 @@ const bidEvents = [
         "description": "수요기관: (주)에이씨티 | 공고번호: R26BK01710670"
     },
     {
-        "id": "g2b-api-2928811032443799163",
+        "id": "g2b-api-4619555370967346396",
         "title": "ACT통합 AI-WMS 및 CSV 문서관리체계 구축 용역 ",
         "organization": "(주)에이씨티",
-        "start": "2026-09-09T07:01:28.085149",
+        "start": "2026-09-11T07:01:20.042658",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4841,21 +4753,21 @@ const bidEvents = [
         "description": "수요기관: (주)에이씨티 | 공고번호: R26BK01678488"
     },
     {
-        "id": "g2b-api-4530654307860420457",
-        "title": "2026년 아이돌봄서비스 소통의 날 행사 용역",
-        "organization": "한국건강가정진흥원",
-        "start": "2026-09-09T07:01:28.085149",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
+        "id": "g2b-api-7625203336156853033",
+        "title": "2026년 AI정밀의료SW 선도기반조성 사업 성과분석 용역",
+        "organization": "정보통신산업진흥원",
+        "start": "2026-09-11T07:01:20.042658",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673874&bidPbancOrd=000",
-        "description": "수요기관: 한국건강가정진흥원 | 공고번호: R26BK01673874"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720378&bidPbancOrd=000",
+        "description": "수요기관: 정보통신산업진흥원 | 공고번호: R26BK01720378"
     },
     {
-        "id": "g2b-api-5561847693246675705",
+        "id": "g2b-api-6548056863505879152",
         "title": "[LP4-1-5] 26년 다전공 박람회 행사 물품_실입찰은 ebiz4u에서 진행",
         "organization": "숭실대학교",
-        "start": "2026-09-09T07:01:33.591918",
+        "start": "2026-09-11T07:01:20.043658",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4863,10 +4775,10 @@ const bidEvents = [
         "description": "수요기관: 숭실대학교 | 공고번호: R26BK01700062"
     },
     {
-        "id": "g2b-api-950001030576099891",
+        "id": "g2b-api-3640067835015822170",
         "title": "[LP8-3-19] 2026학년도 교육수요자만족도조사 대행_실입찰은 ebiz4u에서 진행함",
         "organization": "숭실대학교",
-        "start": "2026-09-09T07:01:33.591918",
+        "start": "2026-09-11T07:01:20.043658",
         "deadline": "2026-09-17T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -4874,43 +4786,32 @@ const bidEvents = [
         "description": "수요기관: 숭실대학교 | 공고번호: R26BK01710652"
     },
     {
-        "id": "g2b-api-6968076454503943215",
+        "id": "g2b-api-1075708616400620686",
         "title": "2026 마한역사문화제 행사대행 용역(긴급)",
         "organization": "재단법인영암문화관광재단",
-        "start": "2026-09-09T07:01:33.591918",
-        "deadline": "2026-10-09T07:01:33.591918",
+        "start": "2026-09-11T07:01:20.043658",
+        "deadline": "2026-10-11T07:01:20.043658",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697416&bidPbancOrd=000",
         "description": "수요기관: 재단법인영암문화관광재단 | 공고번호: R26BK01697416"
     },
     {
-        "id": "g2b-api-1201397308507472969",
+        "id": "g2b-api-1786856316573454342",
         "title": "2026 마한역사문화제 행사대행 용역(긴급)(재공고)",
         "organization": "재단법인영암문화관광재단",
-        "start": "2026-09-09T07:01:33.591918",
-        "deadline": "2026-10-09T07:01:33.591918",
+        "start": "2026-09-11T07:01:20.043658",
+        "deadline": "2026-10-11T07:01:20.043658",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715745&bidPbancOrd=000",
         "description": "수요기관: 재단법인영암문화관광재단 | 공고번호: R26BK01715745"
     },
     {
-        "id": "g2b-api-1545451414268093550",
-        "title": "롯데와 함께하는 청춘책방 북콘서트 행사 입찰 공고",
-        "organization": "구세군자선냄비본부",
-        "start": "2026-09-09T07:01:33.593144",
-        "deadline": "2026-10-09T07:01:33.593144",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677853&bidPbancOrd=000",
-        "description": "수요기관: 구세군자선냄비본부 | 공고번호: R26BK01677853"
-    },
-    {
-        "id": "g2b-api-1672970435717757684",
+        "id": "g2b-api-6558907512837360792",
         "title": "AI기반 디지털 함정 체계 구축 사업 감리용역",
         "organization": "해양경찰청",
-        "start": "2026-09-09T07:01:33.593144",
+        "start": "2026-09-11T07:01:24.800221",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4918,10 +4819,10 @@ const bidEvents = [
         "description": "수요기관: 해양경찰청 | 공고번호: R26BK01715507"
     },
     {
-        "id": "g2b-api-5185483138857116480",
+        "id": "g2b-api-7947558253836871443",
         "title": "AI 기반 업무지원 강화를 위한 LLM 프로토타입 및 RAG 시스템 구축",
         "organization": "국토교통과학기술진흥원",
-        "start": "2026-09-09T07:01:33.593144",
+        "start": "2026-09-11T07:01:24.800221",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4929,10 +4830,10 @@ const bidEvents = [
         "description": "수요기관: 국토교통과학기술진흥원 | 공고번호: R26BK01709561"
     },
     {
-        "id": "g2b-api-8031108652932181751",
+        "id": "g2b-api-1978123844619393138",
         "title": "극지연구소 주거래 여행사 선정",
         "organization": "한국해양과학기술원 부설 극지연구소",
-        "start": "2026-09-09T07:01:33.593144",
+        "start": "2026-09-11T07:01:24.800221",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4940,10 +4841,10 @@ const bidEvents = [
         "description": "수요기관: 한국해양과학기술원 부설 극지연구소 | 공고번호: R26BK01682686"
     },
     {
-        "id": "g2b-api-8668372815155839674",
+        "id": "g2b-api-2902069146000833031",
         "title": "2026 청도 온마당 행사 운영 용역 재공고",
         "organization": "경상북도교육청 경상북도청도교육지원청",
-        "start": "2026-09-09T07:01:33.593144",
+        "start": "2026-09-11T07:01:24.800221",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4951,10 +4852,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도교육청 경상북도청도교육지원청 | 공고번호: R26BK01691203"
     },
     {
-        "id": "g2b-api-7223117921717102524",
+        "id": "g2b-api-562963207400661037",
         "title": "경상북도청도교육지원청 청도 온마당 행사 운영 용역",
         "organization": "경상북도교육청 경상북도청도교육지원청",
-        "start": "2026-09-09T07:01:33.594152",
+        "start": "2026-09-11T07:01:24.800221",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4962,10 +4863,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도교육청 경상북도청도교육지원청 | 공고번호: R26BK01708793"
     },
     {
-        "id": "g2b-api-1334537251311709823",
+        "id": "g2b-api-3336327754474998250",
         "title": "참여기업 확대 및 산학협력 네트워크 구축을 위한 기업초청행사",
         "organization": "서울특별시 서울시립대학교 산학협력단",
-        "start": "2026-09-09T07:01:33.594152",
+        "start": "2026-09-11T07:01:24.801220",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -4973,10 +4874,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 산학협력단 | 공고번호: R26BK01710251"
     },
     {
-        "id": "g2b-api-667273982503120755",
+        "id": "g2b-api-6348595341469721316",
         "title": "2026 K-주얼리 AI 실무혁신 교육 개발 및 운영",
         "organization": "서울특별시 서울시립대학교 산학협력단",
-        "start": "2026-09-09T07:01:33.594152",
+        "start": "2026-09-11T07:01:24.801220",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4984,10 +4885,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 서울시립대학교 산학협력단 | 공고번호: R26BK01718206"
     },
     {
-        "id": "g2b-api-8242264915380137350",
+        "id": "g2b-api-1591661344703251650",
         "title": "[긴급]2026년 찾아가는 AI교육지원 프로그램 운영 용역",
         "organization": "인천광역시교육청",
-        "start": "2026-09-09T07:01:33.594152",
+        "start": "2026-09-11T07:01:24.801220",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -4995,10 +4896,10 @@ const bidEvents = [
         "description": "수요기관: 인천광역시교육청 | 공고번호: R26BK01712418"
     },
     {
-        "id": "g2b-api-8347411292538402892",
+        "id": "g2b-api-1943420767111092675",
         "title": "ID본부 여권 검사장비 손품 데이터 활용 AI시스템 구축",
         "organization": "한국조폐공사",
-        "start": "2026-09-09T07:01:33.596793",
+        "start": "2026-09-11T07:01:24.803220",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5006,10 +4907,10 @@ const bidEvents = [
         "description": "수요기관: 한국조폐공사 | 공고번호: R26BK01708106"
     },
     {
-        "id": "g2b-api-5498307503615898425",
+        "id": "g2b-api-7215688470740788679",
         "title": "영상 AI 서버 구매",
         "organization": "뱀부스 주식회사",
-        "start": "2026-09-09T07:01:33.596793",
+        "start": "2026-09-11T07:01:24.803220",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5017,10 +4918,21 @@ const bidEvents = [
         "description": "수요기관: 뱀부스 주식회사 | 공고번호: R26BK01700648"
     },
     {
-        "id": "g2b-api-7344386714048107507",
+        "id": "g2b-api-1597230677788227837",
+        "title": "QC AI 카메라 설치",
+        "organization": "한진평택컨테이너터미널 주식회사",
+        "start": "2026-09-11T07:01:24.804220",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719289&bidPbancOrd=000",
+        "description": "수요기관: 한진평택컨테이너터미널 주식회사 | 공고번호: R26BK01719289"
+    },
+    {
+        "id": "g2b-api-364707536992593693",
         "title": "KUSF 영상 AI 아카이빙 시스템 고도화 구축",
         "organization": "(사）한국대학스포츠협의회",
-        "start": "2026-09-09T07:01:33.596793",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5028,10 +4940,10 @@ const bidEvents = [
         "description": "수요기관: (사）한국대학스포츠협의회 | 공고번호: R26BK01703445"
     },
     {
-        "id": "g2b-api-402605188065810066",
+        "id": "g2b-api-2093344824986648934",
         "title": "제31회 진주시민의 날 행사 대행 용역",
         "organization": "경상남도 진주시",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5039,21 +4951,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도 진주시 | 공고번호: R26BK01700223"
     },
     {
-        "id": "g2b-api-4859115879843543496",
+        "id": "g2b-api-7559286468110453692",
         "title": "「대한민국 국학대전」 행사 대행 용역",
         "organization": "재단법인 한국국학진흥원",
-        "start": "2026-09-09T07:01:33.597798",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672863&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 한국국학진흥원 | 공고번호: R26BK01672863"
-    },
-    {
-        "id": "g2b-api-6953088266493007530",
-        "title": "「대한민국 국학대전」 행사 대행 용역",
-        "organization": "재단법인 한국국학진흥원",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5061,10 +4962,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 한국국학진흥원 | 공고번호: R26BK01692548"
     },
     {
-        "id": "g2b-api-4149089348970520492",
+        "id": "g2b-api-469199977020832893",
         "title": "2026년 이야기할머니의 날 행사 대행 용역",
         "organization": "재단법인 한국국학진흥원",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-09-29T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5072,10 +4973,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 한국국학진흥원 | 공고번호: R26BK01715225"
     },
     {
-        "id": "g2b-api-5255652981507353419",
+        "id": "g2b-api-3144157981126744961",
         "title": "AI 특화 공동훈련센터 머신비전 실습교육 시스템 구축",
         "organization": "현대자동차(주)",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5083,10 +4984,10 @@ const bidEvents = [
         "description": "수요기관: 현대자동차(주) | 공고번호: R26BK01706897"
     },
     {
-        "id": "g2b-api-5140747280645881561",
+        "id": "g2b-api-1887408992197084709",
         "title": "AI 특화 공동훈련센터 머신비전 실습교육 시스템 구축",
         "organization": "현대자동차(주)",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.804220",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5094,10 +4995,10 @@ const bidEvents = [
         "description": "수요기관: 현대자동차(주) | 공고번호: R26BK01686876"
     },
     {
-        "id": "g2b-api-7974038455705537552",
+        "id": "g2b-api-2803052270812541702",
         "title": "자율운항 피지컬 AI 모델 개발 및 활용 - 제어 AI 모델 개발",
         "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.805220",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5105,10 +5006,10 @@ const bidEvents = [
         "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01690594"
     },
     {
-        "id": "g2b-api-2088682229863090391",
+        "id": "g2b-api-669315588368386389",
         "title": "자율운항 피지컬 AI 모델 개발 및 활용 - 제어 AI 모델 개발",
         "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
-        "start": "2026-09-09T07:01:33.597798",
+        "start": "2026-09-11T07:01:24.805220",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5116,21 +5017,21 @@ const bidEvents = [
         "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01707326"
     },
     {
-        "id": "g2b-api-842545367276200289",
+        "id": "g2b-api-2020847023617987935",
         "title": "제조AI솔루션 공모전 및 K-제조 AI 그랜드 챌린지 행사 홍보·운영 대행",
         "organization": "(사)중소기업기술혁신협회",
-        "start": "2026-09-09T07:01:33.598798",
+        "start": "2026-09-11T07:01:24.805220",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715344&bidPbancOrd=000",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715344&bidPbancOrd=001",
         "description": "수요기관: (사)중소기업기술혁신협회 | 공고번호: R26BK01715344"
     },
     {
-        "id": "g2b-api-7960538633696863243",
+        "id": "g2b-api-1860967775473493783",
         "title": "2026 홈케어/재활/복지전시회 KTL 공동홍보관 독립부스 설치",
         "organization": "한국산업기술시험원",
-        "start": "2026-09-09T07:01:33.598798",
+        "start": "2026-09-11T07:01:24.805220",
         "deadline": "2026-09-14T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -5138,10 +5039,21 @@ const bidEvents = [
         "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01713055"
     },
     {
-        "id": "g2b-api-1481742576276134882",
+        "id": "g2b-api-7909944525173534623",
+        "title": "AI 컴퓨팅 프로세스실 항온항습기 구매",
+        "organization": "한국산업기술시험원",
+        "start": "2026-09-11T07:01:24.806220",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722393&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01722393"
+    },
+    {
+        "id": "g2b-api-1167104725250084706",
         "title": "생성형 AI 상세페이지 제작 구독권 공급 및 운영지원 용역",
         "organization": "(주)한큐컴퍼니",
-        "start": "2026-09-09T07:01:33.598798",
+        "start": "2026-09-11T07:01:24.806220",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5149,10 +5061,10 @@ const bidEvents = [
         "description": "수요기관: (주)한큐컴퍼니 | 공고번호: R26BK01685458"
     },
     {
-        "id": "g2b-api-4021989444835935061",
+        "id": "g2b-api-6654470919668040048",
         "title": "생성형 AI 콘텐츠 제작 구독권 공급 및 운영지원 용역",
         "organization": "(주)한큐컴퍼니",
-        "start": "2026-09-09T07:01:33.598798",
+        "start": "2026-09-11T07:01:24.806220",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5160,10 +5072,10 @@ const bidEvents = [
         "description": "수요기관: (주)한큐컴퍼니 | 공고번호: R26BK01685526"
     },
     {
-        "id": "g2b-api-4732029315777296084",
+        "id": "g2b-api-3435617596572832516",
         "title": "한국농어촌공사 서산태안지사 신사옥 준공식 행사용역",
         "organization": "한국농어촌공사 충남지역본부 서산.태안지사",
-        "start": "2026-09-09T07:01:33.599798",
+        "start": "2026-09-11T07:01:24.806220",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5171,10 +5083,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 충남지역본부 서산.태안지사 | 공고번호: R26BK01709694"
     },
     {
-        "id": "g2b-api-5156546747773210841",
+        "id": "g2b-api-3228296539583798228",
         "title": "2026 하이원리조트 VIP 프로암 및 디너쇼 행사 위탁운영 용역",
         "organization": "(주)강원랜드",
-        "start": "2026-09-09T07:01:37.943948",
+        "start": "2026-09-11T07:01:24.806220",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5182,10 +5094,10 @@ const bidEvents = [
         "description": "수요기관: (주)강원랜드 | 공고번호: R26BK01706333"
     },
     {
-        "id": "g2b-api-4591893493252475840",
+        "id": "g2b-api-791557139663644194",
         "title": "2026년 강원랜드 협력사 서비스 우수 직원 해외연수 대행사 선정 용역",
         "organization": "(주)강원랜드",
-        "start": "2026-09-09T07:01:37.943948",
+        "start": "2026-09-11T07:01:24.806220",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5193,10 +5105,21 @@ const bidEvents = [
         "description": "수요기관: (주)강원랜드 | 공고번호: R26BK01697129"
     },
     {
-        "id": "g2b-api-579725648208164892",
+        "id": "g2b-api-1199786046962256188",
         "title": "「서울 청년 가족 건강 음식」 캠페인(가제) 행사 대행 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:01:37.943948",
+        "start": "2026-09-11T07:01:24.807220",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721682&bidPbancOrd=000",
+        "description": "수요기관: 서울특별시 | 공고번호: R26BK01721682"
+    },
+    {
+        "id": "g2b-api-1250476885373362371",
+        "title": "「서울 청년 가족 건강 음식」 캠페인(가제) 행사 대행 용역",
+        "organization": "서울특별시",
+        "start": "2026-09-11T07:01:24.807220",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5204,10 +5127,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01702651"
     },
     {
-        "id": "g2b-api-1619896049558124957",
+        "id": "g2b-api-3602935444172265936",
         "title": "서울AI허브 BF 본인증 추가공사 ",
         "organization": "서울특별시 도시기반시설본부",
-        "start": "2026-09-09T07:01:37.943948",
+        "start": "2026-09-11T07:01:24.807220",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5215,10 +5138,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 도시기반시설본부 | 공고번호: R26BK01697640"
     },
     {
-        "id": "g2b-api-7317798990220028659",
+        "id": "g2b-api-5513695007767898622",
         "title": "서울AI허브 BF 본인증 추가공사 건설재해예방기술지도 용역",
         "organization": "서울특별시 도시기반시설본부",
-        "start": "2026-09-09T07:01:37.943948",
+        "start": "2026-09-11T07:01:24.807220",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5226,32 +5149,32 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 도시기반시설본부 | 공고번호: R26BK01697559"
     },
     {
-        "id": "g2b-api-6557639049460296358",
-        "title": "RMQC AI 카메라 설치",
-        "organization": "한진인천컨테이너터미널 주식회사",
-        "start": "2026-09-09T07:01:37.944947",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01662411&bidPbancOrd=001",
-        "description": "수요기관: 한진인천컨테이너터미널 주식회사 | 공고번호: R26BK01662411"
-    },
-    {
-        "id": "g2b-api-3160515077560161926",
+        "id": "g2b-api-6122858839122255120",
         "title": "(긴급) 제주 고향사랑기부제 「나도♥제주도 캠페인」행사 용역(협상에 의한 계약)",
         "organization": "제주특별자치도",
-        "start": "2026-09-09T07:01:37.944947",
-        "deadline": "2026-10-09T07:01:37.944947",
+        "start": "2026-09-11T07:01:24.807220",
+        "deadline": "2026-10-11T07:01:24.807220",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708328&bidPbancOrd=000",
         "description": "수요기관: 제주특별자치도 | 공고번호: R26BK01708328"
     },
     {
-        "id": "g2b-api-4878702025282584933",
+        "id": "g2b-api-9015622742693875038",
+        "title": "(AID사업) 2026년 데이터 기반 학생성공  AI-Care 365 시스템 구축 운영  ",
+        "organization": "전주비전대학 산학협력단",
+        "start": "2026-09-11T07:01:24.807220",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722092&bidPbancOrd=000",
+        "description": "수요기관: 전주비전대학 산학협력단 | 공고번호: R26BK01722092"
+    },
+    {
+        "id": "g2b-api-7952679290431088852",
         "title": "(AID)AI 데이터센터 GPU 서버 1세트 구매",
         "organization": "전주비전대학 산학협력단",
-        "start": "2026-09-09T07:01:37.944947",
+        "start": "2026-09-11T07:01:24.807220",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5259,10 +5182,10 @@ const bidEvents = [
         "description": "수요기관: 전주비전대학 산학협력단 | 공고번호: R26BK01719223"
     },
     {
-        "id": "g2b-api-832982796613673958",
+        "id": "g2b-api-5612176625186087657",
         "title": "[재공고] AI.디지털 활용 교육혁신 교원 글로벌 에듀테크 체험 국외 연수 위탁 용역",
         "organization": "울산광역시교육청",
-        "start": "2026-09-09T07:01:37.945947",
+        "start": "2026-09-11T07:01:30.037779",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5270,32 +5193,43 @@ const bidEvents = [
         "description": "수요기관: 울산광역시교육청 | 공고번호: R26BK01690926"
     },
     {
-        "id": "g2b-api-2050688328016653454",
+        "id": "g2b-api-4910352760343428745",
+        "title": "[수의시담] AI.디지털 활용 교육혁신 교원 글로벌 에듀테크 체험 국외연수 위탁 용역",
+        "organization": "울산광역시교육청",
+        "start": "2026-09-11T07:01:30.037779",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723008&bidPbancOrd=000",
+        "description": "수요기관: 울산광역시교육청 | 공고번호: R26BK01723008"
+    },
+    {
+        "id": "g2b-api-4777737024743612546",
         "title": "생성형 AI 실습용 노트북 및 이동식 모니터 구매",
         "organization": "동아대학교",
-        "start": "2026-09-09T07:01:37.945947",
-        "deadline": "2026-10-09T07:01:37.945947",
+        "start": "2026-09-11T07:01:30.039008",
+        "deadline": "2026-10-11T07:01:30.039008",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689939&bidPbancOrd=000",
         "description": "수요기관: 동아대학교 | 공고번호: R26BK01689939"
     },
     {
-        "id": "g2b-api-2245882446883525270",
+        "id": "g2b-api-7061348273037294109",
         "title": "(새공고)생성형 AI 실습용 노트북 및 이동식 모니터 구매",
         "organization": "동아대학교",
-        "start": "2026-09-09T07:01:37.945947",
-        "deadline": "2026-10-09T07:01:37.945947",
+        "start": "2026-09-11T07:01:30.039008",
+        "deadline": "2026-10-11T07:01:30.039008",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705191&bidPbancOrd=000",
         "description": "수요기관: 동아대학교 | 공고번호: R26BK01705191"
     },
     {
-        "id": "g2b-api-4756161572650617982",
+        "id": "g2b-api-2213098538617822766",
         "title": "월성종합사회복지관 AI 운동기기(근력측정기 및 워킹머신) 구입",
         "organization": "대구광역시 달서구",
-        "start": "2026-09-09T07:01:37.946947",
+        "start": "2026-09-11T07:01:30.039008",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5303,10 +5237,21 @@ const bidEvents = [
         "description": "수요기관: 대구광역시 달서구 | 공고번호: R26BK01707854"
     },
     {
-        "id": "g2b-api-307117300578448506",
+        "id": "g2b-api-5823254531201850418",
+        "title": "2026 강경젓갈축제 주무대 설치 및 행사운영 용역 입찰 공고(긴급)",
+        "organization": "재단법인논산문화관광재단",
+        "start": "2026-09-11T07:01:30.039008",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722312&bidPbancOrd=000",
+        "description": "수요기관: 재단법인논산문화관광재단 | 공고번호: R26BK01722312"
+    },
+    {
+        "id": "g2b-api-4873343183267167137",
         "title": "AI 기반 수능 영어 자동 문항 생성 기능 개발 사업 감리",
         "organization": "한국교육과정평가원",
-        "start": "2026-09-09T07:01:37.946947",
+        "start": "2026-09-11T07:01:30.040008",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5314,10 +5259,10 @@ const bidEvents = [
         "description": "수요기관: 한국교육과정평가원 | 공고번호: R26BK01707015"
     },
     {
-        "id": "g2b-api-359145567822975985",
+        "id": "g2b-api-5745791518463908313",
         "title": "2026 KICE 미래 교육 혁신 포럼&페어 행사 운영 용역",
         "organization": "한국교육과정평가원",
-        "start": "2026-09-09T07:01:37.946947",
+        "start": "2026-09-11T07:01:30.040008",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5325,32 +5270,21 @@ const bidEvents = [
         "description": "수요기관: 한국교육과정평가원 | 공고번호: R26BK01694228"
     },
     {
-        "id": "g2b-api-6638273742551968856",
-        "title": "AI파트너시스템 기초 인프라 구축을 위한 보일러 성능 시험장비 구매",
-        "organization": "한국가스안전공사",
-        "start": "2026-09-09T07:01:37.946947",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673363&bidPbancOrd=000",
-        "description": "수요기관: 한국가스안전공사 | 공고번호: R26BK01673363"
-    },
-    {
-        "id": "g2b-api-8207456751660901198",
+        "id": "g2b-api-1609426942322961620",
         "title": "[긴급](협상에의한계약)2026 외국인 태권도 경연축제 행사운영 용역 ",
         "organization": "서울특별시 강남구",
-        "start": "2026-09-09T07:01:37.948835",
-        "deadline": "2026-10-09T07:01:37.948835",
+        "start": "2026-09-11T07:01:30.041007",
+        "deadline": "2026-10-11T07:01:30.041007",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685055&bidPbancOrd=000",
         "description": "수요기관: 서울특별시 강남구 | 공고번호: R26BK01685055"
     },
     {
-        "id": "g2b-api-46405229491848855",
+        "id": "g2b-api-6222216756502651743",
         "title": "홍콩 코스모프로프 미용 전시회 2026 서울 공동관 장치 시공 용역",
         "organization": "(재)서울경제진흥원",
-        "start": "2026-09-09T07:01:37.948835",
+        "start": "2026-09-11T07:01:30.041007",
         "deadline": "2026-09-15T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -5358,10 +5292,10 @@ const bidEvents = [
         "description": "수요기관: (재)서울경제진흥원 | 공고번호: R26BK01713226"
     },
     {
-        "id": "g2b-api-1037635002020087245",
+        "id": "g2b-api-3933319292916393818",
         "title": "홍콩 코스모프로프 미용 전시회 2026 서울 공동관 장치 시공 용역",
         "organization": "(재)서울경제진흥원",
-        "start": "2026-09-09T07:01:37.948835",
+        "start": "2026-09-11T07:01:30.041007",
         "deadline": "2026-09-15T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -5369,10 +5303,21 @@ const bidEvents = [
         "description": "수요기관: (재)서울경제진흥원 | 공고번호: R26BK01712104"
     },
     {
-        "id": "g2b-api-7223099393111932883",
+        "id": "g2b-api-3795737577877937786",
+        "title": " 국립경국대학교 K-인문 페스티벌 행사 대행 용역 ",
+        "organization": "국립경국대학교",
+        "start": "2026-09-11T07:01:30.041007",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720650&bidPbancOrd=000",
+        "description": "수요기관: 국립경국대학교 | 공고번호: R26BK01720650"
+    },
+    {
+        "id": "g2b-api-8826243283554106218",
         "title": "대구AI혁신센터 정보시스템실 전기공사",
         "organization": "경북대학교 첨단정보통신융합산업기술원",
-        "start": "2026-09-09T07:01:37.949323",
+        "start": "2026-09-11T07:01:30.041007",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5380,10 +5325,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 첨단정보통신융합산업기술원 | 공고번호: R26BK01685406"
     },
     {
-        "id": "g2b-api-7472721905200231478",
+        "id": "g2b-api-8941230137230461863",
         "title": "2026년도 2학기 AISW 융합교실 프로그램 차량 임차 용역 수의계약 안내공고",
         "organization": "전북특별자치도교육청 전북특별자치도교육청미래교육연구원",
-        "start": "2026-09-09T07:01:37.949323",
+        "start": "2026-09-11T07:01:30.042007",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5391,10 +5336,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도교육청 전북특별자치도교육청미래교육연구원 | 공고번호: R26BK01684999"
     },
     {
-        "id": "g2b-api-3143139762824924283",
+        "id": "g2b-api-6120702808281798855",
         "title": "2026년도 2학기 AISW 융합교실 프로그램 위탁 운영 용역 전자수의시담",
         "organization": "전북특별자치도교육청 전북특별자치도교육청미래교육연구원",
-        "start": "2026-09-09T07:01:37.949323",
+        "start": "2026-09-11T07:01:30.042007",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5402,65 +5347,32 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도교육청 전북특별자치도교육청미래교육연구원 | 공고번호: R26BK01684814"
     },
     {
-        "id": "g2b-api-2923715911501181247",
-        "title": "[긴급]2026 페스티벌 시월 행사 기획 및 운영 ",
-        "organization": "부산관광공사",
-        "start": "2026-09-09T07:01:37.949323",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677007&bidPbancOrd=000",
-        "description": "수요기관: 부산관광공사 | 공고번호: R26BK01677007"
-    },
-    {
-        "id": "g2b-api-7647349676505904083",
-        "title": "[제6회 영리더스포럼, 제주] 행사대행 용역",
-        "organization": "제주국제자유도시개발센터",
-        "start": "2026-09-09T07:01:37.951585",
-        "deadline": "2026-09-01T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670624&bidPbancOrd=000",
-        "description": "수요기관: 제주국제자유도시개발센터 | 공고번호: R26BK01670624"
-    },
-    {
-        "id": "g2b-api-5528319254592271608",
-        "title": "AI 기반 전력 및 지역난방 통합운영시스템 구축",
-        "organization": "한국지역난방공사",
-        "start": "2026-09-09T07:01:37.951585",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677963&bidPbancOrd=000",
-        "description": "수요기관: 한국지역난방공사 | 공고번호: R26BK01677963"
-    },
-    {
-        "id": "g2b-api-4582534985716167985",
-        "title": "AI기반 플랜트 통합관리 시스템 구축 감리용역",
-        "organization": "한국지역난방공사",
-        "start": "2026-09-09T07:01:37.951585",
-        "deadline": "2026-08-20T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677929&bidPbancOrd=000",
-        "description": "수요기관: 한국지역난방공사 | 공고번호: R26BK01677929"
-    },
-    {
-        "id": "g2b-api-4889557701026097296",
+        "id": "g2b-api-8995290801928053864",
         "title": "항공기 Bulk Cargo Door Full-scale Skin 성형용 Air Mold 제작",
         "organization": "한국탄소산업진흥원",
-        "start": "2026-09-09T07:01:37.951585",
-        "deadline": "2026-09-10T00:00:00",
+        "start": "2026-09-11T07:01:30.043511",
+        "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705088&bidPbancOrd=000",
         "description": "수요기관: 한국탄소산업진흥원 | 공고번호: R26BK01705088"
     },
     {
-        "id": "g2b-api-1730780634286420087",
+        "id": "g2b-api-4434913982557933603",
+        "title": "항공기 Bulk Cargo Door Full-scale Skin 성형용 Air Mold 제작",
+        "organization": "한국탄소산업진흥원",
+        "start": "2026-09-11T07:01:30.043511",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721101&bidPbancOrd=000",
+        "description": "수요기관: 한국탄소산업진흥원 | 공고번호: R26BK01721101"
+    },
+    {
+        "id": "g2b-api-6140708649865946122",
         "title": "AI기반 화재감지 시스템 구축 용역",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:01:37.951585",
+        "start": "2026-09-11T07:01:30.043511",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5468,10 +5380,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01690117"
     },
     {
-        "id": "g2b-api-1396206198661278334",
+        "id": "g2b-api-1254016154175307659",
         "title": "AI기반 화재감지 시스템 구축 용역",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:01:37.951585",
+        "start": "2026-09-11T07:01:30.043511",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5479,10 +5391,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01707599"
     },
     {
-        "id": "g2b-api-2793764750971406109",
+        "id": "g2b-api-9070066847206105153",
         "title": "2026 KTR 해외연수 용역 여행사 선정",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:01:37.951585",
+        "start": "2026-09-11T07:01:30.043511",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5490,10 +5402,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01702075"
     },
     {
-        "id": "g2b-api-4055024925250711808",
+        "id": "g2b-api-8705412054241146108",
         "title": "미래 AI반도체 기술개발 로드맵 수립 연구",
         "organization": "한국연구재단 정보통신기획평가원",
-        "start": "2026-09-09T07:01:37.953101",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5501,10 +5413,10 @@ const bidEvents = [
         "description": "수요기관: 한국연구재단 정보통신기획평가원 | 공고번호: R26BK01692324"
     },
     {
-        "id": "g2b-api-3284157173851011978",
+        "id": "g2b-api-290579313490929438",
         "title": "[건국대학교글로컬산학협력단] 강화학습·생성형 AI 기반 야생동물 행동·생태 제어 모델 개발용 GPU 서버",
         "organization": "건국대학교글로컬산학협력단",
-        "start": "2026-09-09T07:01:37.953101",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5512,10 +5424,10 @@ const bidEvents = [
         "description": "수요기관: 건국대학교글로컬산학협력단 | 공고번호: R26BK01714631"
     },
     {
-        "id": "g2b-api-1320816807497470301",
+        "id": "g2b-api-1414100960403649223",
         "title": "[건국대학교 글로컬산학협력단] 강화학습·생성형 AI 기반 야생동물 행동·생태 제어 모델 개발용 GPU 서버",
         "organization": "건국대학교글로컬산학협력단",
-        "start": "2026-09-09T07:01:37.953101",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5523,10 +5435,10 @@ const bidEvents = [
         "description": "수요기관: 건국대학교글로컬산학협력단 | 공고번호: R26BK01714631"
     },
     {
-        "id": "g2b-api-5656740796449271595",
+        "id": "g2b-api-94804970277493157",
         "title": "[건국대학교글로컬산학협력단] AI 열화상 분석용 서버의 1종 구매",
         "organization": "건국대학교글로컬산학협력단",
-        "start": "2026-09-09T07:01:37.953101",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5534,10 +5446,21 @@ const bidEvents = [
         "description": "수요기관: 건국대학교글로컬산학협력단 | 공고번호: R26BK01713991"
     },
     {
-        "id": "g2b-api-2468427451265979716",
+        "id": "g2b-api-5973652378602336411",
+        "title": "[대학혁신지원사업] 2026 AI 국가공인 민간자격 취득과정 운영 용역",
+        "organization": "연세대학교 미래캠퍼스",
+        "start": "2026-09-11T07:01:30.044516",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720530&bidPbancOrd=000",
+        "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01720530"
+    },
+    {
+        "id": "g2b-api-6461304915306380231",
         "title": "[앵커사업] AI 활용 영상편집 전문가 양성 과정 콘텐츠 제작 및 편집 용역",
         "organization": "연세대학교 미래캠퍼스",
-        "start": "2026-09-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5545,10 +5468,10 @@ const bidEvents = [
         "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01712068"
     },
     {
-        "id": "g2b-api-4386602482013912916",
+        "id": "g2b-api-9178330891878563952",
         "title": "[대학혁신지원사업] AI기반 기초학력 진단평가 시행 및 온라인 플랫폼 구축 관련 용역",
         "organization": "연세대학교 미래캠퍼스",
-        "start": "2026-09-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-07-29T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5556,10 +5479,10 @@ const bidEvents = [
         "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01654416"
     },
     {
-        "id": "g2b-api-2110239949689483698",
+        "id": "g2b-api-6392935312936330",
         "title": "연세대학교 미래캠퍼스 연세아츠위크 페스티벌 행사 용역",
         "organization": "연세대학교 미래캠퍼스",
-        "start": "2026-09-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5567,10 +5490,21 @@ const bidEvents = [
         "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01710237"
     },
     {
-        "id": "g2b-api-5249213719735735681",
+        "id": "g2b-api-1624331495008040507",
+        "title": "[앵커사업] Assistant tool MIM Contour ProtégéAI™ License 구매(임차)",
+        "organization": "연세대학교 미래캠퍼스",
+        "start": "2026-09-11T07:01:30.044516",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720338&bidPbancOrd=000",
+        "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01720338"
+    },
+    {
+        "id": "g2b-api-2735332859103456749",
         "title": "[대학혁신지원사업] AI기반 기초학력 진단평가 및 맞춤형 보완학습 솔루션",
         "organization": "연세대학교 미래캠퍼스",
-        "start": "2026-09-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.044516",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5578,10 +5512,21 @@ const bidEvents = [
         "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01685193"
     },
     {
-        "id": "g2b-api-3284510667177143931",
+        "id": "g2b-api-8831363395017203786",
+        "title": "[대학원혁신지원사업] 2026학년도 대학원생 권익증진 및 제도개선 설문조사 용역",
+        "organization": "연세대학교 미래캠퍼스",
+        "start": "2026-09-11T07:01:30.045516",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "consumer",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720368&bidPbancOrd=000",
+        "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01720368"
+    },
+    {
+        "id": "g2b-api-4904792930172218930",
         "title": "[앵커사업] 고성능 AI 연구용 컴퓨터 서버",
         "organization": "연세대학교 미래캠퍼스",
-        "start": "2026-09-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.045516",
         "deadline": "2026-08-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5589,43 +5534,43 @@ const bidEvents = [
         "description": "수요기관: 연세대학교 미래캠퍼스 | 공고번호: R26BK01680118"
     },
     {
-        "id": "g2b-api-4389303966831289157",
+        "id": "g2b-api-5321354378010575059",
         "title": "(협상계약)제12회 한국수산업경영인 충청남도대회 행사 용역",
         "organization": "한국수산업경영인보령시연합회",
-        "start": "2026-09-09T07:01:42.537375",
-        "deadline": "2026-10-09T07:01:42.537375",
+        "start": "2026-09-11T07:01:30.045516",
+        "deadline": "2026-10-11T07:01:30.045516",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704175&bidPbancOrd=000",
         "description": "수요기관: 한국수산업경영인보령시연합회 | 공고번호: R26BK01704175"
     },
     {
-        "id": "g2b-api-940200312926976872",
+        "id": "g2b-api-4325823390205334048",
         "title": "[혁신IR센터] 2026학년도 산업체·지역사회 만족도조사 용역 업체 선정(재공고)",
         "organization": "상명대학교",
-        "start": "2026-09-09T07:01:42.538380",
-        "deadline": "2026-10-09T07:01:42.538380",
+        "start": "2026-09-11T07:01:30.045516",
+        "deadline": "2026-10-11T07:01:30.045516",
         "category": "consumer",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701637&bidPbancOrd=000",
         "description": "수요기관: 상명대학교 | 공고번호: R26BK01701637"
     },
     {
-        "id": "g2b-api-3665622817932180138",
+        "id": "g2b-api-6459182818848694502",
         "title": "[혁신IR센터] 2026학년도 산업체·지역사회 만족도조사 용역 업체 선정",
         "organization": "상명대학교",
-        "start": "2026-09-09T07:01:42.538380",
-        "deadline": "2026-10-09T07:01:42.538380",
+        "start": "2026-09-11T07:01:30.045516",
+        "deadline": "2026-10-11T07:01:30.045516",
         "category": "consumer",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669676&bidPbancOrd=001",
         "description": "수요기관: 상명대학교 | 공고번호: R26BK01669676"
     },
     {
-        "id": "g2b-api-6819398971997464323",
+        "id": "g2b-api-3220099659771217607",
         "title": "[수의시담]2026년 하반기 용인시 일자리박람회 행사 용역",
         "organization": "경기도 용인시",
-        "start": "2026-09-09T07:01:42.538380",
+        "start": "2026-09-11T07:01:30.046516",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5633,54 +5578,43 @@ const bidEvents = [
         "description": "수요기관: 경기도 용인시 | 공고번호: R26BK01706863"
     },
     {
-        "id": "g2b-api-2724307281395261439",
+        "id": "g2b-api-9191568566485643718",
         "title": "2027 대구마라톤대회 운영대행사 용역",
         "organization": "대구광역시체육회",
-        "start": "2026-09-09T07:01:42.539380",
-        "deadline": "2026-10-09T07:01:42.539380",
+        "start": "2026-09-11T07:01:35.490147",
+        "deadline": "2026-10-11T07:01:35.490147",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698657&bidPbancOrd=000",
         "description": "수요기관: 대구광역시체육회 | 공고번호: R26BK01698657"
     },
     {
-        "id": "g2b-api-5356005818919469322",
+        "id": "g2b-api-6184611687618146063",
         "title": "2026 포항 낙화의 밤 축제 행사대행 용역",
         "organization": "경상북도 포항시",
-        "start": "2026-09-09T07:01:42.540580",
-        "deadline": "2026-10-09T07:01:42.540580",
+        "start": "2026-09-11T07:01:35.491658",
+        "deadline": "2026-10-11T07:01:35.491658",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684310&bidPbancOrd=000",
         "description": "수요기관: 경상북도 포항시 | 공고번호: R26BK01684310"
     },
     {
-        "id": "g2b-api-4025522111057437832",
+        "id": "g2b-api-4463042082134924417",
         "title": "사무총장배 축구대회 행사용역 재공고",
         "organization": "(재)경기도수원월드컵경기장관리재단",
-        "start": "2026-09-09T07:01:42.541579",
-        "deadline": "2026-10-09T07:01:42.541579",
+        "start": "2026-09-11T07:01:35.492660",
+        "deadline": "2026-10-11T07:01:35.492660",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701508&bidPbancOrd=000",
         "description": "수요기관: (재)경기도수원월드컵경기장관리재단 | 공고번호: R26BK01701508"
     },
     {
-        "id": "g2b-api-5161062295315839173",
-        "title": "사무총장배 축구대회 행사용역",
-        "organization": "(재)경기도수원월드컵경기장관리재단",
-        "start": "2026-09-09T07:01:42.541579",
-        "deadline": "2026-10-09T07:01:42.541579",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672744&bidPbancOrd=000",
-        "description": "수요기관: (재)경기도수원월드컵경기장관리재단 | 공고번호: R26BK01672744"
-    },
-    {
-        "id": "g2b-api-1204100998849208754",
+        "id": "g2b-api-674313068702911815",
         "title": "2026년 AI 영상기반 시민 안전 인식도 진단 및 맞춤형 교육",
         "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:42.542579",
+        "start": "2026-09-11T07:01:35.492660",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5688,10 +5622,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01699305"
     },
     {
-        "id": "g2b-api-7257845710891624135",
+        "id": "g2b-api-3706343275276067654",
         "title": "2026년 AI 영상기반 시민 안전 인식도 진단 및 맞춤형 교육",
         "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:01:42.542579",
+        "start": "2026-09-11T07:01:35.494096",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5699,10 +5633,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01712304"
     },
     {
-        "id": "g2b-api-2296463048882150568",
+        "id": "g2b-api-2072382844833853292",
         "title": "2026년 게임인재원 교육용 소프트웨어 구매(1차)",
         "organization": "한국콘텐츠진흥원",
-        "start": "2026-09-09T07:01:42.542579",
+        "start": "2026-09-11T07:01:35.494096",
         "deadline": "2026-09-07T00:00:00",
         "category": "game",
         "source": "gov",
@@ -5710,10 +5644,10 @@ const bidEvents = [
         "description": "수요기관: 한국콘텐츠진흥원 | 공고번호: R26BK01698769"
     },
     {
-        "id": "g2b-api-4677908793446409694",
+        "id": "g2b-api-7198684665648727729",
         "title": "강원도립대학교 2026년 메이커스페이스 창업 POP-UP 콘서트 행사 용역",
         "organization": "강원특별자치도 강원도립대학교 산학협력단",
-        "start": "2026-09-09T07:01:42.542579",
+        "start": "2026-09-11T07:01:35.494096",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5721,10 +5655,21 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강원도립대학교 산학협력단 | 공고번호: R26BK01715449"
     },
     {
-        "id": "g2b-api-4045614767206976015",
+        "id": "g2b-api-5705160973941708714",
+        "title": "[혁신]상담센터 AI마음상담기기 구입",
+        "organization": "명지전문대학",
+        "start": "2026-09-11T07:01:35.496136",
+        "deadline": "2026-10-11T07:01:35.496136",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720944&bidPbancOrd=000",
+        "description": "수요기관: 명지전문대학 | 공고번호: R26BK01720944"
+    },
+    {
+        "id": "g2b-api-2625621403925098423",
         "title": "(재공고)[RISE] 2026학년도 조기취업형 계약학과 교육용 AI 소프트웨어 구독",
         "organization": "명지전문대학",
-        "start": "2026-09-09T07:01:42.543579",
+        "start": "2026-09-11T07:01:35.496136",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5732,10 +5677,10 @@ const bidEvents = [
         "description": "수요기관: 명지전문대학 | 공고번호: R26BK01710049"
     },
     {
-        "id": "g2b-api-8771711669373446348",
+        "id": "g2b-api-8546529366119727613",
         "title": "[RISE] 2026학년도 조기취업형 계약학과 교육용 AI 소프트웨어 구독",
         "organization": "명지전문대학",
-        "start": "2026-09-09T07:01:42.543579",
+        "start": "2026-09-11T07:01:35.496136",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5743,21 +5688,10 @@ const bidEvents = [
         "description": "수요기관: 명지전문대학 | 공고번호: R26BK01686720"
     },
     {
-        "id": "g2b-api-6956258299074651187",
-        "title": "2026년 KITECH AI 업무 에이전트 심화교육 운영 용역",
-        "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674711&bidPbancOrd=000",
-        "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01674711"
-    },
-    {
-        "id": "g2b-api-374684151577996726",
+        "id": "g2b-api-3953145431252053165",
         "title": "[2차] AI 학습용 엣지 (DGX spark) 및 GPU 시스템",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
+        "start": "2026-09-11T07:01:35.496136",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5765,21 +5699,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01681216"
     },
     {
-        "id": "g2b-api-3770549944438782807",
-        "title": "2026년 KITECH AI 업무 에이전트 심화교육 운영 용역",
-        "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674885&bidPbancOrd=000",
-        "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01674885"
-    },
-    {
-        "id": "g2b-api-692364175627783992",
+        "id": "g2b-api-5209707391879340106",
         "title": "[4차] AI 학습용 엣지 (DGX spark) 및 GPU 시스템",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
+        "start": "2026-09-11T07:01:35.496136",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5787,21 +5710,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01697162"
     },
     {
-        "id": "g2b-api-236292349379605711",
-        "title": "2026년 KITECH AI 업무 에이전트 심화교육 운영 용역",
-        "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673205&bidPbancOrd=000",
-        "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01673205"
-    },
-    {
-        "id": "g2b-api-8235868729560654191",
+        "id": "g2b-api-4475662608322753126",
         "title": "[3차] AI 학습용 엣지 (DGX spark) 및 GPU 시스템",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:01:42.544579",
+        "start": "2026-09-11T07:01:35.497134",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5809,21 +5721,32 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01688415"
     },
     {
-        "id": "g2b-api-2490546611230272374",
+        "id": "g2b-api-706198058513030092",
         "title": "AI솔루션 개발실증 사업",
         "organization": "주식회사 태진시스템",
-        "start": "2026-09-09T07:01:47.191732",
-        "deadline": "2026-10-09T07:01:47.192731",
+        "start": "2026-09-11T07:01:35.498351",
+        "deadline": "2026-10-11T07:01:35.498351",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684975&bidPbancOrd=000",
         "description": "수요기관: 주식회사 태진시스템 | 공고번호: R26BK01684975"
     },
     {
-        "id": "g2b-api-3832369332213378347",
+        "id": "g2b-api-7994196094181767242",
+        "title": "2026 이스포츠 명예의 전당 헌액식 행사 및 영상 콘텐츠 제작 주관대행사 선정",
+        "organization": "(사)한국이스포츠협회",
+        "start": "2026-09-11T07:01:39.968332",
+        "deadline": "2026-10-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722621&bidPbancOrd=000",
+        "description": "수요기관: (사)한국이스포츠협회 | 공고번호: R26BK01722621"
+    },
+    {
+        "id": "g2b-api-430039670480959940",
         "title": "국가자격검정 시험문제 AI 검토 시스템 구축",
         "organization": "한국방송통신전파진흥원",
-        "start": "2026-09-09T07:01:47.192731",
+        "start": "2026-09-11T07:01:39.968332",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5831,10 +5754,10 @@ const bidEvents = [
         "description": "수요기관: 한국방송통신전파진흥원 | 공고번호: R26BK01713507"
     },
     {
-        "id": "g2b-api-4453713322273157777",
+        "id": "g2b-api-5434797725889781921",
         "title": "AI 기반 국가대표 경기력 통합 분석 시스템 개발 용역",
         "organization": "대한체육회 진천선수촌",
-        "start": "2026-09-09T07:01:47.193731",
+        "start": "2026-09-11T07:01:39.968332",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5842,21 +5765,21 @@ const bidEvents = [
         "description": "수요기관: 대한체육회 진천선수촌 | 공고번호: R26BK01681767"
     },
     {
-        "id": "g2b-api-8180319240814331007",
+        "id": "g2b-api-7499658134734072409",
         "title": "스마트 APC 전환지원사업 AI 참외 소포장 자동화 시스템 제작.설치 입찰공고(긴급)",
         "organization": "월항농업협동조합",
-        "start": "2026-09-09T07:01:47.194731",
-        "deadline": "2026-10-09T07:01:47.194731",
+        "start": "2026-09-11T07:01:39.970351",
+        "deadline": "2026-10-11T07:01:39.970351",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711554&bidPbancOrd=000",
         "description": "수요기관: 월항농업협동조합 | 공고번호: R26BK01711554"
     },
     {
-        "id": "g2b-api-4016812016724181495",
+        "id": "g2b-api-6551363582020410609",
         "title": "2026년도 동락지구 군직영 골재판매장 골재선별 및 상차 대행사업(1차)【단가계약】",
         "organization": "경상북도 성주군",
-        "start": "2026-09-09T07:01:47.194731",
+        "start": "2026-09-11T07:01:39.970351",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5864,10 +5787,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도 성주군 | 공고번호: R26BK01680381"
     },
     {
-        "id": "g2b-api-5480133121665899030",
+        "id": "g2b-api-3048893394377888778",
         "title": "2026년도 동락지구 군직영 골재판매장 골재선별 및 상차 대행사업(1차)【단가계약】(재공고)",
         "organization": "경상북도 성주군",
-        "start": "2026-09-09T07:01:47.194731",
+        "start": "2026-09-11T07:01:39.970351",
         "deadline": "2026-08-28T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5875,21 +5798,21 @@ const bidEvents = [
         "description": "수요기관: 경상북도 성주군 | 공고번호: R26BK01695653"
     },
     {
-        "id": "g2b-api-6372306568968018683",
+        "id": "g2b-api-9222790088104600795",
         "title": "2026년도 모바일 기반 웹크롤링 AI 고도화 및 디지털트윈 프로토타입 구축",
         "organization": "(재)한국정보통신산업연구원",
-        "start": "2026-09-09T07:01:47.195731",
-        "deadline": "2026-10-09T07:01:47.195731",
+        "start": "2026-09-11T07:01:39.970351",
+        "deadline": "2026-10-11T07:01:39.970351",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717944&bidPbancOrd=000",
         "description": "수요기관: (재)한국정보통신산업연구원 | 공고번호: R26BK01717944"
     },
     {
-        "id": "g2b-api-3426095934543221758",
+        "id": "g2b-api-6797037726406428494",
         "title": "수원과학대학교 AI영상면접 제작실 인테리어공사",
         "organization": "수원과학대학교 산학협력단",
-        "start": "2026-09-09T07:01:47.195731",
+        "start": "2026-09-11T07:01:39.971356",
         "deadline": "2026-08-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5897,10 +5820,10 @@ const bidEvents = [
         "description": "수요기관: 수원과학대학교 산학협력단 | 공고번호: R26BK01685838"
     },
     {
-        "id": "g2b-api-3703686524736690976",
+        "id": "g2b-api-1997623204753127359",
         "title": "[RISE]수원과학대학교 AI 영상면접 제작실 인테리어 공사",
         "organization": "수원과학대학교 산학협력단",
-        "start": "2026-09-09T07:01:47.195731",
+        "start": "2026-09-11T07:01:39.971356",
         "deadline": "2026-05-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5908,10 +5831,10 @@ const bidEvents = [
         "description": "수요기관: 수원과학대학교 산학협력단 | 공고번호: R26BK01467013"
     },
     {
-        "id": "g2b-api-568970114735283464",
+        "id": "g2b-api-3335637868271620909",
         "title": "2026년 ARKO (예술후원인의 밤) 모금행사 기획 및 운영 용역",
         "organization": "한국문화예술위원회",
-        "start": "2026-09-09T07:01:47.196731",
+        "start": "2026-09-11T07:01:39.971356",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5919,10 +5842,10 @@ const bidEvents = [
         "description": "수요기관: 한국문화예술위원회 | 공고번호: R26BK01712518"
     },
     {
-        "id": "g2b-api-1044740599955693814",
+        "id": "g2b-api-8612833510855097130",
         "title": "2026년 ARKO (예술후원인의 밤) 모금행사 기획 및 운영 용역",
         "organization": "한국문화예술위원회",
-        "start": "2026-09-09T07:01:47.196731",
+        "start": "2026-09-11T07:01:39.972859",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5930,10 +5853,10 @@ const bidEvents = [
         "description": "수요기관: 한국문화예술위원회 | 공고번호: R26BK01684716"
     },
     {
-        "id": "g2b-api-590828750670231257",
+        "id": "g2b-api-2130889718042887093",
         "title": "액티브 시니어 특화교육공간 홍보 및 개관기념 행사 대행",
         "organization": "(재)서울특별시평생교육진흥원",
-        "start": "2026-09-09T07:01:47.196731",
+        "start": "2026-09-11T07:01:39.972859",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5941,21 +5864,10 @@ const bidEvents = [
         "description": "수요기관: (재)서울특별시평생교육진흥원 | 공고번호: R26BK01695876"
     },
     {
-        "id": "g2b-api-1866256255860666615",
-        "title": "2026 서울 AI 평생학습 러닝 그라운드 운영",
-        "organization": "(재)서울특별시평생교육진흥원",
-        "start": "2026-09-09T07:01:47.196731",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674379&bidPbancOrd=000",
-        "description": "수요기관: (재)서울특별시평생교육진흥원 | 공고번호: R26BK01674379"
-    },
-    {
-        "id": "g2b-api-6368879031311407824",
+        "id": "g2b-api-6396772406101933369",
         "title": "2026년 평택시민협치대회 내가시장이라면! 행사운영 용역",
         "organization": "경기도 평택시",
-        "start": "2026-09-09T07:01:47.196731",
+        "start": "2026-09-11T07:01:39.972859",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -5963,10 +5875,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 평택시 | 공고번호: R26BK01704682"
     },
     {
-        "id": "g2b-api-26872858409165920",
+        "id": "g2b-api-3238252896167119151",
         "title": "「K-거상」 AI 플레이어블 콘텐츠 제작 용역 (소액수의) 견적 제출 변경공고",
         "organization": "재단법인 경상남도 관광재단",
-        "start": "2026-09-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.972859",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5974,10 +5886,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경상남도 관광재단 | 공고번호: R26BK01693944"
     },
     {
-        "id": "g2b-api-5284097277547740702",
+        "id": "g2b-api-6936594228451690220",
         "title": "「K-거상」 AI 플레이어블 콘텐츠 제작 용역 (소액수의) 견적 제출 공고",
         "organization": "재단법인 경상남도 관광재단",
-        "start": "2026-09-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5985,10 +5897,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경상남도 관광재단 | 공고번호: R26BK01693944"
     },
     {
-        "id": "g2b-api-3980746090352569436",
+        "id": "g2b-api-2645673086438444767",
         "title": "(재공고)「K-거상」 AI플레이어블 콘텐츠 제작 용역",
         "organization": "재단법인 경상남도 관광재단",
-        "start": "2026-09-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -5996,65 +5908,54 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경상남도 관광재단 | 공고번호: R26BK01707473"
     },
     {
-        "id": "g2b-api-30410701968123606",
+        "id": "g2b-api-7600478272438207838",
         "title": "(긴급)「지리산권 웰니스 워케이션 고도화 지원 사업」체험형 팝업 행사 기획 및 운영 대행 용역",
         "organization": "재단법인 경상남도 관광재단",
-        "start": "2026-09-09T07:01:47.197731",
-        "deadline": "2026-10-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
+        "deadline": "2026-10-11T07:01:39.973865",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715635&bidPbancOrd=000",
         "description": "수요기관: 재단법인 경상남도 관광재단 | 공고번호: R26BK01715635"
     },
     {
-        "id": "g2b-api-7881940140909188608",
+        "id": "g2b-api-4199197194268519390",
         "title": "2026년 재직자 AI·디지털(AID) 집중과정 AI·D 묶음강좌 콘텐츠 개발 용역",
         "organization": "대구한의대학교",
-        "start": "2026-09-09T07:01:47.197731",
-        "deadline": "2026-10-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
+        "deadline": "2026-10-11T07:01:39.973865",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682276&bidPbancOrd=000",
         "description": "수요기관: 대구한의대학교 | 공고번호: R26BK01682276"
     },
     {
-        "id": "g2b-api-6877774726139863971",
+        "id": "g2b-api-8562359745839013514",
         "title": "제24회 영천한방축제 운영 용역(행사대행·연출 및 행사 시설 설치·운영 용역) ",
         "organization": "대구한의대학교",
-        "start": "2026-09-09T07:01:47.197731",
-        "deadline": "2026-10-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
+        "deadline": "2026-10-11T07:01:39.973865",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710810&bidPbancOrd=000",
         "description": "수요기관: 대구한의대학교 | 공고번호: R26BK01710810"
     },
     {
-        "id": "g2b-api-1310820795354918351",
-        "title": "(대학혁신)AI시대 대응 핵심역량 진단⦁인증체계 재구조화  컨설팅 용역(재공고)",
-        "organization": "대구한의대학교",
-        "start": "2026-09-09T07:01:47.197731",
-        "deadline": "2026-10-09T07:01:47.197731",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675863&bidPbancOrd=000",
-        "description": "수요기관: 대구한의대학교 | 공고번호: R26BK01675863"
-    },
-    {
-        "id": "g2b-api-7334436786756071731",
+        "id": "g2b-api-3673980737589937543",
         "title": "「제46회 항공의 날 기념행사」대행 용역",
         "organization": "한국항공협회",
-        "start": "2026-09-09T07:01:47.197731",
-        "deadline": "2026-10-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
+        "deadline": "2026-10-11T07:01:39.973865",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680601&bidPbancOrd=000",
         "description": "수요기관: 한국항공협회 | 공고번호: R26BK01680601"
     },
     {
-        "id": "g2b-api-3824442791461506128",
+        "id": "g2b-api-7650644341439971359",
         "title": "제8회 소방청장배 전국소방체전 개·폐회식 행사용역",
         "organization": "충청남도 소방본부",
-        "start": "2026-09-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6062,10 +5963,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 소방본부 | 공고번호: R26BK01689628"
     },
     {
-        "id": "g2b-api-6932390470829794899",
+        "id": "g2b-api-5506353574029054459",
         "title": "AI 기반 자율주행 환경 모니터링 로봇 플랫폼 개발",
         "organization": "한국건설기술연구원",
-        "start": "2026-09-09T07:01:47.197731",
+        "start": "2026-09-11T07:01:39.973865",
         "deadline": "2026-08-19T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6073,10 +5974,10 @@ const bidEvents = [
         "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01687860"
     },
     {
-        "id": "g2b-api-5951112183039989062",
+        "id": "g2b-api-4191032278013483797",
         "title": "AI 에이전트 개발 도구(AI 가속기) 구매",
         "organization": "한국건설기술연구원",
-        "start": "2026-09-09T07:01:47.198731",
+        "start": "2026-09-11T07:01:39.974977",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6084,10 +5985,10 @@ const bidEvents = [
         "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01700668"
     },
     {
-        "id": "g2b-api-651840560003058474",
+        "id": "g2b-api-7250814428801002342",
         "title": "2026 스마트건설 챌린지 행사 대행 용역",
         "organization": "한국건설기술연구원",
-        "start": "2026-09-09T07:01:47.198731",
+        "start": "2026-09-11T07:01:39.974977",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6095,21 +5996,21 @@ const bidEvents = [
         "description": "수요기관: 한국건설기술연구원 | 공고번호: R26BK01706537"
     },
     {
-        "id": "g2b-api-6459516537235033685",
+        "id": "g2b-api-6709732858137194473",
         "title": "2026 네델란드 암스테르담 국제스포츠용품 전시회 K-Brand관 부스 장치공사 용역",
         "organization": "사단법인 한국아웃도어스포츠산업협회",
-        "start": "2026-09-09T07:01:51.773698",
-        "deadline": "2026-10-09T07:01:51.773698",
+        "start": "2026-09-11T07:01:39.974977",
+        "deadline": "2026-10-11T07:01:39.974977",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698952&bidPbancOrd=000",
         "description": "수요기관: 사단법인 한국아웃도어스포츠산업협회 | 공고번호: R26BK01698952"
     },
     {
-        "id": "g2b-api-8308826267281610490",
+        "id": "g2b-api-1368136685514144236",
         "title": "AI 실증연구 TF 운영을 위한 GPU 서버 임차도입",
         "organization": "금융감독원",
-        "start": "2026-09-09T07:01:51.774697",
+        "start": "2026-09-11T07:01:39.975989",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6117,32 +6018,54 @@ const bidEvents = [
         "description": "수요기관: 금융감독원 | 공고번호: R26BK01711004"
     },
     {
-        "id": "g2b-api-8274401570098959994",
+        "id": "g2b-api-4515024530675392753",
         "title": "해외전시회 (SEMICON JAPAN 2026)공동관 운영 용역",
         "organization": "재단법인 충북과학기술혁신원",
-        "start": "2026-09-09T07:01:51.775699",
-        "deadline": "2026-10-09T07:01:51.775699",
+        "start": "2026-09-11T07:01:39.975989",
+        "deadline": "2026-10-11T07:01:39.975989",
         "category": "exhibition",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707610&bidPbancOrd=000",
         "description": "수요기관: 재단법인 충북과학기술혁신원 | 공고번호: R26BK01707610"
     },
     {
-        "id": "g2b-api-2705245695541212746",
+        "id": "g2b-api-2272958634057479140",
         "title": "온디바이스 AI 기반 충북형 생활밀착 공공서비스 실증 마스터플랜 수립 용역(긴급)",
         "organization": "재단법인 충북과학기술혁신원",
-        "start": "2026-09-09T07:01:51.775699",
-        "deadline": "2026-10-09T07:01:51.775699",
+        "start": "2026-09-11T07:01:39.975989",
+        "deadline": "2026-10-11T07:01:39.975989",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705572&bidPbancOrd=000",
         "description": "수요기관: 재단법인 충북과학기술혁신원 | 공고번호: R26BK01705572"
     },
     {
-        "id": "g2b-api-6922576713131233757",
+        "id": "g2b-api-1794231079869532979",
+        "title": " AI 자율실증랩 자동화 시스템 구축 용역",
+        "organization": "재단법인 충북과학기술혁신원",
+        "start": "2026-09-11T07:01:39.975989",
+        "deadline": "2026-10-11T07:01:39.975989",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723940&bidPbancOrd=000",
+        "description": "수요기관: 재단법인 충북과학기술혁신원 | 공고번호: R26BK01723940"
+    },
+    {
+        "id": "g2b-api-5577018057271835038",
+        "title": "AI 자율주행 스마트 로봇카 및 4족 보행 AI 로봇견",
+        "organization": "울산과학대학산학협력단",
+        "start": "2026-09-11T07:01:45.806617",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722252&bidPbancOrd=000",
+        "description": "수요기관: 울산과학대학산학협력단 | 공고번호: R26BK01722252"
+    },
+    {
+        "id": "g2b-api-4419637513232289526",
         "title": "AI기반 그룹웨어(전자결재)시스템 구축",
         "organization": "울산과학대학산학협력단",
-        "start": "2026-09-09T07:01:51.775699",
+        "start": "2026-09-11T07:01:45.807760",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6150,10 +6073,10 @@ const bidEvents = [
         "description": "수요기관: 울산과학대학산학협력단 | 공고번호: R26BK01691803"
     },
     {
-        "id": "g2b-api-6605450223545235921",
+        "id": "g2b-api-5826456769518126726",
         "title": "[(경북)소재은행] 업무 추진 관련 실험재료(Diaion HP-20 등 35종) 구매",
         "organization": "한국한의약진흥원",
-        "start": "2026-09-09T07:01:51.778204",
+        "start": "2026-09-11T07:01:45.811759",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6161,10 +6084,10 @@ const bidEvents = [
         "description": "수요기관: 한국한의약진흥원 | 공고번호: R26BK01712714"
     },
     {
-        "id": "g2b-api-195578275425982055",
+        "id": "g2b-api-7815123558433670757",
         "title": "권역별 AI·ICT 해외진출 전략 설명회 행사 운영 용역",
         "organization": "정보통신산업진흥원",
-        "start": "2026-09-09T07:01:51.779209",
+        "start": "2026-09-11T07:01:45.812759",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6172,10 +6095,10 @@ const bidEvents = [
         "description": "수요기관: 정보통신산업진흥원 | 공고번호: R26BK01697103"
     },
     {
-        "id": "g2b-api-6392922431985778665",
+        "id": "g2b-api-1879163928589309587",
         "title": "AI 딥러닝 연구용 고성능 그래픽용어댑터(GPU)",
         "organization": "전남대학교 산학협력단",
-        "start": "2026-09-09T07:01:51.779209",
+        "start": "2026-09-11T07:01:45.813759",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6183,10 +6106,10 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 산학협력단 | 공고번호: R26BK01717458"
     },
     {
-        "id": "g2b-api-7632522051866296328",
+        "id": "g2b-api-7401128823349108004",
         "title": "어린이창의체험관 AI·로봇 놀이터 조성 및 체험 콘텐츠 개발 용역",
         "organization": "전북특별자치도",
-        "start": "2026-09-09T07:01:51.779209",
+        "start": "2026-09-11T07:01:45.813759",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6194,10 +6117,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도 | 공고번호: R26BK01704894"
     },
     {
-        "id": "g2b-api-8168525729646521145",
+        "id": "g2b-api-3551648721729927969",
         "title": "어린이창의체험관 AI·로봇 놀이터 조성 및 체험 콘텐츠 개발 용역",
         "organization": "전북특별자치도",
-        "start": "2026-09-09T07:01:51.779209",
+        "start": "2026-09-11T07:01:45.813759",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6205,10 +6128,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도 | 공고번호: R26BK01708182"
     },
     {
-        "id": "g2b-api-3463759471628255716",
+        "id": "g2b-api-5690242152984942048",
         "title": "KAIST 통합 GPU 솔루션 구축 사업_260331",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:01:51.780378",
+        "start": "2026-09-11T07:01:45.814759",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6216,21 +6139,21 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01680760"
     },
     {
-        "id": "g2b-api-3972003341633479748",
+        "id": "g2b-api-815254712916397189",
         "title": "2026 성남 기후테크 행사 운영",
         "organization": "재단법인 성남산업진흥원",
-        "start": "2026-09-09T07:01:51.780378",
-        "deadline": "2026-10-09T07:01:51.780378",
+        "start": "2026-09-11T07:01:45.815758",
+        "deadline": "2026-10-11T07:01:45.815758",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682774&bidPbancOrd=000",
         "description": "수요기관: 재단법인 성남산업진흥원 | 공고번호: R26BK01682774"
     },
     {
-        "id": "g2b-api-3953383791676459535",
+        "id": "g2b-api-9003529390263068308",
         "title": "AI 기반 지능형 업무처리 시스템 구축 사업",
         "organization": "한국철도기술연구원",
-        "start": "2026-09-09T07:01:51.780378",
+        "start": "2026-09-11T07:01:45.815758",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6238,10 +6161,21 @@ const bidEvents = [
         "description": "수요기관: 한국철도기술연구원 | 공고번호: R26BK01719764"
     },
     {
-        "id": "g2b-api-3229857836869651468",
+        "id": "g2b-api-4629723285249571443",
+        "title": "강원 AI 소상공인 안심경영 지원 서비스 개인정보 영향평가",
+        "organization": "한국지능정보사회진흥원",
+        "start": "2026-09-11T07:01:45.815758",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723540&bidPbancOrd=000",
+        "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01723540"
+    },
+    {
+        "id": "g2b-api-1497694538595912653",
         "title": "[긴급] Venotics-G Pro 내시경 AI 임상성능 및 ICER 경제성 평가 CRO 용역",
         "organization": "프리베노틱스 주식회사",
-        "start": "2026-09-09T07:01:51.781378",
+        "start": "2026-09-11T07:01:45.816758",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6249,10 +6183,10 @@ const bidEvents = [
         "description": "수요기관: 프리베노틱스 주식회사 | 공고번호: R26BK01702413"
     },
     {
-        "id": "g2b-api-983646310863729629",
+        "id": "g2b-api-8667535121841319329",
         "title": "[긴급] Venotics-G Pro 내시경 AI 임상성능 및 ICER 경제성 평가 CRO 용역",
         "organization": "프리베노틱스 주식회사",
-        "start": "2026-09-09T07:01:51.781378",
+        "start": "2026-09-11T07:01:45.816758",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6260,10 +6194,21 @@ const bidEvents = [
         "description": "수요기관: 프리베노틱스 주식회사 | 공고번호: R26BK01710334"
     },
     {
-        "id": "g2b-api-3837400448510414763",
+        "id": "g2b-api-4737641918343971483",
+        "title": "로컬 AI 서버 구매",
+        "organization": "한국기계연구원",
+        "start": "2026-09-11T07:01:45.818219",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722742&bidPbancOrd=000",
+        "description": "수요기관: 한국기계연구원 | 공고번호: R26BK01722742"
+    },
+    {
+        "id": "g2b-api-635737719094130218",
         "title": "지역 주도형 AI대전환 사업 AI 실증 테스트를 위한 Flipper 제작",
         "organization": "주식회사 디에스피",
-        "start": "2026-09-09T07:01:51.781378",
+        "start": "2026-09-11T07:01:45.818219",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6271,10 +6216,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 디에스피 | 공고번호: R26BK01699151"
     },
     {
-        "id": "g2b-api-734726497701148398",
+        "id": "g2b-api-9067929452099484997",
         "title": "지역 주도형 AI대전환 사업 AI 개발 및 데이터 처리 추론엔진",
         "organization": "주식회사 디에스피",
-        "start": "2026-09-09T07:01:51.781378",
+        "start": "2026-09-11T07:01:45.818219",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6282,32 +6227,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 디에스피 | 공고번호: R26BK01699163"
     },
     {
-        "id": "g2b-api-7103199886257264155",
-        "title": "지역 주도형 AI대전환 사업 AI 실증 테스트를 위한 Flipper 제작",
-        "organization": "주식회사 디에스피",
-        "start": "2026-09-09T07:01:51.781378",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677370&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 디에스피 | 공고번호: R26BK01677370"
-    },
-    {
-        "id": "g2b-api-8341921439437595766",
-        "title": "지역 주도형 AI대전환 사업 AI 개발 및 데이터 처리 추론엔진",
-        "organization": "주식회사 디에스피",
-        "start": "2026-09-09T07:01:51.781378",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677255&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 디에스피 | 공고번호: R26BK01677255"
-    },
-    {
-        "id": "g2b-api-7455697718185287571",
+        "id": "g2b-api-4735587031036742713",
         "title": "AI 평가용 치안데이터셋 구축",
         "organization": "경찰청",
-        "start": "2026-09-09T07:01:51.781378",
+        "start": "2026-09-11T07:01:45.818219",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6315,10 +6238,21 @@ const bidEvents = [
         "description": "수요기관: 경찰청 | 공고번호: R26BK01679438"
     },
     {
-        "id": "g2b-api-7355938862737548195",
+        "id": "g2b-api-2802863791217019374",
+        "title": "송전탑 활용 AI 산불감시카메라 구축 물품 구입",
+        "organization": "경기도 하남시",
+        "start": "2026-09-11T07:01:45.818219",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723554&bidPbancOrd=000",
+        "description": "수요기관: 경기도 하남시 | 공고번호: R26BK01723554"
+    },
+    {
+        "id": "g2b-api-8012206972815168318",
         "title": "2026년 조달청 걷기 체육행사 체육용품 구매",
         "organization": "조달청",
-        "start": "2026-09-09T07:01:57.410639",
+        "start": "2026-09-11T07:01:45.819435",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6326,10 +6260,10 @@ const bidEvents = [
         "description": "수요기관: 조달청 | 공고번호: R26BK01697889"
     },
     {
-        "id": "g2b-api-3885481502261518325",
+        "id": "g2b-api-2070198392306882931",
         "title": "2026년 학교로 찾아가는 미래산업 · AI 과학 콘서트 용역 소액수의 견적제출 안내 공고(재공고)",
         "organization": "충청남도 당진시",
-        "start": "2026-09-09T07:01:57.410639",
+        "start": "2026-09-11T07:01:45.819435",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6337,10 +6271,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 당진시 | 공고번호: R26BK01719734"
     },
     {
-        "id": "g2b-api-2796983893143543203",
+        "id": "g2b-api-2485000353896612389",
         "title": "2026년 학교로 찾아가는 미래산업 · AI 과학 콘서트 용역 소액수의 견적제출 안내 공고",
         "organization": "충청남도 당진시",
-        "start": "2026-09-09T07:01:57.410639",
+        "start": "2026-09-11T07:01:45.819435",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6348,10 +6282,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 당진시 | 공고번호: R26BK01708962"
     },
     {
-        "id": "g2b-api-4973248318830803282",
+        "id": "g2b-api-2575076564905656656",
         "title": "2026년도 언론중재위원회 이용만족도조사 용역",
         "organization": "언론중재위원회",
-        "start": "2026-09-09T07:01:57.411338",
+        "start": "2026-09-11T07:01:45.819435",
         "deadline": "2026-09-03T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -6359,10 +6293,10 @@ const bidEvents = [
         "description": "수요기관: 언론중재위원회 | 공고번호: R26BK01687215"
     },
     {
-        "id": "g2b-api-3656392228452470",
+        "id": "g2b-api-3988877254404061671",
         "title": "AI 스마트 IoT 계측센서 관리시스템 구축 용역 시행 ",
         "organization": "서울특별시 마포구",
-        "start": "2026-09-09T07:01:57.411643",
+        "start": "2026-09-11T07:01:45.819435",
         "deadline": "2026-06-23T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6370,32 +6304,21 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 마포구 | 공고번호: R26BK01550786"
     },
     {
-        "id": "g2b-api-4118800310614911685",
+        "id": "g2b-api-8952480640429605757",
         "title": "제58회 경기도 한우경진대회 행사 대행 용역 입찰 공고(재공고)",
         "organization": "농협경제지주(주)경기본부",
-        "start": "2026-09-09T07:01:57.411643",
-        "deadline": "2026-10-09T07:01:57.411643",
+        "start": "2026-09-11T07:01:45.820433",
+        "deadline": "2026-10-11T07:01:45.820433",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682466&bidPbancOrd=000",
         "description": "수요기관: 농협경제지주(주)경기본부 | 공고번호: R26BK01682466"
     },
     {
-        "id": "g2b-api-9172499182546816117",
+        "id": "g2b-api-4967220898953054820",
         "title": "2026년 XR&Metaverse Fair Tokyo 전시회 참가지원 및 운영 용역",
         "organization": "재단법인강원정보문화산업진흥원",
-        "start": "2026-09-09T07:01:57.411643",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "exhibition",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674509&bidPbancOrd=000",
-        "description": "수요기관: 재단법인강원정보문화산업진흥원 | 공고번호: R26BK01674509"
-    },
-    {
-        "id": "g2b-api-1772739475661245836",
-        "title": "2026년 XR&Metaverse Fair Tokyo 전시회 참가지원 및 운영 용역",
-        "organization": "재단법인강원정보문화산업진흥원",
-        "start": "2026-09-09T07:01:57.411643",
+        "start": "2026-09-11T07:01:45.820433",
         "deadline": "2026-09-01T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -6403,21 +6326,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인강원정보문화산업진흥원 | 공고번호: R26BK01692411"
     },
     {
-        "id": "g2b-api-3501637031486423820",
+        "id": "g2b-api-4426656539873179342",
         "title": "2026 경상북도 외국인 유학생 취업박람회 행사운영 용역",
         "organization": "재단법인 경상북도경제진흥원",
-        "start": "2026-09-09T07:01:57.412639",
-        "deadline": "2026-10-09T07:01:57.412639",
+        "start": "2026-09-11T07:01:49.970573",
+        "deadline": "2026-10-11T07:01:49.970573",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691886&bidPbancOrd=000",
         "description": "수요기관: 재단법인 경상북도경제진흥원 | 공고번호: R26BK01691886"
     },
     {
-        "id": "g2b-api-8925147361362108141",
+        "id": "g2b-api-2995757037417266295",
         "title": "한국공학대학교 AI 데이터 분석 시스템 구매",
         "organization": "한국공학대학교",
-        "start": "2026-09-09T07:01:57.412639",
+        "start": "2026-09-11T07:01:49.970573",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6425,21 +6348,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 | 공고번호: R26BK01710155"
     },
     {
-        "id": "g2b-api-5062035992757392263",
-        "title": "한국공학대학교 리서치파크(제2캠퍼스) 한국공학원 전용회선 구축",
-        "organization": "한국공학대학교",
-        "start": "2026-09-09T07:01:57.412639",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674429&bidPbancOrd=000",
-        "description": "수요기관: 한국공학대학교 | 공고번호: R26BK01674429"
-    },
-    {
-        "id": "g2b-api-8568159693671588257",
+        "id": "g2b-api-127747280809278599",
         "title": "2026학년도 한국공학대학교 Techno Festival 행사 대행 용역",
         "organization": "한국공학대학교",
-        "start": "2026-09-09T07:01:57.412639",
+        "start": "2026-09-11T07:01:49.971579",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6447,10 +6359,10 @@ const bidEvents = [
         "description": "수요기관: 한국공학대학교 | 공고번호: R26BK01678911"
     },
     {
-        "id": "g2b-api-2818675485624302541",
+        "id": "g2b-api-4089118894796196185",
         "title": "2026년 눈누난나 곤충페스타 행사 용역",
         "organization": "경상북도 농업자원관리원 잠사곤충사업장",
-        "start": "2026-09-09T07:01:57.414355",
+        "start": "2026-09-11T07:01:49.972583",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6458,87 +6370,120 @@ const bidEvents = [
         "description": "수요기관: 경상북도 농업자원관리원 잠사곤충사업장 | 공고번호: R26BK01711020"
     },
     {
-        "id": "g2b-api-5299974230485420480",
+        "id": "g2b-api-6440788989121339683",
         "title": "서울대학교병원 [전산용역비]2026년 권역책임의료기관 AI 기반 진료시스템 도입 및 통합플랫폼 구축 사업(긴급)",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.972583",
+        "deadline": "2026-10-11T07:01:49.972583",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682194&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01682194"
     },
     {
-        "id": "g2b-api-4131066287386022488",
+        "id": "g2b-api-2999977692230607801",
         "title": "서울대학교병원 [의료기기]Hearing aid REM & Analyzer 1SET",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.972583",
+        "deadline": "2026-10-11T07:01:49.972583",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687248&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01687248"
     },
     {
-        "id": "g2b-api-5236763275604581353",
+        "id": "g2b-api-6218039060571860335",
+        "title": "서울대학교병원 [의료기기]Automated Gram Slide Stainer 2SET (재공고)",
+        "organization": "서울대학교병원",
+        "start": "2026-09-11T07:01:49.972583",
+        "deadline": "2026-10-11T07:01:49.972583",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722325&bidPbancOrd=000",
+        "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01722325"
+    },
+    {
+        "id": "g2b-api-2612457237058595974",
         "title": "서울대학교병원 [의료기기]Hearing aid REM & Analyzer 1SET",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.973578",
+        "deadline": "2026-10-11T07:01:49.973578",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701520&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01701520"
     },
     {
-        "id": "g2b-api-8449070611927050392",
+        "id": "g2b-api-4127721327561557892",
         "title": "서울대학교병원 [의료기기]Hearing aid REM & Analyzer 1SET",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.973578",
+        "deadline": "2026-10-11T07:01:49.973578",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714008&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01714008"
     },
     {
-        "id": "g2b-api-2268605534586192071",
+        "id": "g2b-api-1864437559834441064",
         "title": "서울대학교병원 [전산용역비]2026년 권역책임의료기관 AI 기반 진료시스템 도입 및 통합플랫폼 구축 사업(재공고)",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.973578",
+        "deadline": "2026-10-11T07:01:49.973578",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698488&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01698488"
     },
     {
-        "id": "g2b-api-9045873004478581291",
+        "id": "g2b-api-2338740864837474598",
         "title": "서울대학교병원 [전산장비]의료 AI 데이터 분석용 서버 GPU",
         "organization": "서울대학교병원",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.973578",
+        "deadline": "2026-10-11T07:01:49.973578",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710567&bidPbancOrd=000",
         "description": "수요기관: 서울대학교병원 | 공고번호: R26BK01710567"
     },
     {
-        "id": "g2b-api-1625539326950661856",
+        "id": "g2b-api-3630292039998045358",
         "title": "2026 댕댕순천, 놀토데이 행사 운영 대행 용역(협상계약)",
         "organization": "전남광주통합특별시 순천시",
-        "start": "2026-09-09T07:01:57.414860",
-        "deadline": "2026-10-09T07:01:57.414860",
+        "start": "2026-09-11T07:01:49.974084",
+        "deadline": "2026-10-11T07:01:49.974084",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686939&bidPbancOrd=000",
         "description": "수요기관: 전남광주통합특별시 순천시 | 공고번호: R26BK01686939"
     },
     {
-        "id": "g2b-api-9194023172551754425",
+        "id": "g2b-api-7378197292493995739",
+        "title": "제4회 강릉시 반려동물 문화축제 행사대행 용역",
+        "organization": "강원특별자치도 강릉시 농업기술센터",
+        "start": "2026-09-11T07:01:49.974587",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720409&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 강릉시 농업기술센터 | 공고번호: R26BK01720409"
+    },
+    {
+        "id": "g2b-api-3964986841794687404",
+        "title": "AIoT 스마트안전관리 시스템 구매 및 설치",
+        "organization": "한국교통안전공단",
+        "start": "2026-09-11T07:01:49.974587",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723143&bidPbancOrd=000",
+        "description": "수요기관: 한국교통안전공단 | 공고번호: R26BK01723143"
+    },
+    {
+        "id": "g2b-api-574271872941515551",
         "title": "[대림대학교][2026RISE사업] 2026년 RISE사업 2차 기계기구 구입(AI 클러스터 구축)",
         "organization": "대림대학교 산학협력단",
-        "start": "2026-09-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
         "deadline": "2026-09-23T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6546,10 +6491,10 @@ const bidEvents = [
         "description": "수요기관: 대림대학교 산학협력단 | 공고번호: R26BK01713755"
     },
     {
-        "id": "g2b-api-23674975890620546",
+        "id": "g2b-api-7549613645337691973",
         "title": "[긴급]2026. 익산 미래교육한마당 행사 용역",
         "organization": "전북특별자치도교육청 전북특별자치도익산교육지원청",
-        "start": "2026-09-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6557,10 +6502,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도교육청 전북특별자치도익산교육지원청 | 공고번호: R26BK01714946"
     },
     {
-        "id": "g2b-api-5893981715900600786",
+        "id": "g2b-api-8431090366769505282",
         "title": "동민산업협동조합 다국어 홈페이지 및 AI 챗봇 구축",
         "organization": "동민산업협동조합",
-        "start": "2026-09-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6568,10 +6513,10 @@ const bidEvents = [
         "description": "수요기관: 동민산업협동조합 | 공고번호: R26BK01688774"
     },
     {
-        "id": "g2b-api-5387106175493452162",
+        "id": "g2b-api-4130495723113799746",
         "title": "2026년 지역창업 페스티벌 in 전남&광주 행사 운영 용역(긴급)(종합계약)",
         "organization": "재단법인 전남창조경제혁신센터",
-        "start": "2026-09-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6579,65 +6524,54 @@ const bidEvents = [
         "description": "수요기관: 재단법인 전남창조경제혁신센터 | 공고번호: R26BK01687443"
     },
     {
-        "id": "g2b-api-300869021194703616",
+        "id": "g2b-api-9132814360489298132",
         "title": "제7회 외계인 대축제 행사장 조성 및 운영 용역(재공고)",
         "organization": "재단법인밀양문화관광재단",
-        "start": "2026-09-09T07:01:57.416866",
-        "deadline": "2026-10-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
+        "deadline": "2026-10-11T07:01:49.975100",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714870&bidPbancOrd=000",
         "description": "수요기관: 재단법인밀양문화관광재단 | 공고번호: R26BK01714870"
     },
     {
-        "id": "g2b-api-5440350035646454534",
+        "id": "g2b-api-5080277015473455443",
         "title": "제7회 외계인 대축제 행사장 조성 및 운영 용역",
         "organization": "재단법인밀양문화관광재단",
-        "start": "2026-09-09T07:01:57.416866",
-        "deadline": "2026-10-09T07:01:57.416866",
+        "start": "2026-09-11T07:01:49.975100",
+        "deadline": "2026-10-11T07:01:49.975100",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694010&bidPbancOrd=000",
         "description": "수요기관: 재단법인밀양문화관광재단 | 공고번호: R26BK01694010"
     },
     {
-        "id": "g2b-api-4432771311582765508",
-        "title": "26년 상세페이지 제작지원사업 참여기업 대상 AI 프로그램 지원 및 운영 용역",
-        "organization": "(주)리프이노베이션",
-        "start": "2026-09-09T07:01:57.416866",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674857&bidPbancOrd=000",
-        "description": "수요기관: (주)리프이노베이션 | 공고번호: R26BK01674857"
-    },
-    {
-        "id": "g2b-api-4261746952958197256",
-        "title": "26년 콘텐츠 제작지원사업 참여기업 대상 AI 프로그램 지원 및 운영 용역",
-        "organization": "(주)리프이노베이션",
-        "start": "2026-09-09T07:01:57.416866",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674902&bidPbancOrd=000",
-        "description": "수요기관: (주)리프이노베이션 | 공고번호: R26BK01674902"
-    },
-    {
-        "id": "g2b-api-3138445895481762491",
+        "id": "g2b-api-4728013394977080799",
         "title": "AI-양자역학 기술을 활용한 해양생물 기반 기능성 후보소재 예측 연구",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:01:57.417865",
-        "deadline": "2026-10-09T07:01:57.417865",
+        "start": "2026-09-11T07:01:49.976106",
+        "deadline": "2026-10-11T07:01:49.976106",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718372&bidPbancOrd=000",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01718372"
     },
     {
-        "id": "g2b-api-1761549464685270856",
+        "id": "g2b-api-2173313548925414875",
+        "title": "지역사회 일차의료 역량 강화를 위한 AI기반 사례·토의 동영상 제작 용역",
+        "organization": "가천대학교 산학협력단",
+        "start": "2026-09-11T07:01:49.976106",
+        "deadline": "2026-10-11T07:01:49.976106",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690350&bidPbancOrd=000",
+        "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01690350"
+    },
+    {
+        "id": "g2b-api-6741697125090655232",
         "title": "AI 임베디드 시스템 제작용 재료 및 부품 구입",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:01:57.417865",
+        "start": "2026-09-11T07:01:49.976106",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6645,43 +6579,21 @@ const bidEvents = [
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01697554"
     },
     {
-        "id": "g2b-api-2690883641053276354",
-        "title": "지역사회 일차의료 역량 강화를 위한 AI기반 사례·토의 동영상 제작 용역",
-        "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:01:57.417865",
-        "deadline": "2026-10-09T07:01:57.417865",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690350&bidPbancOrd=000",
-        "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01690350"
-    },
-    {
-        "id": "g2b-api-2133834593205172427",
+        "id": "g2b-api-8631331975318694952",
         "title": "AI-양자역학 기술을 활용한 해양생물 기반 기능성 후보소재 예측 연구",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:01:57.417865",
-        "deadline": "2026-10-09T07:01:57.417865",
+        "start": "2026-09-11T07:01:49.976106",
+        "deadline": "2026-10-11T07:01:49.976106",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706973&bidPbancOrd=000",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01706973"
     },
     {
-        "id": "g2b-api-8504414206030001282",
-        "title": "[대학혁신] 2026학년도 대구대학교 AI학사 챗봇 개인화 연동 고도화 사업",
-        "organization": "대구대학교",
-        "start": "2026-09-09T07:01:57.417865",
-        "deadline": "2026-10-09T07:01:57.417865",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671577&bidPbancOrd=001",
-        "description": "수요기관: 대구대학교 | 공고번호: R26BK01671577"
-    },
-    {
-        "id": "g2b-api-113824693801595902",
+        "id": "g2b-api-833556977315561245",
         "title": "AI 학습/평가를 위한 GPU 서버 구매",
         "organization": "중앙대학교 산학협력단",
-        "start": "2026-09-09T07:02:03.040856",
+        "start": "2026-09-11T07:01:49.977272",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6689,10 +6601,21 @@ const bidEvents = [
         "description": "수요기관: 중앙대학교 산학협력단 | 공고번호: R26BK01717841"
     },
     {
-        "id": "g2b-api-8017199363826126154",
+        "id": "g2b-api-5685843388080066026",
         "title": "AI 연산용 워크스테이션 장비 구매",
         "organization": "중앙대학교 산학협력단",
-        "start": "2026-09-09T07:02:03.040856",
+        "start": "2026-09-11T07:01:49.977272",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724247&bidPbancOrd=000",
+        "description": "수요기관: 중앙대학교 산학협력단 | 공고번호: R26BK01724247"
+    },
+    {
+        "id": "g2b-api-3164590290741689489",
+        "title": "AI 연산용 워크스테이션 장비 구매",
+        "organization": "중앙대학교 산학협력단",
+        "start": "2026-09-11T07:01:49.978271",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6700,21 +6623,10 @@ const bidEvents = [
         "description": "수요기관: 중앙대학교 산학협력단 | 공고번호: R26BK01709226"
     },
     {
-        "id": "g2b-api-7980854330566807567",
-        "title": "‘26년 콘텐츠 제작지원사업 생성형 AI 프로그램 구독권 공급 용역",
-        "organization": "주식회사 레드브릭스",
-        "start": "2026-09-09T07:02:03.041368",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675718&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 레드브릭스 | 공고번호: R26BK01675718"
-    },
-    {
-        "id": "g2b-api-108022775536060828",
+        "id": "g2b-api-7278450400182986028",
         "title": "2026 전주막걸리 축제 행사 대행 용역",
         "organization": "전북특별자치도 전주시",
-        "start": "2026-09-09T07:02:03.041368",
+        "start": "2026-09-11T07:01:49.979271",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6722,10 +6634,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도 전주시 | 공고번호: R26BK01704621"
     },
     {
-        "id": "g2b-api-7648045339673245829",
+        "id": "g2b-api-3294852287647853260",
         "title": "디지털도로 AI 신기술 지원사업 서버 임차",
         "organization": "(주)포맥스네트워크",
-        "start": "2026-09-09T07:02:03.041368",
+        "start": "2026-09-11T07:01:54.855762",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6733,21 +6645,10 @@ const bidEvents = [
         "description": "수요기관: (주)포맥스네트워크 | 공고번호: R26BK01710529"
     },
     {
-        "id": "g2b-api-7337592372163085350",
-        "title": "2027학년도 경기게임마이스터고등학교 신입생 교복(동·하복)  학교주관구매 업체 선정 입찰 공고",
-        "organization": "경기도교육청 경기게임마이스터고등학교",
-        "start": "2026-09-09T07:02:03.042373",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "game",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673338&bidPbancOrd=000",
-        "description": "수요기관: 경기도교육청 경기게임마이스터고등학교 | 공고번호: R26BK01673338"
-    },
-    {
-        "id": "g2b-api-4702727047679886122",
+        "id": "g2b-api-5288373501148406965",
         "title": "정선아리랑제 행사 대비 시가지 도로 차선도색공사",
         "organization": "강원특별자치도 정선군",
-        "start": "2026-09-09T07:02:03.042373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6755,10 +6656,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 정선군 | 공고번호: R26BK01700052"
     },
     {
-        "id": "g2b-api-8853394944170860377",
+        "id": "g2b-api-4901829034426014318",
         "title": "AI 기반 발전소 환경･설비 통합 디지털트윈 예측 플램폼 실증용 GPU 서버 구매",
         "organization": "주식회사 제이에이치솔루션",
-        "start": "2026-09-09T07:02:03.042373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6766,10 +6667,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 제이에이치솔루션 | 공고번호: R26BK01694976"
     },
     {
-        "id": "g2b-api-5953115854432950988",
+        "id": "g2b-api-1297806286406449656",
         "title": "2026년 이천시 양성평등주간 기념행사 운영 용역",
         "organization": "경기도 이천시",
-        "start": "2026-09-09T07:02:03.042373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6777,10 +6678,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 이천시 | 공고번호: R26BK01704036"
     },
     {
-        "id": "g2b-api-4254693679325607419",
+        "id": "g2b-api-178059874825254952",
         "title": "AI기반 이동장비 위험영역 탐지 및 실시간 안전관제 솔루션 인프라 구축",
         "organization": "주식회사 투곰스",
-        "start": "2026-09-09T07:02:03.042373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6788,10 +6689,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 투곰스 | 공고번호: R26BK01689544"
     },
     {
-        "id": "g2b-api-808864717851148678",
+        "id": "g2b-api-2760072218443821268",
         "title": "AI기반 이동장비 위험영역 탐지 및 실시간 안전관제 솔루션 인프라 구축",
         "organization": "주식회사 투곰스",
-        "start": "2026-09-09T07:02:03.042373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6799,10 +6700,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 투곰스 | 공고번호: R26BK01705217"
     },
     {
-        "id": "g2b-api-7257054438219813923",
+        "id": "g2b-api-4952831019749181055",
         "title": "제15차 동아시아 POPs 분석교육 행사 운영",
         "organization": "기후에너지환경부 국립환경과학원",
-        "start": "2026-09-09T07:02:03.043373",
+        "start": "2026-09-11T07:01:54.856934",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6810,21 +6711,10 @@ const bidEvents = [
         "description": "수요기관: 기후에너지환경부 국립환경과학원 | 공고번호: R26BK01686188"
     },
     {
-        "id": "g2b-api-310611854762629768",
-        "title": "AI·AX분야 교육용 실습환경 구축을 위한 컴퓨터(완제품) 입찰 구매",
-        "organization": "순천향대학교 산학협력단",
-        "start": "2026-09-09T07:02:03.043373",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677962&bidPbancOrd=000",
-        "description": "수요기관: 순천향대학교 산학협력단 | 공고번호: R26BK01677962"
-    },
-    {
-        "id": "g2b-api-353340501722761134",
+        "id": "g2b-api-7060580062588733113",
         "title": "청주 다목적 실내체육관 교통영향평가 이행사업",
         "organization": "충청북도 청주시",
-        "start": "2026-09-09T07:02:03.044373",
+        "start": "2026-09-11T07:01:54.858940",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6832,21 +6722,21 @@ const bidEvents = [
         "description": "수요기관: 충청북도 청주시 | 공고번호: R26BK01693778"
     },
     {
-        "id": "g2b-api-6173340411521114176",
-        "title": "2026 상인 ·소상공인 AI 코칭 지원 사업 운영 용역",
-        "organization": "재단법인 경상북도경제진흥원",
-        "start": "2026-09-09T07:02:03.045373",
-        "deadline": "2026-10-09T07:02:03.045373",
-        "category": "ai",
+        "id": "g2b-api-1530405825847996161",
+        "title": "2026 대전디자인페스타(DDF·DDA) 행사 운영 용역",
+        "organization": "재단법인대전디자인진흥원",
+        "start": "2026-09-11T07:01:54.859940",
+        "deadline": "2026-09-30T00:00:00",
+        "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674285&bidPbancOrd=002",
-        "description": "수요기관: 재단법인 경상북도경제진흥원 | 공고번호: R26BK01674285"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720295&bidPbancOrd=000",
+        "description": "수요기관: 재단법인대전디자인진흥원 | 공고번호: R26BK01720295"
     },
     {
-        "id": "g2b-api-1095350662711333162",
+        "id": "g2b-api-5081022949287379443",
         "title": "2026년 이노베이션아카데미 성과 공유 컨퍼런스(코디세이 AI인재 웨이브) 개최 용역",
         "organization": "재단법인 이노베이션아카데미",
-        "start": "2026-09-09T07:02:03.046878",
+        "start": "2026-09-11T07:01:54.860940",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6854,10 +6744,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 이노베이션아카데미 | 공고번호: R26BK01685324"
     },
     {
-        "id": "g2b-api-8792517465484695534",
+        "id": "g2b-api-6007220716054281662",
+        "title": "2026년 아산시 국화전시회 활용 화단국 구입",
+        "organization": "충청남도 아산시 농업기술센터",
+        "start": "2026-09-11T07:01:54.860940",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "exhibition",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720290&bidPbancOrd=000",
+        "description": "수요기관: 충청남도 아산시 농업기술센터 | 공고번호: R26BK01720290"
+    },
+    {
+        "id": "g2b-api-3301706861800525617",
         "title": "AI(딥러닝) 기반 공동 탐지 및 분석 프로그램 개발",
         "organization": "국토안전관리원",
-        "start": "2026-09-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6865,10 +6766,10 @@ const bidEvents = [
         "description": "수요기관: 국토안전관리원 | 공고번호: R26BK01716223"
     },
     {
-        "id": "g2b-api-6594907789326806105",
+        "id": "g2b-api-3428060394659034068",
         "title": "디자인 산업 특화 멀티모달 AI 데이터 구축 및 품질관리 가이드라인 조사·검증 및 개발",
         "organization": "한국디자인진흥원",
-        "start": "2026-09-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6876,43 +6777,21 @@ const bidEvents = [
         "description": "수요기관: 한국디자인진흥원 | 공고번호: R26BK01715519"
     },
     {
-        "id": "g2b-api-9096872870885594478",
-        "title": "선문대학교 AI Commons 플랫폼 구축",
-        "organization": "선문대학교",
-        "start": "2026-09-09T07:02:03.048221",
-        "deadline": "2026-10-09T07:02:03.048221",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673265&bidPbancOrd=000",
-        "description": "수요기관: 선문대학교 | 공고번호: R26BK01673265"
-    },
-    {
-        "id": "g2b-api-8823161921017542775",
+        "id": "g2b-api-6045037504781646709",
         "title": "선문대학교 AI 에듀테크 통합 서비스 사용",
         "organization": "선문대학교",
-        "start": "2026-09-09T07:02:03.048221",
-        "deadline": "2026-10-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
+        "deadline": "2026-10-11T07:01:54.861941",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710630&bidPbancOrd=000",
         "description": "수요기관: 선문대학교 | 공고번호: R26BK01710630"
     },
     {
-        "id": "g2b-api-4122955988298866413",
-        "title": "선문대학교 AI 에듀테크 통합 서비스 사용",
-        "organization": "선문대학교",
-        "start": "2026-09-09T07:02:03.048221",
-        "deadline": "2026-10-09T07:02:03.048221",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673277&bidPbancOrd=000",
-        "description": "수요기관: 선문대학교 | 공고번호: R26BK01673277"
-    },
-    {
-        "id": "g2b-api-8842774502578552519",
+        "id": "g2b-api-6195873398896038568",
         "title": "2026 계양 한마음 걷기 행사 대행 용역(협상에 의한 계약)[긴급]",
         "organization": "인천광역시 계양구",
-        "start": "2026-09-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6920,10 +6799,10 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 계양구 | 공고번호: R26BK01693876"
     },
     {
-        "id": "g2b-api-1186305424814186020",
+        "id": "g2b-api-5199069688157276997",
         "title": "2026 계양 한마음 걷기 행사 대행 용역(협상에 의한 계약)[긴급]",
         "organization": "인천광역시 계양구",
-        "start": "2026-09-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6931,21 +6810,32 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 계양구 | 공고번호: R26BK01716690"
     },
     {
-        "id": "g2b-api-5058849477461780360",
+        "id": "g2b-api-8168860966532326861",
+        "title": "초록우산 롯데그룹 mom편한 놀이터 오픈식 행사 진행 용역",
+        "organization": "사회복지법인어린이재단",
+        "start": "2026-09-11T07:01:54.861941",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722915&bidPbancOrd=000",
+        "description": "수요기관: 사회복지법인어린이재단 | 공고번호: R26BK01722915"
+    },
+    {
+        "id": "g2b-api-4156525797633675027",
         "title": "제7회 안산 김홍도축제 행사 대행 용역",
         "organization": "재단법인 안산문화재단",
-        "start": "2026-09-09T07:02:03.048221",
-        "deadline": "2026-10-09T07:02:03.048221",
+        "start": "2026-09-11T07:01:54.861941",
+        "deadline": "2026-10-11T07:01:54.861941",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707802&bidPbancOrd=000",
         "description": "수요기관: 재단법인 안산문화재단 | 공고번호: R26BK01707802"
     },
     {
-        "id": "g2b-api-1529859365546970108",
+        "id": "g2b-api-3469081044097106420",
         "title": "발색광학 ISF 듀얼 마커 카트리지의 환경변수 보정 AI 모델 개발 및 실증장비 기반 발색반응 이미지 데이터셋 구축 용역",
         "organization": "강원대학교 강릉산학협력단",
-        "start": "2026-09-09T07:02:03.049351",
+        "start": "2026-09-11T07:01:54.861941",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6953,10 +6843,10 @@ const bidEvents = [
         "description": "수요기관: 강원대학교 강릉산학협력단 | 공고번호: R26BK01681455"
     },
     {
-        "id": "g2b-api-3103254082015163813",
+        "id": "g2b-api-1542220074596149903",
         "title": "AI 기반 아동청소년 건강관리사업 운영 물품 구입",
         "organization": "경기도 화성시 효행구보건소",
-        "start": "2026-09-09T07:02:03.049351",
+        "start": "2026-09-11T07:01:54.863454",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6964,10 +6854,21 @@ const bidEvents = [
         "description": "수요기관: 경기도 화성시 효행구보건소 | 공고번호: R26BK01687388"
     },
     {
-        "id": "g2b-api-4626219274533925413",
+        "id": "g2b-api-7142816273950710609",
+        "title": "외국인근로자 건강정보 서비스 운영모델(AI기반) 수립 컨설팅",
+        "organization": "한국국제보건의료재단",
+        "start": "2026-09-11T07:01:54.864465",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721064&bidPbancOrd=000",
+        "description": "수요기관: 한국국제보건의료재단 | 공고번호: R26BK01721064"
+    },
+    {
+        "id": "g2b-api-998345742486773131",
         "title": "증축사무동 AI 기반 무인경비 기반공사(환경정비)",
         "organization": "국가유산청 국립해양유산연구소",
-        "start": "2026-09-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6975,10 +6876,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 국립해양유산연구소 | 공고번호: R26BK01700258"
     },
     {
-        "id": "g2b-api-7793374940090245193",
+        "id": "g2b-api-4784932065418503407",
         "title": "국립해양유산연구소 사무동 증축 준공 행사",
         "organization": "국가유산청 국립해양유산연구소",
-        "start": "2026-09-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -6986,10 +6887,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 국립해양유산연구소 | 공고번호: R26BK01708942"
     },
     {
-        "id": "g2b-api-8648055184585113162",
+        "id": "g2b-api-700803883382902034",
         "title": "[피지컬AI공장장비] 금속 3D 프린터 1대 및 3D 프린터 2대 구매",
         "organization": "한국폴리텍7대학",
-        "start": "2026-09-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -6997,54 +6898,54 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍7대학 | 공고번호: R26BK01704129"
     },
     {
-        "id": "g2b-api-7491022593122855012",
+        "id": "g2b-api-4605194487441122617",
         "title": "sLLM 기반 제조기업 AI 전환 체계 구축 컨설팅 용역",
         "organization": "한국생산성본부",
-        "start": "2026-09-09T07:02:08.889291",
-        "deadline": "2026-10-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
+        "deadline": "2026-10-11T07:01:54.864465",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700335&bidPbancOrd=000",
         "description": "수요기관: 한국생산성본부 | 공고번호: R26BK01700335"
     },
     {
-        "id": "g2b-api-997513230517437475",
+        "id": "g2b-api-7525828171678637477",
         "title": "2026년 생성형AI 교육을 위한 구독권(Google AI Pro, Google Ads) 및 기념품 제공",
         "organization": "한국생산성본부",
-        "start": "2026-09-09T07:02:08.889291",
-        "deadline": "2026-10-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
+        "deadline": "2026-10-11T07:01:54.864465",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693645&bidPbancOrd=000",
         "description": "수요기관: 한국생산성본부 | 공고번호: R26BK01693645"
     },
     {
-        "id": "g2b-api-7211571967833033754",
+        "id": "g2b-api-8549909177049689504",
         "title": "2026년 생성형AI 교육을 위한 구독권(Google AI Pro, Google Ads) 및 기념품 제공",
         "organization": "한국생산성본부",
-        "start": "2026-09-09T07:02:08.889291",
-        "deadline": "2026-10-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
+        "deadline": "2026-10-11T07:01:54.864465",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704064&bidPbancOrd=000",
         "description": "수요기관: 한국생산성본부 | 공고번호: R26BK01704064"
     },
     {
-        "id": "g2b-api-177407455593719031",
+        "id": "g2b-api-3698247397680460916",
         "title": "2026 대한민국 지방시대 엑스포 부대행사 기획 및 운영 용역",
         "organization": "한국생산성본부",
-        "start": "2026-09-09T07:02:08.889291",
-        "deadline": "2026-10-09T07:02:08.889291",
+        "start": "2026-09-11T07:01:54.864465",
+        "deadline": "2026-10-11T07:01:54.864465",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693622&bidPbancOrd=000",
         "description": "수요기관: 한국생산성본부 | 공고번호: R26BK01693622"
     },
     {
-        "id": "g2b-api-5233306394723891542",
+        "id": "g2b-api-8341365674489350506",
         "title": "2026 예술산업 포럼 행사 운영 위탁 용역",
         "organization": "(재)예술경영지원센터",
-        "start": "2026-09-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.493463",
         "deadline": "2026-09-29T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7052,10 +6953,10 @@ const bidEvents = [
         "description": "수요기관: (재)예술경영지원센터 | 공고번호: R26BK01715412"
     },
     {
-        "id": "g2b-api-6341301013960448650",
+        "id": "g2b-api-572914249213449601",
         "title": "2026 글로벌 뮤지컬 산업 및 학술행사 운영",
         "organization": "(재)예술경영지원센터",
-        "start": "2026-09-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.493463",
         "deadline": "2026-09-09T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7063,10 +6964,10 @@ const bidEvents = [
         "description": "수요기관: (재)예술경영지원센터 | 공고번호: R26BK01700446"
     },
     {
-        "id": "g2b-api-4276519301637689457",
+        "id": "g2b-api-3754321417140007664",
         "title": "제48차 세계유산위원회 행사 총괄운영 대행용역 회계검증",
         "organization": "국가유산청",
-        "start": "2026-09-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.493968",
         "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7074,65 +6975,65 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 | 공고번호: R26BK01697951"
     },
     {
-        "id": "g2b-api-5104539975248512333",
+        "id": "g2b-api-3974997409399322074",
         "title": "2026년 시민 실용화 AI 교육 운영 용역 입찰 공고(재공고)",
         "organization": "경상북도 포항시",
-        "start": "2026-09-09T07:02:08.890291",
-        "deadline": "2026-10-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.493968",
+        "deadline": "2026-10-11T07:01:59.493968",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683874&bidPbancOrd=000",
         "description": "수요기관: 경상북도 포항시 | 공고번호: R26BK01683874"
     },
     {
-        "id": "g2b-api-8342980571758908837",
+        "id": "g2b-api-5195043718635612252",
         "title": "가천대학교 AI부트캠프 사업 생성형 AI 활용 교육 기획·운영 위탁 용역(2026-2학기)",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:02:08.890291",
-        "deadline": "2026-10-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.494472",
+        "deadline": "2026-10-11T07:01:59.494472",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716907&bidPbancOrd=000",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01716907"
     },
     {
-        "id": "g2b-api-2540975328716786520",
+        "id": "g2b-api-6888405737315885770",
         "title": "가천대학교 AI부트캠프 사업 생성형 AI 활용 교육 기획·운영 위탁 용역(2026-2학기)",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:02:08.890291",
-        "deadline": "2026-10-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.494472",
+        "deadline": "2026-10-11T07:01:59.494472",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699556&bidPbancOrd=001",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01699556"
     },
     {
-        "id": "g2b-api-1090998828436359794",
+        "id": "g2b-api-1921693942772436694",
         "title": "AI 반도체 설계(EDA Tool)용 서버 구입",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:02:08.890291",
-        "deadline": "2026-10-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.494472",
+        "deadline": "2026-10-11T07:01:59.494472",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715503&bidPbancOrd=000",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01715503"
     },
     {
-        "id": "g2b-api-486367875257450685",
+        "id": "g2b-api-3616999529639576635",
         "title": "가천대학교 AI부트캠프 사업 피지컬 AI 교육 기획·운영 위탁 용역(2026-2학기)",
         "organization": "가천대학교 산학협력단",
-        "start": "2026-09-09T07:02:08.890291",
-        "deadline": "2026-10-09T07:02:08.890291",
+        "start": "2026-09-11T07:01:59.494472",
+        "deadline": "2026-10-11T07:01:59.494472",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707959&bidPbancOrd=000",
         "description": "수요기관: 가천대학교 산학협력단 | 공고번호: R26BK01707959"
     },
     {
-        "id": "g2b-api-9045342120530002176",
+        "id": "g2b-api-8270701471997253175",
         "title": "AI서버 및 방화벽장치 구매(설치)(재공고)",
         "organization": "양산부산대학교병원",
-        "start": "2026-09-09T07:02:08.891290",
+        "start": "2026-09-11T07:01:59.494472",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7140,10 +7041,10 @@ const bidEvents = [
         "description": "수요기관: 양산부산대학교병원 | 공고번호: R26BK01711969"
     },
     {
-        "id": "g2b-api-1784214382041601709",
+        "id": "g2b-api-5094741196771213663",
         "title": "AI서버 및 방화벽장치 구매(설치)",
         "organization": "양산부산대학교병원",
-        "start": "2026-09-09T07:02:08.891290",
+        "start": "2026-09-11T07:01:59.494472",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7151,10 +7052,10 @@ const bidEvents = [
         "description": "수요기관: 양산부산대학교병원 | 공고번호: R26BK01699103"
     },
     {
-        "id": "g2b-api-4959804102841247027",
+        "id": "g2b-api-4099497749317829484",
         "title": "AI서버 및 방화벽장치 구매(설치)",
         "organization": "양산부산대학교병원",
-        "start": "2026-09-09T07:02:08.891290",
+        "start": "2026-09-11T07:01:59.494472",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7162,10 +7063,21 @@ const bidEvents = [
         "description": "수요기관: 양산부산대학교병원 | 공고번호: R26BK01684985"
     },
     {
-        "id": "g2b-api-330989832561896558",
+        "id": "g2b-api-8211904897484449869",
+        "title": "제17회 전북수학체험한마당 행사 용역 수의계약 견적제출 안내공고",
+        "organization": "전북특별자치도교육청 전북특별자치도교육청과학교육원",
+        "start": "2026-09-11T07:01:59.495477",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723100&bidPbancOrd=000",
+        "description": "수요기관: 전북특별자치도교육청 전북특별자치도교육청과학교육원 | 공고번호: R26BK01723100"
+    },
+    {
+        "id": "g2b-api-5806714399952213766",
         "title": "2026년 특별기획(가제)「빛,사진 그리고 AI 」전시체험전 위탁 용역",
         "organization": "전북특별자치도교육청 전북특별자치도교육청과학교육원",
-        "start": "2026-09-09T07:02:08.893800",
+        "start": "2026-09-11T07:01:59.495477",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7173,32 +7085,21 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도교육청 전북특별자치도교육청과학교육원 | 공고번호: R26BK01710083"
     },
     {
-        "id": "g2b-api-2594629322314396130",
+        "id": "g2b-api-1154528227446089726",
         "title": "윤리적 AI 설계에 관한 연구",
         "organization": "정보통신정책연구원",
-        "start": "2026-09-09T07:02:08.893800",
-        "deadline": "2026-10-09T07:02:08.893800",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675564&bidPbancOrd=000",
-        "description": "수요기관: 정보통신정책연구원 | 공고번호: R26BK01675564"
-    },
-    {
-        "id": "g2b-api-2978498071517714166",
-        "title": "윤리적 AI 설계에 관한 연구",
-        "organization": "정보통신정책연구원",
-        "start": "2026-09-09T07:02:08.893800",
-        "deadline": "2026-10-09T07:02:08.893800",
+        "start": "2026-09-11T07:01:59.495477",
+        "deadline": "2026-10-11T07:01:59.495477",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01696262&bidPbancOrd=000",
         "description": "수요기관: 정보통신정책연구원 | 공고번호: R26BK01696262"
     },
     {
-        "id": "g2b-api-5608233758539791814",
+        "id": "g2b-api-8961526983843547122",
         "title": "2026 중국 상하이 치과 전시회 한국관 전시디자인설치공사",
         "organization": "사단법인 한국치과의료기기산업협회",
-        "start": "2026-09-09T07:02:08.895320",
+        "start": "2026-09-11T07:01:59.496952",
         "deadline": "2026-08-25T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -7206,10 +7107,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국치과의료기기산업협회 | 공고번호: R26BK01678282"
     },
     {
-        "id": "g2b-api-4176647746464867873",
+        "id": "g2b-api-3865611507213117181",
         "title": "2026 미국 뉴욕 치과 전시회 한국관 전시디자인설치공사",
         "organization": "사단법인 한국치과의료기기산업협회",
-        "start": "2026-09-09T07:02:08.895320",
+        "start": "2026-09-11T07:01:59.496952",
         "deadline": "2026-09-16T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -7217,10 +7118,10 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국치과의료기기산업협회 | 공고번호: R26BK01714892"
     },
     {
-        "id": "g2b-api-562041535521218413",
+        "id": "g2b-api-591700981764472116",
         "title": "2026 미국 뉴욕 치과 전시회 한국관 전시디자인설치공사",
         "organization": "사단법인 한국치과의료기기산업협회",
-        "start": "2026-09-09T07:02:08.895320",
+        "start": "2026-09-11T07:01:59.496952",
         "deadline": "2026-09-04T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -7228,21 +7129,32 @@ const bidEvents = [
         "description": "수요기관: 사단법인 한국치과의료기기산업협회 | 공고번호: R26BK01682871"
     },
     {
-        "id": "g2b-api-4104617462437823899",
+        "id": "g2b-api-8851329523982412050",
         "title": "[재공고] 아주대학교 데이터보안·활용융합분야 CO-SHOW 행사 기획 및 운영업체 선정 입찰",
         "organization": "아주대학교 산학협력단",
-        "start": "2026-09-09T07:02:08.896326",
-        "deadline": "2026-10-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.497456",
+        "deadline": "2026-10-11T07:01:59.497456",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683823&bidPbancOrd=000",
         "description": "수요기관: 아주대학교 산학협력단 | 공고번호: R26BK01683823"
     },
     {
-        "id": "g2b-api-7307427855092099594",
+        "id": "g2b-api-1418393561548750238",
+        "title": "강원아이로(AI-ro) 운영 및 시스템 고도화 개인정보 영향평가",
+        "organization": "한국지역정보개발원",
+        "start": "2026-09-11T07:01:59.497456",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720578&bidPbancOrd=000",
+        "description": "수요기관: 한국지역정보개발원 | 공고번호: R26BK01720578"
+    },
+    {
+        "id": "g2b-api-6065837627978237696",
         "title": "AI 기반 지방정부 CCTV 관제지원시스템 구축(2차) 개인정보 영향평가",
         "organization": "한국지역정보개발원",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.497456",
         "deadline": "2026-08-13T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7250,10 +7162,10 @@ const bidEvents = [
         "description": "수요기관: 한국지역정보개발원 | 공고번호: R26BK01679598"
     },
     {
-        "id": "g2b-api-5566972653075448355",
+        "id": "g2b-api-4971883951767171224",
         "title": "강원아이로(AI-ro) 운영 및 시스템 고도화 개인정보 영향평가",
         "organization": "한국지역정보개발원",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.497456",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7261,10 +7173,10 @@ const bidEvents = [
         "description": "수요기관: 한국지역정보개발원 | 공고번호: R26BK01687714"
     },
     {
-        "id": "g2b-api-7556606387086672656",
+        "id": "g2b-api-495425912692045584",
         "title": "제5회 AI 지역혁신 글로벌 포럼 및 초청 연수 기획 운영",
         "organization": "한국지역정보개발원",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.497456",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7272,10 +7184,10 @@ const bidEvents = [
         "description": "수요기관: 한국지역정보개발원 | 공고번호: R26BK01706241"
     },
     {
-        "id": "g2b-api-65909258844556218",
+        "id": "g2b-api-5674924525875910468",
         "title": "2026학년도 하계 현장기술연수 실습 AI 서비스",
         "organization": "한국기술교육대학교",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.498463",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7283,10 +7195,10 @@ const bidEvents = [
         "description": "수요기관: 한국기술교육대학교 | 공고번호: R26BK01685090"
     },
     {
-        "id": "g2b-api-5064315030091248706",
+        "id": "g2b-api-4705599045311057126",
         "title": "AI 모델 학습 추론용 스테이션",
         "organization": "한국기술교육대학교",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.498463",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7294,10 +7206,10 @@ const bidEvents = [
         "description": "수요기관: 한국기술교육대학교 | 공고번호: R26BK01702312"
     },
     {
-        "id": "g2b-api-1770340732947953766",
+        "id": "g2b-api-2271745172723419202",
         "title": "전공분야 보수교육 AI 서비스 사용권",
         "organization": "한국기술교육대학교",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.498463",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7305,10 +7217,10 @@ const bidEvents = [
         "description": "수요기관: 한국기술교육대학교 | 공고번호: R26BK01706246"
     },
     {
-        "id": "g2b-api-3776163898817595242",
+        "id": "g2b-api-5409821974326924278",
         "title": "AI 특화 공동훈련센터 산업 범용 AI 직무·훈련 표준모델 개발 용역",
         "organization": "인공지능산업융합사업단",
-        "start": "2026-09-09T07:02:08.896326",
+        "start": "2026-09-11T07:01:59.498463",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7316,32 +7228,10 @@ const bidEvents = [
         "description": "수요기관: 인공지능산업융합사업단 | 공고번호: R26BK01697506"
     },
     {
-        "id": "g2b-api-2782495936412384283",
-        "title": "AI 특화 공동훈련센터 산업 범용 AI 직무·훈련 표준모델 개발 용역",
-        "organization": "인공지능산업융합사업단",
-        "start": "2026-09-09T07:02:08.896326",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674009&bidPbancOrd=000",
-        "description": "수요기관: 인공지능산업융합사업단 | 공고번호: R26BK01674009"
-    },
-    {
-        "id": "g2b-api-723180990459592027",
-        "title": "제30차 세계한인경제인대회(2026 KOREA BUSINESS EXPO SHENZHEN) 행사 대행 용역",
-        "organization": "（사）세계한인경제무역협회",
-        "start": "2026-09-09T07:02:08.897326",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674053&bidPbancOrd=000",
-        "description": "수요기관: （사）세계한인경제무역협회 | 공고번호: R26BK01674053"
-    },
-    {
-        "id": "g2b-api-891208715378128332",
+        "id": "g2b-api-584937892815456308",
         "title": "2026년 시니어일자리 기업 상생 컨퍼런스 행사 운영 대행",
         "organization": "한국노인인력개발원",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.499182",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7349,10 +7239,10 @@ const bidEvents = [
         "description": "수요기관: 한국노인인력개발원 | 공고번호: R26BK01707797"
     },
     {
-        "id": "g2b-api-2756894953915623229",
+        "id": "g2b-api-4364663095550806543",
         "title": "2026년 제11회 전북청렴누리문화제 행사 용역",
         "organization": "새만금개발청",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.499182",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7360,10 +7250,10 @@ const bidEvents = [
         "description": "수요기관: 새만금개발청 | 공고번호: R26BK01686403"
     },
     {
-        "id": "g2b-api-7652987535523477311",
+        "id": "g2b-api-1680480146974208704",
         "title": "소상공인 상세페이지 제작지원을 위한 생성형 AI 콘텐츠 제작 서비스 공급 및 운영 용역",
         "organization": "주식회사 홀릭디자인",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.499182",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7371,10 +7261,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 홀릭디자인 | 공고번호: R26BK01684083"
     },
     {
-        "id": "g2b-api-5756533647431790140",
+        "id": "g2b-api-3258344236759841406",
         "title": "AI기반 질환 데이터 분석 개방형 플랫폼 구축 사업 회의 장비 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.500192",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7382,10 +7272,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01694238"
     },
     {
-        "id": "g2b-api-4372418642990718329",
+        "id": "g2b-api-1213279618007796870",
         "title": "유무선 통합망 연구서버 RAID 구성을 위한 SSD 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.500192",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7393,10 +7283,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01719885"
     },
     {
-        "id": "g2b-api-9218906458410757171",
+        "id": "g2b-api-6284963972323630266",
         "title": "생활하수AI조기경보플랫폼개발업무를위한노트북 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:08.898327",
+        "start": "2026-09-11T07:01:59.500192",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7404,10 +7294,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01696602"
     },
     {
-        "id": "g2b-api-785420827615338681",
+        "id": "g2b-api-5785212162595958401",
         "title": "AI 스마트돈사 운영 용역",
         "organization": "제주대학교 산학협력단",
-        "start": "2026-09-09T07:02:15.044065",
+        "start": "2026-09-11T07:01:59.501187",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7415,10 +7305,10 @@ const bidEvents = [
         "description": "수요기관: 제주대학교 산학협력단 | 공고번호: R26BK01715636"
     },
     {
-        "id": "g2b-api-6175118076414873631",
+        "id": "g2b-api-4711634014997886105",
         "title": "2026학년도 김해건설공업고등학교 AIoT전기과 기자재(IoT 및 AI 통합실습장비) 구입 ",
         "organization": "경상남도교육청 김해건설공업고등학교",
-        "start": "2026-09-09T07:02:15.045069",
+        "start": "2026-09-11T07:01:59.501187",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7426,10 +7316,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도교육청 김해건설공업고등학교 | 공고번호: R26BK01690800"
     },
     {
-        "id": "g2b-api-9105954483275426694",
+        "id": "g2b-api-2053323954906103305",
         "title": "2026 서울 어린이 꿈 축제 행사 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:02:15.046064",
+        "start": "2026-09-11T07:01:59.502186",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7437,10 +7327,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01688615"
     },
     {
-        "id": "g2b-api-156473035749660381",
+        "id": "g2b-api-8397148353388283943",
         "title": "한-중미 연대 강화 행사 준비 대행",
         "organization": "외교부",
-        "start": "2026-09-09T07:02:15.047063",
+        "start": "2026-09-11T07:02:04.676694",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7448,10 +7338,10 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01714355"
     },
     {
-        "id": "g2b-api-4623745304163647650",
+        "id": "g2b-api-497856395739393230",
         "title": "한-중미 연대 강화 행사 준비 대행",
         "organization": "외교부",
-        "start": "2026-09-09T07:02:15.047063",
+        "start": "2026-09-11T07:02:04.676694",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7459,43 +7349,10 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01684663"
     },
     {
-        "id": "g2b-api-4173363105140343745",
-        "title": "제3회 문화도시 수원 페스티벌 행사 운영 용역",
-        "organization": "재단법인수원문화재단",
-        "start": "2026-09-09T07:02:15.047063",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674780&bidPbancOrd=000",
-        "description": "수요기관: 재단법인수원문화재단 | 공고번호: R26BK01674780"
-    },
-    {
-        "id": "g2b-api-1284276823369236249",
-        "title": "섬박람회 대비 행사장 주변도로 등 재포장 공사",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:02:15.048064",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674423&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01674423"
-    },
-    {
-        "id": "g2b-api-8251026536608597411",
-        "title": "섬박람회 대비 행사장 주변도로 등 재포장 건설폐기물 처리용역",
-        "organization": "전남광주통합특별시 여수시",
-        "start": "2026-09-09T07:02:15.048064",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674440&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시 여수시 | 공고번호: R26BK01674440"
-    },
-    {
-        "id": "g2b-api-179859075038343217",
+        "id": "g2b-api-4573805287979321897",
         "title": "국립대구과학관 AI시민교육 플랫폼「AI놀이학교」운영",
         "organization": "국립대구과학관",
-        "start": "2026-09-09T07:02:15.048064",
+        "start": "2026-09-11T07:02:04.678904",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7503,10 +7360,10 @@ const bidEvents = [
         "description": "수요기관: 국립대구과학관 | 공고번호: R26BK01691432"
     },
     {
-        "id": "g2b-api-2031261473351156306",
+        "id": "g2b-api-4624856249158788591",
         "title": "[대구광역시 AI대전환 사업]AMR RCS 통합패키지",
         "organization": "주식회사 유엔디",
-        "start": "2026-09-09T07:02:15.048064",
+        "start": "2026-09-11T07:02:04.678904",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7514,10 +7371,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 유엔디 | 공고번호: R26BK01715416"
     },
     {
-        "id": "g2b-api-7962868843405565106",
+        "id": "g2b-api-3648459650188631063",
         "title": "AI GPU 서버 구매",
         "organization": "한국과학기술연구원",
-        "start": "2026-09-09T07:02:15.048064",
+        "start": "2026-09-11T07:02:04.678904",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7525,10 +7382,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술연구원 | 공고번호: R26BK01696437"
     },
     {
-        "id": "g2b-api-6701157946775113847",
+        "id": "g2b-api-5843898832363633527",
         "title": "2026년도 연구수행에 필요한 AI 서버 임차",
         "organization": "주식회사 윔",
-        "start": "2026-09-09T07:02:15.048064",
+        "start": "2026-09-11T07:02:04.678904",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7536,10 +7393,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 윔 | 공고번호: R26BK01682146"
     },
     {
-        "id": "g2b-api-4531500841602549610",
+        "id": "g2b-api-7612943990634077684",
         "title": "(협상)2026 아트센터인천 야외음악회 무대설치 및 행사대행 용역(긴급)",
         "organization": "인천광역시 경제자유구역청",
-        "start": "2026-09-09T07:02:15.048064",
+        "start": "2026-09-11T07:02:04.679908",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7547,10 +7404,10 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 경제자유구역청 | 공고번호: R26BK01678641"
     },
     {
-        "id": "g2b-api-8360840667320424005",
+        "id": "g2b-api-215729915704712023",
         "title": "2026 파주 시민화합 체육대회 기획 및 행사대행 용역(민간입찰대행)",
         "organization": "경기도 파주시",
-        "start": "2026-09-09T07:02:15.049239",
+        "start": "2026-09-11T07:02:04.679908",
         "deadline": "2026-09-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7558,10 +7415,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 파주시 | 공고번호: R26BK01718644"
     },
     {
-        "id": "g2b-api-1679519158444426625",
+        "id": "g2b-api-4735874371295107123",
         "title": "AI심화시대 정보주체 관점에서의 개인정보 기능 수행체계 효율화 전략 연구",
         "organization": "개인정보보호위원회",
-        "start": "2026-09-09T07:02:15.050243",
+        "start": "2026-09-11T07:02:04.681417",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7569,10 +7426,10 @@ const bidEvents = [
         "description": "수요기관: 개인정보보호위원회 | 공고번호: R26BK01709004"
     },
     {
-        "id": "g2b-api-3361000253934202011",
+        "id": "g2b-api-6174130246453786669",
         "title": "AI심화시대 정보주체 관점에서의 개인정보 기능 수행체계 효율화 전략 연구",
         "organization": "개인정보보호위원회",
-        "start": "2026-09-09T07:02:15.050243",
+        "start": "2026-09-11T07:02:04.681417",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7580,10 +7437,10 @@ const bidEvents = [
         "description": "수요기관: 개인정보보호위원회 | 공고번호: R26BK01687253"
     },
     {
-        "id": "g2b-api-4563948632146790293",
+        "id": "g2b-api-2054385607299645951",
         "title": "석유화학 버티컬 AI모델·서비스 구축용 GPU시스템",
         "organization": "재단법인 울산정보산업진흥원",
-        "start": "2026-09-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
         "deadline": "2026-09-30T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7591,10 +7448,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 울산정보산업진흥원 | 공고번호: R26BK01708133"
     },
     {
-        "id": "g2b-api-3313714700750269518",
+        "id": "g2b-api-1286405578185551002",
         "title": "HRDK AI 플랫폼 구축을 위한 GPU 서버 구매 및 설치 사업",
         "organization": "한국산업인력공단",
-        "start": "2026-09-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7602,10 +7459,10 @@ const bidEvents = [
         "description": "수요기관: 한국산업인력공단 | 공고번호: R26BK01691142"
     },
     {
-        "id": "g2b-api-7962596806738278455",
+        "id": "g2b-api-16601702663236038",
         "title": "직업훈련 AI 심사평가시스템 구축 사업 감리용역",
         "organization": "한국산업인력공단",
-        "start": "2026-09-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7613,65 +7470,54 @@ const bidEvents = [
         "description": "수요기관: 한국산업인력공단 | 공고번호: R26BK01700890"
     },
     {
-        "id": "g2b-api-4943593408083493891",
-        "title": "2026년도 직업훈련 AI 심사시스템 클라우드 서비스 임차(laaS) 및 운영·관리 용역",
-        "organization": "한국산업인력공단",
-        "start": "2026-09-09T07:02:15.051243",
-        "deadline": "2026-08-26T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669240&bidPbancOrd=000",
-        "description": "수요기관: 한국산업인력공단 | 공고번호: R26BK01669240"
-    },
-    {
-        "id": "g2b-api-5249138359297231586",
+        "id": "g2b-api-2913661209011329905",
         "title": "2026년 자본재공제조합 VIP조합원 교류행사 개최",
         "organization": "자본재공제조합",
-        "start": "2026-09-09T07:02:15.051243",
-        "deadline": "2026-10-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
+        "deadline": "2026-10-11T07:02:04.682417",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715257&bidPbancOrd=001",
         "description": "수요기관: 자본재공제조합 | 공고번호: R26BK01715257"
     },
     {
-        "id": "g2b-api-4625492815172258458",
+        "id": "g2b-api-6670431354111524006",
         "title": "AI 보증신청 및 챗봇 시스템 개발",
         "organization": "자본재공제조합",
-        "start": "2026-09-09T07:02:15.051243",
-        "deadline": "2026-10-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
+        "deadline": "2026-10-11T07:02:04.682417",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01703784&bidPbancOrd=000",
         "description": "수요기관: 자본재공제조합 | 공고번호: R26BK01703784"
     },
     {
-        "id": "g2b-api-5278321719201369895",
+        "id": "g2b-api-4610704985926111867",
         "title": "2026년 자본재공제조합 VIP조합원 교류행사 개최",
         "organization": "자본재공제조합",
-        "start": "2026-09-09T07:02:15.051243",
-        "deadline": "2026-10-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
+        "deadline": "2026-10-11T07:02:04.682417",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715347&bidPbancOrd=000",
         "description": "수요기관: 자본재공제조합 | 공고번호: R26BK01715347"
     },
     {
-        "id": "g2b-api-6416799485995959270",
+        "id": "g2b-api-7763107021771319524",
         "title": "AI 보증신청 및 챗봇 시스템 개발",
         "organization": "자본재공제조합",
-        "start": "2026-09-09T07:02:15.051243",
-        "deadline": "2026-10-09T07:02:15.051243",
+        "start": "2026-09-11T07:02:04.682417",
+        "deadline": "2026-10-11T07:02:04.682417",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682417&bidPbancOrd=000",
         "description": "수요기관: 자본재공제조합 | 공고번호: R26BK01682417"
     },
     {
-        "id": "g2b-api-4696468197016296275",
+        "id": "g2b-api-9041182927552794250",
         "title": "2026학년도 국립창원대학교 대동제 행사 용역",
         "organization": "국립창원대학교",
-        "start": "2026-09-09T07:02:15.052243",
+        "start": "2026-09-11T07:02:04.682417",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7679,10 +7525,10 @@ const bidEvents = [
         "description": "수요기관: 국립창원대학교 | 공고번호: R26BK01692372"
     },
     {
-        "id": "g2b-api-1190010662369503398",
+        "id": "g2b-api-4854595487466355110",
         "title": "2026학년도 국립창원대학교 대동제 행사 용역",
         "organization": "국립창원대학교",
-        "start": "2026-09-09T07:02:15.052243",
+        "start": "2026-09-11T07:02:04.682417",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7690,10 +7536,10 @@ const bidEvents = [
         "description": "수요기관: 국립창원대학교 | 공고번호: R26BK01713817"
     },
     {
-        "id": "g2b-api-6430250769589010580",
+        "id": "g2b-api-4149166713998026291",
         "title": "2026울산불꽃축제 행사대행 용역(긴급)",
         "organization": "(주)경상일보",
-        "start": "2026-09-09T07:02:15.052243",
+        "start": "2026-09-11T07:02:04.683417",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7701,10 +7547,10 @@ const bidEvents = [
         "description": "수요기관: (주)경상일보 | 공고번호: R26BK01681381"
     },
     {
-        "id": "g2b-api-9220656770530369970",
+        "id": "g2b-api-1974599125916003275",
         "title": "2026 화성시 평생학습축제 행사 대행 용역",
         "organization": "경기도 화성시",
-        "start": "2026-09-09T07:02:20.649264",
+        "start": "2026-09-11T07:02:04.683417",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7712,10 +7558,21 @@ const bidEvents = [
         "description": "수요기관: 경기도 화성시 | 공고번호: R26BK01678239"
     },
     {
-        "id": "g2b-api-8081677267620625407",
+        "id": "g2b-api-5506987378164679929",
+        "title": "경성대학교 소방공무원 맞춤형 AI 다중모달 심리진단 및 통합 데이터 관리 시스템 개발 용역 입찰 (긴급) 재공고",
+        "organization": "경성대학교 직속기관 산학협력단",
+        "start": "2026-09-11T07:02:04.684417",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718694&bidPbancOrd=000",
+        "description": "수요기관: 경성대학교 직속기관 산학협력단 | 공고번호: R26BK01718694"
+    },
+    {
+        "id": "g2b-api-3423188598135127074",
         "title": "경성대학교 2026 산학연협력 EXPO 부대행사 연계 K-MEGA LYRICS Challenge 운영 위탁 용역 소액수의 견적 제출 안내 공고",
         "organization": "경성대학교 직속기관 산학협력단",
-        "start": "2026-09-09T07:02:20.650264",
+        "start": "2026-09-11T07:02:04.684417",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7723,32 +7580,21 @@ const bidEvents = [
         "description": "수요기관: 경성대학교 직속기관 산학협력단 | 공고번호: R26BK01709064"
     },
     {
-        "id": "g2b-api-6878511310485289746",
-        "title": "KIGAM IP품질 강화 지원(AI 활용) 용역",
+        "id": "g2b-api-4449673155183580386",
+        "title": "지질자원 분야 AI 활용 교육 커리큘럼 개발 용역",
         "organization": "한국지질자원연구원",
-        "start": "2026-09-09T07:02:20.650264",
-        "deadline": "2026-08-21T00:00:00",
+        "start": "2026-09-11T07:02:04.685417",
+        "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01614759&bidPbancOrd=001",
-        "description": "수요기관: 한국지질자원연구원 | 공고번호: R26BK01614759"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723782&bidPbancOrd=000",
+        "description": "수요기관: 한국지질자원연구원 | 공고번호: R26BK01723782"
     },
     {
-        "id": "g2b-api-3941653266524309875",
-        "title": "국가기본지질도 완간 국제학술포럼 행사대행용역",
-        "organization": "한국지질자원연구원",
-        "start": "2026-09-09T07:02:20.650264",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674964&bidPbancOrd=000",
-        "description": "수요기관: 한국지질자원연구원 | 공고번호: R26BK01674964"
-    },
-    {
-        "id": "g2b-api-5770816049515037746",
+        "id": "g2b-api-2177324360149851632",
         "title": "2026년 IMO SMART-C Women 프로그램 행사개최 지원 용역(긴급)",
         "organization": "한국해양수산연수원",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7756,10 +7602,10 @@ const bidEvents = [
         "description": "수요기관: 한국해양수산연수원 | 공고번호: R26BK01684475"
     },
     {
-        "id": "g2b-api-1967957470870405147",
+        "id": "g2b-api-4819865922416603424",
         "title": "제11회 도시재생 한마당 행사대행 용역",
         "organization": "주택도시보증공사",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7767,10 +7613,21 @@ const bidEvents = [
         "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01684510"
     },
     {
-        "id": "g2b-api-2334801184546957841",
+        "id": "g2b-api-7912171673448516214",
+        "title": "제11회 국제주택도시금융포럼 행사대행용역",
+        "organization": "주택도시보증공사",
+        "start": "2026-09-11T07:02:10.272967",
+        "deadline": "2026-09-23T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718795&bidPbancOrd=000",
+        "description": "수요기관: 주택도시보증공사 | 공고번호: R26BK01718795"
+    },
+    {
+        "id": "g2b-api-8444829008226923205",
         "title": "제6회 대한민국 착한기부대상 시상식 행사 운영",
         "organization": "행정안전부",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7778,10 +7635,10 @@ const bidEvents = [
         "description": "수요기관: 행정안전부 | 공고번호: R26BK01684687"
     },
     {
-        "id": "g2b-api-4511563167730909601",
+        "id": "g2b-api-3095721501478435045",
         "title": "제16기 국민추천포상 수여식 행사 용역",
         "organization": "행정안전부",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7789,10 +7646,10 @@ const bidEvents = [
         "description": "수요기관: 행정안전부 | 공고번호: R26BK01684895"
     },
     {
-        "id": "g2b-api-816606378752571941",
+        "id": "g2b-api-941248884308200109",
         "title": "[긴급] AI기술·로컬 창업 역량강화 프로그램 운영 용역",
         "organization": "호서대학교 산학협력단",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7800,10 +7657,10 @@ const bidEvents = [
         "description": "수요기관: 호서대학교 산학협력단 | 공고번호: R26BK01703154"
     },
     {
-        "id": "g2b-api-5291324710100538219",
+        "id": "g2b-api-5646500963322780920",
         "title": "[변경공고] AI반디차기술투자협회 운영 및 충청 스타트업 포럼·투자유치 통합 용역",
         "organization": "호서대학교 산학협력단",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7811,10 +7668,10 @@ const bidEvents = [
         "description": "수요기관: 호서대학교 산학협력단 | 공고번호: R26BK01694360"
     },
     {
-        "id": "g2b-api-164795863982054059",
+        "id": "g2b-api-843240916509049130",
         "title": "[긴급] AI반디차기술투자협회 운영 및 충청 스타트업 포럼·투자유치 통합 용역",
         "organization": "호서대학교 산학협력단",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7822,10 +7679,21 @@ const bidEvents = [
         "description": "수요기관: 호서대학교 산학협력단 | 공고번호: R26BK01694360"
     },
     {
-        "id": "g2b-api-3274538329803987776",
+        "id": "g2b-api-1988001312124802785",
+        "title": "[재공고] AI반디차기술투자협회 운영 및 충청 스타트업 포럼·투자유치 통합 용역",
+        "organization": "호서대학교 산학협력단",
+        "start": "2026-09-11T07:02:10.272967",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723165&bidPbancOrd=000",
+        "description": "수요기관: 호서대학교 산학협력단 | 공고번호: R26BK01723165"
+    },
+    {
+        "id": "g2b-api-3733704004416921903",
         "title": "[긴급] 2026년도 산학협력 페스티벌 행사 용역",
         "organization": "호서대학교 산학협력단",
-        "start": "2026-09-09T07:02:20.651264",
+        "start": "2026-09-11T07:02:10.272967",
         "deadline": "2026-09-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7833,10 +7701,10 @@ const bidEvents = [
         "description": "수요기관: 호서대학교 산학협력단 | 공고번호: R26BK01715463"
     },
     {
-        "id": "g2b-api-2111103801853705716",
+        "id": "g2b-api-5507929885177698909",
         "title": "2026 울산공업축제 행사장 전기 임시 설치 철거 공사",
         "organization": "울산광역시",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7844,10 +7712,10 @@ const bidEvents = [
         "description": "수요기관: 울산광역시 | 공고번호: R26BK01714949"
     },
     {
-        "id": "g2b-api-7059172116564854383",
+        "id": "g2b-api-8682878793884998206",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 웨어링부 자재 수급 및 제작",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7855,10 +7723,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01714530"
     },
     {
-        "id": "g2b-api-4638179633504619164",
+        "id": "g2b-api-2451875208361254405",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 제품 가공",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7866,10 +7734,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01714465"
     },
     {
-        "id": "g2b-api-6671046288573203213",
+        "id": "g2b-api-6688087758542598363",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 전동기 회전자 고정자 구매 ",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7877,10 +7745,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01713360"
     },
     {
-        "id": "g2b-api-1060410107469932744",
+        "id": "g2b-api-7959673634319291413",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 AI부 자율진단 개발",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7888,10 +7756,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01719264"
     },
     {
-        "id": "g2b-api-6758489156316842024",
+        "id": "g2b-api-3223023538476660210",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 AI부 자율진단 개발",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7899,10 +7767,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01698218"
     },
     {
-        "id": "g2b-api-1251122063035219942",
+        "id": "g2b-api-1867784162963854036",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 목형 제조 구매",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7910,10 +7778,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01714486"
     },
     {
-        "id": "g2b-api-267537625766297369",
+        "id": "g2b-api-4377064244889962664",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 웨어링부 자재 수급 및 제작",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7921,10 +7789,21 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01687170"
     },
     {
-        "id": "g2b-api-6672848943459031566",
+        "id": "g2b-api-2320450579838716217",
+        "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 주물품 구매 ",
+        "organization": "(유)한성산기",
+        "start": "2026-09-11T07:02:10.273967",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724243&bidPbancOrd=000",
+        "description": "수요기관: (유)한성산기 | 공고번호: R26BK01724243"
+    },
+    {
+        "id": "g2b-api-5032654690246031719",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 제품 가공",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7932,10 +7811,10 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01689156"
     },
     {
-        "id": "g2b-api-7084341455729422454",
+        "id": "g2b-api-6796964698756800349",
         "title": "나노복합 웨어링 및 AI 기반 자율진단 기술이 적용된 중대형 펌프 개발을 위한 전동기 회전자 고정자 구매 ",
         "organization": "(유)한성산기",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7943,21 +7822,21 @@ const bidEvents = [
         "description": "수요기관: (유)한성산기 | 공고번호: R26BK01688650"
     },
     {
-        "id": "g2b-api-721440121063645105",
+        "id": "g2b-api-8101399571705393480",
         "title": "「2026년 앵커사업」성인학습자 맞춤형 실용영어 AI연계 콘텐츠 개발 용역",
         "organization": "성운대학교 산학협력단",
-        "start": "2026-09-09T07:02:20.652264",
-        "deadline": "2026-10-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
+        "deadline": "2026-10-11T07:02:10.273967",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717040&bidPbancOrd=000",
         "description": "수요기관: 성운대학교 산학협력단 | 공고번호: R26BK01717040"
     },
     {
-        "id": "g2b-api-3395476382062339903",
+        "id": "g2b-api-1455624209805003203",
         "title": "2026년도 충주 장미산성 발굴조사 성과 공개회 및 출토유물 특별 공개회 행사 기획·운영",
         "organization": "국가유산청 국립문화유산연구원 국립중원문화유산연구소",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-08-28T00:00:00",
         "category": "event",
         "source": "gov",
@@ -7965,10 +7844,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 국립문화유산연구원 국립중원문화유산연구소 | 공고번호: R26BK01700712"
     },
     {
-        "id": "g2b-api-5071243340617198546",
+        "id": "g2b-api-6242187707748417158",
         "title": "소상공인 온라인 입점 지원을 위한 생성형 AI 상세페이지 제작 지원 용역",
         "organization": "(주)씨앤컴",
-        "start": "2026-09-09T07:02:20.652264",
+        "start": "2026-09-11T07:02:10.273967",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7976,21 +7855,10 @@ const bidEvents = [
         "description": "수요기관: (주)씨앤컴 | 공고번호: R26BK01691091"
     },
     {
-        "id": "g2b-api-7673077359491454636",
-        "title": "소상공인 온라인 입점 지원을 위한 생성형 AI 상세페이지 제작 지원 용역",
-        "organization": "(주)씨앤컴",
-        "start": "2026-09-09T07:02:20.652264",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01661576&bidPbancOrd=001",
-        "description": "수요기관: (주)씨앤컴 | 공고번호: R26BK01661576"
-    },
-    {
-        "id": "g2b-api-9023198827701215224",
+        "id": "g2b-api-3510643527297043641",
         "title": "AI 기반 스마트 감사행정 지원시스템 구축 위탁감리",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:02:20.653263",
+        "start": "2026-09-11T07:02:10.274967",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -7998,10 +7866,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01677552"
     },
     {
-        "id": "g2b-api-5901101265684193997",
+        "id": "g2b-api-8587762735935921190",
         "title": "AI 통제초소(용정 및 가송초소) 설치,운영 용역",
         "organization": "충청남도 천안시",
-        "start": "2026-09-09T07:02:20.654265",
+        "start": "2026-09-11T07:02:10.274967",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8009,10 +7877,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도 천안시 | 공고번호: R26BK01707438"
     },
     {
-        "id": "g2b-api-6572201739842925756",
+        "id": "g2b-api-604930600340224924",
         "title": "경상국립대학교 공과대학 실험실습기자재(교체) AI서버 1종 1대 구매 소액수의 견적 제출 안내 공고",
         "organization": "경상국립대학교",
-        "start": "2026-09-09T07:02:20.654265",
+        "start": "2026-09-11T07:02:10.275967",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8020,10 +7888,10 @@ const bidEvents = [
         "description": "수요기관: 경상국립대학교 | 공고번호: R26BK01693675"
     },
     {
-        "id": "g2b-api-248481097523656036",
+        "id": "g2b-api-4012401225850663941",
         "title": "청주 다목적 실내체육관 교통영향평가 이행사업 폐기물처리용역",
         "organization": "충청북도 청주시",
-        "start": "2026-09-09T07:02:20.655268",
+        "start": "2026-09-11T07:02:10.275967",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8031,10 +7899,21 @@ const bidEvents = [
         "description": "수요기관: 충청북도 청주시 | 공고번호: R26BK01682792"
     },
     {
-        "id": "g2b-api-5360469070919560786",
+        "id": "g2b-api-3710861362381936889",
+        "title": "2026학년도 중앙대학교 일반대학원 FAIR 행사 대행용역",
+        "organization": "중앙대학교",
+        "start": "2026-09-11T07:02:10.275967",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723933&bidPbancOrd=000",
+        "description": "수요기관: 중앙대학교 | 공고번호: R26BK01723933"
+    },
+    {
+        "id": "g2b-api-7647964323872238094",
         "title": "대한민국농구협회 통합정보시스템 AI 에이전트 구축",
         "organization": "사단법인 대한민국농구협회",
-        "start": "2026-09-09T07:02:20.656264",
+        "start": "2026-09-11T07:02:10.277223",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8042,21 +7921,21 @@ const bidEvents = [
         "description": "수요기관: 사단법인 대한민국농구협회 | 공고번호: R26BK01715250"
     },
     {
-        "id": "g2b-api-7526171767478023599",
+        "id": "g2b-api-8373375215644841451",
         "title": "Physical AI Challenge 「PAC 2026」-운영대행 용역",
         "organization": "(주)영남일보",
-        "start": "2026-09-09T07:02:20.656264",
-        "deadline": "2026-10-09T07:02:20.656264",
+        "start": "2026-09-11T07:02:10.277223",
+        "deadline": "2026-10-11T07:02:10.277223",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681525&bidPbancOrd=000",
         "description": "수요기관: (주)영남일보 | 공고번호: R26BK01681525"
     },
     {
-        "id": "g2b-api-6408027609400335959",
+        "id": "g2b-api-1400629906974581503",
         "title": "2026 대한민국 관광공모전(사진) 시상식 및 사진전시회 운영",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.277223",
         "deadline": "2026-09-04T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -8064,10 +7943,10 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01694313"
     },
     {
-        "id": "g2b-api-82753985824998970",
+        "id": "g2b-api-6337155761592425298",
         "title": "러닝 대회·행사 연계 지역 체류 관광 콘텐츠 기획 및 운영",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.277223",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8075,10 +7954,10 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01686116"
     },
     {
-        "id": "g2b-api-1684064593293074474",
+        "id": "g2b-api-6299167223156668277",
         "title": "2026 대한민국 관광공모전(사진) 시상식 및 사진전시회 운영",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.277223",
         "deadline": "2026-08-18T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -8086,10 +7965,10 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01671782"
     },
     {
-        "id": "g2b-api-2423048071966872595",
+        "id": "g2b-api-1612936528211843641",
         "title": "AI 기반 주차정보 분석 및 데이터 연계 사업",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8097,10 +7976,10 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01679020"
     },
     {
-        "id": "g2b-api-2484885264006967049",
+        "id": "g2b-api-8700085774158887390",
         "title": "안정적인 AI 서비스를 위한 콜인프라 교체(1차)",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8108,10 +7987,10 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01715875"
     },
     {
-        "id": "g2b-api-8724968847063544733",
+        "id": "g2b-api-5163452424136903390",
         "title": "2026 방한 의료관광 시장조사 및 의료관광 중장기 사업 전략수립",
         "organization": "한국관광공사",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-09-15T00:00:00",
         "category": "market",
         "source": "gov",
@@ -8119,32 +7998,32 @@ const bidEvents = [
         "description": "수요기관: 한국관광공사 | 공고번호: R26BK01714134"
     },
     {
-        "id": "g2b-api-2283244362036388509",
+        "id": "g2b-api-6934154389325056332",
         "title": "나사렛대학교 잡(JOB)아라 페스티벌 행사대행 용역 제안 공모",
         "organization": "나사렛대학교",
-        "start": "2026-09-09T07:02:20.657264",
-        "deadline": "2026-10-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
+        "deadline": "2026-10-11T07:02:10.278223",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708563&bidPbancOrd=000",
         "description": "수요기관: 나사렛대학교 | 공고번호: R26BK01708563"
     },
     {
-        "id": "g2b-api-2935588979374699761",
+        "id": "g2b-api-9027407728277823978",
         "title": "나사렛대학교 잡(JOB)아라 페스티벌 행사대행 용역 제안 공모",
         "organization": "나사렛대학교",
-        "start": "2026-09-09T07:02:20.657264",
-        "deadline": "2026-10-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
+        "deadline": "2026-10-11T07:02:10.278223",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686191&bidPbancOrd=000",
         "description": "수요기관: 나사렛대학교 | 공고번호: R26BK01686191"
     },
     {
-        "id": "g2b-api-4487522970157938116",
+        "id": "g2b-api-863308990403104380",
         "title": "예림디자인고 AI 융합형교실 구축 전기공사 소액수의 견적제출",
         "organization": "서울특별시교육청 예림디자인고등학교",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8152,10 +8031,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시교육청 예림디자인고등학교 | 공고번호: R26BK01708195"
     },
     {
-        "id": "g2b-api-7265738297954727727",
+        "id": "g2b-api-8618195166772875817",
         "title": "예림디자인고 AI 융합형교실 구축 건축공사 소액수의 견적제출",
         "organization": "서울특별시교육청 예림디자인고등학교",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8163,10 +8042,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시교육청 예림디자인고등학교 | 공고번호: R26BK01708052"
     },
     {
-        "id": "g2b-api-1091531290558196469",
+        "id": "g2b-api-8579297357771631862",
         "title": "AI 기반 학교 현장 플랫폼 통합 구축 및 운영",
         "organization": "한국과학창의재단",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8174,10 +8053,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학창의재단 | 공고번호: R26BK01704259"
     },
     {
-        "id": "g2b-api-3272953357003387125",
+        "id": "g2b-api-1116778830370478993",
         "title": "2026년 AI동행 데모데이 기획·운영 및 성과 확산",
         "organization": "한국과학창의재단",
-        "start": "2026-09-09T07:02:20.657264",
+        "start": "2026-09-11T07:02:10.278223",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8185,10 +8064,21 @@ const bidEvents = [
         "description": "수요기관: 한국과학창의재단 | 공고번호: R26BK01690141"
     },
     {
-        "id": "g2b-api-8899500443917404036",
+        "id": "g2b-api-3360550859671905482",
+        "title": "2026년 AI활용 초기상담정보시스템 업무 편의성 개선",
+        "organization": "한국사회보장정보원",
+        "start": "2026-09-11T07:02:10.279223",
+        "deadline": "2026-10-01T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721025&bidPbancOrd=000",
+        "description": "수요기관: 한국사회보장정보원 | 공고번호: R26BK01721025"
+    },
+    {
+        "id": "g2b-api-2292713090444349276",
         "title": "2026년 가을 바로마켓 가평점 행사 운영요원 인력 용역 소액수의 견적 제출 안내 공고",
         "organization": "가평군시설관리공단",
-        "start": "2026-09-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8196,43 +8086,43 @@ const bidEvents = [
         "description": "수요기관: 가평군시설관리공단 | 공고번호: R26BK01684962"
     },
     {
-        "id": "g2b-api-2722200499457593262",
+        "id": "g2b-api-3277297668505622112",
         "title": "제조업 AI 활용기반 조사 및 경북 AI 얼라이언스 분과 활동 지원 용역",
         "organization": "재단법인 포항테크노파크",
-        "start": "2026-09-09T07:02:24.859890",
-        "deadline": "2026-10-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
+        "deadline": "2026-10-11T07:02:10.279223",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692196&bidPbancOrd=000",
         "description": "수요기관: 재단법인 포항테크노파크 | 공고번호: R26BK01692196"
     },
     {
-        "id": "g2b-api-2815109922027312490",
+        "id": "g2b-api-5266470138765268957",
         "title": "2026년도 방송미디어통신 학술행사 공모 실시(방송미디어 분야)",
         "organization": "방송미디어통신위원회",
-        "start": "2026-09-09T07:02:24.859890",
-        "deadline": "2026-10-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
+        "deadline": "2026-10-11T07:02:10.279223",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716242&bidPbancOrd=000",
         "description": "수요기관: 방송미디어통신위원회 | 공고번호: R26BK01716242"
     },
     {
-        "id": "g2b-api-2559063830857090576",
+        "id": "g2b-api-3600614179457950495",
         "title": "2026년도 방송미디어통신 학술행사 공모 실시(통신 분야)",
         "organization": "방송미디어통신위원회",
-        "start": "2026-09-09T07:02:24.859890",
-        "deadline": "2026-10-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
+        "deadline": "2026-10-11T07:02:10.279223",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716719&bidPbancOrd=000",
         "description": "수요기관: 방송미디어통신위원회 | 공고번호: R26BK01716719"
     },
     {
-        "id": "g2b-api-838336915553316407",
+        "id": "g2b-api-7614619186642263939",
         "title": "시멘트 업종 AI 자율제조를 위한 Process Upgrade 기술 개발[전력 계측 시스템]",
         "organization": "(주) 삼표시멘트",
-        "start": "2026-09-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8240,10 +8130,10 @@ const bidEvents = [
         "description": "수요기관: (주) 삼표시멘트 | 공고번호: R26BK01691851"
     },
     {
-        "id": "g2b-api-6986414739570073971",
+        "id": "g2b-api-1602713702883091568",
         "title": "시멘트 업종 AI 자율제조를 위한 Process Upgrade 기술 개발[계측 센서류]",
         "organization": "(주) 삼표시멘트",
-        "start": "2026-09-09T07:02:24.859890",
+        "start": "2026-09-11T07:02:10.279223",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8251,10 +8141,10 @@ const bidEvents = [
         "description": "수요기관: (주) 삼표시멘트 | 공고번호: R26BK01691855"
     },
     {
-        "id": "g2b-api-192625290472767163",
+        "id": "g2b-api-61290166574785424",
         "title": "Smart Physio Adaptive Learning & Training Intensive Course 관련 기자재 소액수의 견적서 제출 공고",
         "organization": "강릉영동대학 산학협력단",
-        "start": "2026-09-09T07:02:24.860886",
+        "start": "2026-09-11T07:02:10.279223",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8262,10 +8152,10 @@ const bidEvents = [
         "description": "수요기관: 강릉영동대학 산학협력단 | 공고번호: R26BK01713473"
     },
     {
-        "id": "g2b-api-231775502951441296",
+        "id": "g2b-api-7044048160529870561",
         "title": "AI의료 기술 개발 고도화 관련 임상연구정보검색시스템(CDW) 구축",
         "organization": "원광대학교 광주한방병원, 원광병원",
-        "start": "2026-09-09T07:02:24.860886",
+        "start": "2026-09-11T07:02:10.280222",
         "deadline": "2026-09-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8273,10 +8163,10 @@ const bidEvents = [
         "description": "수요기관: 원광대학교 광주한방병원, 원광병원 | 공고번호: R26BK01709248"
     },
     {
-        "id": "g2b-api-921971890225416891",
+        "id": "g2b-api-2872325903364154191",
         "title": "AI 의료 기술 개발 고도화 관련 다기관 임상데이터 연계⦁검증(Dataset) 구축 사업",
         "organization": "원광대학교 광주한방병원, 원광병원",
-        "start": "2026-09-09T07:02:24.860886",
+        "start": "2026-09-11T07:02:10.280222",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8284,10 +8174,10 @@ const bidEvents = [
         "description": "수요기관: 원광대학교 광주한방병원, 원광병원 | 공고번호: R26BK01681859"
     },
     {
-        "id": "g2b-api-7271116833870331522",
+        "id": "g2b-api-6737114160072591894",
         "title": "AI의료 기술 개발 고도화 관련 임상연구정보검색시스템(CDW) 구축",
         "organization": "원광대학교 광주한방병원, 원광병원",
-        "start": "2026-09-09T07:02:24.860886",
+        "start": "2026-09-11T07:02:10.280222",
         "deadline": "2026-09-29T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8295,10 +8185,10 @@ const bidEvents = [
         "description": "수요기관: 원광대학교 광주한방병원, 원광병원 | 공고번호: R26BK01709540"
     },
     {
-        "id": "g2b-api-7009851743799252785",
+        "id": "g2b-api-2248836185479609777",
         "title": "지역주도형 AI 대전환 사업",
         "organization": "좋은영농조합법인",
-        "start": "2026-09-09T07:02:24.860886",
+        "start": "2026-09-11T07:02:10.280222",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8306,32 +8196,21 @@ const bidEvents = [
         "description": "수요기관: 좋은영농조합법인 | 공고번호: R26BK01714588"
     },
     {
-        "id": "g2b-api-2823302045148578851",
-        "title": "위성용 AI 탑재컴퓨터 설계 평가용 보드",
-        "organization": "한국항공우주연구원",
-        "start": "2026-09-09T07:02:24.860886",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677752&bidPbancOrd=000",
-        "description": "수요기관: 한국항공우주연구원 | 공고번호: R26BK01677752"
-    },
-    {
-        "id": "g2b-api-6698457006810286286",
-        "title": "2026학년도 AI상담 프로그램 운영 용역",
+        "id": "g2b-api-2039628249447967518",
+        "title": "2026년 제6회 비교과 페스타 행사 운영 용역",
         "organization": "서울특별시 서울시립대학교",
-        "start": "2026-09-09T07:02:24.861886",
-        "deadline": "2026-08-11T00:00:00",
-        "category": "ai",
+        "start": "2026-09-11T07:02:10.280222",
+        "deadline": "2026-09-09T00:00:00",
+        "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675476&bidPbancOrd=000",
-        "description": "수요기관: 서울특별시 서울시립대학교 | 공고번호: R26BK01675476"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719877&bidPbancOrd=000",
+        "description": "수요기관: 서울특별시 서울시립대학교 | 공고번호: R26BK01719877"
     },
     {
-        "id": "g2b-api-19824104383968750",
+        "id": "g2b-api-5405367688968924127",
         "title": "2026년 사회복무대상 시상식 행사 용역",
         "organization": "병무청",
-        "start": "2026-09-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.948011",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8339,10 +8218,10 @@ const bidEvents = [
         "description": "수요기관: 병무청 | 공고번호: R26BK01686005"
     },
     {
-        "id": "g2b-api-4888142593133976908",
+        "id": "g2b-api-7168227455928837548",
         "title": "2026 스포츠안전의 밤 행사 및 아시아 스포츠안전 회의",
         "organization": "재단법인 스포츠안전재단",
-        "start": "2026-09-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8350,10 +8229,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 스포츠안전재단 | 공고번호: R26BK01704482"
     },
     {
-        "id": "g2b-api-7105159130010416200",
+        "id": "g2b-api-4590761795027252467",
         "title": "2026년 일자리 으뜸기업 인증식, 2026년 일자리 창출 유공 정부포상 수여식 행사 위탁 ",
         "organization": "고용노동부",
-        "start": "2026-09-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8361,21 +8240,21 @@ const bidEvents = [
         "description": "수요기관: 고용노동부 | 공고번호: R26BK01709043"
     },
     {
-        "id": "g2b-api-7807889204956777428",
+        "id": "g2b-api-2795541227541225111",
         "title": "2026년 으뜸기업 및 일자리창출 정부포상 행사 운영 수의계약 안내 공고",
         "organization": "고용노동부",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698613&bidPbancOrd=000",
         "description": "수요기관: 고용노동부 | 공고번호: R26BK01698613"
     },
     {
-        "id": "g2b-api-3615951267179001090",
+        "id": "g2b-api-3717993290362393209",
         "title": " 2026년 제주창조경제혁신센터 제주 지역창업페스티벌 X 스타트업 위크 행사 운영 대행 용역",
         "organization": "(재)제주창조경제혁신센터",
-        "start": "2026-09-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
         "deadline": "2026-09-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8383,120 +8262,76 @@ const bidEvents = [
         "description": "수요기관: (재)제주창조경제혁신센터 | 공고번호: R26BK01704827"
     },
     {
-        "id": "g2b-api-9112100947082644180",
-        "title": "[지역 주도형 AI 대전환 사업] AI 기반 알루미늄 EV 부품 제조를 위한 Smart Vacuum Brazing Process 시스템 구축",
-        "organization": "(주)하이박",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-08-20T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674421&bidPbancOrd=000",
-        "description": "수요기관: (주)하이박 | 공고번호: R26BK01674421"
-    },
-    {
-        "id": "g2b-api-6263945117880648333",
+        "id": "g2b-api-240141116926106583",
         "title": "2026 이천 첨단드론대전 행사 운영 용역",
         "organization": "경기도 이천시",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712501&bidPbancOrd=000",
         "description": "수요기관: 경기도 이천시 | 공고번호: R26BK01712501"
     },
     {
-        "id": "g2b-api-568893643719914244",
+        "id": "g2b-api-6122206934214137242",
         "title": "조립PC(AI 실험용)",
         "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694937&bidPbancOrd=000",
         "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01694937"
     },
     {
-        "id": "g2b-api-1444732234637517991",
+        "id": "g2b-api-4397232466436014296",
         "title": "노트북컴퓨터(고성능 온디바이스 AI 구동 시스템 Legion Pro 5 16IAX10H U9 5070Ti Plus 83LU000UKR)",
         "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.862886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710308&bidPbancOrd=000",
         "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01710308"
     },
     {
-        "id": "g2b-api-3295351899490874523",
-        "title": "AI서버(NVIDIA DGX Spark)",
-        "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.862886",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677349&bidPbancOrd=001",
-        "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01677349"
-    },
-    {
-        "id": "g2b-api-4121797042135075198",
-        "title": "AI서버(NVIDIA DGX Spark)",
-        "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.862886",
-        "deadline": "2026-10-09T07:02:24.863886",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677381&bidPbancOrd=000",
-        "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01677381"
-    },
-    {
-        "id": "g2b-api-4230748070728362706",
+        "id": "g2b-api-5975673107520145814",
         "title": "노트북컴퓨터(LG gram Pro AI 16 16Z90U-KS5EK 1TB, 32GB)",
         "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.863886",
-        "deadline": "2026-10-09T07:02:24.863886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685422&bidPbancOrd=000",
         "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01685422"
     },
     {
-        "id": "g2b-api-7450602392223988664",
+        "id": "g2b-api-43771451338247325",
         "title": "조립PC(AI 실험용)",
         "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.863886",
-        "deadline": "2026-10-09T07:02:24.863886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682180&bidPbancOrd=000",
         "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01682180"
     },
     {
-        "id": "g2b-api-3318472803100140468",
+        "id": "g2b-api-7431918571946563708",
         "title": "노트북컴퓨터(고성능 온디바이스 AI 구동 시스템 Legion Pro 5 16IAX10H U9 5070Ti Plus 83LU000UKR)",
         "organization": "광운대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.863886",
-        "deadline": "2026-10-09T07:02:24.863886",
+        "start": "2026-09-11T07:02:14.949009",
+        "deadline": "2026-10-11T07:02:14.949009",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697514&bidPbancOrd=000",
         "description": "수요기관: 광운대학교 산학협력단 | 공고번호: R26BK01697514"
     },
     {
-        "id": "g2b-api-4704139742316152809",
-        "title": "AI기반 발달장애인 도전적 행동 중재",
-        "organization": "노원발달장애인평생교육센터",
-        "start": "2026-09-09T07:02:24.863886",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677038&bidPbancOrd=000",
-        "description": "수요기관: 노원발달장애인평생교육센터 | 공고번호: R26BK01677038"
-    },
-    {
-        "id": "g2b-api-6975736782607692041",
+        "id": "g2b-api-7199753579830948105",
         "title": "AI기반 발달장애인 도전적 행동 중재사업",
         "organization": "노원발달장애인평생교육센터",
-        "start": "2026-09-09T07:02:24.863886",
+        "start": "2026-09-11T07:02:14.950008",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8504,21 +8339,10 @@ const bidEvents = [
         "description": "수요기관: 노원발달장애인평생교육센터 | 공고번호: R26BK01698697"
     },
     {
-        "id": "g2b-api-4446367586309898139",
-        "title": "정책자금 지원 성과향상을 위한 AI 서비스 개발실증(PoC) 용역",
-        "organization": "중소벤처기업진흥공단",
-        "start": "2026-09-09T07:02:24.864886",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674171&bidPbancOrd=000",
-        "description": "수요기관: 중소벤처기업진흥공단 | 공고번호: R26BK01674171"
-    },
-    {
-        "id": "g2b-api-7777183512615996256",
+        "id": "g2b-api-5232478205277753454",
         "title": "생체신호 센서 기반 생활체육 AI 분석 솔루션 개발 용역",
         "organization": "주식회사 로임시스템",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.950008",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8526,10 +8350,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 로임시스템 | 공고번호: R26BK01716571"
     },
     {
-        "id": "g2b-api-9212108553079274141",
+        "id": "g2b-api-4514305227460956170",
         "title": "2026 광주서창 억새노을마라톤(선셋런) 행사대행 용역",
         "organization": "전남광주통합특별시 서구",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8537,10 +8361,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 서구 | 공고번호: R26BK01681749"
     },
     {
-        "id": "g2b-api-4560826891922427280",
+        "id": "g2b-api-7180849870263360461",
         "title": "2026 광주서창 억새노을마라톤(선셋런) 행사대행 용역",
         "organization": "전남광주통합특별시 서구",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8548,10 +8372,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 서구 | 공고번호: R26BK01684124"
     },
     {
-        "id": "g2b-api-1227477516253303048",
+        "id": "g2b-api-4175507799001387516",
         "title": "AX-sprint AI-로드세이버 라바콘 자동 설치 차량 개조 용역",
         "organization": "건아정보기술주식회사",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8559,10 +8383,10 @@ const bidEvents = [
         "description": "수요기관: 건아정보기술주식회사 | 공고번호: R26BK01710363"
     },
     {
-        "id": "g2b-api-1078456982843404759",
+        "id": "g2b-api-6729879270611880811",
         "title": "AX-sprint AI-로드세이버 효과성 분석 용역",
         "organization": "건아정보기술주식회사",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8570,10 +8394,10 @@ const bidEvents = [
         "description": "수요기관: 건아정보기술주식회사 | 공고번호: R26BK01710310"
     },
     {
-        "id": "g2b-api-4018401509761391185",
+        "id": "g2b-api-7900445295590627373",
         "title": "AX-sprint AI-로드세이버 통합 운영 소프트웨어 및 현장운영 지원 용역",
         "organization": "건아정보기술주식회사",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8581,10 +8405,10 @@ const bidEvents = [
         "description": "수요기관: 건아정보기술주식회사 | 공고번호: R26BK01710208"
     },
     {
-        "id": "g2b-api-1171706703765639249",
+        "id": "g2b-api-8653264784206090428",
         "title": "부산형 AI서비스 확대 구축",
         "organization": "부산광역시",
-        "start": "2026-09-09T07:02:24.864886",
+        "start": "2026-09-11T07:02:14.951008",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8592,10 +8416,10 @@ const bidEvents = [
         "description": "수요기관: 부산광역시 | 공고번호: R26BK01716100"
     },
     {
-        "id": "g2b-api-5634698772625151705",
+        "id": "g2b-api-3774586321204371729",
         "title": "2026 바이오헬스케어산업전시회 온·오프라인 통합 홍보마케팅 용역",
         "organization": "(사)한국바이오특화센터협의회",
-        "start": "2026-09-09T07:02:24.865886",
+        "start": "2026-09-11T07:02:14.952008",
         "deadline": "2026-08-31T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -8603,21 +8427,10 @@ const bidEvents = [
         "description": "수요기관: (사)한국바이오특화센터협의회 | 공고번호: R26BK01689290"
     },
     {
-        "id": "g2b-api-1370286937882190940",
-        "title": "2026 바이오헬스케어산업전시회 국내 비즈매칭 상담회 운영 용역 업체 모집 공고",
-        "organization": "(사)한국바이오특화센터협의회",
-        "start": "2026-09-09T07:02:24.865886",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "exhibition",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674781&bidPbancOrd=000",
-        "description": "수요기관: (사)한국바이오특화센터협의회 | 공고번호: R26BK01674781"
-    },
-    {
-        "id": "g2b-api-5997421957560342573",
+        "id": "g2b-api-7970917154972429423",
         "title": "궁유저수지 취수문 동력밸브개폐기 구매",
         "organization": "한국농어촌공사 경남지역본부 의령지사",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.952008",
         "deadline": "2026-09-02T00:00:00",
         "category": "user",
         "source": "gov",
@@ -8625,10 +8438,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 경남지역본부 의령지사 | 공고번호: R26BK01707103"
     },
     {
-        "id": "g2b-api-2860200767105075201",
+        "id": "g2b-api-994943165672645240",
         "title": "AI 기반 해안경계체계(O작전사)(1차) 감리용역",
         "organization": "육군군수사령부",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8636,10 +8449,10 @@ const bidEvents = [
         "description": "수요기관: 육군군수사령부 | 공고번호: R26BK01702612"
     },
     {
-        "id": "g2b-api-6003602163920305486",
+        "id": "g2b-api-9011578531617255645",
         "title": "TOD AI 학습용 데이터셋 구축 및 실증모델 개발",
         "organization": "육군본부 기획관리참모부",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8647,10 +8460,10 @@ const bidEvents = [
         "description": "수요기관: 육군본부 기획관리참모부 | 공고번호: R26BK01691212"
     },
     {
-        "id": "g2b-api-1559100053142834315",
+        "id": "g2b-api-1320791565161266280",
         "title": "TOD AI 학습용 데이터셋 구축 및 실증모델 개발",
         "organization": "육군본부 기획관리참모부",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8658,10 +8471,10 @@ const bidEvents = [
         "description": "수요기관: 육군본부 기획관리참모부 | 공고번호: R26BK01693309"
     },
     {
-        "id": "g2b-api-3546549842022218613",
+        "id": "g2b-api-8921098835238312412",
         "title": "AI기반 전력성능평가체계 구축(리스자산)",
         "organization": "육군본부 기획관리참모부",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8669,10 +8482,10 @@ const bidEvents = [
         "description": "수요기관: 육군본부 기획관리참모부 | 공고번호: R26BK01678478"
     },
     {
-        "id": "g2b-api-1180005380270507599",
+        "id": "g2b-api-2622827776755684321",
         "title": "M4525 MAIN BOARD 외 3건",
         "organization": "한국원자력안전기술원",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8680,10 +8493,10 @@ const bidEvents = [
         "description": "수요기관: 한국원자력안전기술원 | 공고번호: R26BK01695984"
     },
     {
-        "id": "g2b-api-6747137792934530899",
+        "id": "g2b-api-4424579264264194365",
         "title": "(재공고) 이차전지특성화대학사업단 2026 기업리크루팅 및 현직자직무상담회 행사 용역",
         "organization": "울산대학교 산학협력단",
-        "start": "2026-09-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8691,21 +8504,21 @@ const bidEvents = [
         "description": "수요기관: 울산대학교 산학협력단 | 공고번호: R26BK01681333"
     },
     {
-        "id": "g2b-api-2407146498882334624",
+        "id": "g2b-api-6343011359834063097",
         "title": "2026년 제2회 김천시 청년의 날 기념행사「청년 어울림 오삼, 노삼!」운영 용역",
         "organization": "김천대학교산학협력단",
-        "start": "2026-09-09T07:02:24.866886",
-        "deadline": "2026-10-09T07:02:24.866886",
+        "start": "2026-09-11T07:02:14.953008",
+        "deadline": "2026-10-11T07:02:14.953008",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690388&bidPbancOrd=000",
         "description": "수요기관: 김천대학교산학협력단 | 공고번호: R26BK01690388"
     },
     {
-        "id": "g2b-api-6432645692741270105",
+        "id": "g2b-api-6528459066111285908",
         "title": "(긴급) 2026년 희망리턴패키지 재기사업화 우수사례경진대회 및 성과공유네트워킹 행사 대행 용역",
         "organization": "(사단)한국서비스표준진흥원",
-        "start": "2026-09-09T07:02:24.867886",
+        "start": "2026-09-11T07:02:14.954008",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8713,10 +8526,10 @@ const bidEvents = [
         "description": "수요기관: (사단)한국서비스표준진흥원 | 공고번호: R26BK01693739"
     },
     {
-        "id": "g2b-api-4999106420130261960",
+        "id": "g2b-api-409914580425769310",
         "title": "저압 고장모의 학습데이터 수집 및 AI 학습용 GPU 구매 ",
         "organization": "한국전기안전공사",
-        "start": "2026-09-09T07:02:30.647261",
+        "start": "2026-09-11T07:02:14.954008",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8724,10 +8537,10 @@ const bidEvents = [
         "description": "수요기관: 한국전기안전공사 | 공고번호: R26BK01689968"
     },
     {
-        "id": "g2b-api-5999308356193473310",
+        "id": "g2b-api-9204010865844747369",
         "title": "(긴급)2026년 AI 기반 지역현황 진단시스템 구축 사업 용역",
         "organization": "국립중앙의료원",
-        "start": "2026-09-09T07:02:30.648414",
+        "start": "2026-09-11T07:02:14.954008",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8735,10 +8548,10 @@ const bidEvents = [
         "description": "수요기관: 국립중앙의료원 | 공고번호: R26BK01706546"
     },
     {
-        "id": "g2b-api-3350055430794466950",
+        "id": "g2b-api-7530839942444343553",
         "title": "「2026년 역학조사관 학술대회」 행사 용역",
         "organization": "국립중앙의료원",
-        "start": "2026-09-09T07:02:30.648414",
+        "start": "2026-09-11T07:02:14.954008",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8746,10 +8559,65 @@ const bidEvents = [
         "description": "수요기관: 국립중앙의료원 | 공고번호: R26BK01713069"
     },
     {
-        "id": "g2b-api-6350082392601669793",
+        "id": "g2b-api-8932855333902231374",
+        "title": "SW·AI교육거점센터 캔버스D LED 아트 콘텐츠 영구 라이선스 구매 2인 견적제출 안내공고",
+        "organization": "부산광역시교육청 부산광역시교육청교육연구정보원",
+        "start": "2026-09-11T07:02:14.954008",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719728&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 부산광역시교육청교육연구정보원 | 공고번호: R26BK01719728"
+    },
+    {
+        "id": "g2b-api-7243464134422278804",
+        "title": "SW·AI교육거점센터 XR 체험장비 구매 2인 견적제출 안내공고",
+        "organization": "부산광역시교육청 부산광역시교육청교육연구정보원",
+        "start": "2026-09-11T07:02:14.954008",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719589&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 부산광역시교육청교육연구정보원 | 공고번호: R26BK01719589"
+    },
+    {
+        "id": "g2b-api-5014818282272265492",
+        "title": "SW·AI교육거점센터 아트스페이스 신규 콘텐츠 개발 용역 2인 견적제출 안내공고",
+        "organization": "부산광역시교육청 부산광역시교육청교육연구정보원",
+        "start": "2026-09-11T07:02:14.954008",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719779&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 부산광역시교육청교육연구정보원 | 공고번호: R26BK01719779"
+    },
+    {
+        "id": "g2b-api-8897617783692812971",
+        "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 2인 견적제출 안내공고",
+        "organization": "부산광역시교육청 부산광역시교육청교육연구정보원",
+        "start": "2026-09-11T07:02:14.954008",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719667&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 부산광역시교육청교육연구정보원 | 공고번호: R26BK01719667"
+    },
+    {
+        "id": "g2b-api-4004771420700599206",
+        "title": "SW·AI교육거점센터 산업용 AI 청소로봇 구매 2인 견적제출 안내공고",
+        "organization": "부산광역시교육청 부산광역시교육청교육연구정보원",
+        "start": "2026-09-11T07:02:14.954008",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719708&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 부산광역시교육청교육연구정보원 | 공고번호: R26BK01719708"
+    },
+    {
+        "id": "g2b-api-4734980768496151886",
         "title": "(입찰대행)2026년 제2회 제천일품육 축제 행사장 조성 용역",
         "organization": "충청북도 제천시",
-        "start": "2026-09-09T07:02:30.648414",
+        "start": "2026-09-11T07:02:14.954008",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8757,10 +8625,10 @@ const bidEvents = [
         "description": "수요기관: 충청북도 제천시 | 공고번호: R26BK01678142"
     },
     {
-        "id": "g2b-api-3767386726697773805",
+        "id": "g2b-api-8943957537321825745",
         "title": "2026 폴란드 바르샤바 자동차부품 전시회 장치사 선정의 건",
         "organization": "대구경북기계공업협동조합",
-        "start": "2026-09-09T07:02:30.649413",
+        "start": "2026-09-11T07:02:14.955008",
         "deadline": "2026-08-31T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -8768,10 +8636,21 @@ const bidEvents = [
         "description": "수요기관: 대구경북기계공업협동조합 | 공고번호: R26BK01689700"
     },
     {
-        "id": "g2b-api-8564769519256381343",
+        "id": "g2b-api-8942418739184068285",
+        "title": "용접비드 AI 품질검사 모델 학습용 GPU 서버  물품 구매",
+        "organization": "(주)유플렉스소프트",
+        "start": "2026-09-11T07:02:14.955008",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723629&bidPbancOrd=000",
+        "description": "수요기관: (주)유플렉스소프트 | 공고번호: R26BK01723629"
+    },
+    {
+        "id": "g2b-api-6261919023055099058",
         "title": "[수의시담] 2026년 핵종분석 산업·기술 심포지움 행사 운영 용역",
         "organization": "한국원자력환경공단",
-        "start": "2026-09-09T07:02:30.649413",
+        "start": "2026-09-11T07:02:14.955498",
         "deadline": "2026-08-20T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8779,10 +8658,10 @@ const bidEvents = [
         "description": "수요기관: 한국원자력환경공단 | 공고번호: R26BK01686562"
     },
     {
-        "id": "g2b-api-3395685771466854394",
+        "id": "g2b-api-7140817564083445632",
         "title": "제31회 남도음식문화큰잔치 행사대행 용역",
         "organization": "(재)남도음식문화큰잔치",
-        "start": "2026-09-09T07:02:30.649413",
+        "start": "2026-09-11T07:02:14.955498",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8790,21 +8669,21 @@ const bidEvents = [
         "description": "수요기관: (재)남도음식문화큰잔치 | 공고번호: R26BK01688241"
     },
     {
-        "id": "g2b-api-244597602194710029",
-        "title": "2026년 달서 근로자가요제 행사대행 용역 ",
-        "organization": "대구성서산업단지관리공단",
-        "start": "2026-09-09T07:02:30.650420",
-        "deadline": "2026-08-24T00:00:00",
+        "id": "g2b-api-889569131646465912",
+        "title": "제5회 울산광역시장배 드론경기대회 행사대행 용역",
+        "organization": "울산광역시 소방본부",
+        "start": "2026-09-11T07:02:19.870269",
+        "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674441&bidPbancOrd=000",
-        "description": "수요기관: 대구성서산업단지관리공단 | 공고번호: R26BK01674441"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719054&bidPbancOrd=000",
+        "description": "수요기관: 울산광역시 소방본부 | 공고번호: R26BK01719054"
     },
     {
-        "id": "g2b-api-4859458214897530619",
+        "id": "g2b-api-6202920931427050738",
         "title": "국제공조협의체 제1차 총회 행사용역",
         "organization": "경찰청",
-        "start": "2026-09-09T07:02:30.651418",
+        "start": "2026-09-11T07:02:19.870269",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8812,10 +8691,10 @@ const bidEvents = [
         "description": "수요기관: 경찰청 | 공고번호: R26BK01680196"
     },
     {
-        "id": "g2b-api-7243566115832243646",
+        "id": "g2b-api-8816079292867122783",
         "title": "2026 해운대 꿈꾸는 마을축제 행사운영 용역 [협상에 의한 계약] (재공고)",
         "organization": "부산광역시 해운대구",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8823,54 +8702,54 @@ const bidEvents = [
         "description": "수요기관: 부산광역시 해운대구 | 공고번호: R26BK01688144"
     },
     {
-        "id": "g2b-api-6070791003268617653",
+        "id": "g2b-api-2647991953885358246",
         "title": "제21회 창녕 부곡온천 마라톤대회 행사 대행사 선정 공모(민간입찰대행)",
         "organization": "경상남도 창녕군",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699605&bidPbancOrd=000",
         "description": "수요기관: 경상남도 창녕군 | 공고번호: R26BK01699605"
     },
     {
-        "id": "g2b-api-5737659790926044354",
+        "id": "g2b-api-8306802445329172947",
         "title": "제21회 창녕 부곡온천 마라톤대회 행사 대행사 선정 공모(민간입찰대행)",
         "organization": "경상남도 창녕군",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01702826&bidPbancOrd=000",
         "description": "수요기관: 경상남도 창녕군 | 공고번호: R26BK01702826"
     },
     {
-        "id": "g2b-api-5623903134128076622",
+        "id": "g2b-api-8336122740529327285",
         "title": "2026년 하반기 HOT! 생생 부곡온천 라이브공연 행사대행 용역(민간입찰대행)",
         "organization": "경상남도 창녕군",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697555&bidPbancOrd=000",
         "description": "수요기관: 경상남도 창녕군 | 공고번호: R26BK01697555"
     },
     {
-        "id": "g2b-api-212783970783943002",
+        "id": "g2b-api-3585089907858898022",
         "title": "(취소공고)제21회 창녕 부곡온천 마라톤대회 행사 대행사 선정 공모(민간입찰대행)",
         "organization": "경상남도 창녕군",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699605&bidPbancOrd=001",
         "description": "수요기관: 경상남도 창녕군 | 공고번호: R26BK01699605"
     },
     {
-        "id": "g2b-api-3061305634120940796",
+        "id": "g2b-api-570428199760954852",
         "title": "(긴급)태백시 메이커AI 교육센터 운영(2기) 용역",
         "organization": "강원특별자치도 태백시",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8878,10 +8757,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 태백시 | 공고번호: R26BK01704185"
     },
     {
-        "id": "g2b-api-6226066662128543876",
+        "id": "g2b-api-1246997505291184988",
         "title": "[입찰대행]제6회 장성 탄탄마을 축제 행사 대행 용역",
         "organization": "강원특별자치도 태백시",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -8889,10 +8768,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 태백시 | 공고번호: R26BK01684298"
     },
     {
-        "id": "g2b-api-4495484134989630899",
+        "id": "g2b-api-8897971770647685037",
         "title": "(긴급)태백시 메이커AI 교육센터 운영(2기) 용역",
         "organization": "강원특별자치도 태백시",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8900,10 +8779,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 태백시 | 공고번호: R26BK01708005"
     },
     {
-        "id": "g2b-api-6614375921181140779",
+        "id": "g2b-api-1103611419490773098",
         "title": "KAIST 도룡동교수아파트 2세대 환경개선공사(건축)",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8911,21 +8790,21 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01708895"
     },
     {
-        "id": "g2b-api-7414259217412846855",
+        "id": "g2b-api-1272147969322224932",
         "title": "2026 KAIST CTxAI 콘텐츠 마이크로디그리 과정 운영 용역 ",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687655&bidPbancOrd=000",
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01687655"
     },
     {
-        "id": "g2b-api-3506718249764787324",
+        "id": "g2b-api-4928637877958118941",
         "title": "AI-Science 데이터센터 신축사업 설계용역(전기)",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8933,43 +8812,54 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01701257"
     },
     {
-        "id": "g2b-api-3634869490207192195",
+        "id": "g2b-api-607976807747977839",
         "title": "2026 KAIST CTxAI 콘텐츠 마이크로디그리 과정 운영 용역(재) ",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708402&bidPbancOrd=000",
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01708402"
     },
     {
-        "id": "g2b-api-4200254516500595213",
+        "id": "g2b-api-8486149784708062693",
         "title": "CES 2027 KAIST관 설치 및 관리 용역",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718830&bidPbancOrd=000",
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01718830"
     },
     {
-        "id": "g2b-api-5640982035647362679",
+        "id": "g2b-api-3080482386157555022",
+        "title": "「 OpenLab & DemoDay 2026 」행사 운영 용역",
+        "organization": "한국과학기술원",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720654&bidPbancOrd=000",
+        "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01720654"
+    },
+    {
+        "id": "g2b-api-7901483256034440346",
         "title": "2026년 AI CLOULD 시스템 유지보수 용역(재)",
         "organization": "한국과학기술원",
-        "start": "2026-09-09T07:02:30.652418",
-        "deadline": "2026-10-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
+        "deadline": "2026-10-11T07:02:19.871903",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683674&bidPbancOrd=000",
         "description": "수요기관: 한국과학기술원 | 공고번호: R26BK01683674"
     },
     {
-        "id": "g2b-api-7361841076541308286",
+        "id": "g2b-api-386463025443345468",
         "title": "AI기반 실내공기질 통합관리시스템 구축(인천제2시립노인치매요양병원)",
         "organization": "인천광역시",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8977,10 +8867,10 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 | 공고번호: R26BK01678379"
     },
     {
-        "id": "g2b-api-6638910083983002312",
+        "id": "g2b-api-4117196557423247250",
         "title": "(재공고)AI기반 실내공기질 통합관리시스템 구축(인천제2시립노인치매요양병원)",
         "organization": "인천광역시",
-        "start": "2026-09-09T07:02:30.652418",
+        "start": "2026-09-11T07:02:19.871903",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -8988,21 +8878,21 @@ const bidEvents = [
         "description": "수요기관: 인천광역시 | 공고번호: R26BK01699055"
     },
     {
-        "id": "g2b-api-5717764613467481498",
+        "id": "g2b-api-4786214057689928550",
         "title": "(긴급·재공고)제47차 전국 양봉인의날 & 벌꿀축제 행사 대행용역업체 선정 입찰 공고",
         "organization": "(사)한국양봉협회",
-        "start": "2026-09-09T07:02:30.653417",
-        "deadline": "2026-10-09T07:02:30.653417",
+        "start": "2026-09-11T07:02:19.872910",
+        "deadline": "2026-10-11T07:02:19.872910",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678359&bidPbancOrd=000",
         "description": "수요기관: (사)한국양봉협회 | 공고번호: R26BK01678359"
     },
     {
-        "id": "g2b-api-5915717648746268423",
+        "id": "g2b-api-2504651242450624849",
         "title": "데이터 관제용 클라우드 및 AI 분석 학습 인프라 운영 및 관리",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9010,10 +8900,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01696863"
     },
     {
-        "id": "g2b-api-976647170226622370",
+        "id": "g2b-api-4746875688577272440",
         "title": "설비 진단용 AI 모델의 시뮬레이션 환경 구축",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-09-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9021,10 +8911,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01708525"
     },
     {
-        "id": "g2b-api-4306763368350560870",
+        "id": "g2b-api-2833184085278201762",
         "title": "카자흐스탄 알마티 희소금속 기술협력센터 착공식(Kick off) 행사 기획 및 운영",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9032,10 +8922,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01706324"
     },
     {
-        "id": "g2b-api-8956305221132773770",
+        "id": "g2b-api-445457984222567419",
         "title": "카자흐스탄 알마티 희소금속 기술협력센터 착공식(Kick off) 행사 기획 및 운영",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9043,10 +8933,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01685571"
     },
     {
-        "id": "g2b-api-1135736717376800976",
+        "id": "g2b-api-6612419802485094418",
         "title": "설비 진단 AI 학습 추론용 GPU 연산장치",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9054,10 +8944,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01706401"
     },
     {
-        "id": "g2b-api-6085070750984721435",
+        "id": "g2b-api-2250635116091028942",
         "title": "데이터 관제용 클라우드 및 AI 분석 학습 인프라 운영 및 관리",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9065,10 +8955,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01681293"
     },
     {
-        "id": "g2b-api-1315602995182897847",
+        "id": "g2b-api-6711169991685794262",
         "title": "설비 진단 AI 학습 추론용 GPU 연산장치",
         "organization": "한국생산기술연구원",
-        "start": "2026-09-09T07:02:30.654417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9076,10 +8966,10 @@ const bidEvents = [
         "description": "수요기관: 한국생산기술연구원 | 공고번호: R26BK01687982"
     },
     {
-        "id": "g2b-api-3596703035302253015",
+        "id": "g2b-api-5407715710463625106",
         "title": "2026년 게임물 등급분류 기준 인식도 조사 연구",
         "organization": "게임물관리위원회",
-        "start": "2026-09-09T07:02:30.655417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-08-31T00:00:00",
         "category": "game",
         "source": "gov",
@@ -9087,10 +8977,10 @@ const bidEvents = [
         "description": "수요기관: 게임물관리위원회 | 공고번호: R26BK01687728"
     },
     {
-        "id": "g2b-api-4870522709531493394",
+        "id": "g2b-api-7817780569310379768",
         "title": "온라인 게임물 4대 불법행위 실태조사 연구",
         "organization": "게임물관리위원회",
-        "start": "2026-09-09T07:02:30.655417",
+        "start": "2026-09-11T07:02:19.873909",
         "deadline": "2026-09-01T00:00:00",
         "category": "game",
         "source": "gov",
@@ -9098,10 +8988,10 @@ const bidEvents = [
         "description": "수요기관: 게임물관리위원회 | 공고번호: R26BK01690415"
     },
     {
-        "id": "g2b-api-4146834474422834138",
+        "id": "g2b-api-5382948236256431793",
         "title": "2026년도 SNU 그랜드퀘스트 챌린지 콜로퀴엄 행사 대행 용역",
         "organization": "서울대학교 연구처",
-        "start": "2026-09-09T07:02:30.655417",
+        "start": "2026-09-11T07:02:19.875413",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9109,10 +8999,10 @@ const bidEvents = [
         "description": "수요기관: 서울대학교 연구처 | 공고번호: R26BK01696339"
     },
     {
-        "id": "g2b-api-2513665980238399506",
+        "id": "g2b-api-1243968525694867367",
         "title": "충북대학교 AI 기본교육 체계 수립을 위한 연구",
         "organization": "충북대학교",
-        "start": "2026-09-09T07:02:30.655417",
+        "start": "2026-09-11T07:02:19.875413",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9120,10 +9010,10 @@ const bidEvents = [
         "description": "수요기관: 충북대학교 | 공고번호: R26BK01705574"
     },
     {
-        "id": "g2b-api-6704771609986131093",
+        "id": "g2b-api-2837524771176801453",
         "title": "市 주요행사 캐릭터 팝업스토어 조성 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9131,10 +9021,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01682998"
     },
     {
-        "id": "g2b-api-3782555444448222544",
+        "id": "g2b-api-4240260639499267578",
         "title": "GVC 이슈 사전감지 모델 실증을 위한 모듈 및 AI 에이전트 개발",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9142,10 +9032,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01679048"
     },
     {
-        "id": "g2b-api-6495613305726849431",
+        "id": "g2b-api-7830321557999825903",
         "title": "GVC 이슈 사전감지 모델 실증을 위한 모듈 및 AI 에이전트 개발",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9153,10 +9043,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01710356"
     },
     {
-        "id": "g2b-api-952600885792830607",
+        "id": "g2b-api-2706443017670040690",
         "title": "메디뷰티 AI피부진단분석 프로토타입 플랫폼 개발",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9164,10 +9054,10 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01681131"
     },
     {
-        "id": "g2b-api-5483710251676548827",
+        "id": "g2b-api-4250654026084700937",
         "title": "경남AI이노베이션아카데미센터 전자제품",
         "organization": "재단법인 경남테크노파크",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9175,10 +9065,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01697000"
     },
     {
-        "id": "g2b-api-6936902029601610188",
+        "id": "g2b-api-8479991179468382573",
         "title": "경남AI이노베이션아카데미센터 데스크톱 컴퓨터",
         "organization": "재단법인 경남테크노파크",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9186,32 +9076,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01696980"
     },
     {
-        "id": "g2b-api-4411913231939205856",
+        "id": "g2b-api-6940673556116899855",
         "title": "경남AI이노베이션아카데미센터 전자제품",
         "organization": "재단법인 경남테크노파크",
-        "start": "2026-09-09T07:02:30.656417",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677504&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01677504"
-    },
-    {
-        "id": "g2b-api-1157714686174400147",
-        "title": "경남AI이노베이션아카데미센터 데스크톱 컴퓨터",
-        "organization": "재단법인 경남테크노파크",
-        "start": "2026-09-09T07:02:30.656417",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677449&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01677449"
-    },
-    {
-        "id": "g2b-api-1105705658142285038",
-        "title": "경남AI이노베이션아카데미센터 전자제품",
-        "organization": "재단법인 경남테크노파크",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9219,10 +9087,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01696990"
     },
     {
-        "id": "g2b-api-6589092939422383065",
+        "id": "g2b-api-683610989395019827",
         "title": "2026년 렛츠런파크 서울 경주로마라톤 행사 대행용역",
         "organization": "한국마사회",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9230,10 +9098,10 @@ const bidEvents = [
         "description": "수요기관: 한국마사회 | 공고번호: R26BK01668351"
     },
     {
-        "id": "g2b-api-3430044988829237624",
+        "id": "g2b-api-4169612407802074669",
         "title": "AI 심의 시스템 개선사업 용역",
         "organization": "한국마사회",
-        "start": "2026-09-09T07:02:30.656417",
+        "start": "2026-09-11T07:02:19.876090",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9241,65 +9109,109 @@ const bidEvents = [
         "description": "수요기관: 한국마사회 | 공고번호: R26BK01712569"
     },
     {
-        "id": "g2b-api-1450839903405426517",
+        "id": "g2b-api-7445858112791308291",
+        "title": "제9회 고성 가리비 수산물축제 행사대행용역 제안 공모 입찰 공고",
+        "organization": "경남 고성군수산업협동조합",
+        "start": "2026-09-11T07:02:19.877096",
+        "deadline": "2026-10-11T07:02:19.877096",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717159&bidPbancOrd=001",
+        "description": "수요기관: 경남 고성군수산업협동조합 | 공고번호: R26BK01717159"
+    },
+    {
+        "id": "g2b-api-2333812841350950604",
+        "title": "제9회 고성 가리비 수산물축제 행사대행용역 제안 공모 입찰 공고(수정)",
+        "organization": "경남 고성군수산업협동조합",
+        "start": "2026-09-11T07:02:19.877096",
+        "deadline": "2026-10-11T07:02:19.877096",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717159&bidPbancOrd=003",
+        "description": "수요기관: 경남 고성군수산업협동조합 | 공고번호: R26BK01717159"
+    },
+    {
+        "id": "g2b-api-7939213206781116683",
         "title": "데이터허브 시범솔루션 발굴사업(경남AI관광서비스 플랫폼 구축)",
         "organization": "경상남도",
-        "start": "2026-09-09T07:02:36.216182",
-        "deadline": "2026-10-09T07:02:36.216182",
+        "start": "2026-09-11T07:02:19.877096",
+        "deadline": "2026-10-11T07:02:19.877096",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685562&bidPbancOrd=001",
         "description": "수요기관: 경상남도 | 공고번호: R26BK01685562"
     },
     {
-        "id": "g2b-api-7197090556906253472",
-        "title": "제43주년 경상남도 도민의 날 기념행사 운영 용역",
-        "organization": "경상남도",
-        "start": "2026-09-09T07:02:36.216182",
-        "deadline": "2026-10-09T07:02:36.216182",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673060&bidPbancOrd=000",
-        "description": "수요기관: 경상남도 | 공고번호: R26BK01673060"
-    },
-    {
-        "id": "g2b-api-3453196122991639570",
+        "id": "g2b-api-1542923533398629427",
         "title": "인플루언서와 함께하는 「2026 경남 청년 페스타」 행사대행용역",
         "organization": "경상남도",
-        "start": "2026-09-09T07:02:36.216182",
-        "deadline": "2026-10-09T07:02:36.216182",
+        "start": "2026-09-11T07:02:19.877096",
+        "deadline": "2026-10-11T07:02:19.877096",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01696269&bidPbancOrd=000",
         "description": "수요기관: 경상남도 | 공고번호: R26BK01696269"
     },
     {
-        "id": "g2b-api-4878371120280157231",
+        "id": "g2b-api-2618574308980584979",
+        "title": "YKAST 창립 10주년 기념행사 기획·운영 및 홍보콘텐츠 제작",
+        "organization": "한국과학기술한림원",
+        "start": "2026-09-11T07:02:19.878096",
+        "deadline": "2026-10-11T07:02:19.878096",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699453&bidPbancOrd=000",
+        "description": "수요기관: 한국과학기술한림원 | 공고번호: R26BK01699453"
+    },
+    {
+        "id": "g2b-api-7164523605935079973",
         "title": "지역특화 복지안내 AI 인프라구축",
         "organization": "메타빌드주식회사",
-        "start": "2026-09-09T07:02:36.216182",
-        "deadline": "2026-10-09T07:02:36.216182",
+        "start": "2026-09-11T07:02:19.878096",
+        "deadline": "2026-10-11T07:02:19.878096",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682451&bidPbancOrd=000",
         "description": "수요기관: 메타빌드주식회사 | 공고번호: R26BK01682451"
     },
     {
-        "id": "g2b-api-6343975553916347431",
-        "title": "2026년 AI 바리스타 로봇 전용 식자재&부자재 단가계약",
-        "organization": "(주)강원랜드",
-        "start": "2026-09-09T07:02:36.217182",
-        "deadline": "2026-08-11T00:00:00",
+        "id": "g2b-api-4638175711706731658",
+        "title": "공단 AI시스템 구축 및 AI 민원 상담사 고도화 사업",
+        "organization": "한국승강기안전공단",
+        "start": "2026-09-11T07:02:19.879096",
+        "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670885&bidPbancOrd=000",
-        "description": "수요기관: (주)강원랜드 | 공고번호: R26BK01670885"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686488&bidPbancOrd=000",
+        "description": "수요기관: 한국승강기안전공단 | 공고번호: R26BK01686488"
     },
     {
-        "id": "g2b-api-5642081905541561279",
+        "id": "g2b-api-1601040457736946586",
+        "title": "경남AI이노베이션아카데미 환경개선공사 관급자재(냉난방기)",
+        "organization": "재단법인 경남테크노파크",
+        "start": "2026-09-11T07:02:19.879096",
+        "deadline": "2026-08-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677644&bidPbancOrd=000",
+        "description": "수요기관: 재단법인 경남테크노파크 | 공고번호: R26BK01677644"
+    },
+    {
+        "id": "g2b-api-2234758896028565111",
+        "title": "국립창원대학교 AI 대전환 준비를 위한 정보화전략계획(ISP) 수립 컨설팅 용역",
+        "organization": "국립창원대학교",
+        "start": "2026-09-11T07:02:19.879096",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710255&bidPbancOrd=000",
+        "description": "수요기관: 국립창원대학교 | 공고번호: R26BK01710255"
+    },
+    {
+        "id": "g2b-api-9026245416268787476",
         "title": "2026년 김포시 진로교육박람회 행사장 설치 공간 조성 및 시스템 운영 용역",
         "organization": "재단법인김포시청소년재단",
-        "start": "2026-09-09T07:02:36.217182",
+        "start": "2026-09-11T07:02:25.027620",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9307,54 +9219,120 @@ const bidEvents = [
         "description": "수요기관: 재단법인김포시청소년재단 | 공고번호: R26BK01704100"
     },
     {
-        "id": "g2b-api-3861917079108558927",
-        "title": "파프리카 생산 실태 조사를 통한 AI기반 파프리카 수출 물량·가격 예측 연구",
-        "organization": "농업회사법인코파주식회사",
-        "start": "2026-09-09T07:02:36.217182",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680312&bidPbancOrd=000",
-        "description": "수요기관: 농업회사법인코파주식회사 | 공고번호: R26BK01680312"
-    },
-    {
-        "id": "g2b-api-7549372271504853038",
-        "title": "제26회 시니어올림픽 행사 대행 용역 입찰 공고",
-        "organization": "(사)대한노인회서울특별시연합회",
-        "start": "2026-09-09T07:02:36.217182",
-        "deadline": "2026-08-24T00:00:00",
+        "id": "g2b-api-7838161956985687998",
+        "title": "영ONE(영종, Young)페스티벌 행사 대행 용역(긴급)",
+        "organization": "인천광역시 영종구",
+        "start": "2026-09-11T07:02:25.027620",
+        "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674401&bidPbancOrd=000",
-        "description": "수요기관: (사)대한노인회서울특별시연합회 | 공고번호: R26BK01674401"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01715586&bidPbancOrd=000",
+        "description": "수요기관: 인천광역시 영종구 | 공고번호: R26BK01715586"
     },
     {
-        "id": "g2b-api-7424112635566081597",
-        "title": "2026학년도 2학기 AI기반 취업성공 로드맵",
-        "organization": "서정대학",
-        "start": "2026-09-09T07:02:36.218365",
-        "deadline": "2026-10-09T07:02:36.218365",
+        "id": "g2b-api-6889221099828569265",
+        "title": "영ONE(영종, Young)페스티벌 행사 대행 용역 ",
+        "organization": "인천광역시 영종구",
+        "start": "2026-09-11T07:02:25.027620",
+        "deadline": "2026-08-31T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683723&bidPbancOrd=000",
+        "description": "수요기관: 인천광역시 영종구 | 공고번호: R26BK01683723"
+    },
+    {
+        "id": "g2b-api-5144232318285187947",
+        "title": "영ONE(영종, Young)페스티벌 행사 대행 용역(긴급)",
+        "organization": "인천광역시 영종구",
+        "start": "2026-09-11T07:02:25.027620",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719238&bidPbancOrd=000",
+        "description": "수요기관: 인천광역시 영종구 | 공고번호: R26BK01719238"
+    },
+    {
+        "id": "g2b-api-7708749613057069479",
+        "title": "2026학년도 AI취업캠프 프로그램 위탁용역",
+        "organization": "동서울대학산학협력단",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-10-11T07:02:25.028628",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688862&bidPbancOrd=000",
-        "description": "수요기관: 서정대학 | 공고번호: R26BK01688862"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722698&bidPbancOrd=000",
+        "description": "수요기관: 동서울대학산학협력단 | 공고번호: R26BK01722698"
     },
     {
-        "id": "g2b-api-8015284437018269100",
-        "title": "2026학년도 2학기 AI기반 취업성공 로드맵",
-        "organization": "서정대학",
-        "start": "2026-09-09T07:02:36.218365",
-        "deadline": "2026-10-09T07:02:36.218365",
+        "id": "g2b-api-3188225910616630454",
+        "title": "[지역 주도형 AI 대전환 사업] AI 인프라 구축 3차",
+        "organization": "기승공업(주)",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712691&bidPbancOrd=000",
-        "description": "수요기관: 서정대학 | 공고번호: R26BK01712691"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694993&bidPbancOrd=000",
+        "description": "수요기관: 기승공업(주) | 공고번호: R26BK01694993"
     },
     {
-        "id": "g2b-api-5709923825908961484",
+        "id": "g2b-api-4913835350602276881",
+        "title": "[지역 주도형 AI 대전환 사업] AI 인프라 구축 3차",
+        "organization": "기승공업(주)",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722198&bidPbancOrd=000",
+        "description": "수요기관: 기승공업(주) | 공고번호: R26BK01722198"
+    },
+    {
+        "id": "g2b-api-7750861294384502341",
+        "title": "2026년 강화 와글와글 원도심 활성화 행사 운영",
+        "organization": "인천관광공사",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-09-14T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704625&bidPbancOrd=000",
+        "description": "수요기관: 인천관광공사 | 공고번호: R26BK01704625"
+    },
+    {
+        "id": "g2b-api-3390241022876324481",
+        "title": "2026BICAF(부산국제캐릭터&애니메이션페스티벌)행사 운영",
+        "organization": "동서대학교산학협력단",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-10-11T07:02:25.028628",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722197&bidPbancOrd=000",
+        "description": "수요기관: 동서대학교산학협력단 | 공고번호: R26BK01722197"
+    },
+    {
+        "id": "g2b-api-4237508749093808941",
+        "title": "2026 대한민국 지식재산대전 행사 운영 용역",
+        "organization": "한국발명진흥회",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704729&bidPbancOrd=000",
+        "description": "수요기관: 한국발명진흥회 | 공고번호: R26BK01704729"
+    },
+    {
+        "id": "g2b-api-8796507418740233121",
+        "title": "(긴급)AI 서·논술형 평가지원시스템 솔루션 도입 및 운영",
+        "organization": "부산광역시교육청",
+        "start": "2026-09-11T07:02:25.028628",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705850&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시교육청 | 공고번호: R26BK01705850"
+    },
+    {
+        "id": "g2b-api-2674831382774324140",
         "title": "AI 기반 ‘충돌·압착 자동 정지’ 및 위험 경보 시스템(STS)",
         "organization": "한진부산컨테이너터미널 주식회사",
-        "start": "2026-09-09T07:02:36.218365",
+        "start": "2026-09-11T07:02:25.029628",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9362,109 +9340,142 @@ const bidEvents = [
         "description": "수요기관: 한진부산컨테이너터미널 주식회사 | 공고번호: R26BK01676734"
     },
     {
-        "id": "g2b-api-5321763785983668666",
-        "title": "AI-Ready 데이터(멀티모달) 플랫폼 구축 기획연구",
-        "organization": "해양수산부 국립수산과학원",
-        "start": "2026-09-09T07:02:36.219365",
+        "id": "g2b-api-8203602186095246451",
+        "title": "KAI 2026년 배출권거래제 감축설비 지원사업(기계설비공사)",
+        "organization": "한국항공우주산업주식회사",
+        "start": "2026-09-11T07:02:25.030628",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674888&bidPbancOrd=000",
-        "description": "수요기관: 해양수산부 국립수산과학원 | 공고번호: R26BK01674888"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680243&bidPbancOrd=000",
+        "description": "수요기관: 한국항공우주산업주식회사 | 공고번호: R26BK01680243"
     },
     {
-        "id": "g2b-api-5156401502582680950",
-        "title": "AI 기반 수산과학 연구지원 플랫폼 PoC",
-        "organization": "해양수산부 국립수산과학원",
-        "start": "2026-09-09T07:02:36.219365",
+        "id": "g2b-api-3071273948015686611",
+        "title": "KAI 2026년 배출권거래제 감축설비 지원사업(전기공사)",
+        "organization": "한국항공우주산업주식회사",
+        "start": "2026-09-11T07:02:25.030628",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680670&bidPbancOrd=000",
-        "description": "수요기관: 해양수산부 국립수산과학원 | 공고번호: R26BK01680670"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680525&bidPbancOrd=001",
+        "description": "수요기관: 한국항공우주산업주식회사 | 공고번호: R26BK01680525"
     },
     {
-        "id": "g2b-api-7609509544456219667",
-        "title": "2026년 한-불 신산업 협력포럼 행사기획 및 운영 용역",
-        "organization": "한국산업기술진흥원",
-        "start": "2026-09-09T07:02:36.219365",
-        "deadline": "2026-10-09T07:02:36.219365",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679007&bidPbancOrd=000",
-        "description": "수요기관: 한국산업기술진흥원 | 공고번호: R26BK01679007"
-    },
-    {
-        "id": "g2b-api-4751039302789219521",
-        "title": "AI 솔루션 KS 인증체계 도입 기본계획 수립 연구",
-        "organization": "한국산업기술진흥원",
-        "start": "2026-09-09T07:02:36.219365",
-        "deadline": "2026-10-09T07:02:36.219365",
+        "id": "g2b-api-3313590595856121045",
+        "title": "KAI 2026년 배출권거래제 감축설비 지원사업(물품)",
+        "organization": "한국항공우주산업주식회사",
+        "start": "2026-09-11T07:02:25.030628",
+        "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709529&bidPbancOrd=000",
-        "description": "수요기관: 한국산업기술진흥원 | 공고번호: R26BK01709529"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680203&bidPbancOrd=000",
+        "description": "수요기관: 한국항공우주산업주식회사 | 공고번호: R26BK01680203"
     },
     {
-        "id": "g2b-api-4182335163963512035",
-        "title": "제30회 원주시민의 날 경축행사 무대시스템 운영 용역",
-        "organization": "강원특별자치도 원주시",
-        "start": "2026-09-09T07:02:36.220365",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694421&bidPbancOrd=000",
-        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01694421"
-    },
-    {
-        "id": "g2b-api-1659294175164477506",
-        "title": "2026년 원주청년축제 행사 대행 용역",
-        "organization": "강원특별자치도 원주시",
-        "start": "2026-09-09T07:02:36.220365",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691357&bidPbancOrd=000",
-        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01691357"
-    },
-    {
-        "id": "g2b-api-2533491983740051899",
-        "title": "「2026년 원주 문학의 달」행사 대행 용역",
-        "organization": "강원특별자치도 원주시",
-        "start": "2026-09-09T07:02:36.220365",
+        "id": "g2b-api-1183308173740767149",
+        "title": "KAI 2026년 배출권거래제 감축설비 지원사업(물품)",
+        "organization": "한국항공우주산업주식회사",
+        "start": "2026-09-11T07:02:25.030628",
         "deadline": "2026-09-08T00:00:00",
-        "category": "event",
+        "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719213&bidPbancOrd=000",
-        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01719213"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01703373&bidPbancOrd=000",
+        "description": "수요기관: 한국항공우주산업주식회사 | 공고번호: R26BK01703373"
     },
     {
-        "id": "g2b-api-6934427087530159337",
-        "title": "제30회 원주시민의 날 경축행사 축하공연 운영 용역",
-        "organization": "강원특별자치도 원주시",
-        "start": "2026-09-09T07:02:36.220365",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
+        "id": "g2b-api-7317925871747463572",
+        "title": "Open Global Road(2026 창업도약패키지 창업기업 글로벌 액셀러레이팅) - 해외시장조사, 해외투자유치 컨설팅",
+        "organization": "경북대학교 창업지원단",
+        "start": "2026-09-11T07:02:25.030628",
+        "deadline": "2026-08-31T00:00:00",
+        "category": "market",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694489&bidPbancOrd=000",
-        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01694489"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687414&bidPbancOrd=000",
+        "description": "수요기관: 경북대학교 창업지원단 | 공고번호: R26BK01687414"
     },
     {
-        "id": "g2b-api-6482878066227789486",
-        "title": "제4회 치유문화축제 행사 대행 용역",
-        "organization": "재단법인 고창문화관광재단",
-        "start": "2026-09-09T07:02:36.220365",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
+        "id": "g2b-api-916202487456536872",
+        "title": "Airside 외곽도로 교통안전시설 설치공사",
+        "organization": "인천국제공항공사",
+        "start": "2026-09-11T07:02:25.030628",
+        "deadline": "2026-08-20T00:00:00",
+        "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678278&bidPbancOrd=000",
-        "description": "수요기관: 재단법인 고창문화관광재단 | 공고번호: R26BK01678278"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679942&bidPbancOrd=000",
+        "description": "수요기관: 인천국제공항공사 | 공고번호: R26BK01679942"
     },
     {
-        "id": "g2b-api-1266744443848562506",
+        "id": "g2b-api-7530699510869671201",
+        "title": "T2 행사용 주차장 및 동편 의전실 소방시설 공사",
+        "organization": "인천국제공항공사",
+        "start": "2026-09-11T07:02:25.030628",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688897&bidPbancOrd=000",
+        "description": "수요기관: 인천국제공항공사 | 공고번호: R26BK01688897"
+    },
+    {
+        "id": "g2b-api-8783080893917517298",
+        "title": "NAIS-3x3 1EA",
+        "organization": "한국원자력연구원",
+        "start": "2026-09-11T07:02:25.030628",
+        "deadline": "2026-09-01T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698644&bidPbancOrd=000",
+        "description": "수요기관: 한국원자력연구원 | 공고번호: R26BK01698644"
+    },
+    {
+        "id": "g2b-api-4071503972383549880",
+        "title": "AI기반 고성능 DB 서버",
+        "organization": "한국산업기술시험원",
+        "start": "2026-09-11T07:02:25.031628",
+        "deadline": "2026-08-26T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01696592&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01696592"
+    },
+    {
+        "id": "g2b-api-117326661449311910",
+        "title": "치과 AI 개발 지원용 고성능 GPU 서버",
+        "organization": "한국산업기술시험원",
+        "start": "2026-09-11T07:02:25.031628",
+        "deadline": "2026-09-11T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720507&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01720507"
+    },
+    {
+        "id": "g2b-api-3504769638011328211",
+        "title": "치과 AI 개발 지원용 고성능 GPU 서버",
+        "organization": "한국산업기술시험원",
+        "start": "2026-09-11T07:02:25.031628",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682823&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01682823"
+    },
+    {
+        "id": "g2b-api-3073995314965086295",
+        "title": "AI 솔루션 확보용 고성능 GPU 연산장비",
+        "organization": "한국산업기술시험원",
+        "start": "2026-09-11T07:02:25.031628",
+        "deadline": "2026-09-30T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711665&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술시험원 | 공고번호: R26BK01711665"
+    },
+    {
+        "id": "g2b-api-5106480361478635572",
         "title": "지능형 홈 온디바이스AI 모델 검증 소프트웨어 개발 용역",
         "organization": "한국정보통신기술협회",
-        "start": "2026-09-09T07:02:36.220365",
+        "start": "2026-09-11T07:02:25.031628",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9472,10 +9483,10 @@ const bidEvents = [
         "description": "수요기관: 한국정보통신기술협회 | 공고번호: R26BK01718657"
     },
     {
-        "id": "g2b-api-1366871421166042338",
+        "id": "g2b-api-2544724494973723560",
         "title": "지능형 홈 온디바이스 AI 모델 검증용 워크스테이션 구매",
         "organization": "한국정보통신기술협회",
-        "start": "2026-09-09T07:02:36.220365",
+        "start": "2026-09-11T07:02:25.031628",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9483,21 +9494,10 @@ const bidEvents = [
         "description": "수요기관: 한국정보통신기술협회 | 공고번호: R26BK01690553"
     },
     {
-        "id": "g2b-api-1062377876169097666",
-        "title": "AI 기반 초고속 3D 형광 이미징 시스템",
-        "organization": "한국화학연구원",
-        "start": "2026-09-09T07:02:36.221365",
-        "deadline": "2026-09-22T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717746&bidPbancOrd=000",
-        "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01717746"
-    },
-    {
-        "id": "g2b-api-3988082152832506700",
+        "id": "g2b-api-5711482510189223725",
         "title": "하이원리조트 홍보용 리유저블백 구매",
         "organization": "(주)강원랜드",
-        "start": "2026-09-09T07:02:36.221365",
+        "start": "2026-09-11T07:02:25.031628",
         "deadline": "2026-08-19T00:00:00",
         "category": "user",
         "source": "gov",
@@ -9505,76 +9505,43 @@ const bidEvents = [
         "description": "수요기관: (주)강원랜드 | 공고번호: R26BK01683116"
     },
     {
-        "id": "g2b-api-6655390601165903356",
-        "title": "2026 ACDC(AI Cyber Defense Contest) 기획 및 운영",
-        "organization": "한국인터넷진흥원",
-        "start": "2026-09-09T07:02:36.222365",
-        "deadline": "2026-08-28T00:00:00",
+        "id": "g2b-api-8629853649436566014",
+        "title": "한국부동산원 AI  서버 고도화",
+        "organization": "한국부동산원",
+        "start": "2026-09-11T07:02:25.032628",
+        "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698553&bidPbancOrd=000",
-        "description": "수요기관: 한국인터넷진흥원 | 공고번호: R26BK01698553"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698853&bidPbancOrd=000",
+        "description": "수요기관: 한국부동산원 | 공고번호: R26BK01698853"
     },
     {
-        "id": "g2b-api-5964065732859941524",
+        "id": "g2b-api-137576380927299027",
+        "title": "제17회 2026대구트리문화행사 트리장식설치 및 철거용역",
+        "organization": "사단법인대구기독교총연합회",
+        "start": "2026-09-11T07:02:25.032628",
+        "deadline": "2026-10-11T07:02:25.032628",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699482&bidPbancOrd=000",
+        "description": "수요기관: 사단법인대구기독교총연합회 | 공고번호: R26BK01699482"
+    },
+    {
+        "id": "g2b-api-1919235282901618890",
         "title": "AI전략팀 2026 첨단산업 인재양성 부트캠프 교육용 연구 장비(휴먼AI 다차원 데이터분석용 워크스테이션) 구입",
         "organization": "계명대학교 산학협력단",
-        "start": "2026-09-09T07:02:36.222365",
-        "deadline": "2026-10-09T07:02:36.222365",
+        "start": "2026-09-11T07:02:25.032628",
+        "deadline": "2026-10-11T07:02:25.032628",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701813&bidPbancOrd=000",
         "description": "수요기관: 계명대학교 산학협력단 | 공고번호: R26BK01701813"
     },
     {
-        "id": "g2b-api-5933383977391573928",
-        "title": "LAIDD 시스템 기능 개선 및 유지보수 용역",
-        "organization": "(사)한국제약바이오협회",
-        "start": "2026-09-09T07:02:36.222871",
-        "deadline": "2026-09-04T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694561&bidPbancOrd=000",
-        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01694561"
-    },
-    {
-        "id": "g2b-api-7461490060646550978",
-        "title": "LAIDD 논문-코드 연계 실습 교육프로그램 구축 용역",
-        "organization": "(사)한국제약바이오협회",
-        "start": "2026-09-09T07:02:36.222871",
-        "deadline": "2026-08-31T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685329&bidPbancOrd=000",
-        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01685329"
-    },
-    {
-        "id": "g2b-api-4769489708853186385",
-        "title": "LAIDD 시스템 기능 개선 및 유지보수 용역",
-        "organization": "(사)한국제약바이오협회",
-        "start": "2026-09-09T07:02:36.222871",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677582&bidPbancOrd=000",
-        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01677582"
-    },
-    {
-        "id": "g2b-api-9178222569085660539",
-        "title": "2026년 자원순환 시민행사: 자원순환 한마당(가칭) 기획 및 운영",
-        "organization": "재단법인서울디자인재단",
-        "start": "2026-09-09T07:02:36.222871",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674269&bidPbancOrd=000",
-        "description": "수요기관: 재단법인서울디자인재단 | 공고번호: R26BK01674269"
-    },
-    {
-        "id": "g2b-api-5347582540179377229",
+        "id": "g2b-api-2468680804073013574",
         "title": "26-D-제78주년 국군의 날 행사대행 용역",
         "organization": "국방부",
-        "start": "2026-09-09T07:02:36.222871",
+        "start": "2026-09-11T07:02:25.033134",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9582,10 +9549,10 @@ const bidEvents = [
         "description": "수요기관: 국방부 | 공고번호: R26BK01681572"
     },
     {
-        "id": "g2b-api-8010046622110425888",
+        "id": "g2b-api-6978513637570405319",
         "title": "RHOCP(Red Hat OpenShift Container Platform) SW 구매",
         "organization": "국가보안기술연구소",
-        "start": "2026-09-09T07:02:36.222871",
+        "start": "2026-09-11T07:02:25.033134",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9593,10 +9560,10 @@ const bidEvents = [
         "description": "수요기관: 국가보안기술연구소 | 공고번호: R26BK01696738"
     },
     {
-        "id": "g2b-api-7024694710985827566",
+        "id": "g2b-api-7098306455518840637",
         "title": "RHOCP(Red Hat OpenShift Container Platform) SW 구매",
         "organization": "국가보안기술연구소",
-        "start": "2026-09-09T07:02:36.222871",
+        "start": "2026-09-11T07:02:25.033134",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9604,10 +9571,10 @@ const bidEvents = [
         "description": "수요기관: 국가보안기술연구소 | 공고번호: R26BK01681285"
     },
     {
-        "id": "g2b-api-2668677458962476389",
+        "id": "g2b-api-1859262900218825992",
         "title": "「2026년 경기도 AI디지털배움터 사업」 ‘산업전문가 AI이노베이터 양성 프로젝트’ 용역 ",
         "organization": "(재)경기도경제과학진흥원",
-        "start": "2026-09-09T07:02:36.222871",
+        "start": "2026-09-11T07:02:25.033134",
         "deadline": "2026-09-17T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9615,43 +9582,43 @@ const bidEvents = [
         "description": "수요기관: (재)경기도경제과학진흥원 | 공고번호: R26BK01701699"
     },
     {
-        "id": "g2b-api-5431025884207253709",
-        "title": "강원 곤충산업 거점단지 조성사업 준공기념행사 대행 용역",
-        "organization": "한국농어촌공사 강원지역본부 홍천.춘천지사",
-        "start": "2026-09-09T07:02:36.223375",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694185&bidPbancOrd=000",
-        "description": "수요기관: 한국농어촌공사 강원지역본부 홍천.춘천지사 | 공고번호: R26BK01694185"
-    },
-    {
-        "id": "g2b-api-4059684753543673409",
+        "id": "g2b-api-4567823264889121993",
         "title": "[긴급] 2026학년도 호서대학교 가을 소축제 행사 용역 입찰",
         "organization": "호서대학교",
-        "start": "2026-09-09T07:02:36.223375",
-        "deadline": "2026-10-09T07:02:36.223375",
+        "start": "2026-09-11T07:02:25.033134",
+        "deadline": "2026-10-11T07:02:25.033134",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695906&bidPbancOrd=000",
         "description": "수요기관: 호서대학교 | 공고번호: R26BK01695906"
     },
     {
-        "id": "g2b-api-4095138011566007523",
-        "title": "개운산 정원 가족축제 행사 대행 용역(긴급)",
-        "organization": "서울특별시 성북구",
-        "start": "2026-09-09T07:02:36.223375",
-        "deadline": "2026-10-09T07:02:36.223375",
+        "id": "g2b-api-5003852774163382861",
+        "title": "금남농협 2026년 농작업 대행사업 활성화 지원사업[농기계보관창고]신축 공사(소방) 재공고",
+        "organization": "경남 하동군 금남농업협동조합",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-08-26T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677190&bidPbancOrd=000",
-        "description": "수요기관: 서울특별시 성북구 | 공고번호: R26BK01677190"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689816&bidPbancOrd=000",
+        "description": "수요기관: 경남 하동군 금남농업협동조합 | 공고번호: R26BK01689816"
     },
     {
-        "id": "g2b-api-7838025427629527284",
+        "id": "g2b-api-3792507256049990596",
+        "title": "금남농협 2026년 농작업 대행사업 활성화 지원사업[농기계보관창고]신축 공사(건축)",
+        "organization": "경남 하동군 금남농업협동조합",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669844&bidPbancOrd=001",
+        "description": "수요기관: 경남 하동군 금남농업협동조합 | 공고번호: R26BK01669844"
+    },
+    {
+        "id": "g2b-api-1365204510849641475",
         "title": "국민 AI 인식조사",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9659,10 +9626,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01709016"
     },
     {
-        "id": "g2b-api-576210457290242026",
+        "id": "g2b-api-6309398703148078082",
         "title": "2027 간절곶 해맞이 행사 드론쇼 운영 용역(재공고)",
         "organization": "재단법인울주문화재단",
-        "start": "2026-09-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9670,65 +9637,54 @@ const bidEvents = [
         "description": "수요기관: 재단법인울주문화재단 | 공고번호: R26BK01711806"
     },
     {
-        "id": "g2b-api-7059085447710887755",
-        "title": "2027 간절곶 해맞이 행사 드론쇼 운영 용역",
-        "organization": "재단법인울주문화재단",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-09-01T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673552&bidPbancOrd=000",
-        "description": "수요기관: 재단법인울주문화재단 | 공고번호: R26BK01673552"
-    },
-    {
-        "id": "g2b-api-1573003202047325685",
+        "id": "g2b-api-8508034480305231544",
         "title": "2026년 광주시 가구박람회 행사용역 ",
         "organization": "경기도 광주시",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-10-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-10-11T07:02:25.034136",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01708185&bidPbancOrd=000",
         "description": "수요기관: 경기도 광주시 | 공고번호: R26BK01708185"
     },
     {
-        "id": "g2b-api-6390806595680376381",
+        "id": "g2b-api-5199950196471607167",
         "title": "제55회 광주시민의 날 행사대행 용역",
         "organization": "경기도 광주시",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-10-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-10-11T07:02:25.034136",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698359&bidPbancOrd=000",
         "description": "수요기관: 경기도 광주시 | 공고번호: R26BK01698359"
     },
     {
-        "id": "g2b-api-2517173766576165386",
+        "id": "g2b-api-1294981395961431361",
         "title": "2026년 광주시 가구박람회 행사용역",
         "organization": "경기도 광주시",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-10-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-10-11T07:02:25.034136",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711535&bidPbancOrd=000",
         "description": "수요기관: 경기도 광주시 | 공고번호: R26BK01711535"
     },
     {
-        "id": "g2b-api-3035911915548764279",
+        "id": "g2b-api-7530340743688583505",
         "title": "제55회 광주시민의 날 행사대행 용역",
         "organization": "경기도 광주시",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-10-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
+        "deadline": "2026-10-11T07:02:25.034136",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01699998&bidPbancOrd=000",
         "description": "수요기관: 경기도 광주시 | 공고번호: R26BK01699998"
     },
     {
-        "id": "g2b-api-6213425320997283607",
+        "id": "g2b-api-5710057563579235710",
         "title": "2026 청라하늘대교(THE SKY184) 계절형 문화행사 운영 용역",
         "organization": "인천관광공사",
-        "start": "2026-09-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9736,10 +9692,10 @@ const bidEvents = [
         "description": "수요기관: 인천관광공사 | 공고번호: R26BK01704726"
     },
     {
-        "id": "g2b-api-1018872680537491264",
+        "id": "g2b-api-79608958940260425",
         "title": "2026 청라하늘대교(THE SKY184) 계절형 문화행사 운영 용역",
         "organization": "인천관광공사",
-        "start": "2026-09-09T07:02:40.459997",
+        "start": "2026-09-11T07:02:25.034136",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9747,21 +9703,10 @@ const bidEvents = [
         "description": "수요기관: 인천관광공사 | 공고번호: R26BK01680442"
     },
     {
-        "id": "g2b-api-6321135563808117461",
-        "title": "ESG 평가데이터 및  ESG 이슈 리서치 제공기관 선정",
-        "organization": "국민연금공단",
-        "start": "2026-09-09T07:02:40.459997",
-        "deadline": "2026-09-21T00:00:00",
-        "category": "research",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674691&bidPbancOrd=000",
-        "description": "수요기관: 국민연금공단 | 공고번호: R26BK01674691"
-    },
-    {
-        "id": "g2b-api-6259595188615938609",
+        "id": "g2b-api-1151734444444747522",
         "title": "방사선폐액 처리 장치 AI 에이전트 활용 데이터 서버 1 EA",
         "organization": "한국원자력연구원",
-        "start": "2026-09-09T07:02:40.461003",
+        "start": "2026-09-11T07:02:25.034136",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9769,10 +9714,10 @@ const bidEvents = [
         "description": "수요기관: 한국원자력연구원 | 공고번호: R26BK01712450"
     },
     {
-        "id": "g2b-api-359056209961343605",
+        "id": "g2b-api-1077587787694665331",
         "title": "방사선폐액 처리 장치 AI 에이전트 활용 데이터 서버 1 EA",
         "organization": "한국원자력연구원",
-        "start": "2026-09-09T07:02:40.461003",
+        "start": "2026-09-11T07:02:25.035639",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9780,32 +9725,21 @@ const bidEvents = [
         "description": "수요기관: 한국원자력연구원 | 공고번호: R26BK01701738"
     },
     {
-        "id": "g2b-api-8754314976342113470",
+        "id": "g2b-api-7555087397204574063",
         "title": "2026년 글로벌지식협력단지 지식교류의 날(KED) 행사 운영 대행",
         "organization": "한국개발연구원",
-        "start": "2026-09-09T07:02:40.461003",
-        "deadline": "2026-10-09T07:02:40.461003",
+        "start": "2026-09-11T07:02:25.035639",
+        "deadline": "2026-10-11T07:02:25.035639",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684876&bidPbancOrd=000",
         "description": "수요기관: 한국개발연구원 | 공고번호: R26BK01684876"
     },
     {
-        "id": "g2b-api-3322736176954877609",
-        "title": "2026 여수 해양 · 창업 진로 박람회 행사대행 용역",
-        "organization": "전남광주통합특별시교육청 전남광주통합특별시여수교육지원청",
-        "start": "2026-09-09T07:02:40.461003",
-        "deadline": "2026-08-31T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01671960&bidPbancOrd=000",
-        "description": "수요기관: 전남광주통합특별시교육청 전남광주통합특별시여수교육지원청 | 공고번호: R26BK01671960"
-    },
-    {
-        "id": "g2b-api-446535056362208650",
+        "id": "g2b-api-2592423029458429998",
         "title": "2026년도 에너지바우처 패널조사 연구",
         "organization": "한국에너지공단",
-        "start": "2026-09-09T07:02:40.462002",
+        "start": "2026-09-11T07:02:25.036101",
         "deadline": "2026-09-08T00:00:00",
         "category": "panel",
         "source": "gov",
@@ -9813,21 +9747,10 @@ const bidEvents = [
         "description": "수요기관: 한국에너지공단 | 공고번호: R26BK01696568"
     },
     {
-        "id": "g2b-api-5323843804953184374",
-        "title": "2026년도 에너지바우처 패널조사 연구",
-        "organization": "한국에너지공단",
-        "start": "2026-09-09T07:02:40.462002",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "panel",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673311&bidPbancOrd=000",
-        "description": "수요기관: 한국에너지공단 | 공고번호: R26BK01673311"
-    },
-    {
-        "id": "g2b-api-6962210029883452540",
+        "id": "g2b-api-5148185626483571195",
         "title": "2026 서울식물원 정원치유 음악회 행사 운영 대행 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:02:40.462002",
+        "start": "2026-09-11T07:02:25.036101",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9835,10 +9758,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01708838"
     },
     {
-        "id": "g2b-api-7867206287481638435",
+        "id": "g2b-api-4931216604993040348",
         "title": "2026 서울식물원 정원치유 음악회 행사 운영 대행 용역",
         "organization": "서울특별시",
-        "start": "2026-09-09T07:02:40.462002",
+        "start": "2026-09-11T07:02:25.036101",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9846,10 +9769,43 @@ const bidEvents = [
         "description": "수요기관: 서울특별시 | 공고번호: R26BK01708778"
     },
     {
-        "id": "g2b-api-4132772849254498309",
+        "id": "g2b-api-7478088840038255382",
+        "title": "방산 적용 전기모터 성능평가를 위한 자동 시험절차 및 품질분석 AI솔루션 개발용 지식그래프 DB 서버외 구입",
+        "organization": "(주)제이엔이웍스",
+        "start": "2026-09-11T07:02:30.505328",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720267&bidPbancOrd=002",
+        "description": "수요기관: (주)제이엔이웍스 | 공고번호: R26BK01720267"
+    },
+    {
+        "id": "g2b-api-2315702185872567995",
+        "title": "방산 적용 전기모터 성능평가를 위한 자동 시험절차 및 품질분석 AI솔루션 개발용 지식그래프 DB 섭외 구입",
+        "organization": "(주)제이엔이웍스",
+        "start": "2026-09-11T07:02:30.505328",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720267&bidPbancOrd=000",
+        "description": "수요기관: (주)제이엔이웍스 | 공고번호: R26BK01720267"
+    },
+    {
+        "id": "g2b-api-196494672604511920",
+        "title": "2026 KDT  아진산업 제3회 실리 경진대회 행사 참여 운영 용역",
+        "organization": "경북대학교 데이터융복합연구원",
+        "start": "2026-09-11T07:02:30.506496",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721388&bidPbancOrd=000",
+        "description": "수요기관: 경북대학교 데이터융복합연구원 | 공고번호: R26BK01721388"
+    },
+    {
+        "id": "g2b-api-8879755732213901132",
         "title": "청소년AI페스티벌 객석연출 용역",
         "organization": "(재)연천군청소년육성재단",
-        "start": "2026-09-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9857,10 +9813,10 @@ const bidEvents = [
         "description": "수요기관: (재)연천군청소년육성재단 | 공고번호: R26BK01701436"
     },
     {
-        "id": "g2b-api-3181805374100686722",
+        "id": "g2b-api-3194011802744594707",
         "title": "연천군 청소년AI페스티벌  객석연출 용역 소액수의 견적제출 안내공고",
         "organization": "(재)연천군청소년육성재단",
-        "start": "2026-09-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9868,10 +9824,10 @@ const bidEvents = [
         "description": "수요기관: (재)연천군청소년육성재단 | 공고번호: R26BK01702404"
     },
     {
-        "id": "g2b-api-6444983845621416927",
+        "id": "g2b-api-1006440822754882926",
         "title": "스페인 밀레니엄 합창단 초청 내한공연 행사용역",
         "organization": "전남광주통합특별시 남구",
-        "start": "2026-09-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
         "deadline": "2026-08-19T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9879,32 +9835,32 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시 남구 | 공고번호: R26BK01687175"
     },
     {
-        "id": "g2b-api-4994381397766902953",
+        "id": "g2b-api-3461052086122789995",
         "title": "K-하이테크 플랫폼 AI GPU 서버 구매",
         "organization": "사단법인 경북아이씨티융합산업진흥협회",
-        "start": "2026-09-09T07:02:40.463002",
-        "deadline": "2026-10-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
+        "deadline": "2026-10-11T07:02:30.506496",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694366&bidPbancOrd=000",
         "description": "수요기관: 사단법인 경북아이씨티융합산업진흥협회 | 공고번호: R26BK01694366"
     },
     {
-        "id": "g2b-api-2950842477937335737",
+        "id": "g2b-api-2839945581996472709",
         "title": "AI 인프라 도입",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:02:40.463002",
-        "deadline": "2026-10-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
+        "deadline": "2026-10-11T07:02:30.506496",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713409&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01713409"
     },
     {
-        "id": "g2b-api-267256942396203494",
+        "id": "g2b-api-5720813203312242813",
         "title": "2026 성남시 반려동물 페스티벌 행사 대행 용역",
         "organization": "경기도 성남시",
-        "start": "2026-09-09T07:02:40.463002",
+        "start": "2026-09-11T07:02:30.506496",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -9912,10 +9868,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 성남시 | 공고번호: R26BK01683072"
     },
     {
-        "id": "g2b-api-7301320625385728139",
+        "id": "g2b-api-4394651405290738496",
         "title": "연구행정 데이터 기반 AI 플랫폼 구축",
         "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-08-27T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9923,10 +9879,10 @@ const bidEvents = [
         "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01684335"
     },
     {
-        "id": "g2b-api-6342732990168035151",
+        "id": "g2b-api-4012686188351975821",
         "title": "신설학과(스마트자동화) 교육훈련장비[AI플랫폼서버시스템] 구매",
         "organization": "한국폴리텍대학전북캠퍼스",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-08-26T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9934,10 +9890,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍대학전북캠퍼스 | 공고번호: R26BK01689400"
     },
     {
-        "id": "g2b-api-7571560982459905889",
+        "id": "g2b-api-1558246988849016099",
         "title": "신설학과(스마트자동화) 교육훈련장비[AI플랫폼서버시스템] 구매",
         "organization": "한국폴리텍대학전북캠퍼스",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9945,21 +9901,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍대학전북캠퍼스 | 공고번호: R26BK01713900"
     },
     {
-        "id": "g2b-api-5299630253521931909",
-        "title": "신설학과(스마트자동화) 교육훈련장비[AI플랫폼서버시스템] 구매",
-        "organization": "한국폴리텍대학전북캠퍼스",
-        "start": "2026-09-09T07:02:40.464002",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676999&bidPbancOrd=000",
-        "description": "수요기관: 한국폴리텍대학전북캠퍼스 | 공고번호: R26BK01676999"
-    },
-    {
-        "id": "g2b-api-4288264949445244575",
+        "id": "g2b-api-2440011199883749461",
         "title": "2026년 재난관리평가 국민체감도 설문조사",
         "organization": "행정안전부",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-08-25T00:00:00",
         "category": "consumer",
         "source": "gov",
@@ -9967,10 +9912,10 @@ const bidEvents = [
         "description": "수요기관: 행정안전부 | 공고번호: R26BK01680374"
     },
     {
-        "id": "g2b-api-1604238107064389246",
+        "id": "g2b-api-2132159233333478305",
         "title": "[국립대학육성사업] AI 맞춤형 장학 정보 제공 시스템 구축 사업",
         "organization": "충남대학교",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9978,10 +9923,10 @@ const bidEvents = [
         "description": "수요기관: 충남대학교 | 공고번호: R26BK01688793"
     },
     {
-        "id": "g2b-api-7698096836768516661",
+        "id": "g2b-api-5394480067432658838",
         "title": "[국립대학육성사업] AI 맞춤형 장학 정보 제공 시스템 구축 사업",
         "organization": "충남대학교",
-        "start": "2026-09-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -9989,54 +9934,21 @@ const bidEvents = [
         "description": "수요기관: 충남대학교 | 공고번호: R26BK01709864"
     },
     {
-        "id": "g2b-api-3097112097036468963",
+        "id": "g2b-api-4510237762102804508",
         "title": "2026년 제19회 청남대 가을축제 용역 대행사 선정을 위한 제안(재공고)",
         "organization": "충청북도 청남대관리사업소",
-        "start": "2026-09-09T07:02:40.464002",
-        "deadline": "2026-10-09T07:02:40.464002",
+        "start": "2026-09-11T07:02:30.508000",
+        "deadline": "2026-10-11T07:02:30.508000",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695852&bidPbancOrd=000",
         "description": "수요기관: 충청북도 청남대관리사업소 | 공고번호: R26BK01695852"
     },
     {
-        "id": "g2b-api-4807981160134271563",
-        "title": "「2026 근대도시 대전 중구 국가유산야행」행사장 조성 및 시스템 임차 용역",
-        "organization": "대전광역시 중구",
-        "start": "2026-09-09T07:02:40.464002",
-        "deadline": "2026-08-13T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672159&bidPbancOrd=001",
-        "description": "수요기관: 대전광역시 중구 | 공고번호: R26BK01672159"
-    },
-    {
-        "id": "g2b-api-5448881856779186252",
-        "title": "「2026 근대도시 대전 중구 국가유산야행」행사장 조성 및 시스템 임차 용역",
-        "organization": "대전광역시 중구",
-        "start": "2026-09-09T07:02:40.464002",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677498&bidPbancOrd=000",
-        "description": "수요기관: 대전광역시 중구 | 공고번호: R26BK01677498"
-    },
-    {
-        "id": "g2b-api-4830352445519296440",
-        "title": "차세대 지능형 침수대응을 위한 HPC·AI 융합 기술 현황 및 특허 분석",
-        "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:40.466513",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669052&bidPbancOrd=000",
-        "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01669052"
-    },
-    {
-        "id": "g2b-api-9090756725028895878",
+        "id": "g2b-api-7434347784026760050",
         "title": "생활하수 활용 질병AI 조기경보 연구 수행을 위한 서버 구매",
         "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:40.466513",
+        "start": "2026-09-11T07:02:30.509005",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10044,43 +9956,32 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01678961"
     },
     {
-        "id": "g2b-api-240978452660391933",
-        "title": "AI·HPC 기반 도시 침수 통합 대응 플랫폼 신규 사업기획 사전 경제성 조사",
-        "organization": "한국과학기술정보연구원",
-        "start": "2026-09-09T07:02:40.466513",
-        "deadline": "2026-08-13T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676991&bidPbancOrd=000",
-        "description": "수요기관: 한국과학기술정보연구원 | 공고번호: R26BK01676991"
-    },
-    {
-        "id": "g2b-api-5796457261307720687",
+        "id": "g2b-api-539558191810805131",
         "title": "제11회 경산시 평생학습 재능나눔 박람회 행사대행 용역",
         "organization": "경상북도 경산시",
-        "start": "2026-09-09T07:02:40.466917",
-        "deadline": "2026-10-09T07:02:40.466917",
+        "start": "2026-09-11T07:02:30.510005",
+        "deadline": "2026-10-11T07:02:30.510005",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01684930&bidPbancOrd=000",
         "description": "수요기관: 경상북도 경산시 | 공고번호: R26BK01684930"
     },
     {
-        "id": "g2b-api-8435826012804021817",
+        "id": "g2b-api-69065586901943349",
         "title": "중소기업 AI 위협 대응 지원 추진 방안 수립",
         "organization": "한국인터넷진흥원",
-        "start": "2026-09-09T07:02:40.467922",
-        "deadline": "2026-10-09T07:02:40.467922",
+        "start": "2026-09-11T07:02:30.510511",
+        "deadline": "2026-10-11T07:02:30.510511",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01696422&bidPbancOrd=000",
         "description": "수요기관: 한국인터넷진흥원 | 공고번호: R26BK01696422"
     },
     {
-        "id": "g2b-api-965468989802170597",
+        "id": "g2b-api-6589416313444515800",
         "title": "﻿PINON LINE 계측·안전설비 및 AI 기반 품질관리 시스템 구축",
         "organization": "주식회사 오션라이트에이아이",
-        "start": "2026-09-09T07:02:40.467922",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10088,10 +9989,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 오션라이트에이아이 | 공고번호: R26BK01684009"
     },
     {
-        "id": "g2b-api-2477257277357972477",
+        "id": "g2b-api-2281503824427337707",
         "title": "2026년 스쿨포유 한마음 가족캠프 행사 대행 용역",
         "organization": "한국교육개발원",
-        "start": "2026-09-09T07:02:40.467922",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10099,21 +10000,10 @@ const bidEvents = [
         "description": "수요기관: 한국교육개발원 | 공고번호: R26BK01697451"
     },
     {
-        "id": "g2b-api-750257187962241315",
-        "title": "2026년 스쿨포유 한마음 가족캠프 행사 대행 용역",
-        "organization": "한국교육개발원",
-        "start": "2026-09-09T07:02:40.467922",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675970&bidPbancOrd=000",
-        "description": "수요기관: 한국교육개발원 | 공고번호: R26BK01675970"
-    },
-    {
-        "id": "g2b-api-8614381171382508450",
+        "id": "g2b-api-5456480386583598255",
         "title": "2026년 주한외교단 지방민생 현장 방문행사",
         "organization": "외교부",
-        "start": "2026-09-09T07:02:46.040365",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10121,10 +10011,21 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01706962"
     },
     {
-        "id": "g2b-api-792897482174112201",
+        "id": "g2b-api-170219746303063390",
+        "title": "글로벌 AI 외교 플랫폼 구축을 위한 주요 거점 국가별 글로벌 AI 연대 동향",
+        "organization": "외교부",
+        "start": "2026-09-11T07:02:30.511515",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723642&bidPbancOrd=000",
+        "description": "수요기관: 외교부 | 공고번호: R26BK01723642"
+    },
+    {
+        "id": "g2b-api-1756388469301493732",
         "title": "2026 제7차 한-IORA 파트너십 세미나 행사 운영",
         "organization": "외교부",
-        "start": "2026-09-09T07:02:46.040365",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10132,10 +10033,10 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01706124"
     },
     {
-        "id": "g2b-api-2656416516258735814",
+        "id": "g2b-api-6394233296400930199",
         "title": "2026 제7차 한-IORA 파트너십 세미나 행사 운영",
         "organization": "외교부",
-        "start": "2026-09-09T07:02:46.040365",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10143,10 +10044,10 @@ const bidEvents = [
         "description": "수요기관: 외교부 | 공고번호: R26BK01682455"
     },
     {
-        "id": "g2b-api-7900172321792600946",
+        "id": "g2b-api-3253240938597453135",
         "title": "실험실습기자재 고정밀 AI기반 형광 나노입자 추적분석 시스템 구매",
         "organization": "경북대학교 치과대학",
-        "start": "2026-09-09T07:02:46.040365",
+        "start": "2026-09-11T07:02:30.511515",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10154,32 +10055,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 치과대학 | 공고번호: R26BK01691903"
     },
     {
-        "id": "g2b-api-6263475474767366571",
-        "title": "(재료비_가축방역-3)3분기 정기청구-3 진단키트, 동물용의약품 AIV multi-tube detection kit등 29품목",
-        "organization": "농림축산식품부 농림축산검역본부",
-        "start": "2026-09-09T07:02:46.041375",
-        "deadline": "2026-08-25T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01670188&bidPbancOrd=000",
-        "description": "수요기관: 농림축산식품부 농림축산검역본부 | 공고번호: R26BK01670188"
-    },
-    {
-        "id": "g2b-api-2772885540722956777",
-        "title": "재직자 Skill-Up 훈련 교육용 AI 머신 운용관리 용역",
-        "organization": "재단법인 경북자동차임베디드연구원",
-        "start": "2026-09-09T07:02:46.041375",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01667120&bidPbancOrd=001",
-        "description": "수요기관: 재단법인 경북자동차임베디드연구원 | 공고번호: R26BK01667120"
-    },
-    {
-        "id": "g2b-api-8060424946187517454",
+        "id": "g2b-api-5148964304582946524",
         "title": "수요자 중심 AI 챗봇기반의 접근성 향상을 위한 홈페이지 개선",
         "organization": "경운대학교",
-        "start": "2026-09-09T07:02:46.041375",
+        "start": "2026-09-11T07:02:30.512520",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10187,10 +10066,10 @@ const bidEvents = [
         "description": "수요기관: 경운대학교 | 공고번호: R26BK01688861"
     },
     {
-        "id": "g2b-api-2898954530831719144",
+        "id": "g2b-api-7905703264942968061",
         "title": "청주시 AI·ICT 교육 격차 해소를 위한 교육환경 조성 및 교육지원사업 『행복 AI 스터디 랩』설계시공 일괄 공사",
         "organization": "사회복지법인 하트-하트재단",
-        "start": "2026-09-09T07:02:46.041375",
+        "start": "2026-09-11T07:02:30.512520",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10198,10 +10077,10 @@ const bidEvents = [
         "description": "수요기관: 사회복지법인 하트-하트재단 | 공고번호: R26BK01709593"
     },
     {
-        "id": "g2b-api-646095236116568156",
+        "id": "g2b-api-6290827085200417256",
         "title": "청주시 AI·ICT 교육 격차 해소를 위한 교육환경 조성 및 교육지원사업 『행복 AI 스터디 랩』 운영 용역 업체 선정",
         "organization": "사회복지법인 하트-하트재단",
-        "start": "2026-09-09T07:02:46.042371",
+        "start": "2026-09-11T07:02:30.512520",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10209,10 +10088,10 @@ const bidEvents = [
         "description": "수요기관: 사회복지법인 하트-하트재단 | 공고번호: R26BK01717850"
     },
     {
-        "id": "g2b-api-3469472476474622383",
+        "id": "g2b-api-5916246214681282464",
         "title": "청주시 AI·ICT 교육 격차 해소를 위한 교육환경 조성 및 교육지원사업 『행복 AI 스터디 랩』 운영 용역 업체 선정",
         "organization": "사회복지법인 하트-하트재단",
-        "start": "2026-09-09T07:02:46.042371",
+        "start": "2026-09-11T07:02:30.512520",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10220,10 +10099,10 @@ const bidEvents = [
         "description": "수요기관: 사회복지법인 하트-하트재단 | 공고번호: R26BK01719724"
     },
     {
-        "id": "g2b-api-1148727831521956096",
+        "id": "g2b-api-8000363286443737459",
         "title": "ITS세계총회 행사장(실외전시장) 관리동선 확충공사",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:46.042371",
+        "start": "2026-09-11T07:02:30.513520",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10231,10 +10110,43 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01693354"
     },
     {
-        "id": "g2b-api-3802634487674543447",
+        "id": "g2b-api-5890161620774432415",
+        "title": "파프리카 생산 실태 조사를 통한 AI기반 파프리카 수출 물량·가격 예측 연구",
+        "organization": "농업회사법인코파주식회사",
+        "start": "2026-09-11T07:02:34.896407",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680312&bidPbancOrd=000",
+        "description": "수요기관: 농업회사법인코파주식회사 | 공고번호: R26BK01680312"
+    },
+    {
+        "id": "g2b-api-523314844680142094",
+        "title": "2026학년도 2학기 AI기반 취업성공 로드맵",
+        "organization": "서정대학",
+        "start": "2026-09-11T07:02:34.896407",
+        "deadline": "2026-10-11T07:02:34.896407",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688862&bidPbancOrd=000",
+        "description": "수요기관: 서정대학 | 공고번호: R26BK01688862"
+    },
+    {
+        "id": "g2b-api-7548000835716962682",
+        "title": "2026학년도 2학기 AI기반 취업성공 로드맵",
+        "organization": "서정대학",
+        "start": "2026-09-11T07:02:34.896407",
+        "deadline": "2026-10-11T07:02:34.896407",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01712691&bidPbancOrd=000",
+        "description": "수요기관: 서정대학 | 공고번호: R26BK01712691"
+    },
+    {
+        "id": "g2b-api-4843478490034422972",
         "title": "제20회 수원시 평생학습축제 행사 용역",
         "organization": "경기도 수원시",
-        "start": "2026-09-09T07:02:46.044371",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10242,10 +10154,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 수원시 | 공고번호: R26BK01698862"
     },
     {
-        "id": "g2b-api-8771768017578602092",
+        "id": "g2b-api-4561965331354697622",
         "title": "2026 수원 야외도서관 행사운영 용역(협상)",
         "organization": "경기도 수원시",
-        "start": "2026-09-09T07:02:46.044371",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10253,10 +10165,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 수원시 | 공고번호: R26BK01716792"
     },
     {
-        "id": "g2b-api-3294979289612337265",
+        "id": "g2b-api-9075619320110859393",
         "title": "2026년 수원특례시 반려동물 한마음축제 행사 대행 용역",
         "organization": "경기도 수원시",
-        "start": "2026-09-09T07:02:46.044371",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-08-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10264,10 +10176,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 수원시 | 공고번호: R26BK01682683"
     },
     {
-        "id": "g2b-api-6364076505744974656",
+        "id": "g2b-api-6019384551751783182",
         "title": "2026년 새빛버스킹 행사 운영 대행 용역",
         "organization": "경기도 수원시",
-        "start": "2026-09-09T07:02:46.044371",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10275,10 +10187,10 @@ const bidEvents = [
         "description": "수요기관: 경기도 수원시 | 공고번호: R26BK01709370"
     },
     {
-        "id": "g2b-api-7459061287348829121",
+        "id": "g2b-api-4023160182238679233",
         "title": "2026 수원 야외도서관 행사운영 용역(협상)",
         "organization": "경기도 수원시",
-        "start": "2026-09-09T07:02:46.044371",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10286,10 +10198,43 @@ const bidEvents = [
         "description": "수요기관: 경기도 수원시 | 공고번호: R26BK01695701"
     },
     {
-        "id": "g2b-api-1516128522129553886",
+        "id": "g2b-api-4089364762495141292",
+        "title": "AI 기반 수산과학 연구지원 플랫폼 PoC",
+        "organization": "해양수산부 국립수산과학원",
+        "start": "2026-09-11T07:02:34.898923",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680670&bidPbancOrd=000",
+        "description": "수요기관: 해양수산부 국립수산과학원 | 공고번호: R26BK01680670"
+    },
+    {
+        "id": "g2b-api-5945735598491745016",
+        "title": "2026년 한-불 신산업 협력포럼 행사기획 및 운영 용역",
+        "organization": "한국산업기술진흥원",
+        "start": "2026-09-11T07:02:34.898923",
+        "deadline": "2026-10-11T07:02:34.898923",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679007&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술진흥원 | 공고번호: R26BK01679007"
+    },
+    {
+        "id": "g2b-api-2814290543934848993",
+        "title": "AI 솔루션 KS 인증체계 도입 기본계획 수립 연구",
+        "organization": "한국산업기술진흥원",
+        "start": "2026-09-11T07:02:34.898923",
+        "deadline": "2026-10-11T07:02:34.898923",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709529&bidPbancOrd=000",
+        "description": "수요기관: 한국산업기술진흥원 | 공고번호: R26BK01709529"
+    },
+    {
+        "id": "g2b-api-5380904296875033296",
         "title": "2026 글로벌 케이팝댄스챌린지인하남 행사대행 용역",
         "organization": "재단법인 하남문화재단",
-        "start": "2026-09-09T07:02:46.045875",
+        "start": "2026-09-11T07:02:34.898923",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10297,10 +10242,65 @@ const bidEvents = [
         "description": "수요기관: 재단법인 하남문화재단 | 공고번호: R26BK01684564"
     },
     {
-        "id": "g2b-api-9116867098525607531",
+        "id": "g2b-api-3942404956586783960",
+        "title": "제30회 원주시민의 날 경축행사 무대시스템 운영 용역",
+        "organization": "강원특별자치도 원주시",
+        "start": "2026-09-11T07:02:34.899919",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694421&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01694421"
+    },
+    {
+        "id": "g2b-api-2844395461007926244",
+        "title": "2026년 원주청년축제 행사 대행 용역",
+        "organization": "강원특별자치도 원주시",
+        "start": "2026-09-11T07:02:34.899919",
+        "deadline": "2026-08-21T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01691357&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01691357"
+    },
+    {
+        "id": "g2b-api-6300408684218942857",
+        "title": "「2026년 원주 문학의 달」행사 대행 용역",
+        "organization": "강원특별자치도 원주시",
+        "start": "2026-09-11T07:02:34.899919",
+        "deadline": "2026-09-08T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719213&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01719213"
+    },
+    {
+        "id": "g2b-api-2825420729018808892",
+        "title": "제30회 원주시민의 날 경축행사 축하공연 운영 용역",
+        "organization": "강원특별자치도 원주시",
+        "start": "2026-09-11T07:02:34.899919",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694489&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 원주시 | 공고번호: R26BK01694489"
+    },
+    {
+        "id": "g2b-api-4463367754555515854",
+        "title": "제4회 치유문화축제 행사 대행 용역",
+        "organization": "재단법인 고창문화관광재단",
+        "start": "2026-09-11T07:02:34.899919",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678278&bidPbancOrd=000",
+        "description": "수요기관: 재단법인 고창문화관광재단 | 공고번호: R26BK01678278"
+    },
+    {
+        "id": "g2b-api-1214356833447411020",
         "title": "2026 AI 역량강화 프로그램 위탁 용역",
         "organization": "충청남도교육청 충청남도금산교육지원청",
-        "start": "2026-09-09T07:02:46.045875",
+        "start": "2026-09-11T07:02:34.899919",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10308,10 +10308,10 @@ const bidEvents = [
         "description": "수요기관: 충청남도교육청 충청남도금산교육지원청 | 공고번호: R26BK01704951"
     },
     {
-        "id": "g2b-api-7290402805593727387",
+        "id": "g2b-api-1548215549986657781",
         "title": "2026 AI 역량강화 프로그램 위탁 용역",
         "organization": "충청남도교육청 충청남도금산교육지원청",
-        "start": "2026-09-09T07:02:46.045875",
+        "start": "2026-09-11T07:02:34.899919",
         "deadline": "2026-08-24T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10319,10 +10319,65 @@ const bidEvents = [
         "description": "수요기관: 충청남도교육청 충청남도금산교육지원청 | 공고번호: R26BK01678097"
     },
     {
-        "id": "g2b-api-1636499700088264729",
+        "id": "g2b-api-3605466453213646440",
+        "title": "AI 기반 초고속 3D 형광 이미징 시스템",
+        "organization": "한국화학연구원",
+        "start": "2026-09-11T07:02:34.900920",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717746&bidPbancOrd=000",
+        "description": "수요기관: 한국화학연구원 | 공고번호: R26BK01717746"
+    },
+    {
+        "id": "g2b-api-2688793231616769146",
+        "title": "2026 ACDC(AI Cyber Defense Contest) 기획 및 운영",
+        "organization": "한국인터넷진흥원",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-08-28T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698553&bidPbancOrd=000",
+        "description": "수요기관: 한국인터넷진흥원 | 공고번호: R26BK01698553"
+    },
+    {
+        "id": "g2b-api-9059028630942851929",
+        "title": "LAIDD 시스템 기능 개선 및 유지보수 용역",
+        "organization": "(사)한국제약바이오협회",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-09-04T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694561&bidPbancOrd=000",
+        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01694561"
+    },
+    {
+        "id": "g2b-api-2633079888757375916",
+        "title": "LAIDD 논문-코드 연계 실습 교육프로그램 구축 용역",
+        "organization": "(사)한국제약바이오협회",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-08-31T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01685329&bidPbancOrd=000",
+        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01685329"
+    },
+    {
+        "id": "g2b-api-7711623129506491882",
+        "title": "LAIDD 시스템 기능 개선 및 유지보수 용역",
+        "organization": "(사)한국제약바이오협회",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677582&bidPbancOrd=000",
+        "description": "수요기관: (사)한국제약바이오협회 | 공고번호: R26BK01677582"
+    },
+    {
+        "id": "g2b-api-8187925370127253931",
         "title": "[글로컬][AI기본교육]2026년 AI 분야 K-MOOC 콘텐츠 개발 용역",
         "organization": "건국대학교",
-        "start": "2026-09-09T07:02:50.923295",
+        "start": "2026-09-11T07:02:34.901919",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10330,10 +10385,21 @@ const bidEvents = [
         "description": "수요기관: 건국대학교 | 공고번호: R26BK01689774"
     },
     {
-        "id": "g2b-api-3529068370817585895",
+        "id": "g2b-api-1783772455419823402",
+        "title": "강원 곤충산업 거점단지 조성사업 준공기념행사 대행 용역",
+        "organization": "한국농어촌공사 강원지역본부 홍천.춘천지사",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694185&bidPbancOrd=000",
+        "description": "수요기관: 한국농어촌공사 강원지역본부 홍천.춘천지사 | 공고번호: R26BK01694185"
+    },
+    {
+        "id": "g2b-api-6420680623313177091",
         "title": "2026년 충북대학교 개신대동제: Everis 행사 대행 용역",
         "organization": "충북대학교",
-        "start": "2026-09-09T07:02:50.924813",
+        "start": "2026-09-11T07:02:34.901919",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10341,10 +10407,21 @@ const bidEvents = [
         "description": "수요기관: 충북대학교 | 공고번호: R26BK01688210"
     },
     {
-        "id": "g2b-api-6239094812885367812",
+        "id": "g2b-api-7387265677498820490",
+        "title": "개운산 정원 가족축제 행사 대행 용역(긴급)",
+        "organization": "서울특별시 성북구",
+        "start": "2026-09-11T07:02:34.901919",
+        "deadline": "2026-10-11T07:02:34.901919",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677190&bidPbancOrd=000",
+        "description": "수요기관: 서울특별시 성북구 | 공고번호: R26BK01677190"
+    },
+    {
+        "id": "g2b-api-6168913630077240315",
         "title": "2026년「제10회 강원 수출인의 날」 행사장 조성 및 운영",
         "organization": "한국무역협회",
-        "start": "2026-09-09T07:02:50.924813",
+        "start": "2026-09-11T07:02:34.902919",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10352,10 +10429,10 @@ const bidEvents = [
         "description": "수요기관: 한국무역협회 | 공고번호: R26BK01710578"
     },
     {
-        "id": "g2b-api-5561721996639798341",
+        "id": "g2b-api-6562410440696873682",
         "title": "안내견학교 33주년 기념식 행사용역 수의계약",
         "organization": "(사)장애인먼저실천운동본부",
-        "start": "2026-09-09T07:02:50.926819",
+        "start": "2026-09-11T07:02:34.903924",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10363,10 +10440,10 @@ const bidEvents = [
         "description": "수요기관: (사)장애인먼저실천운동본부 | 공고번호: R26BK01690060"
     },
     {
-        "id": "g2b-api-8811500333247572336",
+        "id": "g2b-api-821183711892065864",
         "title": "(긴급)(증평캠퍼스)국립한국교통대학교 보건생명대학 2026학년도 제14회 청아제 행사 용역 ",
         "organization": "국립한국교통대학교",
-        "start": "2026-09-09T07:02:50.927493",
+        "start": "2026-09-11T07:02:39.679798",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10374,10 +10451,10 @@ const bidEvents = [
         "description": "수요기관: 국립한국교통대학교 | 공고번호: R26BK01715221"
     },
     {
-        "id": "g2b-api-4492603249890536509",
+        "id": "g2b-api-2411048042674285356",
         "title": "(긴급)(증평캠퍼스)국립한국교통대학교 보건생명대학 2026학년도 제14회 청아제 행사 용역 ",
         "organization": "국립한국교통대학교",
-        "start": "2026-09-09T07:02:50.927493",
+        "start": "2026-09-11T07:02:39.679798",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10385,10 +10462,10 @@ const bidEvents = [
         "description": "수요기관: 국립한국교통대학교 | 공고번호: R26BK01685386"
     },
     {
-        "id": "g2b-api-7695235602395907246",
+        "id": "g2b-api-7663503123769873395",
         "title": "디지털문화자원 공동활용플랫폼 AI 인프라 확충 사업 ",
         "organization": "한국문화정보원",
-        "start": "2026-09-09T07:02:50.928526",
+        "start": "2026-09-11T07:02:39.680797",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10396,10 +10473,10 @@ const bidEvents = [
         "description": "수요기관: 한국문화정보원 | 공고번호: R26BK01669893"
     },
     {
-        "id": "g2b-api-7330794395359004677",
+        "id": "g2b-api-8343363984223888246",
         "title": "2026 산학연협력 EXPO 전북 공동행사 지원 용역",
         "organization": "재단법인 전북테크노파크",
-        "start": "2026-09-09T07:02:50.928526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-09-09T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10407,10 +10484,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 전북테크노파크 | 공고번호: R26BK01717696"
     },
     {
-        "id": "g2b-api-8252175924358192901",
+        "id": "g2b-api-8518495406893981342",
+        "title": "AI 플랫폼 Elasticsearch 라이선스 연장",
+        "organization": "한국산업은행",
+        "start": "2026-09-11T07:02:39.681797",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722315&bidPbancOrd=000",
+        "description": "수요기관: 한국산업은행 | 공고번호: R26BK01722315"
+    },
+    {
+        "id": "g2b-api-3456186055728470740",
         "title": "강릉 컨벤션센터 개관식 행사 운영 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10418,10 +10506,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01695316"
     },
     {
-        "id": "g2b-api-5296003236468347970",
+        "id": "g2b-api-7377097440595599073",
         "title": "제71주년 강릉 시민의 날 기념행사 대행 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-08-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10429,10 +10517,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01682383"
     },
     {
-        "id": "g2b-api-7042633191692456154",
+        "id": "g2b-api-2783676376089130151",
         "title": "강릉 컨벤션셑터 개관식 행사 운영 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-08-24T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10440,10 +10528,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01695293"
     },
     {
-        "id": "g2b-api-1259188715966719650",
+        "id": "g2b-api-6575520972746222591",
         "title": "2026년 강릉시 청년의 날 행사 운영 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-08-21T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10451,10 +10539,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01691617"
     },
     {
-        "id": "g2b-api-7390717820321307074",
+        "id": "g2b-api-2938802640194252001",
         "title": "2026 KBS전국노래자랑 강릉시편 행사 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10462,10 +10550,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01700202"
     },
     {
-        "id": "g2b-api-6139186706006051951",
+        "id": "g2b-api-7568995146515193695",
         "title": "2026 제5회 강릉 국수 축제 행사 대행 용역",
         "organization": "강원특별자치도 강릉시",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.681797",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10473,10 +10561,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 강릉시 | 공고번호: R26BK01703409"
     },
     {
-        "id": "g2b-api-3868382528365512711",
+        "id": "g2b-api-2016601246334886256",
         "title": "AI 딥러닝 및 생성형 AI 교육·연구용 GPU 서버 시스템",
         "organization": "전남대학교 산학협력단",
-        "start": "2026-09-09T07:02:50.929526",
+        "start": "2026-09-11T07:02:39.682797",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10484,10 +10572,21 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 산학협력단 | 공고번호: R26BK01684971"
     },
     {
-        "id": "g2b-api-588092017191788736",
+        "id": "g2b-api-8534603862189830548",
+        "title": "[긴급]AI 라이브 커머스 스토리텔링 콘텐츠 개발 용역",
+        "organization": "삼색이수상권상인협동조합",
+        "start": "2026-09-11T07:02:39.682797",
+        "deadline": "2026-09-22T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723289&bidPbancOrd=000",
+        "description": "수요기관: 삼색이수상권상인협동조합 | 공고번호: R26BK01723289"
+    },
+    {
+        "id": "g2b-api-8467278004696794279",
         "title": "초거대 천문우주 新 발견을 위한 AI 협력플랫폼 연구기획 용역",
         "organization": "한국천문연구원",
-        "start": "2026-09-09T07:02:50.930526",
+        "start": "2026-09-11T07:02:39.683797",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10495,10 +10594,10 @@ const bidEvents = [
         "description": "수요기관: 한국천문연구원 | 공고번호: R26BK01700386"
     },
     {
-        "id": "g2b-api-4067593174933373138",
+        "id": "g2b-api-494740837134846273",
         "title": "AI기반 자율망원경 스케쥴러 개발 및 활용을 위한 GPU 구매",
         "organization": "한국천문연구원",
-        "start": "2026-09-09T07:02:50.930526",
+        "start": "2026-09-11T07:02:39.683797",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10506,10 +10605,10 @@ const bidEvents = [
         "description": "수요기관: 한국천문연구원 | 공고번호: R26BK01717149"
     },
     {
-        "id": "g2b-api-6179575388646489788",
+        "id": "g2b-api-7515494570664102080",
         "title": "AI기반 저조도 우주영상분석을 위한  GPU 서버 구매",
         "organization": "한국천문연구원",
-        "start": "2026-09-09T07:02:50.930526",
+        "start": "2026-09-11T07:02:39.683797",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10517,21 +10616,21 @@ const bidEvents = [
         "description": "수요기관: 한국천문연구원 | 공고번호: R26BK01700393"
     },
     {
-        "id": "g2b-api-1925974220799045873",
+        "id": "g2b-api-4588934124922568463",
         "title": "2026년 우수 기업회원 리워드 제공 대행사 선정",
         "organization": "중소기업은행",
-        "start": "2026-09-09T07:02:50.932529",
-        "deadline": "2026-10-09T07:02:50.932529",
+        "start": "2026-09-11T07:02:39.684796",
+        "deadline": "2026-10-11T07:02:39.684796",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717112&bidPbancOrd=000",
         "description": "수요기관: 중소기업은행 | 공고번호: R26BK01717112"
     },
     {
-        "id": "g2b-api-5684636964790163358",
+        "id": "g2b-api-585106775775956655",
         "title": "[재공고] 2026년 AI특화 콘텐츠 인재 양성 성과공유회  위탁용역",
         "organization": "한국콘텐츠진흥원",
-        "start": "2026-09-09T07:02:50.932529",
+        "start": "2026-09-11T07:02:39.684796",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10539,10 +10638,10 @@ const bidEvents = [
         "description": "수요기관: 한국콘텐츠진흥원 | 공고번호: R26BK01686579"
     },
     {
-        "id": "g2b-api-569210973165012378",
+        "id": "g2b-api-8160098669852300685",
         "title": "(채혈 없이 실시간 저전력 온디바이스 혈당값 추론이 가능한 광음향 비침습 혈당측정기) AX 디바이스용 AI 학습 데이터 라벨링 용역",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:02:50.932529",
+        "start": "2026-09-11T07:02:39.684796",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10550,10 +10649,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01706757"
     },
     {
-        "id": "g2b-api-4895888636387604538",
+        "id": "g2b-api-6162567277444810119",
         "title": "(온디바이스 VLA 자율행동 로봇 디바이스) AX 디바이스용 AI 학습 데이터 라벨링 용역",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:02:50.932529",
+        "start": "2026-09-11T07:02:39.684796",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10561,10 +10660,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01706750"
     },
     {
-        "id": "g2b-api-2651452590664891748",
+        "id": "g2b-api-5530277636036000013",
         "title": "(국산 NPU 기반 VLA를 활용한 피지컬 AI 물류 휴머노이드 로봇)AX 디바이스용 AI 모델(VLA) 개발 및 학습 데이터 라벨링 용역",
         "organization": "한국화학융합시험연구원",
-        "start": "2026-09-09T07:02:50.932529",
+        "start": "2026-09-11T07:02:39.684796",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10572,21 +10671,10 @@ const bidEvents = [
         "description": "수요기관: 한국화학융합시험연구원 | 공고번호: R26BK01706754"
     },
     {
-        "id": "g2b-api-4377316958170543962",
-        "title": "2026년  EBS  고교강의사업 만족도조사 및 사교육비 경감 효과 연구 용역",
-        "organization": "한국교육방송공사",
-        "start": "2026-09-09T07:02:50.932529",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "consumer",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01665161&bidPbancOrd=000",
-        "description": "수요기관: 한국교육방송공사 | 공고번호: R26BK01665161"
-    },
-    {
-        "id": "g2b-api-4614752800566744479",
+        "id": "g2b-api-8970151050001038927",
         "title": "전라남도 지역 주도형 AI 대전환 사업 AI 오픈 플랫폼 구축 사업감리(재공고)",
         "organization": "주식회사 카카오엔터프라이즈",
-        "start": "2026-09-09T07:02:55.250720",
+        "start": "2026-09-11T07:02:39.686020",
         "deadline": "2026-09-11T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10594,10 +10682,10 @@ const bidEvents = [
         "description": "수요기관: 주식회사 카카오엔터프라이즈 | 공고번호: R26BK01696705"
     },
     {
-        "id": "g2b-api-8270499597742955398",
+        "id": "g2b-api-2213547542588816670",
         "title": "「대한민국 사회서비스 혁신과 성장 심포지엄」 행사 용역",
         "organization": "재단법인 전북특별자치도 사회서비스원",
-        "start": "2026-09-09T07:02:55.250720",
+        "start": "2026-09-11T07:02:39.686020",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10605,10 +10693,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 전북특별자치도 사회서비스원 | 공고번호: R26BK01698527"
     },
     {
-        "id": "g2b-api-2556096019149549168",
+        "id": "g2b-api-3914434010186081255",
+        "title": "스마트 Recycling station 연계 자원순환통합플랫폼 구축 및 AI 대형폐기물 자동수수료 부과시스템 모델 고도화 용역",
+        "organization": "대전광역시 서구",
+        "start": "2026-09-11T07:02:39.686020",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721139&bidPbancOrd=000",
+        "description": "수요기관: 대전광역시 서구 | 공고번호: R26BK01721139"
+    },
+    {
+        "id": "g2b-api-8158312726912690051",
         "title": "2026년 대전 서구 일자리박람회 행사용역",
         "organization": "대전광역시 서구",
-        "start": "2026-09-09T07:02:55.251719",
+        "start": "2026-09-11T07:02:39.686020",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10616,10 +10715,10 @@ const bidEvents = [
         "description": "수요기관: 대전광역시 서구 | 공고번호: R26BK01705384"
     },
     {
-        "id": "g2b-api-8269142724201819354",
+        "id": "g2b-api-9204171328277200580",
         "title": "2026 체육발전유공자 포상 전수식 및 제64회 대한민국체육상 시상식 행사대행 용역",
         "organization": "서울올림픽기념국민체육진흥공단",
-        "start": "2026-09-09T07:02:55.251719",
+        "start": "2026-09-11T07:02:39.686020",
         "deadline": "2026-09-17T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10627,10 +10726,10 @@ const bidEvents = [
         "description": "수요기관: 서울올림픽기념국민체육진흥공단 | 공고번호: R26BK01700195"
     },
     {
-        "id": "g2b-api-776421328009987669",
+        "id": "g2b-api-6185877634150067701",
         "title": "2026년 도 의용소방대 소방기술경연대회 행사 대행 용역 전자수의시담",
         "organization": "전북특별자치도 소방본부",
-        "start": "2026-09-09T07:02:55.251719",
+        "start": "2026-09-11T07:02:39.686020",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10638,10 +10737,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도 소방본부 | 공고번호: R26BK01717782"
     },
     {
-        "id": "g2b-api-2395871871617711094",
+        "id": "g2b-api-3995491113957253870",
         "title": "피지컬AI공장 교육훈련장비(자율제조기반 피지컬AI 통합훈련 시스템) 구매",
         "organization": "한국폴리텍I대학성남캠퍼스",
-        "start": "2026-09-09T07:02:55.251719",
+        "start": "2026-09-11T07:02:39.687019",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10649,10 +10748,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍I대학성남캠퍼스 | 공고번호: R26BK01681599"
     },
     {
-        "id": "g2b-api-9038174479349884409",
+        "id": "g2b-api-3838313376457731677",
         "title": "2026진주남강유등축제 행사장 환경미화 및 생활폐기물 처리 용역",
         "organization": "재단법인 진주문화예술재단",
-        "start": "2026-09-09T07:02:55.252719",
+        "start": "2026-09-11T07:02:39.687019",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10660,10 +10759,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 진주문화예술재단 | 공고번호: R26BK01714193"
     },
     {
-        "id": "g2b-api-8959869759789571061",
+        "id": "g2b-api-2429197751720038100",
         "title": "2026진주남강유등축제 AI플랫폼 개발 및 키오스크 운영 용역-재공고",
         "organization": "재단법인 진주문화예술재단",
-        "start": "2026-09-09T07:02:55.252719",
+        "start": "2026-09-11T07:02:39.687019",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10671,21 +10770,21 @@ const bidEvents = [
         "description": "수요기관: 재단법인 진주문화예술재단 | 공고번호: R26BK01690836"
     },
     {
-        "id": "g2b-api-2193494495710418257",
+        "id": "g2b-api-387803741313087281",
         "title": "평창 지역자율 스노우 아카데미 행사 대행 용역",
         "organization": "재단법인평창유산재단",
-        "start": "2026-09-09T07:02:55.252719",
-        "deadline": "2026-10-09T07:02:55.252719",
+        "start": "2026-09-11T07:02:39.687019",
+        "deadline": "2026-10-11T07:02:39.687019",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01707871&bidPbancOrd=000",
         "description": "수요기관: 재단법인평창유산재단 | 공고번호: R26BK01707871"
     },
     {
-        "id": "g2b-api-3584017352101013",
+        "id": "g2b-api-6399833687151023757",
         "title": "드론 AI 기반 소방 지휘관 신속 상황인지 기술 개발 용역",
         "organization": "소방청 국립소방연구원",
-        "start": "2026-09-09T07:02:55.252719",
+        "start": "2026-09-11T07:02:39.687019",
         "deadline": "2026-09-17T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10693,10 +10792,10 @@ const bidEvents = [
         "description": "수요기관: 소방청 국립소방연구원 | 공고번호: R26BK01700686"
     },
     {
-        "id": "g2b-api-6278611313472704267",
+        "id": "g2b-api-1529977810793377129",
         "title": "제16회 계룡군문화축제 행사장 청소관리 및 분리수거함 임차 용역",
         "organization": "충청남도 계룡시",
-        "start": "2026-09-09T07:02:55.253720",
+        "start": "2026-09-11T07:02:39.687019",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10704,43 +10803,32 @@ const bidEvents = [
         "description": "수요기관: 충청남도 계룡시 | 공고번호: R26BK01696929"
     },
     {
-        "id": "g2b-api-7662718792974132301",
+        "id": "g2b-api-1911093675300838968",
         "title": "연암대학교 충청남도 지역성장 인재양성체계(앵커) 사업 AI 기반 One-Stop 진로-경력개발-취창업 컨설팅 시스템 구축 및 위탁운영 입찰",
         "organization": "연암대학교 산학협력단",
-        "start": "2026-09-09T07:02:55.253720",
-        "deadline": "2026-10-09T07:02:55.253720",
+        "start": "2026-09-11T07:02:39.688019",
+        "deadline": "2026-10-11T07:02:39.688019",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713336&bidPbancOrd=000",
         "description": "수요기관: 연암대학교 산학협력단 | 공고번호: R26BK01713336"
     },
     {
-        "id": "g2b-api-5117761659163202782",
+        "id": "g2b-api-679324690439761438",
         "title": "연암대학교 충청남도 지역성장 인재양성체계(앵커) 사업 데이터AI 기반 통합성과관리시스템 구축 업체 선정 입찰",
         "organization": "연암대학교 산학협력단",
-        "start": "2026-09-09T07:02:55.253720",
-        "deadline": "2026-10-09T07:02:55.253720",
+        "start": "2026-09-11T07:02:39.688019",
+        "deadline": "2026-10-11T07:02:39.688019",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01713588&bidPbancOrd=000",
         "description": "수요기관: 연암대학교 산학협력단 | 공고번호: R26BK01713588"
     },
     {
-        "id": "g2b-api-4615335682191248878",
-        "title": "2026 해외건설·플랜트의 날 행사 대행업체 선정",
-        "organization": "해외건설협회",
-        "start": "2026-09-09T07:02:55.254975",
-        "deadline": "2026-10-09T07:02:55.254975",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676053&bidPbancOrd=000",
-        "description": "수요기관: 해외건설협회 | 공고번호: R26BK01676053"
-    },
-    {
-        "id": "g2b-api-4168005703138772784",
+        "id": "g2b-api-4726604253091686775",
         "title": "참조 아키텍처 기술 검증을 위한 AI/자율 소프트웨어 연동 지원",
         "organization": "국방과학연구소",
-        "start": "2026-09-09T07:02:55.255983",
+        "start": "2026-09-11T07:02:43.475384",
         "deadline": "2026-10-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10748,10 +10836,10 @@ const bidEvents = [
         "description": "수요기관: 국방과학연구소 | 공고번호: R26BK01697269"
     },
     {
-        "id": "g2b-api-178637096673546091",
+        "id": "g2b-api-2471280934108813075",
         "title": "한국전통문화대학교-일본 나라대학교 교류 20주년 기념행사 및 국제학술심포지엄 운영",
         "organization": "국가유산청 한국전통문화대학교",
-        "start": "2026-09-09T07:02:55.255983",
+        "start": "2026-09-11T07:02:43.475384",
         "deadline": "2026-09-02T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10759,10 +10847,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 한국전통문화대학교 | 공고번호: R26BK01707362"
     },
     {
-        "id": "g2b-api-1364172935966439892",
+        "id": "g2b-api-1381443628966501562",
         "title": "생성형 AI 유료 구독 서비스 라이선스(연간사용권) 추가 구매 요청",
         "organization": "국가유산청 한국전통문화대학교",
-        "start": "2026-09-09T07:02:55.255983",
+        "start": "2026-09-11T07:02:43.475384",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10770,10 +10858,21 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 한국전통문화대학교 | 공고번호: R26BK01696489"
     },
     {
-        "id": "g2b-api-3572885810366948932",
+        "id": "g2b-api-1101553186753491577",
+        "title": "국내 전력망 데이터를 활용한 물리정보 기반 AI-SCUC 시작품 제작",
+        "organization": "한국전기연구원",
+        "start": "2026-09-11T07:02:43.476383",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721731&bidPbancOrd=000",
+        "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01721731"
+    },
+    {
+        "id": "g2b-api-7995039826752353100",
         "title": "학연협력 기반 엔지니어 양성을 위한 피지컬 AI 비교과프로그램 개발 및운영",
         "organization": "한국전기연구원",
-        "start": "2026-09-09T07:02:55.256984",
+        "start": "2026-09-11T07:02:43.476383",
         "deadline": "2026-08-25T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10781,10 +10880,10 @@ const bidEvents = [
         "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01688120"
     },
     {
-        "id": "g2b-api-370287544511327941",
+        "id": "g2b-api-5387844482161047098",
         "title": "한국전기연구원 창립 50주년 기념행사 기획·운영 대행용역",
         "organization": "한국전기연구원",
-        "start": "2026-09-09T07:02:55.256984",
+        "start": "2026-09-11T07:02:43.477383",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10792,10 +10891,10 @@ const bidEvents = [
         "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01685429"
     },
     {
-        "id": "g2b-api-2636036382804517320",
+        "id": "g2b-api-4835297604263568995",
         "title": "중국 전시회(EP Shanghai 2026) 전시회 부스 설치 및 운영 용역",
         "organization": "한국전기연구원",
-        "start": "2026-09-09T07:02:55.256984",
+        "start": "2026-09-11T07:02:43.477383",
         "deadline": "2026-09-22T00:00:00",
         "category": "exhibition",
         "source": "gov",
@@ -10803,10 +10902,21 @@ const bidEvents = [
         "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01719731"
     },
     {
-        "id": "g2b-api-2421627217400403574",
+        "id": "g2b-api-5654099801770164270",
+        "title": "2026 KIMES BUSAN (부산국제의료기기전시회) 전시공간 임차 및 지원 용역 구매",
+        "organization": "한국전기연구원",
+        "start": "2026-09-11T07:02:43.477383",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "exhibition",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721800&bidPbancOrd=000",
+        "description": "수요기관: 한국전기연구원 | 공고번호: R26BK01721800"
+    },
+    {
+        "id": "g2b-api-9081057425990792937",
         "title": "한국폴리텍대학 성남캠퍼스 피지컬AI센터 구축공사(전기)",
         "organization": "한국폴리텍I대학성남캠퍼스",
-        "start": "2026-09-09T07:02:55.257985",
+        "start": "2026-09-11T07:02:43.477383",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10814,10 +10924,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍I대학성남캠퍼스 | 공고번호: R26BK01682150"
     },
     {
-        "id": "g2b-api-6648376804098858111",
+        "id": "g2b-api-1384630735824055824",
         "title": "한국폴리텍대학 성남캠퍼스 피지컬 AI센터 구축 공사(건축)",
         "organization": "한국폴리텍I대학성남캠퍼스",
-        "start": "2026-09-09T07:02:55.257985",
+        "start": "2026-09-11T07:02:43.477383",
         "deadline": "2026-08-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10825,21 +10935,10 @@ const bidEvents = [
         "description": "수요기관: 한국폴리텍I대학성남캠퍼스 | 공고번호: R26BK01681958"
     },
     {
-        "id": "g2b-api-6546345804055570088",
-        "title": "[육성] AI기반 기자재 확충 문예창작전공 노트북 외 4종 구매",
-        "organization": "한경국립대학교",
-        "start": "2026-09-09T07:02:55.257985",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674562&bidPbancOrd=000",
-        "description": "수요기관: 한경국립대학교 | 공고번호: R26BK01674562"
-    },
-    {
-        "id": "g2b-api-7468703273619023906",
+        "id": "g2b-api-3822350815323403543",
         "title": "디지털배움터 플랫폼 AI 실습 기능 개발 개인정보영향평가",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-02T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10847,10 +10946,10 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01683366"
     },
     {
-        "id": "g2b-api-3753427353475133922",
+        "id": "g2b-api-292253987514362385",
         "title": "디지털배움터 플랫폼 AI 실습 기능 개발 개인정보영향평가",
         "organization": "한국지능정보사회진흥원",
-        "start": "2026-09-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10858,21 +10957,21 @@ const bidEvents = [
         "description": "수요기관: 한국지능정보사회진흥원 | 공고번호: R26BK01709515"
     },
     {
-        "id": "g2b-api-858453841422922588",
+        "id": "g2b-api-7921833028544774613",
         "title": "2026년 화천형 AI 열린군대사업 운영 용역",
         "organization": "강원특별자치도 화천군",
-        "start": "2026-09-09T07:02:55.258489",
-        "deadline": "2026-10-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
+        "deadline": "2026-10-11T07:02:43.478383",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697438&bidPbancOrd=000",
         "description": "수요기관: 강원특별자치도 화천군 | 공고번호: R26BK01697438"
     },
     {
-        "id": "g2b-api-7289694639266423150",
+        "id": "g2b-api-1347171193565745281",
         "title": "2026 국가거점국립대학교 제전 행사 진행 용역",
         "organization": "전남대학교",
-        "start": "2026-09-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-08-28T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10880,10 +10979,10 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 | 공고번호: R26BK01673314"
     },
     {
-        "id": "g2b-api-166118529632801912",
+        "id": "g2b-api-1145430736684424762",
         "title": "2026학년도 전남대학교 용봉대동풀이 행사 진행 용역",
         "organization": "전남대학교",
-        "start": "2026-09-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10891,10 +10990,10 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 | 공고번호: R26BK01692439"
     },
     {
-        "id": "g2b-api-5406056962429666018",
+        "id": "g2b-api-7183255492883804086",
         "title": "2026 국가거점국립대학교 제전 행사 진행 용역",
         "organization": "전남대학교",
-        "start": "2026-09-09T07:02:55.258489",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10902,10 +11001,10 @@ const bidEvents = [
         "description": "수요기관: 전남대학교 | 공고번호: R26BK01703608"
     },
     {
-        "id": "g2b-api-3158904433977654731",
+        "id": "g2b-api-6675017581171312089",
         "title": "민원 혁신 성과보고회 행사 대행",
         "organization": "국민권익위원회",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10913,10 +11012,10 @@ const bidEvents = [
         "description": "수요기관: 국민권익위원회 | 공고번호: R26BK01715237"
     },
     {
-        "id": "g2b-api-7796247921311081657",
+        "id": "g2b-api-5837338470017290464",
         "title": "2026년 충북 창업페스티벌 행사 대행 용역",
         "organization": "(재)충청북도창조경제혁신센터",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-16T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10924,10 +11023,10 @@ const bidEvents = [
         "description": "수요기관: (재)충청북도창조경제혁신센터 | 공고번호: R26BK01711245"
     },
     {
-        "id": "g2b-api-8442300470940818121",
+        "id": "g2b-api-2332012730264233961",
         "title": "제10회 국방품질경영상 시상식 행사 운영",
         "organization": "국방기술품질원",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.478383",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10935,10 +11034,10 @@ const bidEvents = [
         "description": "수요기관: 국방기술품질원 | 공고번호: R26BK01712063"
     },
     {
-        "id": "g2b-api-5196516895538109578",
+        "id": "g2b-api-5051648520989251521",
         "title": "2026년 김해건설공고 AIoT전기과 실습용 수직작업대 구매 조합추천 수의계약 견적 제출 안내 공고",
         "organization": "경상남도교육청 김해건설공업고등학교",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-08-28T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10946,10 +11045,10 @@ const bidEvents = [
         "description": "수요기관: 경상남도교육청 김해건설공업고등학교 | 공고번호: R26BK01692939"
     },
     {
-        "id": "g2b-api-828374355390554947",
+        "id": "g2b-api-9135543551117017786",
         "title": "2026 서울인공지능고등학교 AI로봇과 기자재 및 전기에너지과 확충 기자재 구매 계약 (규격·가격 동시) 입찰 공고",
         "organization": "서울특별시교육청 서울인공지능고등학교",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-09-22T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10957,10 +11056,10 @@ const bidEvents = [
         "description": "수요기관: 서울특별시교육청 서울인공지능고등학교 | 공고번호: R26BK01705764"
     },
     {
-        "id": "g2b-api-5057531923070515720",
+        "id": "g2b-api-2123730879994876408",
         "title": "AI시대 신종범죄 대응 과학치안 체계 구축 및 국가전략 수립 연구",
         "organization": "과학기술정보통신부",
-        "start": "2026-09-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -10968,21 +11067,21 @@ const bidEvents = [
         "description": "수요기관: 과학기술정보통신부 | 공고번호: R26BK01715380"
     },
     {
-        "id": "g2b-api-5709642532653580383",
+        "id": "g2b-api-5806673842594276597",
         "title": "2026년 K-유교 국제포럼 행사 대행 용역",
         "organization": "재단법인한국유교문화진흥원",
-        "start": "2026-09-09T07:02:55.259495",
-        "deadline": "2026-10-09T07:02:55.259495",
+        "start": "2026-09-11T07:02:43.479383",
+        "deadline": "2026-10-11T07:02:43.479383",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690905&bidPbancOrd=000",
         "description": "수요기관: 재단법인한국유교문화진흥원 | 공고번호: R26BK01690905"
     },
     {
-        "id": "g2b-api-5727905783320052161",
+        "id": "g2b-api-6209239182728763844",
         "title": "2026학년도 그린바이오 혁신융합대학사업 2026 CO-SHOW 행사 제작·운송·설치·운영 용역",
         "organization": "충남대학교 산학협력단",
-        "start": "2026-09-09T07:02:55.260495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -10990,10 +11089,10 @@ const bidEvents = [
         "description": "수요기관: 충남대학교 산학협력단 | 공고번호: R26BK01705784"
     },
     {
-        "id": "g2b-api-3063776864600227919",
+        "id": "g2b-api-6737413127302024254",
         "title": "2026학년도 그린바이오 혁신융합대학사업 2026 CO-SHOW 행사 제작·운송·설치·운영 용역",
         "organization": "충남대학교 산학협력단",
-        "start": "2026-09-09T07:02:55.260495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-08-25T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11001,10 +11100,10 @@ const bidEvents = [
         "description": "수요기관: 충남대학교 산학협력단 | 공고번호: R26BK01678813"
     },
     {
-        "id": "g2b-api-2531066355810329529",
+        "id": "g2b-api-7935718949351493949",
         "title": "2026년 인천 AI·SW미래채움 교육페스티벌 운영용역",
         "organization": "인천테크노파크",
-        "start": "2026-09-09T07:02:55.260495",
+        "start": "2026-09-11T07:02:43.479383",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11012,10 +11111,10 @@ const bidEvents = [
         "description": "수요기관: 인천테크노파크 | 공고번호: R26BK01687776"
     },
     {
-        "id": "g2b-api-3286008692293781091",
+        "id": "g2b-api-2044261479556018134",
         "title": "[긴급]2026 PFB(패패부산) 행사 운영 대행 용역",
         "organization": "재단법인부산테크노파크",
-        "start": "2026-09-09T07:02:59.703865",
+        "start": "2026-09-11T07:02:43.480383",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11023,10 +11122,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인부산테크노파크 | 공고번호: R26BK01688278"
     },
     {
-        "id": "g2b-api-3479116925685393176",
+        "id": "g2b-api-7920564810407778099",
         "title": "AI 기반 반품검품 장비(베타) 개발 용역",
         "organization": "리터놀 주식회사",
-        "start": "2026-09-09T07:02:59.703865",
+        "start": "2026-09-11T07:02:43.480889",
         "deadline": "2026-09-16T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11034,109 +11133,32 @@ const bidEvents = [
         "description": "수요기관: 리터놀 주식회사 | 공고번호: R26BK01718255"
     },
     {
-        "id": "g2b-api-6388557230981645546",
+        "id": "g2b-api-8568898259058111662",
         "title": "[AI부트캠프사업단] PC 및 모니터 구매 ",
         "organization": "대구대학교 산학협력단",
-        "start": "2026-09-09T07:02:59.706375",
-        "deadline": "2026-10-09T07:02:59.706375",
+        "start": "2026-09-11T07:02:43.480889",
+        "deadline": "2026-10-11T07:02:43.480889",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705152&bidPbancOrd=000",
         "description": "수요기관: 대구대학교 산학협력단 | 공고번호: R26BK01705152"
     },
     {
-        "id": "g2b-api-6812396744970576603",
-        "title": "AI 서버 6대 구매",
-        "organization": "조선대학교",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-10-09T07:02:59.707376",
+        "id": "g2b-api-3230547279741414838",
+        "title": "AI 산불감시카메라 구축 물품 구입",
+        "organization": "경기도 하남시",
+        "start": "2026-09-11T07:02:43.481891",
+        "deadline": "2026-09-17T00:00:00",
         "category": "ai",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675249&bidPbancOrd=000",
-        "description": "수요기관: 조선대학교 | 공고번호: R26BK01675249"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720747&bidPbancOrd=000",
+        "description": "수요기관: 경기도 하남시 | 공고번호: R26BK01720747"
     },
     {
-        "id": "g2b-api-3403904252089690465",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(공산품류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673032&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673032"
-    },
-    {
-        "id": "g2b-api-2466136205868689381",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(육류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673048&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673048"
-    },
-    {
-        "id": "g2b-api-6970882221789701222",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(건어물 및 기타류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673026&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673026"
-    },
-    {
-        "id": "g2b-api-1821524476786586949",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(김치류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673053&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673053"
-    },
-    {
-        "id": "g2b-api-5666242545550846689",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(냉동식품류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673034&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673034"
-    },
-    {
-        "id": "g2b-api-2220339134346229255",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(야채 및 과일류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673040&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673040"
-    },
-    {
-        "id": "g2b-api-5984445514347572307",
-        "title": "국립공주대학교 학생생활관 은행사식당 급식재료(생선류) 구입",
-        "organization": "공주대학교 학생생활관",
-        "start": "2026-09-09T07:02:59.707376",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673037&bidPbancOrd=000",
-        "description": "수요기관: 공주대학교 학생생활관 | 공고번호: R26BK01673037"
-    },
-    {
-        "id": "g2b-api-6206430076134448109",
+        "id": "g2b-api-2874358290192940771",
         "title": "청강문화산업대학교 2026년 청년 K-컬처 글로벌 프런티어 사업-주관여행사 입찰 공고",
         "organization": "청강문화산업대학 산학협력단",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.064444",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11144,10 +11166,10 @@ const bidEvents = [
         "description": "수요기관: 청강문화산업대학 산학협력단 | 공고번호: R26BK01692412"
     },
     {
-        "id": "g2b-api-7269007455362643849",
+        "id": "g2b-api-9117791811551430763",
         "title": "제2회 항공안전의 날 기념식 행사대행",
         "organization": "국토교통부",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.064444",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11155,10 +11177,10 @@ const bidEvents = [
         "description": "수요기관: 국토교통부 | 공고번호: R26BK01685027"
     },
     {
-        "id": "g2b-api-7336812464827557489",
+        "id": "g2b-api-941352079975635551",
         "title": "2026년 연구실 안전주간 행사 업무대행 용역",
         "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.064444",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11166,10 +11188,10 @@ const bidEvents = [
         "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01686175"
     },
     {
-        "id": "g2b-api-7126795561061613035",
+        "id": "g2b-api-5486081392224767921",
         "title": "AI데이터센터(AIDC) 국가전략산업 초격차 추진을 위한 종합 체계 구축",
         "organization": "한국연구재단 정보통신기획평가원",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.064444",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11177,10 +11199,10 @@ const bidEvents = [
         "description": "수요기관: 한국연구재단 정보통신기획평가원 | 공고번호: R26BK01688299"
     },
     {
-        "id": "g2b-api-5901826945177812719",
+        "id": "g2b-api-781456308560236895",
         "title": "우선순위 감염병 치료제 라이브러리 구축용 AI 기반 구조기반 가상탐색·MD 통합분석",
         "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-15T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11188,10 +11210,10 @@ const bidEvents = [
         "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01707365"
     },
     {
-        "id": "g2b-api-3339296844253970824",
+        "id": "g2b-api-7447063754700101948",
         "title": "2026 유성온천 크리스마스축제 행사대행용역",
         "organization": "대전광역시 유성구",
-        "start": "2026-09-09T07:02:59.708681",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11199,21 +11221,10 @@ const bidEvents = [
         "description": "수요기관: 대전광역시 유성구 | 공고번호: R26BK01695328"
     },
     {
-        "id": "g2b-api-8977353236439384958",
+        "id": "g2b-api-8901214212578160245",
         "title": "우선순위 감염병 치료제 라이브러리 구축용 AI 기반 구조기반 가상탐색·MD 통합분석",
         "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:59.708681",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01651657&bidPbancOrd=000",
-        "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01651657"
-    },
-    {
-        "id": "g2b-api-482333361587921080",
-        "title": "우선순위 감염병 치료제 라이브러리 구축용 AI 기반 구조기반 가상탐색·MD 통합분석",
-        "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:59.709186",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11221,10 +11232,10 @@ const bidEvents = [
         "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01692373"
     },
     {
-        "id": "g2b-api-2603375997268251667",
+        "id": "g2b-api-78328403884010001",
         "title": "미륵사지 디지털 건축 학술포럼 및 야외 XR 콘텐츠 시연회 행사 대행 용역",
         "organization": "국가유산청 국립문화유산연구원",
-        "start": "2026-09-09T07:02:59.709186",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11232,10 +11243,10 @@ const bidEvents = [
         "description": "수요기관: 국가유산청 국립문화유산연구원 | 공고번호: R26BK01694897"
     },
     {
-        "id": "g2b-api-2114012246215365969",
+        "id": "g2b-api-4257251987254017584",
         "title": "당뇨질환 치료제 유효성 데이터 AI 활용 수집용역",
         "organization": "한국생명공학연구원",
-        "start": "2026-09-09T07:02:59.709186",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11243,10 +11254,21 @@ const bidEvents = [
         "description": "수요기관: 한국생명공학연구원 | 공고번호: R26BK01685823"
     },
     {
-        "id": "g2b-api-565778664531187487",
+        "id": "g2b-api-5916959722065625978",
         "title": "한국베어링컨퍼런스 및 베어링의 날 행사대행 용역",
         "organization": "경상북도 영주시",
-        "start": "2026-09-09T07:02:59.709704",
+        "start": "2026-09-11T07:02:48.065625",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01724274&bidPbancOrd=000",
+        "description": "수요기관: 경상북도 영주시 | 공고번호: R26BK01724274"
+    },
+    {
+        "id": "g2b-api-3441496907198148482",
+        "title": "한국베어링컨퍼런스 및 베어링의 날 행사대행 용역",
+        "organization": "경상북도 영주시",
+        "start": "2026-09-11T07:02:48.065625",
         "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11254,10 +11276,10 @@ const bidEvents = [
         "description": "수요기관: 경상북도 영주시 | 공고번호: R26BK01714224"
     },
     {
-        "id": "g2b-api-6833900934881194251",
+        "id": "g2b-api-1695761369440078288",
         "title": "제23회 익산 천만송이 국화축제 행사운영 용역",
         "organization": "전북특별자치도 익산시",
-        "start": "2026-09-09T07:02:59.709704",
+        "start": "2026-09-11T07:02:48.066624",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11265,21 +11287,10 @@ const bidEvents = [
         "description": "수요기관: 전북특별자치도 익산시 | 공고번호: R26BK01687401"
     },
     {
-        "id": "g2b-api-4846187181850095995",
-        "title": "제23회 익산 천만송이 국화축제 행사장 공간조성 및 야간경관 조명 설치 운영 용역",
-        "organization": "전북특별자치도 익산시",
-        "start": "2026-09-09T07:02:59.709704",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677477&bidPbancOrd=000",
-        "description": "수요기관: 전북특별자치도 익산시 | 공고번호: R26BK01677477"
-    },
-    {
-        "id": "g2b-api-5971791463511685106",
+        "id": "g2b-api-8908405526028462749",
         "title": " 2026년 동아보건대학교 수요자 맞춤형 AI 기반 통합 디지털 캠퍼스 포털 구축",
         "organization": "동아보건대학교",
-        "start": "2026-09-09T07:02:59.709704",
+        "start": "2026-09-11T07:02:48.066624",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11287,10 +11298,10 @@ const bidEvents = [
         "description": "수요기관: 동아보건대학교 | 공고번호: R26BK01715255"
     },
     {
-        "id": "g2b-api-1127642026747833756",
+        "id": "g2b-api-2203666445802499450",
         "title": "AI 응용제품 신속상용화 지원사업 성과 홍보 및 확산",
         "organization": "국토교통과학기술진흥원",
-        "start": "2026-09-09T07:02:59.710709",
+        "start": "2026-09-11T07:02:48.067624",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11298,54 +11309,43 @@ const bidEvents = [
         "description": "수요기관: 국토교통과학기술진흥원 | 공고번호: R26BK01716087"
     },
     {
-        "id": "g2b-api-3636207545817510780",
-        "title": "2026년 옥천군 독서의 달 및 옥천군민도서관 재개관식 행사 대행 용역",
-        "organization": "충청북도 옥천군",
-        "start": "2026-09-09T07:02:59.710709",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673726&bidPbancOrd=000",
-        "description": "수요기관: 충청북도 옥천군 | 공고번호: R26BK01673726"
-    },
-    {
-        "id": "g2b-api-8362145870956569126",
+        "id": "g2b-api-105726899826821731",
         "title": "2026년 유럽형 노천카페 행사대행 용역(협상에 의한 계약)",
         "organization": "경상북도 김천시",
-        "start": "2026-09-09T07:02:59.710709",
-        "deadline": "2026-10-09T07:02:59.710709",
+        "start": "2026-09-11T07:02:48.067624",
+        "deadline": "2026-10-11T07:02:48.067624",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689615&bidPbancOrd=000",
         "description": "수요기관: 경상북도 김천시 | 공고번호: R26BK01689615"
     },
     {
-        "id": "g2b-api-1030820585116265990",
+        "id": "g2b-api-6226129592559308634",
         "title": "김천 관광 팝업 홍보관 행사 대행 용역 재공고(협상에 의한 계약)",
         "organization": "경상북도 김천시",
-        "start": "2026-09-09T07:02:59.710709",
-        "deadline": "2026-10-09T07:02:59.710709",
+        "start": "2026-09-11T07:02:48.067624",
+        "deadline": "2026-10-11T07:02:48.067624",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686531&bidPbancOrd=000",
         "description": "수요기관: 경상북도 김천시 | 공고번호: R26BK01686531"
     },
     {
-        "id": "g2b-api-4375746491951042130",
-        "title": "(동의대학교 산학협력단) [앵커] 2026년도 클라우드 네이티브 산업형 AI 교육 「제조 산업 특화 산업형 AI 교육」운영",
-        "organization": "동의대학교 산학협력단",
-        "start": "2026-09-09T07:02:59.711709",
-        "deadline": "2026-08-18T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673201&bidPbancOrd=000",
-        "description": "수요기관: 동의대학교 산학협력단 | 공고번호: R26BK01673201"
-    },
-    {
-        "id": "g2b-api-2882550493976954868",
+        "id": "g2b-api-1321799265828067197",
         "title": "(동의대학교 산학협력단) AI 교육용 키트 제작 및 교육 컨텐츠 제작",
         "organization": "동의대학교 산학협력단",
-        "start": "2026-09-09T07:02:59.711709",
+        "start": "2026-09-11T07:02:48.068624",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723590&bidPbancOrd=000",
+        "description": "수요기관: 동의대학교 산학협력단 | 공고번호: R26BK01723590"
+    },
+    {
+        "id": "g2b-api-3537873026656691260",
+        "title": "(동의대학교 산학협력단) AI 교육용 키트 제작 및 교육 컨텐츠 제작",
+        "organization": "동의대학교 산학협력단",
+        "start": "2026-09-11T07:02:48.068624",
         "deadline": "2026-09-08T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11353,10 +11353,10 @@ const bidEvents = [
         "description": "수요기관: 동의대학교 산학협력단 | 공고번호: R26BK01706435"
     },
     {
-        "id": "g2b-api-6867333789482415440",
+        "id": "g2b-api-4828840143557407549",
         "title": "광주공업고등학교 AI반도체과(전자과) 실습실 환경개선공사",
         "organization": "전남광주통합특별시교육청 광주공업고등학교",
-        "start": "2026-09-09T07:02:59.711709",
+        "start": "2026-09-11T07:02:48.068624",
         "deadline": "2026-08-14T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11364,10 +11364,10 @@ const bidEvents = [
         "description": "수요기관: 전남광주통합특별시교육청 광주공업고등학교 | 공고번호: R26BK01682593"
     },
     {
-        "id": "g2b-api-7496130328011968011",
+        "id": "g2b-api-7088032165827645334",
         "title": "(재공고) 2026년 글로벌 IP금융 포럼 행사운영 용역",
         "organization": "한국발명진흥회",
-        "start": "2026-09-09T07:02:59.711709",
+        "start": "2026-09-11T07:02:48.068624",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11375,10 +11375,10 @@ const bidEvents = [
         "description": "수요기관: 한국발명진흥회 | 공고번호: R26BK01692020"
     },
     {
-        "id": "g2b-api-2717219679705592719",
+        "id": "g2b-api-191755765823043023",
         "title": "(용역)에이전틱 AI 기반 산림서비스 아키텍처 및 영상품질 관리 자동화 기술 검증 용역",
         "organization": "산림청 국립산림과학원",
-        "start": "2026-09-09T07:02:59.713709",
+        "start": "2026-09-11T07:02:48.071128",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11386,21 +11386,10 @@ const bidEvents = [
         "description": "수요기관: 산림청 국립산림과학원 | 공고번호: R26BK01694210"
     },
     {
-        "id": "g2b-api-4557491604352750011",
-        "title": "(용역)에이전틱 AI 기반 산림서비스 아키텍처 및 영상품질 관리 자동화 기술 검증 용역",
-        "organization": "산림청 국립산림과학원",
-        "start": "2026-09-09T07:02:59.713709",
-        "deadline": "2026-08-21T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01664129&bidPbancOrd=000",
-        "description": "수요기관: 산림청 국립산림과학원 | 공고번호: R26BK01664129"
-    },
-    {
-        "id": "g2b-api-8004863813126300633",
+        "id": "g2b-api-6530822524280966889",
         "title": "(용역)AI 기반 산림 이슈 모니터링 시스템 구축",
         "organization": "산림청 국립산림과학원",
-        "start": "2026-09-09T07:02:59.713709",
+        "start": "2026-09-11T07:02:48.071128",
         "deadline": "2026-09-01T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11408,65 +11397,362 @@ const bidEvents = [
         "description": "수요기관: 산림청 국립산림과학원 | 공고번호: R26BK01688086"
     },
     {
-        "id": "g2b-api-4789347088973379252",
+        "id": "g2b-api-2047224519522114301",
+        "title": "2026 BLACK BLACK, Shanghai 전시 작품운송 및 설치 용역",
+        "organization": "전남광주통합특별시 전남미술관",
+        "start": "2026-09-11T07:02:48.071128",
+        "deadline": "2026-09-04T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01704801&bidPbancOrd=000",
+        "description": "수요기관: 전남광주통합특별시 전남미술관 | 공고번호: R26BK01704801"
+    },
+    {
+        "id": "g2b-api-6991478299001550654",
+        "title": "수중데이터센터 실증모델 시작품 AI 인프라 및 통신망 구축",
+        "organization": "한국해양과학기술원",
+        "start": "2026-09-11T07:02:48.071128",
+        "deadline": "2026-08-31T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690960&bidPbancOrd=000",
+        "description": "수요기관: 한국해양과학기술원 | 공고번호: R26BK01690960"
+    },
+    {
+        "id": "g2b-api-1565231801150791701",
+        "title": "코레일테크 소모성물품(MRO) 구매대행사업자 선정",
+        "organization": "코레일테크주식회사",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-06T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695514&bidPbancOrd=000",
+        "description": "수요기관: 코레일테크주식회사 | 공고번호: R26BK01695514"
+    },
+    {
+        "id": "g2b-api-5340362648113968500",
+        "title": "2026 Global Well-aging AI Startup Series 운영 용역",
+        "organization": "조선대학교",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-11T07:02:48.072134",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01714552&bidPbancOrd=000",
+        "description": "수요기관: 조선대학교 | 공고번호: R26BK01714552"
+    },
+    {
+        "id": "g2b-api-5097131220679095595",
+        "title": "조선대학교 AI기반 기초교양플랫폼(LXP) 구축",
+        "organization": "조선대학교",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-11T07:02:48.072134",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690563&bidPbancOrd=000",
+        "description": "수요기관: 조선대학교 | 공고번호: R26BK01690563"
+    },
+    {
+        "id": "g2b-api-8789721631493697359",
+        "title": "2026학년도 조선대학교 단과대학 연합 축제  ‘PRISM’행사 용역(긴급)",
+        "organization": "조선대학교",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-11T07:02:48.072134",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01681072&bidPbancOrd=000",
+        "description": "수요기관: 조선대학교 | 공고번호: R26BK01681072"
+    },
+    {
+        "id": "g2b-api-6590677858797584793",
+        "title": "2026 Global Well-aging AI Startup Series 운영 용역",
+        "organization": "조선대학교",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-11T07:02:48.072134",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01695537&bidPbancOrd=000",
+        "description": "수요기관: 조선대학교 | 공고번호: R26BK01695537"
+    },
+    {
+        "id": "g2b-api-725312951897099923",
+        "title": "[긴급] 2026학년도 단과대학 연합 축제「PRISM」행사 홍보 물품",
+        "organization": "조선대학교",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-10-11T07:02:48.072134",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693724&bidPbancOrd=000",
+        "description": "수요기관: 조선대학교 | 공고번호: R26BK01693724"
+    },
+    {
+        "id": "g2b-api-7175511997637315515",
+        "title": "2026년 상권별 공동마케팅 소비촉진 행사 대행 용역(긴급)",
+        "organization": "세종특별자치시",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01676663&bidPbancOrd=001",
+        "description": "수요기관: 세종특별자치시 | 공고번호: R26BK01676663"
+    },
+    {
+        "id": "g2b-api-647254387630225813",
+        "title": "2026년 상권별 공동마케팅 소비촉진 행사 대행 용역(긴급)",
+        "organization": "세종특별자치시",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01679877&bidPbancOrd=000",
+        "description": "수요기관: 세종특별자치시 | 공고번호: R26BK01679877"
+    },
+    {
+        "id": "g2b-api-3971647026097614935",
+        "title": "민관동행사업 추진을 위한 기술지원 용역",
+        "organization": "(재)서울연구원",
+        "start": "2026-09-11T07:02:48.072134",
+        "deadline": "2026-09-29T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720498&bidPbancOrd=000",
+        "description": "수요기관: (재)서울연구원 | 공고번호: R26BK01720498"
+    },
+    {
+        "id": "g2b-api-4497400833860280516",
+        "title": "국립광주과학관 AI 교육 체험존 구축 및 실습 환경 개선공사",
+        "organization": "국립광주과학관",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720024&bidPbancOrd=000",
+        "description": "수요기관: 국립광주과학관 | 공고번호: R26BK01720024"
+    },
+    {
+        "id": "g2b-api-2795969165130005756",
+        "title": "제9회 평택항 희망의 바다 그림 그리기 대회 행사 용역",
+        "organization": "경기도 평택시",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-08-26T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697832&bidPbancOrd=000",
+        "description": "수요기관: 경기도 평택시 | 공고번호: R26BK01697832"
+    },
+    {
+        "id": "g2b-api-4042633802652008780",
+        "title": "「부산국제영화제 연계행사 커뮤니티비프」 행사 대행 용역",
+        "organization": "부산광역시 중구",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-10-11T07:02:48.073133",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01688542&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시 중구 | 공고번호: R26BK01688542"
+    },
+    {
+        "id": "g2b-api-7185849497402119632",
+        "title": "「2026 광복로 겨울빛 트리축제&산복하늘 빛의 거리」빛 시설물 설치 운영 및 행사 대행 용역",
+        "organization": "부산광역시 중구",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-10-11T07:02:48.073133",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719426&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시 중구 | 공고번호: R26BK01719426"
+    },
+    {
+        "id": "g2b-api-5492331431515225873",
+        "title": "「2026 광복로 겨울빛 트리축제&산복하늘 빛의 거리」빛 시설물 설치 운영 및 행사 대행 용역",
+        "organization": "부산광역시 중구",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-10-11T07:02:48.073133",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01692256&bidPbancOrd=001",
+        "description": "수요기관: 부산광역시 중구 | 공고번호: R26BK01692256"
+    },
+    {
+        "id": "g2b-api-124385608461190360",
+        "title": "「2026 광복로 겨울빛 트리축제&산복하늘 빛의 거리」빛 시설물 설치 운영 및 행사 대행 용역",
+        "organization": "부산광역시 중구",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-10-11T07:02:48.073133",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697974&bidPbancOrd=000",
+        "description": "수요기관: 부산광역시 중구 | 공고번호: R26BK01697974"
+    },
+    {
+        "id": "g2b-api-4716439848032852324",
+        "title": "AI의료생태계 K-Health실증병원 정보화전략계획(ISP) 수립 공고",
+        "organization": "KS병원",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-09-04T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01703451&bidPbancOrd=000",
+        "description": "수요기관: KS병원 | 공고번호: R26BK01703451"
+    },
+    {
+        "id": "g2b-api-5786536573240474",
+        "title": "AI의료생태계 K-Health실증병원 정보화전략계획(ISP) 수립 공고",
+        "organization": "KS병원",
+        "start": "2026-09-11T07:02:48.073133",
+        "deadline": "2026-08-27T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678783&bidPbancOrd=001",
+        "description": "수요기관: KS병원 | 공고번호: R26BK01678783"
+    },
+    {
+        "id": "g2b-api-2867196240358932779",
+        "title": "인공지능(AI) 기반 피해예측 모델 개발용 서버",
+        "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
+        "start": "2026-09-11T07:02:48.074133",
+        "deadline": "2026-09-03T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01703311&bidPbancOrd=000",
+        "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01703311"
+    },
+    {
+        "id": "g2b-api-660002439755897081",
+        "title": "인공지능(AI) 기반 피해예측 모델 개발용 서버",
+        "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
+        "start": "2026-09-11T07:02:48.074133",
+        "deadline": "2026-08-28T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01690217&bidPbancOrd=000",
+        "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01690217"
+    },
+    {
+        "id": "g2b-api-8207177203058608762",
+        "title": "인공지능(AI) 기반 피해예측 모델 개발용 서버",
+        "organization": "한국해양과학기술원 부설 선박해양플랜트연구소",
+        "start": "2026-09-11T07:02:48.074133",
+        "deadline": "2026-09-10T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721094&bidPbancOrd=000",
+        "description": "수요기관: 한국해양과학기술원 부설 선박해양플랜트연구소 | 공고번호: R26BK01721094"
+    },
+    {
+        "id": "g2b-api-6195450222166209503",
+        "title": "2026 아일랜드 바이브 페스티벌 행사 기획 및 운영",
+        "organization": "제주관광공사",
+        "start": "2026-09-11T07:02:48.074133",
+        "deadline": "2026-10-11T07:02:48.074133",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01709203&bidPbancOrd=000",
+        "description": "수요기관: 제주관광공사 | 공고번호: R26BK01709203"
+    },
+    {
+        "id": "g2b-api-1637680190131780253",
+        "title": "AI 교육과정 커리큘럼 설계 용역",
+        "organization": "한국공항공사",
+        "start": "2026-09-11T07:02:52.303737",
+        "deadline": "2026-09-09T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720047&bidPbancOrd=000",
+        "description": "수요기관: 한국공항공사 | 공고번호: R26BK01720047"
+    },
+    {
+        "id": "g2b-api-8408694959841483098",
+        "title": "AI 공유재산 관리 시스템 기반 구축 사업",
+        "organization": "충청남도 아산시",
+        "start": "2026-09-11T07:02:52.303737",
+        "deadline": "2026-10-11T07:02:52.303737",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01717067&bidPbancOrd=000",
+        "description": "수요기관: 충청남도 아산시 | 공고번호: R26BK01717067"
+    },
+    {
+        "id": "g2b-api-7518215861231120724",
+        "title": "2026년 청년들이 만드는 아산 페스티벌(청·아·페) 행사 대행 용역",
+        "organization": "충청남도 아산시",
+        "start": "2026-09-11T07:02:52.305241",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687333&bidPbancOrd=000",
+        "description": "수요기관: 충청남도 아산시 | 공고번호: R26BK01687333"
+    },
+    {
+        "id": "g2b-api-4295243853880418400",
         "title": "AI Connect copilot 비교과 프로그램 운영을 위한 용역업체 선정",
         "organization": "경희대학교 산학협력단 서울캠퍼스산학협력단",
-        "start": "2026-09-09T07:03:04.667155",
-        "deadline": "2026-10-09T07:03:04.667155",
+        "start": "2026-09-11T07:02:52.305241",
+        "deadline": "2026-10-11T07:02:52.305241",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705047&bidPbancOrd=000",
         "description": "수요기관: 경희대학교 산학협력단 서울캠퍼스산학협력단 | 공고번호: R26BK01705047"
     },
     {
-        "id": "g2b-api-2788304955743475564",
+        "id": "g2b-api-8691217497144409785",
+        "title": "AI 기반 건축 인허가 법령 검증 및 사전진단 체계 구축 연구(1차년도)",
+        "organization": "(주)비아이매트릭스",
+        "start": "2026-09-11T07:02:52.305241",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694878&bidPbancOrd=000",
+        "description": "수요기관: (주)비아이매트릭스 | 공고번호: R26BK01694878"
+    },
+    {
+        "id": "g2b-api-7647595967285117418",
         "title": "2026년 AI 기반 진료서비스 및 연동 플랫폼 구독 사업",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:03:04.667155",
-        "deadline": "2026-10-09T07:03:04.667155",
+        "start": "2026-09-11T07:02:52.305241",
+        "deadline": "2026-10-11T07:02:52.305241",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01697023&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01697023"
     },
     {
-        "id": "g2b-api-3667033825833893834",
+        "id": "g2b-api-7957287044119635935",
         "title": "2026년 AI 기반 진료서비스 및 연동 플랫폼 구독 사업(재공고)",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:03:04.667155",
-        "deadline": "2026-10-09T07:03:04.667155",
+        "start": "2026-09-11T07:02:52.305241",
+        "deadline": "2026-10-11T07:02:52.305241",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01710283&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01710283"
     },
     {
-        "id": "g2b-api-3267545930262343458",
+        "id": "g2b-api-7148634724836247867",
         "title": "AI기반 심혈관 위험 평가 보조 소프트웨어(재공고)",
         "organization": "분당서울대학교병원",
-        "start": "2026-09-09T07:03:04.667155",
-        "deadline": "2026-10-09T07:03:04.667155",
+        "start": "2026-09-11T07:02:52.305958",
+        "deadline": "2026-10-11T07:02:52.305958",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01682803&bidPbancOrd=000",
         "description": "수요기관: 분당서울대학교병원 | 공고번호: R26BK01682803"
     },
     {
-        "id": "g2b-api-2062076476375051489",
+        "id": "g2b-api-738944250208990114",
         "title": "2026년 울릉군민의 날·독도의 날 기념행사 대행 용역(협상에 의한 계약)",
         "organization": "경상북도 울릉군",
-        "start": "2026-09-09T07:03:04.668154",
-        "deadline": "2026-10-09T07:03:04.668154",
+        "start": "2026-09-11T07:02:52.305958",
+        "deadline": "2026-10-11T07:02:52.305958",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01693869&bidPbancOrd=001",
         "description": "수요기관: 경상북도 울릉군 | 공고번호: R26BK01693869"
     },
     {
-        "id": "g2b-api-6062780322610906027",
+        "id": "g2b-api-2176734705498223906",
         "title": "2026 대한불교진각종 밀교의례사업단 남인도 국외조사 여행사 용역업체 선정 입찰 ",
         "organization": "재단법인 대한불교진각종유지재단",
-        "start": "2026-09-09T07:03:04.669154",
+        "start": "2026-09-11T07:02:52.305958",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11474,10 +11760,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 대한불교진각종유지재단 | 공고번호: R26BK01705268"
     },
     {
-        "id": "g2b-api-1273869405918950745",
+        "id": "g2b-api-2808921520846094222",
         "title": "2026 대한불교진각종 밀교의례사업단 일본 국외조사 여행사 용역업체 선정 입찰",
         "organization": "재단법인 대한불교진각종유지재단",
-        "start": "2026-09-09T07:03:04.669154",
+        "start": "2026-09-11T07:02:52.305958",
         "deadline": "2026-09-14T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11485,43 +11771,65 @@ const bidEvents = [
         "description": "수요기관: 재단법인 대한불교진각종유지재단 | 공고번호: R26BK01712963"
     },
     {
-        "id": "g2b-api-5868720970433749985",
+        "id": "g2b-api-359213560453579129",
+        "title": "조류인플루엔자(AI) 진단키트 구입(질병진단과)",
+        "organization": "전북특별자치도 동물위생시험소",
+        "start": "2026-09-11T07:02:52.306963",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01721914&bidPbancOrd=000",
+        "description": "수요기관: 전북특별자치도 동물위생시험소 | 공고번호: R26BK01721914"
+    },
+    {
+        "id": "g2b-api-3921201852895506150",
         "title": "2026년 지중해마을 문화축제 및 크리스마스 축제 행사대행 용역(협상에 의한 계약)",
         "organization": "충청남도 아산시",
-        "start": "2026-09-09T07:03:04.670154",
-        "deadline": "2026-10-09T07:03:04.670154",
+        "start": "2026-09-11T07:02:52.306963",
+        "deadline": "2026-10-11T07:02:52.306963",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694512&bidPbancOrd=000",
         "description": "수요기관: 충청남도 아산시 | 공고번호: R26BK01694512"
     },
     {
-        "id": "g2b-api-5896550604274590438",
+        "id": "g2b-api-5055276149229174549",
+        "title": "AI 품질·안전성 확보 연구 수행을 위한 강건성 평가 인프라 구매",
+        "organization": "국방기술품질원",
+        "start": "2026-09-11T07:02:52.306963",
+        "deadline": "2026-09-04T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694880&bidPbancOrd=000",
+        "description": "수요기관: 국방기술품질원 | 공고번호: R26BK01694880"
+    },
+    {
+        "id": "g2b-api-6145999047132549562",
+        "title": "덕산고등학교 AI융합교실 조성공사 소액수의 견적제출 공고",
+        "organization": "경기도교육청 덕산고등학교",
+        "start": "2026-09-11T07:02:52.308467",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01716632&bidPbancOrd=000",
+        "description": "수요기관: 경기도교육청 덕산고등학교 | 공고번호: R26BK01716632"
+    },
+    {
+        "id": "g2b-api-4606908212507204424",
         "title": "2026「제7회 송파 교육박람회」행사 운영 용역",
         "organization": "서울특별시 송파구",
-        "start": "2026-09-09T07:03:04.672154",
-        "deadline": "2026-10-09T07:03:04.672154",
+        "start": "2026-09-11T07:02:52.308467",
+        "deadline": "2026-10-11T07:02:52.308467",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01689658&bidPbancOrd=000",
         "description": "수요기관: 서울특별시 송파구 | 공고번호: R26BK01689658"
     },
     {
-        "id": "g2b-api-5035923484248472262",
-        "title": "2027 베오그라드엑스포 한국관 운영·홍보·행사 용역",
-        "organization": "대한무역투자진흥공사",
-        "start": "2026-09-09T07:03:04.673661",
-        "deadline": "2026-10-12T00:00:00",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705374&bidPbancOrd=000",
-        "description": "수요기관: 대한무역투자진흥공사 | 공고번호: R26BK01705374"
-    },
-    {
-        "id": "g2b-api-4310273595519298537",
+        "id": "g2b-api-4365852128363349368",
         "title": "[추진과제2-2-7] 2026 제2회 국제 우주항공 심포지엄@사천 행사 대행 용역 중양조달 계약 요청",
         "organization": "경상국립대학교",
-        "start": "2026-09-09T07:03:09.170049",
+        "start": "2026-09-11T07:02:52.309472",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11529,10 +11837,10 @@ const bidEvents = [
         "description": "수요기관: 경상국립대학교 | 공고번호: R26BK01712214"
     },
     {
-        "id": "g2b-api-6941018872841467420",
+        "id": "g2b-api-5686604654955648705",
         "title": "Physical-AI 교육용 휴머노이드 로봇",
         "organization": "창원대학교 산학협력단",
-        "start": "2026-09-09T07:03:09.170049",
+        "start": "2026-09-11T07:02:52.309472",
         "deadline": "2026-08-20T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11540,32 +11848,43 @@ const bidEvents = [
         "description": "수요기관: 창원대학교 산학협력단 | 공고번호: R26BK01626740"
     },
     {
-        "id": "g2b-api-87010840598108638",
+        "id": "g2b-api-3751024879336703251",
         "title": "「제14차 아세안 연계성 포럼」행사 대행 용역",
         "organization": "한아세안센터",
-        "start": "2026-09-09T07:03:09.171048",
-        "deadline": "2026-10-09T07:03:09.171048",
+        "start": "2026-09-11T07:02:52.310472",
+        "deadline": "2026-10-11T07:02:52.310472",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01694938&bidPbancOrd=000",
         "description": "수요기관: 한아세안센터 | 공고번호: R26BK01694938"
     },
     {
-        "id": "g2b-api-4000366569425693189",
+        "id": "g2b-api-5602818468542188042",
         "title": "「2026 송년음악회 행사 대행 용역」제안서 제출안내 공고",
         "organization": "경상북도 칠곡군 교육문화회관",
-        "start": "2026-09-09T07:03:09.171048",
-        "deadline": "2026-10-09T07:03:09.171048",
+        "start": "2026-09-11T07:02:52.310472",
+        "deadline": "2026-10-11T07:02:52.310472",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678199&bidPbancOrd=000",
         "description": "수요기관: 경상북도 칠곡군 교육문화회관 | 공고번호: R26BK01678199"
     },
     {
-        "id": "g2b-api-3549922109237952107",
+        "id": "g2b-api-2074428489296479963",
+        "title": "2027 베오그라드엑스포 한국관 운영·홍보·행사 용역",
+        "organization": "대한무역투자진흥공사",
+        "start": "2026-09-11T07:02:52.310472",
+        "deadline": "2026-10-12T00:00:00",
+        "category": "event",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01705374&bidPbancOrd=000",
+        "description": "수요기관: 대한무역투자진흥공사 | 공고번호: R26BK01705374"
+    },
+    {
+        "id": "g2b-api-7129862882125705021",
         "title": "제51주년 민방위대 창설 기념행사 대행 용역",
         "organization": "강원특별자치도",
-        "start": "2026-09-09T07:03:09.172048",
+        "start": "2026-09-11T07:02:52.311476",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11573,10 +11892,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 | 공고번호: R26BK01705937"
     },
     {
-        "id": "g2b-api-8874012076821960128",
+        "id": "g2b-api-1713204481931523258",
         "title": "생활발명코리아 시상식 행사운영 용역",
         "organization": "(사)한국여성발명협회",
-        "start": "2026-09-09T07:03:09.172048",
+        "start": "2026-09-11T07:02:52.311476",
         "deadline": "2026-08-31T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11584,10 +11903,21 @@ const bidEvents = [
         "description": "수요기관: (사)한국여성발명협회 | 공고번호: R26BK01691184"
     },
     {
-        "id": "g2b-api-2393610737314326964",
+        "id": "g2b-api-8236301777591240015",
         "title": "[혁신 03-04-02] AI신약학과_융합형 첨단학과 기반 조성_AI연산서버 구입",
         "organization": "덕성여자대학교",
-        "start": "2026-09-09T07:03:09.172048",
+        "start": "2026-09-11T07:02:52.311476",
+        "deadline": "2026-09-18T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723646&bidPbancOrd=000",
+        "description": "수요기관: 덕성여자대학교 | 공고번호: R26BK01723646"
+    },
+    {
+        "id": "g2b-api-4437757342424423854",
+        "title": "[혁신 03-04-02] AI신약학과_융합형 첨단학과 기반 조성_AI연산서버 구입",
+        "organization": "덕성여자대학교",
+        "start": "2026-09-11T07:02:52.311476",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11595,10 +11925,21 @@ const bidEvents = [
         "description": "수요기관: 덕성여자대학교 | 공고번호: R26BK01708053"
     },
     {
-        "id": "g2b-api-4116889256018386569",
+        "id": "g2b-api-691517730146887670",
+        "title": "[재공고] 소뇌모사 AI 반도체 구매",
+        "organization": "한국과학기술연구원",
+        "start": "2026-09-11T07:02:52.312473",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "ai",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720669&bidPbancOrd=000",
+        "description": "수요기관: 한국과학기술연구원 | 공고번호: R26BK01720669"
+    },
+    {
+        "id": "g2b-api-217413290022979119",
         "title": "소뇌모사 AI 반도체 구매",
         "organization": "한국과학기술연구원",
-        "start": "2026-09-09T07:03:09.173048",
+        "start": "2026-09-11T07:02:52.312473",
         "deadline": "2026-09-09T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11606,32 +11947,32 @@ const bidEvents = [
         "description": "수요기관: 한국과학기술연구원 | 공고번호: R26BK01706838"
     },
     {
-        "id": "g2b-api-6967004159138201452",
+        "id": "g2b-api-4385166181945572595",
         "title": "제3회 광명시 주민자치박람회 행사대행 용역",
         "organization": "경기도 광명시",
-        "start": "2026-09-09T07:03:09.173048",
-        "deadline": "2026-10-09T07:03:09.173048",
+        "start": "2026-09-11T07:02:52.312473",
+        "deadline": "2026-10-11T07:02:52.312473",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701602&bidPbancOrd=000",
         "description": "수요기관: 경기도 광명시 | 공고번호: R26BK01701602"
     },
     {
-        "id": "g2b-api-5700602811711946548",
+        "id": "g2b-api-2271896504007593231",
         "title": "제3회 광명시 주민자치박람회 행사대행 용역",
         "organization": "경기도 광명시",
-        "start": "2026-09-09T07:03:09.173048",
-        "deadline": "2026-10-09T07:03:09.173048",
+        "start": "2026-09-11T07:02:52.312473",
+        "deadline": "2026-10-11T07:02:52.312473",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718781&bidPbancOrd=000",
         "description": "수요기관: 경기도 광명시 | 공고번호: R26BK01718781"
     },
     {
-        "id": "g2b-api-8365582959243087793",
+        "id": "g2b-api-948867452318740999",
         "title": "다차종 혼류 생산 대응형 AIRLESS 전동 그리퍼 시제품 제작",
         "organization": "한울테크",
-        "start": "2026-09-09T07:03:09.173048",
+        "start": "2026-09-11T07:02:56.514174",
         "deadline": "2026-09-03T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11639,21 +11980,10 @@ const bidEvents = [
         "description": "수요기관: 한울테크 | 공고번호: R26BK01698641"
     },
     {
-        "id": "g2b-api-8158856645632214380",
-        "title": "드라마 「100일의 거짓말」 AI 및 VFX 용역(재공고)",
-        "organization": "주식회사 낭만크루",
-        "start": "2026-09-09T07:03:09.173048",
-        "deadline": "2026-08-24T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675409&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 낭만크루 | 공고번호: R26BK01675409"
-    },
-    {
-        "id": "g2b-api-4482826601628649362",
+        "id": "g2b-api-7786874144496935545",
         "title": "화학3법 기반 AI·빅데이터 활용 교육과정 개발 용역",
         "organization": "한국환경보전원",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.514174",
         "deadline": "2026-09-21T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11661,10 +11991,10 @@ const bidEvents = [
         "description": "수요기관: 한국환경보전원 | 공고번호: R26BK01717905"
     },
     {
-        "id": "g2b-api-5151953615104820387",
+        "id": "g2b-api-6002427374533810341",
         "title": "2026년 울주군 공기업대행사업(범서 사일지구 배수로 정비사업)",
         "organization": "한국농어촌공사 경남지역본부 울산지사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.514174",
         "deadline": "2026-09-15T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11672,10 +12002,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 경남지역본부 울산지사 | 공고번호: R26BK01718637"
     },
     {
-        "id": "g2b-api-7826700585690205348",
+        "id": "g2b-api-4548893188205669031",
         "title": "2026년 울주군 공기업대행사업(언양범서) 세부설계 외주용역 ",
         "organization": "한국농어촌공사 경남지역본부 울산지사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.514174",
         "deadline": "2026-09-03T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11683,10 +12013,10 @@ const bidEvents = [
         "description": "수요기관: 한국농어촌공사 경남지역본부 울산지사 | 공고번호: R26BK01711852"
     },
     {
-        "id": "g2b-api-8791411286475394793",
+        "id": "g2b-api-2982148676326487768",
         "title": "AI 공간컴퓨팅 기반 낙동강하구 차세대 생태체험 서비스 개발·실증을 위한 Spatial AI 기반 모바일 위치추정(Visual Localization) SDK 및 AR SDK 임차",
         "organization": "비쥬얼다트 주식회사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.514174",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11694,10 +12024,10 @@ const bidEvents = [
         "description": "수요기관: 비쥬얼다트 주식회사 | 공고번호: R26BK01689598"
     },
     {
-        "id": "g2b-api-7451642093495449354",
+        "id": "g2b-api-5205008337747309568",
         "title": "AI 공간컴퓨팅 기반 낙동강하구 차세대 생태체험 서비스 통합관리 대시보드 및 백엔드 시스템 구축 용역",
         "organization": "비쥬얼다트 주식회사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.515906",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11705,10 +12035,10 @@ const bidEvents = [
         "description": "수요기관: 비쥬얼다트 주식회사 | 공고번호: R26BK01689645"
     },
     {
-        "id": "g2b-api-1114170768552327942",
+        "id": "g2b-api-8085189272725092802",
         "title": "AI 공간컴퓨팅 기반 낙동강하구 차세대 생태체험  서비스 개발·실증을 위한 공간데이터 GPU 프로세싱 임차  ",
         "organization": "비쥬얼다트 주식회사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.515906",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11716,10 +12046,10 @@ const bidEvents = [
         "description": "수요기관: 비쥬얼다트 주식회사 | 공고번호: R26BK01689564"
     },
     {
-        "id": "g2b-api-5472861533515827547",
+        "id": "g2b-api-5900952728676842461",
         "title": "AI 공간컴퓨팅 기반 낙동강하구 차세대 생태체험 서비스 개발·실증을 위한 공간 스캔 및 지도 데이터 구축 용역 | 공급가액 ",
         "organization": "비쥬얼다트 주식회사",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.515906",
         "deadline": "2026-08-31T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11727,10 +12057,10 @@ const bidEvents = [
         "description": "수요기관: 비쥬얼다트 주식회사 | 공고번호: R26BK01689624"
     },
     {
-        "id": "g2b-api-7537205411003938432",
+        "id": "g2b-api-5099797074697114167",
         "title": "(긴급) 2027 서울 세계청년대회 사전 홍보 행사 대행 용역",
         "organization": "재단법인 2027 서울 세계청년대회 조직위원회",
-        "start": "2026-09-09T07:03:09.174048",
+        "start": "2026-09-11T07:02:56.515906",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11738,21 +12068,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 2027 서울 세계청년대회 조직위원회 | 공고번호: R26BK01698725"
     },
     {
-        "id": "g2b-api-1575635957101086565",
-        "title": "디지털미디어 전환 AI 뉴스 데스크 연계, 신문제작시스템 고도화 구축",
-        "organization": "(주)동양미디어",
-        "start": "2026-09-09T07:03:09.175047",
-        "deadline": "2026-08-12T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677424&bidPbancOrd=000",
-        "description": "수요기관: (주)동양미디어 | 공고번호: R26BK01677424"
-    },
-    {
-        "id": "g2b-api-118736382534291591",
+        "id": "g2b-api-4281480821967872202",
         "title": "대규모 AI 연산을 위한 그래픽 처리 장치 등 구매",
         "organization": "재단법인서울에이아이재단",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-10T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11760,10 +12079,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인서울에이아이재단 | 공고번호: R26BK01711105"
     },
     {
-        "id": "g2b-api-4253429222444810864",
+        "id": "g2b-api-1107787390707699272",
         "title": "2026년도 AI시민체험 행사운영 용역",
         "organization": "재단법인서울에이아이재단",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-22T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11771,10 +12090,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인서울에이아이재단 | 공고번호: R26BK01704572"
     },
     {
-        "id": "g2b-api-6465393572553290866",
+        "id": "g2b-api-5600738809019732384",
         "title": "전통시장 소비진작 환급(온누리상품권)지원 행사 운영 용역",
         "organization": "재단법인 부산경제진흥원",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11782,10 +12101,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 부산경제진흥원 | 공고번호: R26BK01717218"
     },
     {
-        "id": "g2b-api-5589704457969914909",
+        "id": "g2b-api-7026716433852876449",
         "title": "전통시장 소비진작 환급(온누리상품권)지원 행사 운영 용역",
         "organization": "재단법인 부산경제진흥원",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-07T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11793,10 +12112,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인 부산경제진흥원 | 공고번호: R26BK01702332"
     },
     {
-        "id": "g2b-api-816325865063071840",
+        "id": "g2b-api-147304958405785699",
         "title": "2026년 청소년 해외역사탐방 역사녹록(일본) 여행사 위탁 용역 입찰 공고",
         "organization": "예산군청소년수련관",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11804,10 +12123,10 @@ const bidEvents = [
         "description": "수요기관: 예산군청소년수련관 | 공고번호: R26BK01703235"
     },
     {
-        "id": "g2b-api-8642311972822206758",
+        "id": "g2b-api-576428190204990382",
         "title": "2026년 지방투자아카데미 행사대행용역",
         "organization": "한국산업단지공단",
-        "start": "2026-09-09T07:03:09.175047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-18T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11815,10 +12134,10 @@ const bidEvents = [
         "description": "수요기관: 한국산업단지공단 | 공고번호: R26BK01716636"
     },
     {
-        "id": "g2b-api-5947340769623015847",
+        "id": "g2b-api-2102398667030135639",
         "title": "교육분야 특화 수직 AI 모형 개발 및 현장 적용 방안 연구(2단계)",
         "organization": "경북대학교 산학협력단",
-        "start": "2026-09-09T07:03:09.176047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-04T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11826,10 +12145,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 산학협력단 | 공고번호: R26BK01694431"
     },
     {
-        "id": "g2b-api-8468044802289907483",
+        "id": "g2b-api-8512593598471070153",
         "title": "교육분야 특화 수직 AI 모형 개발 및 현장 적용 방안 연구(2단계)",
         "organization": "경북대학교 산학협력단",
-        "start": "2026-09-09T07:03:09.176047",
+        "start": "2026-09-11T07:02:56.516911",
         "deadline": "2026-09-18T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11837,21 +12156,10 @@ const bidEvents = [
         "description": "수요기관: 경북대학교 산학협력단 | 공고번호: R26BK01715549"
     },
     {
-        "id": "g2b-api-3870285171358384836",
-        "title": "2027학년도 입시홍보 광고대행사 선정 입찰 공고",
-        "organization": "원광디지털대학교",
-        "start": "2026-09-09T07:03:09.176516",
-        "deadline": "2026-10-09T07:03:09.176516",
-        "category": "event",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673374&bidPbancOrd=000",
-        "description": "수요기관: 원광디지털대학교 | 공고번호: R26BK01673374"
-    },
-    {
-        "id": "g2b-api-6452279088127398553",
+        "id": "g2b-api-6334225877813480274",
         "title": "AI 기반 불법도박 탐지 시스템 고도화 기술 연구 개발",
         "organization": "(주)강원랜드",
-        "start": "2026-09-09T07:03:09.176516",
+        "start": "2026-09-11T07:02:56.519415",
         "deadline": "2026-09-07T00:00:00",
         "category": "ai",
         "source": "gov",
@@ -11859,32 +12167,32 @@ const bidEvents = [
         "description": "수요기관: (주)강원랜드 | 공고번호: R26BK01706118"
     },
     {
-        "id": "g2b-api-6869901759544113592",
+        "id": "g2b-api-403242242303439881",
         "title": "(RISE사업) 상생-인플루언서 웨어러블AI-XR기반 K-아트 첨단기자재 구축 용역 입찰",
         "organization": "호원대학교 산학협력단",
-        "start": "2026-09-09T07:03:09.177517",
-        "deadline": "2026-10-09T07:03:09.177517",
+        "start": "2026-09-11T07:02:56.519415",
+        "deadline": "2026-10-11T07:02:56.519415",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01683351&bidPbancOrd=000",
         "description": "수요기관: 호원대학교 산학협력단 | 공고번호: R26BK01683351"
     },
     {
-        "id": "g2b-api-8260389459405285874",
-        "title": "시청광장 문화활성화 사업[틈새콘서트 시즌7] 행사 운영 용역",
+        "id": "g2b-api-6527029799078752255",
+        "title": "2026 춘천시 일자리박람회 행사 대행용역",
         "organization": "강원특별자치도 춘천시",
-        "start": "2026-09-09T07:03:09.177517",
-        "deadline": "2026-08-12T00:00:00",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-09-10T00:00:00",
         "category": "event",
         "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677894&bidPbancOrd=000",
-        "description": "수요기관: 강원특별자치도 춘천시 | 공고번호: R26BK01677894"
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723088&bidPbancOrd=000",
+        "description": "수요기관: 강원특별자치도 춘천시 | 공고번호: R26BK01723088"
     },
     {
-        "id": "g2b-api-3908927559093655389",
+        "id": "g2b-api-7966184205810260120",
         "title": "2026 춘천금빛장터 행사 대행용역",
         "organization": "강원특별자치도 춘천시",
-        "start": "2026-09-09T07:03:09.178518",
+        "start": "2026-09-11T07:02:56.520425",
         "deadline": "2026-09-04T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11892,10 +12200,10 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 춘천시 | 공고번호: R26BK01713332"
     },
     {
-        "id": "g2b-api-4671486347152354045",
+        "id": "g2b-api-6725558066201834335",
         "title": "조운동 상상어울림센터 조성사업 [북적북적페스티벌 시즌2] 행사 운영 용역",
         "organization": "강원특별자치도 춘천시",
-        "start": "2026-09-09T07:03:09.178518",
+        "start": "2026-09-11T07:02:56.520425",
         "deadline": "2026-08-27T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11903,32 +12211,32 @@ const bidEvents = [
         "description": "수요기관: 강원특별자치도 춘천시 | 공고번호: R26BK01701631"
     },
     {
-        "id": "g2b-api-3888220217613447247",
+        "id": "g2b-api-8000906746444456927",
         "title": "『2026년도 신기술실용화 촉진대회』행사 용역",
         "organization": "(사)한국신제품인증협회",
-        "start": "2026-09-09T07:03:09.178518",
-        "deadline": "2026-10-09T07:03:09.178518",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-10-11T07:02:56.520425",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719058&bidPbancOrd=000",
         "description": "수요기관: (사)한국신제품인증협회 | 공고번호: R26BK01719058"
     },
     {
-        "id": "g2b-api-5072568466906715442",
+        "id": "g2b-api-7685943940090894965",
         "title": "인공지능혁신융합대학사업단 AI 온라인 공개강좌 개발 용역",
         "organization": "전주대학교 산학협력단",
-        "start": "2026-09-09T07:03:09.178518",
-        "deadline": "2026-10-09T07:03:09.178518",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-10-11T07:02:56.520425",
         "category": "ai",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01698600&bidPbancOrd=000",
         "description": "수요기관: 전주대학교 산학협력단 | 공고번호: R26BK01698600"
     },
     {
-        "id": "g2b-api-5276392195814166395",
+        "id": "g2b-api-2642721506486270523",
         "title": "JJ직무박람회 행사 부스 설치 용역",
         "organization": "전주대학교",
-        "start": "2026-09-09T07:03:09.178518",
+        "start": "2026-09-11T07:02:56.520425",
         "deadline": "2026-09-11T00:00:00",
         "category": "event",
         "source": "gov",
@@ -11936,65 +12244,54 @@ const bidEvents = [
         "description": "수요기관: 전주대학교 | 공고번호: R26BK01713996"
     },
     {
-        "id": "g2b-api-196558244707554499",
+        "id": "g2b-api-526401487818676891",
         "title": "2027 영동곶감축제 대행사 선정 공고",
         "organization": "재단법인 영동군 문화관광재단",
-        "start": "2026-09-09T07:03:09.179022",
-        "deadline": "2026-10-09T07:03:09.179022",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-10-11T07:02:56.520425",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706788&bidPbancOrd=001",
         "description": "수요기관: 재단법인 영동군 문화관광재단 | 공고번호: R26BK01706788"
     },
     {
-        "id": "g2b-api-5221336265140431727",
+        "id": "g2b-api-4580273482448295950",
         "title": "2027 영동곶감축제 대행사 선정 공고",
         "organization": "재단법인 영동군 문화관광재단",
-        "start": "2026-09-09T07:03:09.179022",
-        "deadline": "2026-10-09T07:03:09.179022",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-10-11T07:02:56.520425",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706688&bidPbancOrd=000",
         "description": "수요기관: 재단법인 영동군 문화관광재단 | 공고번호: R26BK01706688"
     },
     {
-        "id": "g2b-api-3243896057752565527",
+        "id": "g2b-api-306980164622065452",
         "title": "2027 곶감축제 대행사 선정 공고",
         "organization": "재단법인 영동군 문화관광재단",
-        "start": "2026-09-09T07:03:09.179022",
-        "deadline": "2026-10-09T07:03:09.179022",
+        "start": "2026-09-11T07:02:56.520425",
+        "deadline": "2026-10-11T07:02:56.520425",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01706788&bidPbancOrd=000",
         "description": "수요기관: 재단법인 영동군 문화관광재단 | 공고번호: R26BK01706788"
     },
     {
-        "id": "g2b-api-1974011443900427950",
-        "title": "AI 영상데이터 획득용 조명제어시스템 구매",
-        "organization": "주식회사 원더솔루션즈",
-        "start": "2026-09-09T07:03:09.179022",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "ai",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01677823&bidPbancOrd=000",
-        "description": "수요기관: 주식회사 원더솔루션즈 | 공고번호: R26BK01677823"
-    },
-    {
-        "id": "g2b-api-4247008386232684036",
+        "id": "g2b-api-2852106988593717446",
         "title": "제11회 환황해 포럼 행사 대행 용역",
         "organization": "충청남도",
-        "start": "2026-09-09T07:03:13.208934",
-        "deadline": "2026-10-09T07:03:13.208934",
+        "start": "2026-09-11T07:02:56.521419",
+        "deadline": "2026-10-11T07:02:56.521419",
         "category": "event",
         "source": "gov",
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01686339&bidPbancOrd=000",
         "description": "수요기관: 충청남도 | 공고번호: R26BK01686339"
     },
     {
-        "id": "g2b-api-5573892258012188217",
+        "id": "g2b-api-5948404089642446423",
         "title": "2026년도 대전 웹툰작가 홍보물 제작 및 행사 운영 용역",
         "organization": "재단법인대전정보문화산업진흥원",
-        "start": "2026-09-09T07:03:13.208934",
+        "start": "2026-09-11T07:02:56.522923",
         "deadline": "2026-09-01T00:00:00",
         "category": "event",
         "source": "gov",
@@ -12002,10 +12299,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인대전정보문화산업진흥원 | 공고번호: R26BK01684509"
     },
     {
-        "id": "g2b-api-5075619987342286275",
+        "id": "g2b-api-1793759117933679016",
         "title": "2026년 대학만화웹툰대전 연계행사 운영 용역",
         "organization": "재단법인대전정보문화산업진흥원",
-        "start": "2026-09-09T07:03:13.208934",
+        "start": "2026-09-11T07:02:56.522923",
         "deadline": "2026-09-08T00:00:00",
         "category": "event",
         "source": "gov",
@@ -12013,10 +12310,10 @@ const bidEvents = [
         "description": "수요기관: 재단법인대전정보문화산업진흥원 | 공고번호: R26BK01700511"
     },
     {
-        "id": "g2b-sejong-1224913807776776398",
+        "id": "g2b-sejong-7608009537443891443",
         "title": "2027학년도 소담중학교 신입생 교복(동복, 하복) 학교주관 구매 재공고",
         "organization": "세종특별자치시교육청 소담중학교",
-        "start": "2026-09-09T07:03:17.843833",
+        "start": "2026-09-11T07:02:59.878818",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12024,10 +12321,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 소담중학교"
     },
     {
-        "id": "g2b-sejong-6099082429687639754",
+        "id": "g2b-sejong-3783753712286188871",
         "title": "세종스마트국가산단 2공구 가이식 및 벌목공사",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12035,10 +12332,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-3007329303362834097",
+        "id": "g2b-sejong-8781510658798839249",
         "title": "특별교통수단 전기 승용차 추가 리스",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12046,10 +12343,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-3218207134362743511",
+        "id": "g2b-sejong-2439813759127219891",
         "title": "특별교통수단 전기 승용차 추가 리스",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-09-07T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12057,10 +12354,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-1476020620130312119",
+        "id": "g2b-sejong-6850991987594530482",
         "title": "특별교통수단 전기 승용차 추가 리스",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12068,10 +12365,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-7512313746994942502",
+        "id": "g2b-sejong-8790796598697832013",
         "title": "세종 스마트 국가산업단지 조성사업 무연분묘 개장 용역",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-09-10T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12079,10 +12376,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-4406685050715119495",
+        "id": "g2b-sejong-5007584441304176225",
+        "title": "2027학년도 집현중학교 교복 학교주관구매 ",
+        "organization": "세종특별자치시교육청 집현중학교",
+        "start": "2026-09-11T07:03:09.224252",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722223&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 집현중학교"
+    },
+    {
+        "id": "g2b-sejong-4357125573783470996",
         "title": "2027학년도 보람중학교 신입생 교복(동·하복) 학교주관구매 입찰 재공고",
         "organization": "세종특별자치시교육청 보람중학교",
-        "start": "2026-09-09T07:03:26.249383",
+        "start": "2026-09-11T07:03:09.224252",
         "deadline": "2026-08-25T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12090,10 +12398,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 보람중학교"
     },
     {
-        "id": "g2b-sejong-7792247684491404300",
+        "id": "g2b-sejong-403911957993105156",
         "title": "2027학년도 새뜸중학교 교복학교주관구매 입찰 공고",
         "organization": "세종특별자치시교육청 새뜸중학교",
-        "start": "2026-09-09T07:03:30.976296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12101,10 +12409,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 새뜸중학교"
     },
     {
-        "id": "g2b-sejong-8820897725317469860",
+        "id": "g2b-sejong-2234022188002719861",
         "title": "세종도원초 급식시설 현대화 기계설비공사 수의계약 안내공고",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:30.977296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12112,10 +12420,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-405681164159495179",
+        "id": "g2b-sejong-2579952261614825900",
         "title": "합강1유치원 신축공사 건설폐기물 처리용역 수의계약 안내공고",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:30.977296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12123,10 +12431,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-7301701835693441502",
+        "id": "g2b-sejong-2130110922805550660",
         "title": "합강1초등학교 신축공사 가연성 폐기물처리 용역",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:30.977296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12134,21 +12442,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-7397362265114980327",
-        "title": "합강1초등학교 신축공사 가연성 폐기물 처리용역",
-        "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:30.977296",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01672209&bidPbancOrd=001",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
-    },
-    {
-        "id": "g2b-sejong-7867281247320232435",
+        "id": "g2b-sejong-8683150792101330474",
         "title": "금남면 달전리 급수관로 설치공사 GIS DB 구축 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:30.977296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12156,21 +12453,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-3128454035891777963",
-        "title": "전동면 농어촌생활용수 개발 후속사업(청송1리)",
-        "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:30.977296",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673548&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
-    },
-    {
-        "id": "g2b-sejong-695110137470643022",
+        "id": "g2b-sejong-9047010362682267667",
         "title": "부강면 부강8리 급수관로 설치공사 GIS DB 구축 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:30.977296",
+        "start": "2026-09-11T07:03:15.393748",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12178,10 +12464,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-5565591741724227501",
+        "id": "g2b-sejong-8254069417481639753",
         "title": "장기중 외 3교 태양광발전장치 설치 전기공사 설계용역",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.886214",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12189,10 +12475,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-7667461921476704448",
+        "id": "g2b-sejong-4128102922678216742",
         "title": "장기중 외 3교 태양광발전장치 설치 전기공사 설계용역",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12200,10 +12486,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-2937720818913586862",
+        "id": "g2b-sejong-6710408183104611970",
         "title": "[재공고]세종누리학교 및 이음학교 어린이통학차량(전기, 대형) 구매",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12211,10 +12497,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-6518693451869433520",
+        "id": "g2b-sejong-1597888850778482914",
         "title": "세종누리학교 및 이음학교 어린이통학차량(전기, 대형) 구매",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12222,10 +12508,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-5061881132008297835",
+        "id": "g2b-sejong-8489995239670987094",
         "title": "2026년 정품 소프트웨어(MS) 사용권 구매",
         "organization": "세종특별자치시교육청",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-09-11T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12233,10 +12519,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
     },
     {
-        "id": "g2b-sejong-6114881384933100603",
+        "id": "g2b-sejong-8251456579821874299",
         "title": "피지컬 AI교육강의실 구축을 위한 교육용로봇(로봇암 시스템) 구매",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육원",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12244,10 +12530,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청교육원"
     },
     {
-        "id": "g2b-sejong-8097824037230852164",
+        "id": "g2b-sejong-2683636098645284962",
         "title": "피지컬 AI교육강의실 구축을 위한 교육용로봇(자율주행 모빌리티) 구매",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육원",
-        "start": "2026-09-09T07:03:34.618940",
+        "start": "2026-09-11T07:03:19.887213",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12255,10 +12541,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청교육원"
     },
     {
-        "id": "g2b-sejong-4987469329638633198",
+        "id": "g2b-sejong-2136974809428909219",
         "title": "2027학년도 아름중학교 교복 구매 재공고",
         "organization": "세종특별자치시교육청 아름중학교",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.058412",
         "deadline": "2026-09-23T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12266,21 +12552,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 아름중학교"
     },
     {
-        "id": "g2b-sejong-4791198257402148405",
-        "title": "2027학년도 아름중학교 교복 구매",
-        "organization": "세종특별자치시교육청 아름중학교",
-        "start": "2026-09-09T07:03:39.104369",
-        "deadline": "2026-09-01T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674383&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 아름중학교"
-    },
-    {
-        "id": "g2b-sejong-1846008104206701484",
+        "id": "g2b-sejong-504586929668363536",
         "title": "조치원대동초 등 27교 제3종시설물 하반기 정기안전점검용역",
         "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.058412",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12288,10 +12563,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
     },
     {
-        "id": "g2b-sejong-695609518418605327",
+        "id": "g2b-sejong-7938405563206421586",
         "title": "조치원대동초 등 27교 제3종시설물 하반기 정기안전점검용역",
         "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.058412",
         "deadline": "2026-09-03T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12299,10 +12574,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
     },
     {
-        "id": "g2b-sejong-5607214173065927969",
+        "id": "g2b-sejong-8165973588058034491",
+        "title": "연남초 외 5교 전기시설보수 전기공사 설계 용역",
+        "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
+        "start": "2026-09-11T07:03:24.058412",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722515&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
+    },
+    {
+        "id": "g2b-sejong-5228928795479481906",
         "title": "2026년 학교 업무용 소프트웨어(MS) 사용권 구매",
         "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.058412",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12310,10 +12596,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
     },
     {
-        "id": "g2b-sejong-7322274879090622633",
+        "id": "g2b-sejong-2228962379085765487",
         "title": "2027학년도 세종미래고등학교 교복(동하복) 구입 재공고",
         "organization": "세종특별자치시교육청 세종미래고등학교",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.059429",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12321,10 +12607,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종미래고등학교"
     },
     {
-        "id": "g2b-sejong-8398543004821740829",
+        "id": "g2b-sejong-4403754640429100589",
         "title": "2027학년도 세종미래고등학교 교복(동하복) 구입",
         "organization": "세종특별자치시교육청 세종미래고등학교",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.059429",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12332,10 +12618,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종미래고등학교"
     },
     {
-        "id": "g2b-sejong-6222052082189599486",
+        "id": "g2b-sejong-260236141608778580",
         "title": "2027학년도 세종장영실고등학교 교복 학교주관구매 재입찰 공고",
         "organization": "세종특별자치시교육청 세종장영실고등학교",
-        "start": "2026-09-09T07:03:39.104369",
+        "start": "2026-09-11T07:03:24.059429",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12343,10 +12629,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종장영실고등학교"
     },
     {
-        "id": "g2b-sejong-1599279520622042484",
+        "id": "g2b-sejong-3108915796204227891",
         "title": "도램마을8단지 주민공동시설 재도장공사",
         "organization": "세종특별자치시시설관리공단",
-        "start": "2026-09-09T07:03:43.620041",
+        "start": "2026-09-11T07:03:28.310443",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12354,10 +12640,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시시설관리공단"
     },
     {
-        "id": "g2b-sejong-1824630406646705634",
+        "id": "g2b-sejong-7956940787257979474",
         "title": "도램마을8단지 주민공동시설 재도장공사",
         "organization": "세종특별자치시시설관리공단",
-        "start": "2026-09-09T07:03:43.620041",
+        "start": "2026-09-11T07:03:28.310443",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12365,10 +12651,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시시설관리공단"
     },
     {
-        "id": "g2b-sejong-3103621981076511081",
+        "id": "g2b-sejong-5230357894315959039",
         "title": "세종호수공원 수초 및 퇴적물 제거 용역",
         "organization": "세종특별자치시시설관리공단",
-        "start": "2026-09-09T07:03:43.620041",
+        "start": "2026-09-11T07:03:28.310443",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12376,10 +12662,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시시설관리공단"
     },
     {
-        "id": "g2b-sejong-6120140813554808591",
+        "id": "g2b-sejong-825691036235758557",
         "title": "세종호수공원 수초 및 퇴적물 제거 용역",
         "organization": "세종특별자치시시설관리공단",
-        "start": "2026-09-09T07:03:43.620041",
+        "start": "2026-09-11T07:03:28.310443",
         "deadline": "2026-09-02T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12387,10 +12673,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시시설관리공단"
     },
     {
-        "id": "g2b-sejong-4574262338367556964",
+        "id": "g2b-sejong-2445772163850488522",
+        "title": "2027학년도 반곡고등학교 교복 학교주관구매 입찰 공고",
+        "organization": "세종특별자치시교육청 반곡고등학교",
+        "start": "2026-09-11T07:03:28.311452",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720099&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 반곡고등학교"
+    },
+    {
+        "id": "g2b-sejong-4980181779364537566",
         "title": "덕현천 자연재해위험개선지구 정비사업 관급자재_가공석형",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:03:43.621043",
+        "start": "2026-09-11T07:03:28.311452",
         "deadline": "2026-08-13T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12398,10 +12695,65 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-7167202778963720897",
+        "id": "g2b-sejong-4322369960458144348",
+        "title": "2026학년도 세종대성고 1학년 숙박형 현장체험(수련활동)용역",
+        "organization": "세종특별자치시교육청 세종대성고등학교",
+        "start": "2026-09-11T07:03:28.312451",
+        "deadline": "2026-09-14T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01711600&bidPbancOrd=001",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종대성고등학교"
+    },
+    {
+        "id": "g2b-sejong-5969919751838184393",
+        "title": "2027학년도 새움중학교 교복(동,하복) 학교주관 구매 입찰 재공고(2단계(규격가격 동시) 입찰)",
+        "organization": "세종특별자치시교육청 새움중학교",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-08-25T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01678621&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 새움중학교"
+    },
+    {
+        "id": "g2b-sejong-4692213140517546480",
+        "title": "합강1유치원 신축 전기공사",
+        "organization": "세종특별자치시교육청",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-09-30T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01687282&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
+    },
+    {
+        "id": "g2b-sejong-7076408287587172083",
+        "title": "합강중학교 신축 소방공사",
+        "organization": "세종특별자치시교육청",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-09-02T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01674576&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
+    },
+    {
+        "id": "g2b-sejong-2697350392769159829",
+        "title": "합강1유치원 신축 정보통신공사",
+        "organization": "세종특별자치시교육청",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-09-30T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01680459&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
+    },
+    {
+        "id": "g2b-sejong-7751552179522457486",
         "title": "2026년 화재조사차 및 다목적 지휘차 특장 제작·설치",
         "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
+        "start": "2026-09-11T07:03:32.512003",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12409,21 +12761,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
     },
     {
-        "id": "g2b-sejong-1628365285107167959",
-        "title": "2026년 구조장비 추가 구매",
-        "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
-        "deadline": "2026-08-19T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675475&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
-    },
-    {
-        "id": "g2b-sejong-3898721785226137721",
+        "id": "g2b-sejong-3980401417907904864",
         "title": "2026년 하반기 개인보호장비 구매",
         "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
+        "start": "2026-09-11T07:03:32.512003",
         "deadline": "2026-09-16T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12431,10 +12772,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
     },
     {
-        "id": "g2b-sejong-5552070198125844405",
+        "id": "g2b-sejong-6568990903673298165",
         "title": "2026년 하반기 전문 구급장비 구매",
         "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
+        "start": "2026-09-11T07:03:32.512003",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12442,10 +12783,32 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
     },
     {
-        "id": "g2b-sejong-6560485839950299379",
+        "id": "g2b-sejong-185080615695269938",
+        "title": "2026년 구조장비 추가 구매",
+        "organization": "세종특별자치시 소방본부",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-08-19T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675475&bidPbancOrd=001",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
+    },
+    {
+        "id": "g2b-sejong-3262184275823213499",
+        "title": "2026년 화재조사차 및 다목적 지휘차 특장 제작·설치(재공고)",
+        "organization": "세종특별자치시 소방본부",
+        "start": "2026-09-11T07:03:32.512003",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01720365&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
+    },
+    {
+        "id": "g2b-sejong-3084068116679676114",
         "title": "2026년 하반기 소방공무원 찾아가는 상담실 확대 운영 용역(재공고)",
         "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
+        "start": "2026-09-11T07:03:32.512003",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12453,10 +12816,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
     },
     {
-        "id": "g2b-sejong-6788660896248773613",
+        "id": "g2b-sejong-1366299921434021739",
         "title": "2026년 구조장비 추가 구매",
         "organization": "세종특별자치시 소방본부",
-        "start": "2026-09-09T07:03:47.587835",
+        "start": "2026-09-11T07:03:32.512003",
         "deadline": "2026-09-03T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12464,10 +12827,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 소방본부"
     },
     {
-        "id": "g2b-sejong-5919073192296324292",
+        "id": "g2b-sejong-5908518357425198650",
         "title": "2027학년도 신입생 교복(동복하복)학교주관구매 입찰 재공고",
         "organization": "세종특별자치시교육청 세종국제고등학교",
-        "start": "2026-09-09T07:03:52.259305",
+        "start": "2026-09-11T07:03:39.561616",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12475,10 +12838,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종국제고등학교"
     },
     {
-        "id": "g2b-sejong-6199019872949064265",
+        "id": "g2b-sejong-6348186601583660197",
         "title": "2027학년도 세종국제고등학교 교복(동하복)학교주관구매 2단계(규격가격동시) 입찰 공고",
         "organization": "세종특별자치시교육청 세종국제고등학교",
-        "start": "2026-09-09T07:03:52.259305",
+        "start": "2026-09-11T07:03:39.561616",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12486,10 +12849,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종국제고등학교"
     },
     {
-        "id": "g2b-sejong-73869711493142713",
+        "id": "g2b-sejong-6592241287244143782",
         "title": "2026년 하반기 세종공동구 구조물 보수공사",
         "organization": "세종특별자치시시설관리공단",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12497,10 +12860,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시시설관리공단"
     },
     {
-        "id": "g2b-sejong-7352851778633797060",
+        "id": "g2b-sejong-9060869530520034756",
         "title": "연서면 고복리 하수관로 정비사업(전기 및 계측제어) 공사 ",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12508,10 +12871,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-8813540458607163184",
+        "id": "g2b-sejong-4984175795053974904",
+        "title": "수질복원센터A1 총인처리설비 섬유여재 교체 및 세척",
+        "organization": "세종특별자치시 상하수도사업소",
+        "start": "2026-09-11T07:03:43.240105",
+        "deadline": "2026-09-29T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722984&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
+    },
+    {
+        "id": "g2b-sejong-7232658146342511764",
         "title": "성제 공공하수처리시설 증설(전기 및 계측제어) 공사",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-02T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12519,10 +12893,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-8362886204768729849",
+        "id": "g2b-sejong-616236914130488163",
         "title": "수질복원센터A1 방류수로#B UV소독설비 보수공사",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12530,10 +12904,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-6419940550679362934",
+        "id": "g2b-sejong-6162708253763945217",
         "title": " 연서면 고복리 하수관로 정비사업 GIS DB 구축용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12541,10 +12915,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-2090118196334625092",
+        "id": "g2b-sejong-4089175938021018894",
         "title": " 연서면 고복리 하수관로 정비 공사",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12552,10 +12926,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-4136900630729549394",
+        "id": "g2b-sejong-8843530754035182247",
         "title": " 연서면 고복리 하수관로 정비사업 시공 및 준공검사 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12563,21 +12937,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-3836410274231875162",
-        "title": "금남면 달전리 급수관로 설치공사 폐기물처리용역",
-        "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673682&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
-    },
-    {
-        "id": "g2b-sejong-5016612033192814059",
+        "id": "g2b-sejong-1226774427802071478",
         "title": " 연서면 고복리 하수관로 정비사업 폐기물 처리용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12585,10 +12948,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-5111367727898809271",
+        "id": "g2b-sejong-4053989696692843740",
+        "title": " 수질복원센터A 폴리머 약품 구매(3차)(단가계약)",
+        "organization": "세종특별자치시 상하수도사업소",
+        "start": "2026-09-11T07:03:43.240105",
+        "deadline": "2026-09-29T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722568&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
+    },
+    {
+        "id": "g2b-sejong-4986094692743055084",
         "title": "수질복원센터A 탁도계 및 DO계측기 구매 교체 ",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:03:55.861862",
+        "start": "2026-09-11T07:03:43.240105",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12596,10 +12970,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-5582312517751388691",
+        "id": "g2b-sejong-5294867630835411501",
         "title": "2026년 하반기 국가하천(금강 좌안) 예초용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:00.591852",
+        "start": "2026-09-11T07:03:46.980585",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12607,10 +12981,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-5021378124187495961",
+        "id": "g2b-sejong-8714028532831069418",
         "title": "2026년 하반기 국가하천(미호강) 예초용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:00.591852",
+        "start": "2026-09-11T07:03:46.980585",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12618,10 +12992,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-8338792842675471761",
+        "id": "g2b-sejong-1806758929300035997",
         "title": "2026년 하반기 국가하천(금강 우안) 예초용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:00.591852",
+        "start": "2026-09-11T07:03:46.980585",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12629,10 +13003,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-4095458014591757872",
+        "id": "g2b-sejong-4504067915954545688",
+        "title": "2027학년도 고운고등학교 교복(동·하복) 2단계 (규격·가격 동시) 입찰 재공고",
+        "organization": "세종특별자치시교육청 고운고등학교",
+        "start": "2026-09-11T07:03:50.782253",
+        "deadline": "2026-08-24T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673895&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 고운고등학교"
+    },
+    {
+        "id": "g2b-sejong-8020821600546744914",
         "title": "2027학년도 보람고등학교 교복(동복,하복) 학교주관 구매",
         "organization": "세종특별자치시교육청 보람고등학교",
-        "start": "2026-09-09T07:04:05.491229",
+        "start": "2026-09-11T07:03:50.783386",
         "deadline": "2026-09-07T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12640,10 +13025,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 보람고등학교"
     },
     {
-        "id": "g2b-sejong-4655596907765451312",
+        "id": "g2b-sejong-8879023596634109066",
         "title": "2027학년도 보람고등학교 교복(동복,하복) 학교주관 구매 재공고",
         "organization": "세종특별자치시교육청 보람고등학교",
-        "start": "2026-09-09T07:04:05.491229",
+        "start": "2026-09-11T07:03:50.783386",
         "deadline": "2026-09-22T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12651,10 +13036,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 보람고등학교"
     },
     {
-        "id": "g2b-sejong-5572641391664674816",
+        "id": "g2b-sejong-7037937814973554277",
         "title": "2026년 방재시설 구조물 보수공사",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:09.901840",
+        "start": "2026-09-11T07:03:54.815586",
         "deadline": "2026-08-19T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12662,10 +13047,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-8693498198589023880",
+        "id": "g2b-sejong-4341790533492568393",
         "title": "세종스마트국가산단 2공구 가이식 및 벌목공사",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:04:14.133974",
+        "start": "2026-09-11T07:03:58.712943",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12673,10 +13058,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-6884304216742388940",
+        "id": "g2b-sejong-8387763466121960860",
         "title": "(재공고)2026년 단체 운전자 보험 가입 입찰공고",
         "organization": "세종도시교통공사",
-        "start": "2026-09-09T07:04:14.133974",
+        "start": "2026-09-11T07:03:58.712943",
         "deadline": "2026-08-20T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12684,10 +13069,43 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종도시교통공사"
     },
     {
-        "id": "g2b-sejong-4989454912971234158",
+        "id": "g2b-sejong-977375726724415291",
+        "title": "2026년 산불예방숲가꾸기사업",
+        "organization": "세종특별자치시산림조합",
+        "start": "2026-09-11T07:03:58.712943",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723067&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시산림조합"
+    },
+    {
+        "id": "g2b-sejong-4164794303231370832",
+        "title": "2026년 조림지가꾸기(어린,덩굴)사업",
+        "organization": "세종특별자치시산림조합",
+        "start": "2026-09-11T07:03:58.712943",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722967&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시산림조합"
+    },
+    {
+        "id": "g2b-sejong-6630667174555150921",
+        "title": "2026년 큰나무가꾸기사업",
+        "organization": "세종특별자치시산림조합",
+        "start": "2026-09-11T07:03:58.712943",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723112&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시산림조합"
+    },
+    {
+        "id": "g2b-sejong-5546570164313635311",
         "title": "2027학년도 해밀중학교 교복(동복,하복) 학교주관구매 입찰 재공고",
         "organization": "세종특별자치시교육청 해밀중학교",
-        "start": "2026-09-09T07:04:14.135174",
+        "start": "2026-09-11T07:03:58.712943",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12695,10 +13113,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 해밀중학교"
     },
     {
-        "id": "g2b-sejong-3340032489743744608",
+        "id": "g2b-sejong-6040931747205198023",
         "title": "2027학년도 해밀고등학교 교복(동복,하복) 학교주관구매 입찰 재공고",
         "organization": "세종특별자치시교육청 해밀고등학교",
-        "start": "2026-09-09T07:04:14.135174",
+        "start": "2026-09-11T07:03:58.712943",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12706,10 +13124,32 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 해밀고등학교"
     },
     {
-        "id": "g2b-sejong-6947330248473151247",
+        "id": "g2b-sejong-7755449783731711768",
+        "title": "2026년도 지방공무원 공무국외연수 위탁용역",
+        "organization": "세종특별자치시교육청",
+        "start": "2026-09-11T07:04:02.977743",
+        "deadline": "2026-09-08T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701977&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
+    },
+    {
+        "id": "g2b-sejong-7433119013901285610",
+        "title": "2026년도 지방공무원 공무국외연수 위탁용역(정정공고)",
+        "organization": "세종특별자치시교육청",
+        "start": "2026-09-11T07:04:02.977743",
+        "deadline": "2026-09-14T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01701977&bidPbancOrd=001",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청"
+    },
+    {
+        "id": "g2b-sejong-221506121673201641",
         "title": "2026년 2학기 세종특별자치시교육청교육문화원 학생체험활동프로그램 운영 차량지원 용역",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육문화원",
-        "start": "2026-09-09T07:04:31.586895",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12717,10 +13157,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청교육문화원"
     },
     {
-        "id": "g2b-sejong-8832148722200180012",
+        "id": "g2b-sejong-7164225239596694923",
         "title": "2026년 2학기 세종특별자치시교육청교육문화원 학생체험활동프로그램 운영 차량지원 용역 재공고",
         "organization": "세종특별자치시교육청 세종특별자치시교육청교육문화원",
-        "start": "2026-09-09T07:04:31.586895",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12728,10 +13168,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청교육문화원"
     },
     {
-        "id": "g2b-sejong-3368752370146510290",
+        "id": "g2b-sejong-3865101524089388721",
         "title": "2027학년도 두루중학교 교복(동,하복) 학교 주관구매 ",
         "organization": "세종특별자치시교육청 두루중학교",
-        "start": "2026-09-09T07:04:31.586895",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12739,10 +13179,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 두루중학교"
     },
     {
-        "id": "g2b-sejong-7059815193286373134",
+        "id": "g2b-sejong-8695680265360764080",
         "title": "2026학년도 첨단과학실 활용, 운영을 위한 기자재 구매  2인 이상 견적제출",
         "organization": "세종특별자치시교육청 세종캠퍼스고등학교",
-        "start": "2026-09-09T07:04:31.586895",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-09-03T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12750,10 +13190,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종캠퍼스고등학교"
     },
     {
-        "id": "g2b-sejong-8490781890459210094",
+        "id": "g2b-sejong-5741429715983182581",
         "title": "[긴급]세종도원초등학교 위탁급식(도시락) 납품업체 선정 공고(수정)",
         "organization": "세종특별자치시교육청 세종도원초등학교",
-        "start": "2026-09-09T07:04:31.587402",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12761,21 +13201,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종도원초등학교"
     },
     {
-        "id": "g2b-sejong-6636402729420092247",
-        "title": "세종도원초등학교 위탁급식(도시락) 납품업체 선정",
-        "organization": "세종특별자치시교육청 세종도원초등학교",
-        "start": "2026-09-09T07:04:31.587402",
-        "deadline": "2026-08-10T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01658382&bidPbancOrd=001",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종도원초등학교"
-    },
-    {
-        "id": "g2b-sejong-7549414702796583059",
+        "id": "g2b-sejong-770535383085044356",
         "title": "[긴급]세종도원초등학교 위탁급식(도시락) 납품업체 선정(수정)",
         "organization": "세종특별자치시교육청 세종도원초등학교",
-        "start": "2026-09-09T07:04:31.587402",
+        "start": "2026-09-11T07:04:15.844770",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12783,10 +13212,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종도원초등학교"
     },
     {
-        "id": "g2b-sejong-482662824200452751",
+        "id": "g2b-sejong-153207873494561782",
         "title": "(재공고) 2027학년도 글벗중학교 교복(동·하복) 학교주관구매 입찰 공고",
         "organization": "세종특별자치시교육청 글벗중학교",
-        "start": "2026-09-09T07:04:36.381374",
+        "start": "2026-09-11T07:04:20.570513",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12794,10 +13223,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 글벗중학교"
     },
     {
-        "id": "g2b-sejong-1651248226528122244",
+        "id": "g2b-sejong-806231649831010688",
         "title": "2027학년도 연서중학교 교복(동복,하복) 학교주관구매 2단계 입찰 공고",
         "organization": "세종특별자치시교육청 연서중학교",
-        "start": "2026-09-09T07:04:36.381374",
+        "start": "2026-09-11T07:04:20.571718",
         "deadline": "2026-09-11T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12805,10 +13234,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 연서중학교"
     },
     {
-        "id": "g2b-sejong-3351030346938360540",
+        "id": "g2b-sejong-1380735943746902327",
         "title": "산울동 복컴 어린이집 신축 리모델링 공사 설계 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:41.296252",
+        "start": "2026-09-11T07:04:24.506118",
         "deadline": "2026-08-20T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12816,10 +13245,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-3271177423936234555",
+        "id": "g2b-sejong-309910233815264231",
         "title": "장군면 용암1리 취약지역 생활여건 개조사업 휴먼케어 및 주민역량강화 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:04:41.296252",
+        "start": "2026-09-11T07:04:24.506622",
         "deadline": "2026-08-25T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12827,10 +13256,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-843077101831111970",
+        "id": "g2b-sejong-4171790560763802172",
+        "title": "세종북부소방서 소방청사 환경 개선 공사 2인 이상 견적제출 수의계약 안내 공고",
+        "organization": "세종특별자치시 세종북부소방서",
+        "start": "2026-09-11T07:04:24.506622",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718394&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 세종북부소방서"
+    },
+    {
+        "id": "g2b-sejong-4736661291796100064",
         "title": "2027학년도 새롬고등학교 교복 학교주관구매 입찰 공고",
         "organization": "세종특별자치시교육청 새롬고등학교",
-        "start": "2026-09-09T07:04:49.660117",
+        "start": "2026-09-11T07:04:32.855514",
         "deadline": "2026-09-17T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12838,10 +13278,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 새롬고등학교"
     },
     {
-        "id": "g2b-sejong-4085318979120296662",
+        "id": "g2b-sejong-1207326740823351634",
         "title": "「더한글 팝업 전시」운영 대행 용역(재공고)",
         "organization": "재단법인세종시문화관광재단",
-        "start": "2026-09-09T07:04:49.661624",
+        "start": "2026-09-11T07:04:32.856520",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12849,10 +13289,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 재단법인세종시문화관광재단"
     },
     {
-        "id": "g2b-sejong-2863311978514971326",
+        "id": "g2b-sejong-7448697200494288355",
         "title": "2026 한글런 축하공연 한글 드론 라이트쇼 운영 용역",
         "organization": "재단법인세종시문화관광재단",
-        "start": "2026-09-09T07:04:49.661624",
+        "start": "2026-09-11T07:04:32.856520",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12860,21 +13300,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 재단법인세종시문화관광재단"
     },
     {
-        "id": "g2b-sejong-1931510402294818200",
-        "title": "「더한글 팝업 전시」운영 대행 용역",
-        "organization": "재단법인세종시문화관광재단",
-        "start": "2026-09-09T07:04:49.661624",
-        "deadline": "2026-09-01T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675900&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 재단법인세종시문화관광재단"
-    },
-    {
-        "id": "g2b-sejong-12043659086163452",
+        "id": "g2b-sejong-6974865736896628196",
         "title": "2027학년도 조치원중학교 교복(동복·하복) 학교주관구매 입찰 재공고",
         "organization": "세종특별자치시교육청 조치원중학교",
-        "start": "2026-09-09T07:04:49.661624",
+        "start": "2026-09-11T07:04:32.856520",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12882,10 +13311,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 조치원중학교"
     },
     {
-        "id": "g2b-sejong-937408013986343448",
+        "id": "g2b-sejong-8590647950481097369",
         "title": "2027학년도 부강중학교 교복 학교주관구매",
         "organization": "세종특별자치시교육청 부강중학교",
-        "start": "2026-09-09T07:04:53.488585",
+        "start": "2026-09-11T07:04:36.939765",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12893,10 +13322,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 부강중학교"
     },
     {
-        "id": "g2b-sejong-43868432490911309",
+        "id": "g2b-sejong-1151038365067502582",
+        "title": "2027학년도 한솔고등학교 교복(동·하복)  2단계(규격·가격동시)입찰 재공고",
+        "organization": "세종특별자치시교육청 한솔고등학교",
+        "start": "2026-09-11T07:04:36.940983",
+        "deadline": "2026-09-08T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01700884&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 한솔고등학교"
+    },
+    {
+        "id": "g2b-sejong-6593468449287566845",
         "title": "부강면 부강8리 급수관로 설치공사 GIS DB 구축 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.866090",
         "deadline": "2026-08-27T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12904,10 +13344,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-3696997044362536341",
+        "id": "g2b-sejong-5494894502715150965",
         "title": "금남면 달전리 급수관로 설치공사 GIS DB 구축 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.866090",
         "deadline": "2026-08-27T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12915,10 +13355,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-8150576248845680473",
+        "id": "g2b-sejong-4589162996087178141",
         "title": "2026년 유량계 교정검사 용역",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.866090",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12926,10 +13366,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-3048535602022375172",
+        "id": "g2b-sejong-368233375079280348",
+        "title": "상수도 시설물 유지보수 단가계약",
+        "organization": "세종특별자치시 상하수도사업소",
+        "start": "2026-09-11T07:04:44.866090",
+        "deadline": "2026-09-16T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722112&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
+    },
+    {
+        "id": "g2b-sejong-6314563984102141361",
         "title": "2026년 세종시 일원 누수탐사 용역(2차)",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.866090",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12937,10 +13388,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-7954678502714545986",
+        "id": "g2b-sejong-201968093259827994",
         "title": " ‘26년 상수도 누수탐사 보수공사(2차)",
         "organization": "세종특별자치시 상하수도사업소",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.866090",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12948,10 +13399,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시 상하수도사업소"
     },
     {
-        "id": "g2b-sejong-3003339033031734874",
+        "id": "g2b-sejong-6086187221589782321",
         "title": "[재공고]2027학년도 어진중학교 교복(동복,하복) 학교주관고매 입찰공고",
         "organization": "세종특별자치시교육청 어진중학교",
-        "start": "2026-09-09T07:05:01.922268",
+        "start": "2026-09-11T07:04:44.867091",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12959,10 +13410,32 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 어진중학교"
     },
     {
-        "id": "g2b-sejong-7478569614182685760",
+        "id": "g2b-sejong-3121347152322608577",
+        "title": "2027학년도 한솔중학교 교복 학교주관구매 입찰 공고",
+        "organization": "세종특별자치시교육청 한솔중학교",
+        "start": "2026-09-11T07:04:44.867091",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01723871&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 한솔중학교"
+    },
+    {
+        "id": "g2b-sejong-1624555442116733090",
+        "title": "명학산단 입구 등 회전교차로 조성·개선공사 폐기물처리용역",
+        "organization": "세종특별자치시",
+        "start": "2026-09-11T07:04:48.703152",
+        "deadline": "2026-09-15T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722001&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
+    },
+    {
+        "id": "g2b-sejong-3757782269218914439",
         "title": " 세종특별자치시 공용차량 임차 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:06.200806",
+        "start": "2026-09-11T07:04:48.703152",
         "deadline": "2026-09-07T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12970,10 +13443,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-5034586312379344097",
+        "id": "g2b-sejong-2705307945812548878",
         "title": "세종특별자치시 공용차량 임차용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:06.200806",
+        "start": "2026-09-11T07:04:48.703152",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -12981,21 +13454,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-606821050503335525",
-        "title": " 2026년 제3종시설물 지정을 위한 실태조사 용역",
-        "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:06.200806",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01675256&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
-    },
-    {
-        "id": "g2b-sejong-7973547257025918188",
+        "id": "g2b-sejong-2002907169673073595",
         "title": "2027학년도 도담중학교 교복 학교주관구매",
         "organization": "세종특별자치시교육청 도담중학교",
-        "start": "2026-09-09T07:05:06.200806",
+        "start": "2026-09-11T07:04:48.704152",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13003,10 +13465,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 도담중학교"
     },
     {
-        "id": "g2b-sejong-4921466777914158824",
+        "id": "g2b-sejong-1908584673027316388",
         "title": "2027학년도 도담중학교 교복 학교주관구매 재공고",
         "organization": "세종특별자치시교육청 도담중학교",
-        "start": "2026-09-09T07:05:06.200806",
+        "start": "2026-09-11T07:04:48.704152",
         "deadline": "2026-09-16T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13014,10 +13476,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 도담중학교"
     },
     {
-        "id": "g2b-sejong-5817547329992735954",
+        "id": "g2b-sejong-8551215466997460367",
+        "title": "2027학년도 소담고등학교 교복(동복, 하복(생활복)) 학교주관구매 입찰 공고",
+        "organization": "세종특별자치시교육청 소담고등학교",
+        "start": "2026-09-11T07:04:48.704152",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01718208&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 소담고등학교"
+    },
+    {
+        "id": "g2b-sejong-4467913299798018597",
         "title": "2026 세종과학집현전 운영 용역",
         "organization": "재단법인 세종테크노파크",
-        "start": "2026-09-09T07:05:10.211813",
+        "start": "2026-09-11T07:04:48.704152",
         "deadline": "2026-08-25T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13025,10 +13498,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 재단법인 세종테크노파크"
     },
     {
-        "id": "g2b-sejong-6031582990260207261",
+        "id": "g2b-sejong-7583848657394175453",
         "title": "2026년 세종기업현황 및 수요조사ㆍ분석(모니터링 기업군) 용역",
         "organization": "재단법인 세종테크노파크",
-        "start": "2026-09-09T07:05:10.211813",
+        "start": "2026-09-11T07:04:48.704152",
         "deadline": "2026-09-11T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13036,10 +13509,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 재단법인 세종테크노파크"
     },
     {
-        "id": "g2b-sejong-867464315884509168",
+        "id": "g2b-sejong-2589602855881655219",
+        "title": "세종시 콘텐츠산업 현황분석 및 지원체계 구축방안 연구용역",
+        "organization": "재단법인 세종테크노파크",
+        "start": "2026-09-11T07:04:48.704152",
+        "deadline": "2026-09-21T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01722790&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 재단법인 세종테크노파크"
+    },
+    {
+        "id": "g2b-sejong-6181800905227953413",
         "title": "장애인리프트셔틀버스 휠에어리프트 설치 및 구조변경 수의계약 안내 재공고",
         "organization": "사단법인세종특별자치시장애인단체연합회",
-        "start": "2026-09-09T07:05:15.172022",
+        "start": "2026-09-11T07:04:56.952874",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13047,10 +13531,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 사단법인세종특별자치시장애인단체연합회"
     },
     {
-        "id": "g2b-sejong-5623371872135963355",
+        "id": "g2b-sejong-4820829945630129940",
         "title": "장애인리프트셔틀버스 휠에어리프트 설치 및 구조변경 수의계약 안내 재공고",
         "organization": "사단법인세종특별자치시장애인단체연합회",
-        "start": "2026-09-09T07:05:15.172022",
+        "start": "2026-09-11T07:04:56.952874",
         "deadline": "2026-09-08T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13058,10 +13542,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 사단법인세종특별자치시장애인단체연합회"
     },
     {
-        "id": "g2b-sejong-4665697892619298935",
+        "id": "g2b-sejong-6686835727088623015",
         "title": "장애인리프트셔틀버스 휠에어리프트 설치 및 구조변경 수의계약 안내 공고",
         "organization": "사단법인세종특별자치시장애인단체연합회",
-        "start": "2026-09-09T07:05:15.172022",
+        "start": "2026-09-11T07:04:56.952874",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13069,10 +13553,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 사단법인세종특별자치시장애인단체연합회"
     },
     {
-        "id": "g2b-sejong-5164765048764199643",
+        "id": "g2b-sejong-1527689556675510857",
         "title": "2027학년도 종촌중학교 교복 학교주관구매 규격가격동시 입찰 재공고",
         "organization": "세종특별자치시교육청 종촌중학교",
-        "start": "2026-09-09T07:05:15.172022",
+        "start": "2026-09-11T07:04:56.953390",
         "deadline": "2026-09-17T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13080,10 +13564,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 종촌중학교"
     },
     {
-        "id": "g2b-sejong-3151616238142435459",
+        "id": "g2b-sejong-2168439292807116791",
         "title": "행정중심복합도시 6-3L2BL 아파트 소방시설공사 소방용방재장치 제작 및 납품",
         "organization": "한국토지주택공사 세종시사업본부",
-        "start": "2026-09-09T07:05:19.419853",
+        "start": "2026-09-11T07:05:01.147188",
         "deadline": "2026-09-09T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13091,10 +13575,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 한국토지주택공사 세종시사업본부"
     },
     {
-        "id": "g2b-sejong-2101113125496564226",
+        "id": "g2b-sejong-6972426809327798994",
         "title": "2026년 레벨4 자율주행 시스템 고도화 용역 중앙조달 요청",
         "organization": "재단법인 세종테크노파크",
-        "start": "2026-09-09T07:05:19.419853",
+        "start": "2026-09-11T07:05:01.147188",
         "deadline": "2026-09-23T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13102,10 +13586,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 재단법인 세종테크노파크"
     },
     {
-        "id": "g2b-sejong-3759811827740168560",
+        "id": "g2b-sejong-4249219534790032016",
         "title": "2026년 하반기 천장형 공기순환기 필터 교체",
         "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
-        "start": "2026-09-09T07:05:25.675504",
+        "start": "2026-09-11T07:05:01.148188",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13113,10 +13597,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
     },
     {
-        "id": "g2b-sejong-34425711436695591",
+        "id": "g2b-sejong-4151490876283468141",
         "title": "2026년 하반기 천장형 공기순환기 필터 교체",
         "organization": "세종특별자치시교육청 세종특별자치시교육청학교지원본부",
-        "start": "2026-09-09T07:05:25.675504",
+        "start": "2026-09-11T07:05:01.148188",
         "deadline": "2026-09-10T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13124,10 +13608,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종특별자치시교육청학교지원본부"
     },
     {
-        "id": "g2b-sejong-465278102614108304",
+        "id": "g2b-sejong-9042014492048908404",
         "title": "행정중심복합도시 5-2L3BL 공동주택 전기공사 25공구 분전반 제작 및 납품",
         "organization": "한국토지주택공사 세종시사업본부",
-        "start": "2026-09-09T07:05:25.675504",
+        "start": "2026-09-11T07:05:01.148188",
         "deadline": "2026-09-02T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13135,10 +13619,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 한국토지주택공사 세종시사업본부"
     },
     {
-        "id": "g2b-sejong-2279642689728086256",
+        "id": "g2b-sejong-2055098962401631026",
         "title": "세종특별자치시교육청평생교육원 통합정보시스템 고도화를 위한 ISMP 수립 용역 ",
         "organization": "세종특별자치시교육청평생교육원",
-        "start": "2026-09-09T07:05:25.675504",
+        "start": "2026-09-11T07:05:05.597298",
         "deadline": "2026-09-14T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13146,10 +13630,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청평생교육원"
     },
     {
-        "id": "g2b-sejong-6890106295594937697",
+        "id": "g2b-sejong-7226958232220748343",
         "title": "2026년도 인공지능디지털 체험환경 조성 및 교육 프로그램 운영 용역 ",
         "organization": "세종특별자치시교육청평생교육원",
-        "start": "2026-09-09T07:05:25.675504",
+        "start": "2026-09-11T07:05:05.597298",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13157,10 +13641,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청평생교육원"
     },
     {
-        "id": "g2b-sejong-1500729985510825295",
+        "id": "g2b-sejong-3436733041284604393",
         "title": "2027학년도  산울중학교 교복(동복, 하복) 학교주관 구매 입찰 재공고",
         "organization": "세종특별자치시교육청 산울중학교",
-        "start": "2026-09-09T07:05:25.676506",
+        "start": "2026-09-11T07:05:05.597298",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13168,10 +13652,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 산울중학교"
     },
     {
-        "id": "g2b-sejong-78310140503956369",
+        "id": "g2b-sejong-5450317924669671382",
         "title": "2027학년도 다정중학교 교복(동,하복) 학교주관구매 입찰 공고",
         "organization": "세종특별자치시교육청 다정중학교",
-        "start": "2026-09-09T07:05:25.676506",
+        "start": "2026-09-11T07:05:05.597298",
         "deadline": "2026-09-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13179,10 +13663,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 다정중학교"
     },
     {
-        "id": "g2b-sejong-4613381153734876476",
+        "id": "g2b-sejong-3899191353199681937",
         "title": "덕현천 자연재해위험개선 정비사업 관급자재_교량거더(비룡교)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:34.124361",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-03T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13190,10 +13674,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-9168774233057216617",
+        "id": "g2b-sejong-6702154312714708995",
         "title": "세종단지사업1팀_들목교 및 6생활권 외곽순환도로 건설공사 아스팔트콘크리트 구매",
         "organization": "한국토지주택공사 세종시사업본부",
-        "start": "2026-09-09T07:05:34.124361",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-20T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13201,10 +13685,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 한국토지주택공사 세종시사업본부"
     },
     {
-        "id": "g2b-sejong-160337043837383833",
+        "id": "g2b-sejong-2396471169744323004",
         "title": "2027학년도 세종여자고등학교 교복(동복,하복) 학교주관구매 재공고 ",
         "organization": "세종특별자치시교육청 세종여자고등학교",
-        "start": "2026-09-09T07:05:38.584758",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-17T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13212,10 +13696,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종여자고등학교"
     },
     {
-        "id": "g2b-sejong-2399275401593226617",
+        "id": "g2b-sejong-3080220960357794950",
         "title": "2027학년도 세종여자고등학교 교복(동복,하복) 학교주관구매 ",
         "organization": "세종특별자치시교육청 세종여자고등학교",
-        "start": "2026-09-09T07:05:38.584758",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13223,21 +13707,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종여자고등학교"
     },
     {
-        "id": "g2b-sejong-2638990941187523645",
-        "title": "미래산단 기반시설(옹벽) 긴급안전점검 용역",
-        "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.584758",
-        "deadline": "2026-08-14T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01673463&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
-    },
-    {
-        "id": "g2b-sejong-5341232954263992285",
+        "id": "g2b-sejong-5737114037460776713",
         "title": "초려전집 교정교열 및 영인본 제작 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.584758",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13245,10 +13718,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-9190393607497312524",
+        "id": "g2b-sejong-668865210302906150",
         "title": "2026년 하반기 3종 교량(송성교, 송성교(리도214호), 송성세월교) 정밀안전진단 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13256,10 +13729,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-8019912680788100484",
+        "id": "g2b-sejong-5886819811887379111",
         "title": "2026년 하반기 달전교 정밀안전진단 및 내진성능평가 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13267,10 +13740,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-891287883151281197",
+        "id": "g2b-sejong-6948305231009251408",
         "title": "2026년 하반기 3종 교량(신방교, 전의교) 정밀안전진단 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13278,10 +13751,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-2981817069085792610",
+        "id": "g2b-sejong-3244719965330092313",
         "title": "2026년 하반기 3종 교량(도암교, 발산교) 정밀안전진단 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13289,10 +13762,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-405950390647428824",
+        "id": "g2b-sejong-7679518291036532036",
         "title": "조치원 및 부강 산업단지 공공시설용지 예초 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13300,10 +13773,21 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-7289482728226269769",
+        "id": "g2b-sejong-2317562379489524179",
+        "title": "세종 스마트 국가산단 공공폐수처리시설 건설공사 기본 및 실시설계 용역",
+        "organization": "세종특별자치시",
+        "start": "2026-09-11T07:05:15.546066",
+        "deadline": "2026-09-17T00:00:00",
+        "category": "sejong",
+        "source": "gov",
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01719855&bidPbancOrd=000",
+        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
+    },
+    {
+        "id": "g2b-sejong-4591504253803584147",
         "title": "2026년 하반기 미래지하차도 정밀안전진단 및 내진성능평가 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13311,10 +13795,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-3575435302465326115",
+        "id": "g2b-sejong-7175511997637315515",
         "title": "2026년 상권별 공동마케팅 소비촉진 행사 대행 용역(긴급)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13322,10 +13806,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-6422955161988366653",
+        "id": "g2b-sejong-5681543665085125817",
         "title": "장욱진 문화마을 페스타 대행 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-31T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13333,10 +13817,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-6406798021257009429",
+        "id": "g2b-sejong-7512807779106199843",
         "title": "월인천강지곡 영인본 제작 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-27T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13344,10 +13828,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-5427505198698978291",
+        "id": "g2b-sejong-6926559492781276493",
         "title": "세종 스마트 국가산단 완충저류시설 건설공사 기본 및 실시설계 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13355,10 +13839,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-2871063569340197869",
+        "id": "g2b-sejong-4461415923687579238",
         "title": "2026년 하반기 3종 교량(금사교, 달전교(시도25호선), 화방교) 정밀안전진단 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-26T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13366,10 +13850,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-6862664606662408584",
+        "id": "g2b-sejong-3779060474434499734",
         "title": "산업단지(첨단, 전의) 공공시설용지 예초 용역",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-09-02T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13377,10 +13861,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-666139848694164786",
+        "id": "g2b-sejong-647254387630225813",
         "title": "2026년 상권별 공동마케팅 소비촉진 행사 대행 용역(긴급)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:38.585763",
+        "start": "2026-09-11T07:05:15.546066",
         "deadline": "2026-08-24T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13388,10 +13872,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-2420695976835564250",
+        "id": "g2b-sejong-8587712253572208510",
         "title": "2027학년도 다정고등학교 교복(동·하복) 학교주관 구매",
         "organization": "세종특별자치시교육청 다정고등학교",
-        "start": "2026-09-09T07:05:43.060276",
+        "start": "2026-09-11T07:05:19.948336",
         "deadline": "2026-09-02T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13399,10 +13883,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 다정고등학교"
     },
     {
-        "id": "g2b-sejong-225296958775358758",
+        "id": "g2b-sejong-496130540828445078",
         "title": "2027학년도 다정고등학교 교복(동·하복) 학교주관 구매 재공고",
         "organization": "세종특별자치시교육청 다정고등학교",
-        "start": "2026-09-09T07:05:43.060276",
+        "start": "2026-09-11T07:05:19.948336",
         "deadline": "2026-09-18T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13410,10 +13894,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 다정고등학교"
     },
     {
-        "id": "g2b-sejong-7363296562439019308",
+        "id": "g2b-sejong-2858212303628817042",
         "title": "2027학년도 세종예술고등학교 교복 학교주관구매(규격가격 동시) 입찰 재공고",
         "organization": "세종특별자치시교육청 세종예술고등학교",
-        "start": "2026-09-09T07:05:43.060276",
+        "start": "2026-09-11T07:05:24.425430",
         "deadline": "2026-09-15T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13421,10 +13905,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종예술고등학교"
     },
     {
-        "id": "g2b-sejong-3526680029752338219",
+        "id": "g2b-sejong-7602486903587010185",
         "title": "2027학년도 세종예술고등학교 교복 학교주관구매(규격가격 동시) 입찰 공고",
         "organization": "세종특별자치시교육청 세종예술고등학교",
-        "start": "2026-09-09T07:05:43.060276",
+        "start": "2026-09-11T07:05:24.425430",
         "deadline": "2026-09-01T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13432,10 +13916,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 세종예술고등학교"
     },
     {
-        "id": "g2b-sejong-3355211687788456926",
+        "id": "g2b-sejong-1944005442496891613",
         "title": "2027학년도 반곡중학교 교복(동복,하복) 학교주관 구매 입찰 공고",
         "organization": "세종특별자치시교육청 반곡중학교",
-        "start": "2026-09-09T07:05:43.060276",
+        "start": "2026-09-11T07:05:24.425430",
         "deadline": "2026-09-04T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13443,10 +13927,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 반곡중학교"
     },
     {
-        "id": "g2b-sejong-5593684163680359538",
+        "id": "g2b-sejong-6076491445278647892",
         "title": "2027학년도 아름고 교복 학교주관 구매 ",
         "organization": "세종특별자치시교육청 아름고등학교",
-        "start": "2026-09-09T07:05:43.061780",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-09-18T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13454,21 +13938,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 아름고등학교"
     },
     {
-        "id": "g2b-sejong-6873822789583175049",
-        "title": "2027학년도 아름고 교복 학교주관 구매 ",
-        "organization": "세종특별자치시교육청 아름고등학교",
-        "start": "2026-09-09T07:05:43.061780",
-        "deadline": "2026-09-01T00:00:00",
-        "category": "sejong",
-        "source": "gov",
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01669831&bidPbancOrd=000",
-        "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시교육청 아름고등학교"
-    },
-    {
-        "id": "g2b-sejong-2713307376385454249",
+        "id": "g2b-sejong-4138348563383168982",
         "title": "2026년 교통사고 잦은 곳 개선사업(전기)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13476,10 +13949,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-7215299003144475485",
+        "id": "g2b-sejong-8578245220946999781",
         "title": "혼잡교차로(국도1호, 수목원로)구조개선사업(토목공사)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13487,10 +13960,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-3732704802863321560",
+        "id": "g2b-sejong-4379543663614137352",
         "title": "2026년 교통사고 잦은 곳 개선사업(토목)",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13498,10 +13971,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-5799171997860263473",
+        "id": "g2b-sejong-4162912530785863062",
         "title": "은용지구 농업기반시설(관정) 설치공사",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-20T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13509,10 +13982,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-1521261195877231824",
+        "id": "g2b-sejong-5326762782402933408",
         "title": "평기1지구 농업기반시설(관정) 설치공사",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-28T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13520,10 +13993,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-1581248225323787146",
+        "id": "g2b-sejong-4071833232055233739",
         "title": "평기3지구 농업기반시설(관정) 설치공사",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-21T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13531,10 +14004,10 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "g2b-sejong-7689979377003343304",
+        "id": "g2b-sejong-7688703382995641686",
         "title": "은용지구 농업기반시설(관정) 설치공사",
         "organization": "세종특별자치시",
-        "start": "2026-09-09T07:05:47.299686",
+        "start": "2026-09-11T07:05:24.426934",
         "deadline": "2026-08-20T00:00:00",
         "category": "sejong",
         "source": "gov",
@@ -13542,22 +14015,22 @@ const bidEvents = [
         "description": "세종시 산하기관 입찰 | 수요기관: 세종특별자치시"
     },
     {
-        "id": "global-test-1788905147-1",
+        "id": "global-test-1789077924-1",
         "title": "[Mock] Global Fintech Market Entry & Consumer Behavior Study",
         "organization": "Confidential (via Upwork)",
-        "start": "2026-09-10T07:05:47.300685",
-        "deadline": "2026-09-14T07:05:47.300685",
+        "start": "2026-09-12T07:05:24.429175",
+        "deadline": "2026-09-16T07:05:24.429175",
         "category": "market",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/market-research/",
         "description": "We are a European FinTech startup expanding into South Korea. We need a local market research agency to conduct comprehensive consumer behavior analysis and focus group interviews (FGI)."
     },
     {
-        "id": "global-test-1788905147-2",
+        "id": "global-test-1789077924-2",
         "title": "[Mock] E-commerce Platform UX Research and Usability Testing",
         "organization": "Global E-Com Inc.",
-        "start": "2026-09-12T07:05:47.300685",
-        "deadline": "2026-09-19T07:05:47.300685",
+        "start": "2026-09-14T07:05:24.429175",
+        "deadline": "2026-09-21T07:05:24.429175",
         "category": "user",
         "source": "global",
         "url": "https://www.upwork.com/freelance-jobs/user-research/",
