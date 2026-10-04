@@ -3195,3 +3195,11 @@ Running Automatic Bid Collection at 2026-10-02  7:00:00.34
 2026-10-02 07:00:00,819 - KONEPS - INFO - 성공적으로 2개의 항목을 C:\Users\ggamy\OneDrive\Desktop\zBidInfo\event_data.js 에 저장했습니다.
 2026-10-02 07:00:00,838 - KONEPS - INFO - SQLite DB에 2개의 새로운 입찰 정보가 저장되었습니다.
 2026-10-02 07:00:00,838 - KONEPS - INFO - GitHub Pages 자동 배포(Push)를 시작합니다...
+[main bd9b8ce] Auto-deploy update: 2026-10-02 07:00:01
+ 3 files changed, 39 insertions(+), 7 deletions(-)
+2026-10-02 07:00:04,839 - KONEPS - INFO - GitHub 원격 저장소에 성공적으로 푸시(배포) 되었습니다. (약 1분 뒤 웹사이트 적용)
+2026-10-02 07:00:04,839 - KONEPS - INFO - 모든 업데이트 작업이 완료되었습니다. Calendar를 확인하세요.
+2026-10-02 07:00:07,203 - KONEPS - INFO - 업데이트 결과 보고 이메일이 전송되었습니다.
+이메일 발송 성공!
+Finished at 2026-10-02  7:00:07.24 
+Running Automatic Bid Collection at 2026-10-05  7:00:00.36 
